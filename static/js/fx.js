@@ -174,4 +174,24 @@
   window.addEventListener('pageshow', function () {
     Array.prototype.slice.call(document.querySelectorAll('.btn[aria-busy="true"]')).forEach(function (b) { b.removeAttribute('aria-busy'); });
   });
+
+  // ===== 배너: 마우스를 움직이면 떠다니는 카드·별이 깊이에 따라 다르게 움직인다 =====
+  var hero = document.querySelector('[data-hero]');
+  if (hero && finePointer && !reduce) {
+    var hf = 0;
+    hero.addEventListener('pointermove', function (e) {
+      var r = hero.getBoundingClientRect();
+      var x = ((e.clientX - r.left) / r.width - 0.5) * 2;
+      var y = ((e.clientY - r.top) / r.height - 0.5) * 2;
+      cancelAnimationFrame(hf);
+      hf = requestAnimationFrame(function () {
+        hero.style.setProperty('--mx', (-x).toFixed(3));
+        hero.style.setProperty('--my', (-y).toFixed(3));
+      });
+    }, { passive: true });
+    hero.addEventListener('pointerleave', function () {
+      hero.style.setProperty('--mx', '0');
+      hero.style.setProperty('--my', '0');
+    });
+  }
 })();

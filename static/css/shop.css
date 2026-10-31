@@ -1762,3 +1762,76 @@ body.actions-in-view .cartbar.show { transform: translateY(120%); }
   .cat-tile-go svg { width: 15px; height: 15px; }
 }
 .cat-tab, body.is-home .cat-tab { flex: none; }
+
+/* =====================================================================
+   배너 v3: 밝은 하늘 배경 + 가운데 로고 + 아래에서 카드가 터져 나오는 개봉 장면 (Codex 실사)
+   떠다니는 카드·별은 마우스를 따라 깊이감 있게 움직이고(마우스 화면), 그 외에는 천천히 둥실거림
+   ===================================================================== */
+.py-hero.v3 { --mx: 0; --my: 0; overflow: hidden; color: var(--night); background: #cdeef7; }
+.py-hero.v3::before { content: none; }
+.py-hero.v3 .py-hero-bg { background: #cdeef7 url(../img/hero-v3-1920.webp) center bottom / cover no-repeat; transform-origin: 50% 100%; }
+.py-hero.v3 .py-hero-in { min-height: clamp(620px, 82svh, 780px); align-content: start; justify-items: center; text-align: center; gap: 18px; padding: clamp(44px, 6vw, 72px) var(--gutter) clamp(260px, 26vw, 360px); }
+.py-hero.v3 .py-hero-copy { justify-items: center; max-width: 720px; }
+.py-hero.v3 .py-hero-logo { margin: 0; }
+.py-hero.v3 .py-hero-logo img { width: clamp(280px, 34vw, 520px); filter: drop-shadow(4px 0 0 #fff) drop-shadow(-4px 0 0 #fff) drop-shadow(0 4px 0 #fff) drop-shadow(0 -4px 0 #fff) drop-shadow(0 18px 26px rgba(15, 30, 69, .28)); transform-origin: 50% 70%; }
+.py-hero.v3 .py-hero-lead { color: var(--night); margin-top: clamp(14px, 2vw, 22px); font-size: clamp(26px, 3vw, 40px); }
+.py-hero.v3 .py-hero-sub { color: #2c416f; font-weight: 600; }
+.py-hero.v3 .py-hero-actions { justify-content: center; margin-top: 22px; }
+.py-hero.v3 .py-btn.primary { box-shadow: inset 0 -4px 0 rgba(15, 30, 69, .2), 0 14px 26px -12px rgba(15, 30, 69, .45); }
+.py-hero.v3 .py-btn.ghost { color: var(--night); background: rgba(255, 255, 255, .7); box-shadow: inset 0 0 0 1.5px rgba(15, 30, 69, .2); }
+.py-hero.v3 .py-hero-status { justify-self: center; background: rgba(255, 255, 255, .72); box-shadow: inset 0 0 0 1px rgba(15, 30, 69, .1), 0 10px 24px -16px rgba(15, 30, 69, .5); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+.py-hero.v3 .py-hero-status-text { color: #4a5a80; text-align: left; }
+.py-hero.v3 .py-hero-status-text b { color: var(--night); }
+.py-hero.v3 .py-hero-status .live-pill:not(.on) { background: #e3e8f3; color: #5b6480; }
+.py-hero.v3 .py-btn:focus-visible { outline-color: var(--night); }
+
+/* 떠다니는 카드·별 */
+.hero-floats { position: absolute; inset: 0; z-index: 0; pointer-events: none; }
+.py-hero.v3 .py-hero-in { position: relative; z-index: 1; }
+.hf { position: absolute; height: auto; filter: drop-shadow(0 18px 22px rgba(15, 30, 69, .28)); will-change: transform; transform: translate3d(calc(var(--mx) * var(--d) * 1px), calc(var(--my) * var(--d) * 1px), 0) rotate(var(--r)); transition: transform 500ms cubic-bezier(.16, 1, .3, 1); }
+.hf-c1 { --d: 26; --r: -16deg; left: max(2vw, calc(50% - 640px)); top: 20%; width: clamp(110px, 11vw, 170px); }
+.hf-c2 { --d: 40; --r: 14deg; right: max(3vw, calc(50% - 650px)); top: 12%; width: clamp(96px, 9vw, 150px); }
+.hf-s1 { --d: 16; --r: 12deg; left: max(10vw, calc(50% - 470px)); top: 58%; width: clamp(48px, 4.4vw, 70px); }
+.hf-s2 { --d: 52; --r: -10deg; right: max(12vw, calc(50% - 480px)); top: 52%; width: clamp(40px, 3.6vw, 58px); }
+@media (prefers-reduced-motion: no-preference) {
+  .hf { animation: hf-bob 6s ease-in-out infinite; }
+  .hf-c2 { animation-duration: 7.4s; animation-delay: -2s; }
+  .hf-s1 { animation-duration: 5.2s; animation-delay: -1s; }
+  .hf-s2 { animation-duration: 6.6s; animation-delay: -3s; }
+  .py-hero.v3 .py-hero-bg { animation: hero-settle-v3 1800ms cubic-bezier(.16, 1, .3, 1) both; }
+}
+@keyframes hf-bob { 0%, 100% { translate: 0 0; } 50% { translate: 0 -12px; } }
+@keyframes hero-settle-v3 { from { transform: scale(1.06) translateY(14px); } to { transform: none; } }
+
+/* 카테고리 버튼은 배너 아래에 띄워 둔다(개봉 장면을 가리지 않게) */
+.py-hero.v3 + .cat-tiles { margin-top: clamp(-56px, -3.6vw, -36px); }
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .py-hero.v3 .py-hero-in { min-height: 0; padding-bottom: 300px; }
+  .py-hero.v3 .py-hero-bg { background-size: auto 100%; }
+  .hf-s1, .hf-s2 { display: none; }
+}
+@media (max-width: 767px) {
+  .py-hero.v3 { background: #cdeef7; }
+  .py-hero.v3 .py-hero-bg { background-image: url(../img/hero-v3-1200.webp); background-size: 150% auto; background-position: center bottom; }
+  .py-hero.v3 .py-hero-in { min-height: 0; padding: 34px var(--gutter) min(64vw, 300px); gap: 16px; }
+  .py-hero.v3 .py-hero-logo img { width: min(78vw, 330px); }
+  .py-hero.v3 .py-hero-status { justify-self: stretch; }
+  .hf-c1 { display: none; }
+  .hf-c2 { right: -22px; top: 2px; width: 58px; }
+  .hf-s1, .hf-s2 { display: none; }
+  .py-hero.v3 + .cat-tiles { margin-top: -28px; }
+}
+@media (max-height: 500px) and (orientation: landscape) {
+  .py-hero.v3 .py-hero-in { padding-bottom: 180px; }
+  .hero-floats { display: none; }
+}
+/* 휴대폰: 배경 사진 위쪽 경계가 보이지 않게 위는 같은 하늘색 그라데이션으로 이어 준다 */
+@media (max-width: 767px) {
+  .py-hero.v3 { background: linear-gradient(180deg, #d9f3fb 0%, #9de4fc 60%); }
+  .py-hero.v3 .py-hero-bg { background: linear-gradient(180deg, #d9f3fb 0%, rgba(157, 228, 252, 0) 52%), url(../img/hero-v3-1200.webp) center bottom / 150% auto no-repeat; }
+}
+@media (min-width: 768px) { .py-hero.v3 { background: #bfeefb; } }
+@media (max-width: 767px) {
+  .py-hero.v3 .py-hero-bg { background: #cdeef7 url(../img/hero-v3-1200.webp) center bottom / cover no-repeat; }
+}
