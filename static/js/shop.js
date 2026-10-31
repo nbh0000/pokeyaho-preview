@@ -650,7 +650,7 @@
       if (empty) empty.hidden = shown > 0;
       var title = $('[data-grid-title]');
       var count = $('[data-grid-count]');
-      if (title && !location.search) title.textContent = state.cat || '지금 주문할 수 있는 카드';
+      if (title && !location.search) title.textContent = state.cat || '전체 상품';
       if (title && state.type) title.textContent = (state.cat || '전체') + ' · ' + state.type;
       if (count) count.textContent = shown + '개';
       $$('[data-cat-link]').forEach(function (a) { a.classList.toggle('is-cur', a.getAttribute('data-cat-link') === state.cat); });

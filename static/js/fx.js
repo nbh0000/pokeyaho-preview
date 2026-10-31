@@ -175,6 +175,41 @@
     Array.prototype.slice.call(document.querySelectorAll('.btn[aria-busy="true"]')).forEach(function (b) { b.removeAttribute('aria-busy'); });
   });
 
+  // ===== 카테고리별 상품 줄: 옆으로 넘기기(손가락 스와이프·버튼), 아래 진행 막대 =====
+  Array.prototype.slice.call(document.querySelectorAll('[data-row-track]')).forEach(function (track) {
+    var nav = track.parentNode.querySelector('[data-row-nav]');
+    if (!nav) return;
+    var bar = nav.querySelector('.cat-row-progress i');
+    var prev = nav.querySelector('[data-row-prev]');
+    var next = nav.querySelector('[data-row-next]');
+    var frame = 0;
+    function update() {
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(function () {
+        var max = track.scrollWidth - track.clientWidth;
+        nav.hidden = max <= 4;
+        if (max <= 4) return;
+        var ratio = track.clientWidth / track.scrollWidth;
+        var pos = track.scrollLeft / max;
+        bar.style.width = (ratio * 100).toFixed(1) + '%';
+        bar.style.transform = 'translateX(' + ((1 / ratio - 1) * pos * 100).toFixed(1) + '%)';
+        prev.disabled = track.scrollLeft <= 4;
+        next.disabled = track.scrollLeft >= max - 4;
+      });
+    }
+    function page(dir) {
+      var card = track.querySelector('.pcard');
+      var step = card ? card.getBoundingClientRect().width + parseFloat(getComputedStyle(track).columnGap || 0) : track.clientWidth;
+      var per = Math.max(1, Math.floor((track.clientWidth + 1) / step));
+      track.scrollBy({ left: dir * step * per, behavior: reduce ? 'auto' : 'smooth' });
+    }
+    prev.addEventListener('click', function () { page(-1); });
+    next.addEventListener('click', function () { page(1); });
+    track.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+    update();
+  });
+
   // ===== 배너: 마우스를 움직이면 떠다니는 카드·별이 깊이에 따라 다르게 움직인다 =====
   var hero = document.querySelector('[data-hero]');
   if (hero && finePointer && !reduce) {
