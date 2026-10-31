@@ -1261,7 +1261,7 @@ body.drawer-lock { overflow: hidden; }
   position: relative; isolation: isolate; color: #fff;
   background:
     linear-gradient(90deg, rgba(12, 24, 58, .96) 0%, rgba(12, 24, 58, .82) 34%, rgba(12, 24, 58, .25) 62%, rgba(12, 24, 58, 0) 78%),
-    #0f1e45 url(../img/hero-v2-1920.webp) right center / cover no-repeat;
+    #0f1e45 url(../img/hero-v3-1920.webp) right center / cover no-repeat;
 }
 .py-hero-in { max-width: var(--page); margin: 0 auto; padding: clamp(40px, 6vw, 80px) var(--gutter) clamp(96px, 9vw, 124px); display: grid; align-content: center; gap: 28px; min-height: clamp(440px, 58svh, 600px); }
 .py-hero-copy { display: grid; justify-items: start; max-width: 560px; }
@@ -1360,7 +1360,7 @@ body.is-home .shop-notice { max-width: none; margin: 0 0 10px; text-align: left;
 /* ===== 구매 흐름 ===== */
 .py-flow {
   margin: clamp(56px, 7vw, 88px) 0 clamp(40px, 5vw, 64px); padding: clamp(28px, 4vw, 48px); border-radius: 24px; color: #fff; overflow: hidden;
-  background: linear-gradient(90deg, rgba(12, 24, 58, .97) 0%, rgba(12, 24, 58, .9) 55%, rgba(12, 24, 58, .55) 100%), #0f1e45 url(../img/hero-v2-1200.webp) right center / cover no-repeat;
+  background: linear-gradient(90deg, rgba(12, 24, 58, .97) 0%, rgba(12, 24, 58, .9) 55%, rgba(12, 24, 58, .55) 100%), #0f1e45 url(../img/tile-navy.webp) right center / cover no-repeat;
 }
 .py-flow-head h2 { margin: 0; font-size: clamp(22px, 2.3vw, 30px); font-weight: 800; letter-spacing: -0.025em; }
 .py-flow-head p { margin: 10px 0 0; max-width: 46ch; color: #c8d2ee; font-size: 15px; line-height: 1.65; }
@@ -1380,7 +1380,7 @@ body.is-home .shop-notice { max-width: none; margin: 0 0 10px; text-align: left;
 .cartbar .count { background: var(--yellow); color: var(--night); }
 
 /* ===== 푸터 ===== */
-.foot { padding: 48px 0 calc(48px + env(safe-area-inset-bottom, 0px)); color: #aab4d2; background: linear-gradient(180deg, rgba(12, 24, 58, .96), rgba(12, 24, 58, .99)), #0f1e45 url(../img/hero-v2-1200.webp) right bottom / cover no-repeat; }
+.foot { padding: 48px 0 calc(48px + env(safe-area-inset-bottom, 0px)); color: #aab4d2; background: linear-gradient(180deg, rgba(12, 24, 58, .96), rgba(12, 24, 58, .99)), #0f1e45 url(../img/tile-navy.webp) right bottom / cover no-repeat; }
 .foot-in { max-width: var(--page); padding: 0 var(--gutter); gap: clamp(24px, 4vw, 64px); }
 .foot-brand { flex: none; display: grid; gap: 10px; }
 .foot-brand p { margin: 0; color: #c8d2ee; font-size: 13px; font-weight: 700; }
@@ -1438,7 +1438,7 @@ body.is-home .shop-notice { max-width: none; margin: 0 0 10px; text-align: left;
 @media (max-width: 767px) {
   .util > span:not(.sr-only):not(.badge) { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
   .util.cart { padding: 0 10px; gap: 4px; }
-  .py-hero { background: linear-gradient(180deg, rgba(12, 24, 58, .35) 0%, rgba(12, 24, 58, .86) 46%, rgba(12, 24, 58, .98) 100%), #0f1e45 url(../img/hero-v2-1200.webp) 82% top / auto 58% no-repeat; }
+  .py-hero { background: linear-gradient(180deg, rgba(12, 24, 58, .35) 0%, rgba(12, 24, 58, .86) 46%, rgba(12, 24, 58, .98) 100%), #0f1e45 url(../img/tile-navy.webp) 82% top / auto 58% no-repeat; }
   .py-hero-in { min-height: 0; padding: 36px var(--gutter) 92px; gap: 22px; }
   .py-hero-logo img { width: min(76vw, 320px); }
   .py-hero-lead { font-size: clamp(23px, 6.6vw, 28px); }
@@ -1710,7 +1710,7 @@ body.actions-in-view .cartbar.show { transform: translateY(120%); }
    배너 v2: Codex 실사 배경(떠 있는 카드팩 + 로고 3색 림 조명), 처음 한 번만 천천히 당겨지는 줌
    ===================================================================== */
 .py-hero { overflow: hidden; background: #0b1736; }
-.py-hero-bg { position: absolute; inset: 0; z-index: -2; background: #0b1736 url(../img/hero-v2-1920.webp) 72% center / cover no-repeat; transform-origin: 75% 50%; }
+.py-hero-bg { position: absolute; inset: 0; z-index: -2; background: #0b1736 url(../img/hero-v3-1920.webp) 72% center / cover no-repeat; transform-origin: 75% 50%; }
 .py-hero::before { content: ''; position: absolute; inset: 0; z-index: -1; pointer-events: none;
   background:
     radial-gradient(42% 60% at 16% 38%, rgba(255, 198, 26, .13), transparent 70%),
@@ -1727,7 +1727,7 @@ body.actions-in-view .cartbar.show { transform: translateY(120%); }
 @keyframes hero-settle { from { transform: scale(1.07); opacity: .6; } to { transform: none; opacity: 1; } }
 @media (max-width: 767px) {
   .py-hero { background: #0b1736; }
-  .py-hero-bg { background-image: url(../img/hero-v2-1200.webp); background-position: 78% top; background-size: auto 64%; }
+  .py-hero-bg { background-image: url(../img/tile-navy.webp); background-position: 78% top; background-size: auto 64%; }
   .py-hero::before { background: linear-gradient(180deg, rgba(9, 18, 46, .25) 0%, rgba(9, 18, 46, .8) 40%, rgba(9, 18, 46, .97) 62%, #0b1736 100%); }
 }
 @media (min-width: 768px) and (max-width: 1023px) {
