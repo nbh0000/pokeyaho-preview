@@ -1,13 +1,13 @@
-/* 포케야호 화면 효과: 점+미니 카드 포인터, 누르면 빛줄기가 퍼짐, 프리미엄 상품 홀로그램, 반응형 보조(필터 줄 끝 흐림, 하단 바 숨김, 버튼 처리 중 표시) */
+/* 포케야호 화면 효과: 카드 포인터, 누르면 빛줄기가 퍼짐, 프리미엄 상품 홀로그램, 반응형 보조(필터 줄 끝 흐림, 하단 바 숨김, 버튼 처리 중 표시) */
 (function () {
   'use strict';
   var mq = function (q) { return window.matchMedia ? window.matchMedia(q) : { matches: false }; };
   var reduce = mq('(prefers-reduced-motion: reduce)').matches;
   var finePointer = mq('(hover: hover) and (pointer: fine)').matches;
 
-  // ===== 포케야호 포인터: 정확히 따라오는 점 + 한 박자 늦게 따라오며 기우는 미니 카드 =====
-  // 점이 실제 클릭 위치(기준점). 카드는 오른쪽 아래에 떠서 누를 곳을 가리지 않는다.
-  // 누를 수 있는 곳 위에서는 점이 링으로 커지고 카드가 앞면(노랑)으로 뒤집힌다. 글자 입력칸에서는 기본 커서로 돌아간다.
+  // ===== 포케야호 포인터: 마우스 포인터 자체가 작은 카드 =====
+  // 카드 왼쪽 위 모서리가 실제 클릭 위치(화살표 끝과 같은 역할). 움직이는 방향으로 살짝 기울고,
+  // 누를 수 있는 곳에서는 카드가 뒤집혀 노랑 앞면이 보이며, 누르는 순간 탁 눌린다. 글자 입력칸에서는 기본 커서.
   var HOT = 'a, button, [role="button"], label, select, summary, .cat-tab, .type-tab, .pcard-thumb, [data-open-cart], .choice .tile';
   var TEXT = 'input:not([type="checkbox"]):not([type="radio"]):not([type="file"]):not([type="submit"]):not([type="button"]), textarea, [contenteditable]';
   var cursor = null;
@@ -15,34 +15,31 @@
     cursor = document.createElement('div');
     cursor.className = 'pcur';
     cursor.setAttribute('aria-hidden', 'true');
-    cursor.innerHTML = '<span class="pcur-card"><span class="pcur-face pc-back"></span><span class="pcur-face pc-front"></span></span><span class="pcur-dot"></span>';
+    cursor.innerHTML = '<span class="pcur-card"><span class="pcur-tilt"><span class="pcur-face pc-back"></span><span class="pcur-face pc-front"></span></span></span>';
     document.body.appendChild(cursor);
     document.documentElement.classList.add('has-pcur');
-    var dot = cursor.querySelector('.pcur-dot');
-    var card = cursor.querySelector('.pcur-card');
-    var mx = -100, my = -100, cx = -100, cy = -100, tilt = 0, moving = false, seen = false;
-    var tick = function () {
-      // 카드: 스프링처럼 따라오고, 가로로 움직인 만큼 기운다
-      var dx = mx - cx, dy = my - cy;
-      cx += dx * 0.2;
-      cy += dy * 0.2;
-      tilt += (Math.max(-28, Math.min(28, dx * 0.9)) - tilt) * 0.18;
-      card.style.transform = 'translate3d(' + (cx + 14) + 'px,' + (cy + 16) + 'px,0) rotate(' + tilt.toFixed(2) + 'deg)';
-      if (Math.abs(dx) + Math.abs(dy) + Math.abs(tilt) > 0.3) requestAnimationFrame(tick);
-      else moving = false;
+    var cardEl = cursor.querySelector('.pcur-card');
+    var tiltEl = cursor.querySelector('.pcur-tilt');
+    var lastX = null, tilt = 0, target = 0, ticking = false;
+    var settle = function () {
+      tilt += (target - tilt) * 0.2;
+      target *= 0.82;
+      tiltEl.style.transform = 'rotate(' + tilt.toFixed(2) + 'deg)';
+      if (Math.abs(tilt) > 0.15 || Math.abs(target) > 0.15) requestAnimationFrame(settle);
+      else { ticking = false; tiltEl.style.transform = ''; }
     };
     document.addEventListener('pointermove', function (e) {
       if (e.pointerType !== 'mouse' && e.pointerType !== 'pen') return;
-      mx = e.clientX; my = e.clientY;
-      if (!seen) { seen = true; cx = mx; cy = my; cursor.classList.add('on'); }
-      dot.style.transform = 'translate3d(' + mx + 'px,' + my + 'px,0)';
+      cursor.classList.add('on');
+      cardEl.style.transform = 'translate3d(' + e.clientX + 'px,' + e.clientY + 'px,0)';
+      if (lastX !== null) target = Math.max(-16, Math.min(16, target + (e.clientX - lastX) * 0.5));
+      lastX = e.clientX;
+      if (!ticking) { ticking = true; requestAnimationFrame(settle); }
       var t = e.target;
       cursor.classList.toggle('is-hot', !!(t.closest && t.closest(HOT)) && !(t.closest && t.closest(':disabled, [aria-disabled="true"]')));
       cursor.classList.toggle('is-text', !!(t.closest && t.closest(TEXT)));
-      if (!moving) { moving = true; requestAnimationFrame(tick); }
     }, { passive: true });
-    document.addEventListener('pointerleave', function () { cursor.classList.remove('on'); seen = false; });
-    document.documentElement.addEventListener('mouseleave', function () { cursor.classList.remove('on'); seen = false; });
+    document.documentElement.addEventListener('mouseleave', function () { cursor.classList.remove('on'); lastX = null; });
     document.addEventListener('pointerdown', function (e) { if (e.pointerType === 'mouse') cursor.classList.add('is-down'); }, { passive: true });
     document.addEventListener('pointerup', function () { cursor.classList.remove('is-down'); }, { passive: true });
   }
