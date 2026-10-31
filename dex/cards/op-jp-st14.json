@@ -1,0 +1,192 @@
+{
+  "id": "op-jp-st14",
+  "cards": [
+    {
+      "no": "ST14-001",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-001.png",
+      "image": null
+    },
+    {
+      "no": "ST14-002",
+      "name": "ウソップ",
+      "name_ko": "우솝",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-002.png",
+      "image": null
+    },
+    {
+      "no": "ST14-003",
+      "name": "サンジ",
+      "name_ko": "상디",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-003.png",
+      "image": null
+    },
+    {
+      "no": "ST14-004",
+      "name": "ジンベエ",
+      "name_ko": "징베",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-004.png",
+      "image": null
+    },
+    {
+      "no": "ST14-005",
+      "name": "トニートニー・チョッパー",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-005.png",
+      "image": null
+    },
+    {
+      "no": "ST14-006",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-006.png",
+      "image": null
+    },
+    {
+      "no": "ST14-007",
+      "name": "ニコ・ロビン",
+      "name_ko": "니코 로빈",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-007.png",
+      "image": null
+    },
+    {
+      "no": "ST14-008",
+      "name": "ハレダス",
+      "name_ko": "하레다스",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-008.png",
+      "image": null
+    },
+    {
+      "no": "ST14-009",
+      "name": "フランキー",
+      "name_ko": "프랑키",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-009.png",
+      "image": null
+    },
+    {
+      "no": "ST14-010",
+      "name": "ブルック",
+      "name_ko": "브룩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010.png",
+      "image": null
+    },
+    {
+      "no": "ST14-011",
+      "name": "ヘラクレス",
+      "name_ko": "헤라클레스",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-011.png",
+      "image": null
+    },
+    {
+      "no": "ST14-012",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-012.png",
+      "image": null
+    },
+    {
+      "no": "ST14-013",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-013.png",
+      "image": null
+    },
+    {
+      "no": "ST14-014",
+      "name": "ゴムゴムの巨人の回転弾",
+      "name_ko": "고무고무 거인의 라이플",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-014.png",
+      "image": null
+    },
+    {
+      "no": "ST14-015",
+      "name": "ゴムゴムの悪魔風三刀流羊肉JET六百煩悩攻城砲",
+      "name_ko": "고무고무디아블삼검류양고기JET육백번뇌공성포",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-015.png",
+      "image": null
+    },
+    {
+      "no": "ST14-016",
+      "name": "仲間がいる゛よ!!!!",
+      "name_ko": "동료가 있어!!!!",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-016.png",
+      "image": null
+    },
+    {
+      "no": "ST14-017",
+      "name": "サウザンド・サニー号",
+      "name_ko": "사우전드 써니 호",
+      "rarity": "C",
+      "type": "STAGE",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-017.png",
+      "image": null
+    }
+  ]
+}

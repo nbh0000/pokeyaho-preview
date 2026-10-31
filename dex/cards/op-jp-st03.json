@@ -1,0 +1,192 @@
+{
+  "id": "op-jp-st03",
+  "cards": [
+    {
+      "no": "ST03-001",
+      "name": "クロコダイル",
+      "name_ko": "크로커다일",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-001.png",
+      "image": null
+    },
+    {
+      "no": "ST03-002",
+      "name": "エドワード・ウィーブル",
+      "name_ko": "애드워드 위블",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-002.png",
+      "image": null
+    },
+    {
+      "no": "ST03-003",
+      "name": "クロコダイル",
+      "name_ko": "크로커다일",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-003.png",
+      "image": null
+    },
+    {
+      "no": "ST03-004",
+      "name": "ゲッコー・モリア",
+      "name_ko": "겟코 모리아",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-004.png",
+      "image": null
+    },
+    {
+      "no": "ST03-005",
+      "name": "ジュラキュール・ミホーク",
+      "name_ko": "쥬라큘 미호크",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-005.png",
+      "image": null
+    },
+    {
+      "no": "ST03-006",
+      "name": "ジンベエ",
+      "name_ko": "징베",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-006.png",
+      "image": null
+    },
+    {
+      "no": "ST03-007",
+      "name": "戦桃丸",
+      "name_ko": "센토마루",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-007.png",
+      "image": null
+    },
+    {
+      "no": "ST03-008",
+      "name": "トラファルガー・ロー",
+      "name_ko": "트라팔가 로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-008.png",
+      "image": null
+    },
+    {
+      "no": "ST03-009",
+      "name": "ドンキホーテ・ドフラミンゴ",
+      "name_ko": "돈키호테 도플라밍고",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-009.png",
+      "image": null
+    },
+    {
+      "no": "ST03-010",
+      "name": "バーソロミュー・くま",
+      "name_ko": "바솔로뮤 쿠마",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-010.png",
+      "image": null
+    },
+    {
+      "no": "ST03-011",
+      "name": "バギー",
+      "name_ko": "버기",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-011.png",
+      "image": null
+    },
+    {
+      "no": "ST03-012",
+      "name": "パシフィスタ",
+      "name_ko": "파시피스타",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-012.png",
+      "image": null
+    },
+    {
+      "no": "ST03-013",
+      "name": "ボア・ハンコック",
+      "name_ko": "보아 행콕",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-013.png",
+      "image": null
+    },
+    {
+      "no": "ST03-014",
+      "name": "マーシャル・D・ティーチ",
+      "name_ko": "마샬 D. 티치",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-014.png",
+      "image": null
+    },
+    {
+      "no": "ST03-015",
+      "name": "砂嵐",
+      "name_ko": "모래 폭풍",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-015.png",
+      "image": null
+    },
+    {
+      "no": "ST03-016",
+      "name": "つっぱり圧力砲",
+      "name_ko": "밀쳐내기 압력포",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-016.png",
+      "image": null
+    },
+    {
+      "no": "ST03-017",
+      "name": "メロメロ甘風",
+      "name_ko": "매료매료 멜로우",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-017.png",
+      "image": null
+    }
+  ]
+}

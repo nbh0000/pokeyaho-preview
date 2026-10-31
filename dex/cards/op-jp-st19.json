@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-st19",
+  "cards": [
+    {
+      "no": "OP02-093",
+      "name": "スモーカー",
+      "name_ko": "스모커",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-093_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP02-098",
+      "name": "コビー",
+      "name_ko": "코비",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-098_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-106",
+      "name": "つる",
+      "name_ko": "츠루",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-106_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-108",
+      "name": "ドンキホーテ・ロシナンテ",
+      "name_ko": "돈키호테 로시난테",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-108_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-109",
+      "name": "ハグワール・D・サウロ",
+      "name_ko": "하그왈 D. 사우로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-109_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-113",
+      "name": "ヘルメッポ",
+      "name_ko": "헤르메포",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-113_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-116",
+      "name": "ヤマカジ",
+      "name_ko": "야마카지",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-116_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-117",
+      "name": "氷河時代",
+      "name_ko": "아이스 에이지",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-117_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-079",
+      "name": "ヴェルゴ",
+      "name_ko": "베르고",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-079_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-089",
+      "name": "ブランニュー",
+      "name_ko": "브랜뉴",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-089_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST19-001",
+      "name": "スモーカー",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-001.png",
+      "image": null
+    },
+    {
+      "no": "ST19-002",
+      "name": "センゴク",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-002.png",
+      "image": null
+    },
+    {
+      "no": "ST19-003",
+      "name": "たしぎ",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-003.png",
+      "image": null
+    },
+    {
+      "no": "ST19-004",
+      "name": "ヒナ",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-004.png",
+      "image": null
+    },
+    {
+      "no": "ST19-005",
+      "name": "モンキー・D・ガープ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-005.png",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-st34",
+  "cards": [
+    {
+      "no": "EB03-032",
+      "name": "シャーロット・フランペ",
+      "name_ko": "샬롯 플랑페",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-032_r1.png",
+      "image": null
+    },
+    {
+      "no": "EB03-035",
+      "name": "シャーロット・プリン",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-035_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP11-062",
+      "name": "シャーロット・カタクリ",
+      "name_ko": "샬롯 카타쿠리",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-062_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP11-065",
+      "name": "シャーロット・アナナ",
+      "name_ko": "샬롯 아나나",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-065_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP11-066",
+      "name": "シャーロット・オーブン",
+      "name_ko": "샬롯 오븐",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-066_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP11-068",
+      "name": "シャーロット・ダイフク",
+      "name_ko": "샬롯 다이후쿠",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-068_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP11-071",
+      "name": "シャーロット・ペロスペロー",
+      "name_ko": "샬롯 페로스페로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-071_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP11-079",
+      "name": "男の勝負に…!!!薄っぺらい援護などするな!!!!",
+      "name_ko": "사내의 승부에…!!! 얄팍하기 짝이 없는 도움 따위 집어쳐라!!!",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "紫",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-079_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP11-081",
+      "name": "皇帝剣破々刃",
+      "name_ko": "코냑 파파인",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "紫",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-081_r1.png",
+      "image": null
+    },
+    {
+      "no": "P-090",
+      "name": "シャーロット・スムージー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-090_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST34-001",
+      "name": "シャーロット・カタクリ",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-001.png",
+      "image": null
+    },
+    {
+      "no": "ST34-002",
+      "name": "シャーロット・クラッカー",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-002.png",
+      "image": null
+    },
+    {
+      "no": "ST34-003",
+      "name": "シャーロット・ブリュレ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-003.png",
+      "image": null
+    },
+    {
+      "no": "ST34-004",
+      "name": "シャーロット・リンリン",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-004.png",
+      "image": null
+    },
+    {
+      "no": "ST34-005",
+      "name": "タマゴ男爵＆ペコムズ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST34-005.png",
+      "image": null
+    }
+  ]
+}

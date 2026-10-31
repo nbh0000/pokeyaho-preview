@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-st28",
+  "cards": [
+    {
+      "no": "OP06-022",
+      "name": "ヤマト",
+      "name_ko": "야마토",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "緑/黄",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP06-100",
+      "name": "イヌアラシ",
+      "name_ko": "이누아라시",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-100_r2.png",
+      "image": null
+    },
+    {
+      "no": "OP06-103",
+      "name": "河松",
+      "name_ko": "카와마츠",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-103_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP06-104",
+      "name": "菊之丞",
+      "name_ko": "키쿠노죠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-104_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP06-109",
+      "name": "傳ジロー",
+      "name_ko": "덴지로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-109_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP06-110",
+      "name": "ネコマムシ",
+      "name_ko": "네코마무시",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_r2.png",
+      "image": null
+    },
+    {
+      "no": "OP06-112",
+      "name": "雷ぞう",
+      "name_ko": "라이조",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-112_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-116",
+      "name": "焔裂き",
+      "name_ko": "화염 가르기",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-116_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-035",
+      "name": "ポートガス・D・エース",
+      "name_ko": "포트거스 D. 에이스",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-035_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST13-016",
+      "name": "ヤマト",
+      "name_ko": "야마토",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-016_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST28-001",
+      "name": "アシュラ童子",
+      "name_ko": "아슈라 동자",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-001.png",
+      "image": null
+    },
+    {
+      "no": "ST28-002",
+      "name": "イゾウ",
+      "name_ko": "이조",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-002.png",
+      "image": null
+    },
+    {
+      "no": "ST28-003",
+      "name": "錦えもん",
+      "name_ko": "킨에몬",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-003.png",
+      "image": null
+    },
+    {
+      "no": "ST28-004",
+      "name": "光月モモの助",
+      "name_ko": "코즈키 모모노스케",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-004.png",
+      "image": null
+    },
+    {
+      "no": "ST28-005",
+      "name": "ヤマト",
+      "name_ko": "야마토",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-005.png",
+      "image": null
+    }
+  ]
+}

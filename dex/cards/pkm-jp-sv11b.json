@@ -1,0 +1,1397 @@
+{
+  "id": "pkm-jp-sv11b",
+  "cards": [
+    {
+      "no": "001/086",
+      "name": "ツタージャ",
+      "name_ko": "주리비얀",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047537_P_TSUTAJIXYA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/001-086.webp"
+    },
+    {
+      "no": "002/086",
+      "name": "ジャノビー",
+      "name_ko": "샤비",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047538_P_JIXYANOBI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/002-086.webp"
+    },
+    {
+      "no": "003/086",
+      "name": "ジャローダex",
+      "name_ko": "샤로다 ex",
+      "rarity": "RR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047539_P_JIXYARODAEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/003-086.webp"
+    },
+    {
+      "no": "004/086",
+      "name": "ヤナップ",
+      "name_ko": "야나프",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047540_P_YANAPPU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/004-086.webp"
+    },
+    {
+      "no": "005/086",
+      "name": "ヤナッキー",
+      "name_ko": "야나키",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047541_P_YANAKKI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/005-086.webp"
+    },
+    {
+      "no": "006/086",
+      "name": "チュリネ",
+      "name_ko": "치릴리",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047542_P_CHIXYURINE.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/006-086.webp"
+    },
+    {
+      "no": "007/086",
+      "name": "ドレディア",
+      "name_ko": "드레디어",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047543_P_DOREDEIA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/007-086.webp"
+    },
+    {
+      "no": "008/086",
+      "name": "マラカッチ",
+      "name_ko": "마라카치",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047544_P_MARAKATCHI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/008-086.webp"
+    },
+    {
+      "no": "009/086",
+      "name": "カブルモ",
+      "name_ko": "딱정곤",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047545_P_KABURUMO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/009-086.webp"
+    },
+    {
+      "no": "010/086",
+      "name": "タマゲタケ",
+      "name_ko": "깜놀버슬",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047546_P_TAMAGETAKE.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/010-086.webp"
+    },
+    {
+      "no": "011/086",
+      "name": "モロバレル",
+      "name_ko": "뽀록나",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047547_P_MOROBARERU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/011-086.webp"
+    },
+    {
+      "no": "012/086",
+      "name": "ビクティニ",
+      "name_ko": "비크티니",
+      "rarity": "R",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047548_P_BIKUTEINI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/012-086.webp"
+    },
+    {
+      "no": "013/086",
+      "name": "ダルマッカ",
+      "name_ko": "달막화",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047549_P_DARUMAKKA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/013-086.webp"
+    },
+    {
+      "no": "014/086",
+      "name": "ヒヒダルマ",
+      "name_ko": "불비달마",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047550_P_HIHIDARUMA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/014-086.webp"
+    },
+    {
+      "no": "015/086",
+      "name": "ヒトモシ",
+      "name_ko": "불켜미",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047551_P_HITOMOSHI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/015-086.webp"
+    },
+    {
+      "no": "016/086",
+      "name": "ランプラー",
+      "name_ko": "램프라",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047552_P_RANPURA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/016-086.webp"
+    },
+    {
+      "no": "017/086",
+      "name": "シャンデラ",
+      "name_ko": "샹델라",
+      "rarity": "R",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047553_P_SHIXYANDERA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/017-086.webp"
+    },
+    {
+      "no": "018/086",
+      "name": "メラルバ",
+      "name_ko": "활화르바",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047554_P_MERARUBA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/018-086.webp"
+    },
+    {
+      "no": "019/086",
+      "name": "ウルガモス",
+      "name_ko": "불카모스",
+      "rarity": "R",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047555_P_URUGAMOSU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/019-086.webp"
+    },
+    {
+      "no": "020/086",
+      "name": "ヒヤップ",
+      "name_ko": "앗차프",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047556_P_HIYAPPU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/020-086.webp"
+    },
+    {
+      "no": "021/086",
+      "name": "ヒヤッキー",
+      "name_ko": "앗차키",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047557_P_HIYAKKI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/021-086.webp"
+    },
+    {
+      "no": "022/086",
+      "name": "オタマロ",
+      "name_ko": "동챙이",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047558_P_OTAMARO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/022-086.webp"
+    },
+    {
+      "no": "023/086",
+      "name": "ガマガル",
+      "name_ko": "두까비",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047559_P_GAMAGARU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/023-086.webp"
+    },
+    {
+      "no": "024/086",
+      "name": "ガマゲロゲ",
+      "name_ko": "두빅굴",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047560_P_GAMAGEROGE.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/024-086.webp"
+    },
+    {
+      "no": "025/086",
+      "name": "プロトーガ",
+      "name_ko": "프로토가",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047561_P_PUROTOGA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/025-086.webp"
+    },
+    {
+      "no": "026/086",
+      "name": "アバゴーラ",
+      "name_ko": "늑골라",
+      "rarity": "R",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047562_P_ABAGORA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/026-086.webp"
+    },
+    {
+      "no": "027/086",
+      "name": "ママンボウ",
+      "name_ko": "맘복치",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047563_P_MAMANBOU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/027-086.webp"
+    },
+    {
+      "no": "028/086",
+      "name": "クマシュン",
+      "name_ko": "코고미",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047564_P_KUMASHIXYUN.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/028-086.webp"
+    },
+    {
+      "no": "029/086",
+      "name": "ツンベアー",
+      "name_ko": "툰베어",
+      "rarity": "R",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047565_P_TSUNBEA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/029-086.webp"
+    },
+    {
+      "no": "030/086",
+      "name": "フリージオ",
+      "name_ko": "프리지오",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047566_P_FURIJIO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/030-086.webp"
+    },
+    {
+      "no": "031/086",
+      "name": "キュレムex",
+      "name_ko": "큐레무 ex",
+      "rarity": "RR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047567_P_KIXYUREMUEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/031-086.webp"
+    },
+    {
+      "no": "032/086",
+      "name": "エモンガ",
+      "name_ko": "에몽가",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047568_P_EMONGA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/032-086.webp"
+    },
+    {
+      "no": "033/086",
+      "name": "シビシラス",
+      "name_ko": "저리어",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047569_P_SHIBISHIRASU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/033-086.webp"
+    },
+    {
+      "no": "034/086",
+      "name": "シビビール",
+      "name_ko": "저리릴",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047570_P_SHIBIBIRU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/034-086.webp"
+    },
+    {
+      "no": "035/086",
+      "name": "シビルドン",
+      "name_ko": "저리더프",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047571_P_SHIBIRUDON.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/035-086.webp"
+    },
+    {
+      "no": "036/086",
+      "name": "ボルトロス",
+      "name_ko": "볼트로스",
+      "rarity": "R",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047572_P_BORUTOROSU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/036-086.webp"
+    },
+    {
+      "no": "037/086",
+      "name": "ゼクロムex",
+      "name_ko": "제크로무 ex",
+      "rarity": "RR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047573_P_ZEKUROMUEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/037-086.webp"
+    },
+    {
+      "no": "038/086",
+      "name": "ムンナ",
+      "name_ko": "몽나",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047574_P_MUNNA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/038-086.webp"
+    },
+    {
+      "no": "039/086",
+      "name": "ムシャーナ",
+      "name_ko": "몽얌나",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047575_P_MUSHIXYANA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/039-086.webp"
+    },
+    {
+      "no": "040/086",
+      "name": "ユニラン",
+      "name_ko": "유니란",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047576_P_YUNIRAN.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/040-086.webp"
+    },
+    {
+      "no": "041/086",
+      "name": "ダブラン",
+      "name_ko": "듀란",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047577_P_DABURAN.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/041-086.webp"
+    },
+    {
+      "no": "042/086",
+      "name": "ランクルス",
+      "name_ko": "란쿨루스",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047578_P_RANKURUSU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/042-086.webp"
+    },
+    {
+      "no": "043/086",
+      "name": "リグレー",
+      "name_ko": "리그레",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047579_P_RIGURE.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/043-086.webp"
+    },
+    {
+      "no": "044/086",
+      "name": "オーベム",
+      "name_ko": "벰크",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047580_P_OBEMU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/044-086.webp"
+    },
+    {
+      "no": "045/086",
+      "name": "ゴビット",
+      "name_ko": "골비람",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047581_P_GOBITTO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/045-086.webp"
+    },
+    {
+      "no": "046/086",
+      "name": "ゴルーグ",
+      "name_ko": "골루그",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047582_P_GORUGU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/046-086.webp"
+    },
+    {
+      "no": "047/086",
+      "name": "メロエッタex",
+      "name_ko": "메로엣타 ex",
+      "rarity": "RR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047583_P_MEROETTAEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/047-086.webp"
+    },
+    {
+      "no": "048/086",
+      "name": "モグリュー",
+      "name_ko": "두더류",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047584_P_MOGURIXYU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/048-086.webp"
+    },
+    {
+      "no": "049/086",
+      "name": "ドリュウズex",
+      "name_ko": "몰드류 ex",
+      "rarity": "RR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047585_P_DORIXYUUZUEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/049-086.webp"
+    },
+    {
+      "no": "050/086",
+      "name": "ドッコラー",
+      "name_ko": "으랏차",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047586_P_DOKKORA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/050-086.webp"
+    },
+    {
+      "no": "051/086",
+      "name": "ドテッコツ",
+      "name_ko": "토쇠골",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047587_P_DOTEKKOTSU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/051-086.webp"
+    },
+    {
+      "no": "052/086",
+      "name": "ローブシン",
+      "name_ko": "노보청",
+      "rarity": "R",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047588_P_ROBUSHIN.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/052-086.webp"
+    },
+    {
+      "no": "053/086",
+      "name": "ナゲキ",
+      "name_ko": "던지미",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047589_P_NAGEKI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/053-086.webp"
+    },
+    {
+      "no": "054/086",
+      "name": "イシズマイ",
+      "name_ko": "돌살이",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047590_P_ISHIZUMAI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/054-086.webp"
+    },
+    {
+      "no": "055/086",
+      "name": "イワパレス",
+      "name_ko": "암팰리스",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047591_P_IWAPARESU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/055-086.webp"
+    },
+    {
+      "no": "056/086",
+      "name": "ランドロス",
+      "name_ko": "랜드로스",
+      "rarity": "R",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047592_P_RANDOROSU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/056-086.webp"
+    },
+    {
+      "no": "057/086",
+      "name": "フシデ",
+      "name_ko": "마디네",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047593_P_FUSHIDE.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/057-086.webp"
+    },
+    {
+      "no": "058/086",
+      "name": "ホイーガ",
+      "name_ko": "휠구",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047594_P_HOIGA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/058-086.webp"
+    },
+    {
+      "no": "059/086",
+      "name": "ペンドラー",
+      "name_ko": "펜드라",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047595_P_PENDORA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/059-086.webp"
+    },
+    {
+      "no": "060/086",
+      "name": "メグロコ",
+      "name_ko": "깜눈크",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047596_P_MEGUROKO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/060-086.webp"
+    },
+    {
+      "no": "061/086",
+      "name": "ワルビル",
+      "name_ko": "악비르",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047597_P_WARUBIRU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/061-086.webp"
+    },
+    {
+      "no": "062/086",
+      "name": "ワルビアル",
+      "name_ko": "악비아르",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047598_P_WARUBIARU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/062-086.webp"
+    },
+    {
+      "no": "063/086",
+      "name": "バルチャイ",
+      "name_ko": "벌차이",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047599_P_BARUCHIXYAI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/063-086.webp"
+    },
+    {
+      "no": "064/086",
+      "name": "バルジーナ",
+      "name_ko": "버랜지나",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047600_P_BARUJINA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/064-086.webp"
+    },
+    {
+      "no": "065/086",
+      "name": "シュバルゴ",
+      "name_ko": "슈바르고",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047601_P_SHIXYUBARUGO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/065-086.webp"
+    },
+    {
+      "no": "066/086",
+      "name": "コマタナ",
+      "name_ko": "자망칼",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047602_P_KOMATANA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/066-086.webp"
+    },
+    {
+      "no": "067/086",
+      "name": "キリキザン",
+      "name_ko": "절각참",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047603_P_KIRIKIZAN.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/067-086.webp"
+    },
+    {
+      "no": "068/086",
+      "name": "コバルオン",
+      "name_ko": "코바르온",
+      "rarity": "R",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047604_P_KOBARUON.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/068-086.webp"
+    },
+    {
+      "no": "069/086",
+      "name": "ゲノセクトex",
+      "name_ko": "게노세크트 ex",
+      "rarity": "RR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047605_P_GENOSEKUTOEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/069-086.webp"
+    },
+    {
+      "no": "070/086",
+      "name": "キバゴ",
+      "name_ko": "터검니",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047606_P_KIBAGO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/070-086.webp"
+    },
+    {
+      "no": "071/086",
+      "name": "オノンド",
+      "name_ko": "액슨도",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047607_P_ONONDO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/071-086.webp"
+    },
+    {
+      "no": "072/086",
+      "name": "オノノクス",
+      "name_ko": "액스라이즈",
+      "rarity": "R",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047608_P_ONONOKUSU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/072-086.webp"
+    },
+    {
+      "no": "073/086",
+      "name": "マメパト",
+      "name_ko": "콩둘기",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047609_P_MAMEPATO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/073-086.webp"
+    },
+    {
+      "no": "074/086",
+      "name": "ハトーボー",
+      "name_ko": "유토브",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047610_P_HATOBO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/074-086.webp"
+    },
+    {
+      "no": "075/086",
+      "name": "ケンホロウ",
+      "name_ko": "켄호로우",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047611_P_KENHOROU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/075-086.webp"
+    },
+    {
+      "no": "076/086",
+      "name": "タブンネ",
+      "name_ko": "다부니",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047612_P_TABUNNE.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/076-086.webp"
+    },
+    {
+      "no": "077/086",
+      "name": "チラーミィ",
+      "name_ko": "치라미",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047613_P_CHIRAMII.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/077-086.webp"
+    },
+    {
+      "no": "078/086",
+      "name": "チラチーノ",
+      "name_ko": "치라치노",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047614_P_CHIRACHINO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/078-086.webp"
+    },
+    {
+      "no": "087/086",
+      "name": "ツタージャ",
+      "name_ko": "주리비얀",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047911_P_TSUTAJIXYA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/087-086.webp"
+    },
+    {
+      "no": "088/086",
+      "name": "ジャノビー",
+      "name_ko": "샤비",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047912_P_JIXYANOBI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/088-086.webp"
+    },
+    {
+      "no": "089/086",
+      "name": "ヤナップ",
+      "name_ko": "야나프",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047913_P_YANAPPU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/089-086.webp"
+    },
+    {
+      "no": "090/086",
+      "name": "ヤナッキー",
+      "name_ko": "야나키",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047914_P_YANAKKI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/090-086.webp"
+    },
+    {
+      "no": "091/086",
+      "name": "チュリネ",
+      "name_ko": "치릴리",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047915_P_CHIXYURINE.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/091-086.webp"
+    },
+    {
+      "no": "092/086",
+      "name": "ドレディア",
+      "name_ko": "드레디어",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047916_P_DOREDEIA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/092-086.webp"
+    },
+    {
+      "no": "093/086",
+      "name": "マラカッチ",
+      "name_ko": "마라카치",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047917_P_MARAKATCHI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/093-086.webp"
+    },
+    {
+      "no": "094/086",
+      "name": "カブルモ",
+      "name_ko": "딱정곤",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047918_P_KABURUMO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/094-086.webp"
+    },
+    {
+      "no": "095/086",
+      "name": "タマゲタケ",
+      "name_ko": "깜놀버슬",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047919_P_TAMAGETAKE.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/095-086.webp"
+    },
+    {
+      "no": "096/086",
+      "name": "モロバレル",
+      "name_ko": "뽀록나",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047920_P_MOROBARERU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/096-086.webp"
+    },
+    {
+      "no": "097/086",
+      "name": "ビクティニ",
+      "name_ko": "비크티니",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047921_P_BIKUTEINI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/097-086.webp"
+    },
+    {
+      "no": "098/086",
+      "name": "ダルマッカ",
+      "name_ko": "달막화",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047922_P_DARUMAKKA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/098-086.webp"
+    },
+    {
+      "no": "099/086",
+      "name": "ヒヒダルマ",
+      "name_ko": "불비달마",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047923_P_HIHIDARUMA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/099-086.webp"
+    },
+    {
+      "no": "100/086",
+      "name": "ヒトモシ",
+      "name_ko": "불켜미",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047924_P_HITOMOSHI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/100-086.webp"
+    },
+    {
+      "no": "101/086",
+      "name": "ランプラー",
+      "name_ko": "램프라",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047925_P_RANPURA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/101-086.webp"
+    },
+    {
+      "no": "102/086",
+      "name": "シャンデラ",
+      "name_ko": "샹델라",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047926_P_SHIXYANDERA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/102-086.webp"
+    },
+    {
+      "no": "103/086",
+      "name": "メラルバ",
+      "name_ko": "활화르바",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047927_P_MERARUBA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/103-086.webp"
+    },
+    {
+      "no": "104/086",
+      "name": "ウルガモス",
+      "name_ko": "불카모스",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047928_P_URUGAMOSU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/104-086.webp"
+    },
+    {
+      "no": "105/086",
+      "name": "ヒヤップ",
+      "name_ko": "앗차프",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047929_P_HIYAPPU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/105-086.webp"
+    },
+    {
+      "no": "106/086",
+      "name": "ヒヤッキー",
+      "name_ko": "앗차키",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047930_P_HIYAKKI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/106-086.webp"
+    },
+    {
+      "no": "107/086",
+      "name": "オタマロ",
+      "name_ko": "동챙이",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047931_P_OTAMARO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/107-086.webp"
+    },
+    {
+      "no": "108/086",
+      "name": "ガマガル",
+      "name_ko": "두까비",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047932_P_GAMAGARU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/108-086.webp"
+    },
+    {
+      "no": "109/086",
+      "name": "ガマゲロゲ",
+      "name_ko": "두빅굴",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047933_P_GAMAGEROGE.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/109-086.webp"
+    },
+    {
+      "no": "110/086",
+      "name": "プロトーガ",
+      "name_ko": "프로토가",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047934_P_PUROTOGA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/110-086.webp"
+    },
+    {
+      "no": "111/086",
+      "name": "アバゴーラ",
+      "name_ko": "늑골라",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047935_P_ABAGORA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/111-086.webp"
+    },
+    {
+      "no": "112/086",
+      "name": "ママンボウ",
+      "name_ko": "맘복치",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047936_P_MAMANBOU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/112-086.webp"
+    },
+    {
+      "no": "113/086",
+      "name": "クマシュン",
+      "name_ko": "코고미",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047937_P_KUMASHIXYUN.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/113-086.webp"
+    },
+    {
+      "no": "114/086",
+      "name": "ツンベアー",
+      "name_ko": "툰베어",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047938_P_TSUNBEA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/114-086.webp"
+    },
+    {
+      "no": "115/086",
+      "name": "フリージオ",
+      "name_ko": "프리지오",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047939_P_FURIJIO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/115-086.webp"
+    },
+    {
+      "no": "116/086",
+      "name": "エモンガ",
+      "name_ko": "에몽가",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047940_P_EMONGA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/116-086.webp"
+    },
+    {
+      "no": "117/086",
+      "name": "シビシラス",
+      "name_ko": "저리어",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047941_P_SHIBISHIRASU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/117-086.webp"
+    },
+    {
+      "no": "118/086",
+      "name": "シビビール",
+      "name_ko": "저리릴",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047942_P_SHIBIBIRU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/118-086.webp"
+    },
+    {
+      "no": "119/086",
+      "name": "シビルドン",
+      "name_ko": "저리더프",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047943_P_SHIBIRUDON.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/119-086.webp"
+    },
+    {
+      "no": "120/086",
+      "name": "ボルトロス",
+      "name_ko": "볼트로스",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047944_P_BORUTOROSU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/120-086.webp"
+    },
+    {
+      "no": "121/086",
+      "name": "ムンナ",
+      "name_ko": "몽나",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047945_P_MUNNA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/121-086.webp"
+    },
+    {
+      "no": "122/086",
+      "name": "ムシャーナ",
+      "name_ko": "몽얌나",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047946_P_MUSHIXYANA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/122-086.webp"
+    },
+    {
+      "no": "123/086",
+      "name": "ユニラン",
+      "name_ko": "유니란",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047947_P_YUNIRAN.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/123-086.webp"
+    },
+    {
+      "no": "124/086",
+      "name": "ダブラン",
+      "name_ko": "듀란",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047948_P_DABURAN.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/124-086.webp"
+    },
+    {
+      "no": "125/086",
+      "name": "ランクルス",
+      "name_ko": "란쿨루스",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047949_P_RANKURUSU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/125-086.webp"
+    },
+    {
+      "no": "126/086",
+      "name": "リグレー",
+      "name_ko": "리그레",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047950_P_RIGURE.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/126-086.webp"
+    },
+    {
+      "no": "127/086",
+      "name": "オーベム",
+      "name_ko": "벰크",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047951_P_OBEMU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/127-086.webp"
+    },
+    {
+      "no": "128/086",
+      "name": "ゴビット",
+      "name_ko": "골비람",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047952_P_GOBITTO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/128-086.webp"
+    },
+    {
+      "no": "129/086",
+      "name": "ゴルーグ",
+      "name_ko": "골루그",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047953_P_GORUGU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/129-086.webp"
+    },
+    {
+      "no": "130/086",
+      "name": "モグリュー",
+      "name_ko": "두더류",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047954_P_MOGURIXYU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/130-086.webp"
+    },
+    {
+      "no": "131/086",
+      "name": "ドッコラー",
+      "name_ko": "으랏차",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047955_P_DOKKORA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/131-086.webp"
+    },
+    {
+      "no": "132/086",
+      "name": "ドテッコツ",
+      "name_ko": "토쇠골",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047956_P_DOTEKKOTSU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/132-086.webp"
+    },
+    {
+      "no": "133/086",
+      "name": "ローブシン",
+      "name_ko": "노보청",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047957_P_ROBUSHIN.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/133-086.webp"
+    },
+    {
+      "no": "134/086",
+      "name": "ナゲキ",
+      "name_ko": "던지미",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047958_P_NAGEKI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/134-086.webp"
+    },
+    {
+      "no": "135/086",
+      "name": "イシズマイ",
+      "name_ko": "돌살이",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047959_P_ISHIZUMAI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/135-086.webp"
+    },
+    {
+      "no": "136/086",
+      "name": "イワパレス",
+      "name_ko": "암팰리스",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047960_P_IWAPARESU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/136-086.webp"
+    },
+    {
+      "no": "137/086",
+      "name": "ランドロス",
+      "name_ko": "랜드로스",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047961_P_RANDOROSU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/137-086.webp"
+    },
+    {
+      "no": "138/086",
+      "name": "フシデ",
+      "name_ko": "마디네",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047962_P_FUSHIDE.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/138-086.webp"
+    },
+    {
+      "no": "139/086",
+      "name": "ホイーガ",
+      "name_ko": "휠구",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047963_P_HOIGA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/139-086.webp"
+    },
+    {
+      "no": "140/086",
+      "name": "ペンドラー",
+      "name_ko": "펜드라",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047964_P_PENDORA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/140-086.webp"
+    },
+    {
+      "no": "141/086",
+      "name": "メグロコ",
+      "name_ko": "깜눈크",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047965_P_MEGUROKO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/141-086.webp"
+    },
+    {
+      "no": "142/086",
+      "name": "ワルビル",
+      "name_ko": "악비르",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047966_P_WARUBIRU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/142-086.webp"
+    },
+    {
+      "no": "143/086",
+      "name": "ワルビアル",
+      "name_ko": "악비아르",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047967_P_WARUBIARU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/143-086.webp"
+    },
+    {
+      "no": "144/086",
+      "name": "バルチャイ",
+      "name_ko": "벌차이",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047968_P_BARUCHIXYAI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/144-086.webp"
+    },
+    {
+      "no": "145/086",
+      "name": "バルジーナ",
+      "name_ko": "버랜지나",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047969_P_BARUJINA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/145-086.webp"
+    },
+    {
+      "no": "146/086",
+      "name": "シュバルゴ",
+      "name_ko": "슈바르고",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047970_P_SHIXYUBARUGO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/146-086.webp"
+    },
+    {
+      "no": "147/086",
+      "name": "コマタナ",
+      "name_ko": "자망칼",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047971_P_KOMATANA.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/147-086.webp"
+    },
+    {
+      "no": "148/086",
+      "name": "キリキザン",
+      "name_ko": "절각참",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047972_P_KIRIKIZAN.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/148-086.webp"
+    },
+    {
+      "no": "149/086",
+      "name": "コバルオン",
+      "name_ko": "코바르온",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047973_P_KOBARUON.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/149-086.webp"
+    },
+    {
+      "no": "150/086",
+      "name": "キバゴ",
+      "name_ko": "터검니",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047974_P_KIBAGO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/150-086.webp"
+    },
+    {
+      "no": "151/086",
+      "name": "オノンド",
+      "name_ko": "액슨도",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047975_P_ONONDO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/151-086.webp"
+    },
+    {
+      "no": "152/086",
+      "name": "オノノクス",
+      "name_ko": "액스라이즈",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047976_P_ONONOKUSU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/152-086.webp"
+    },
+    {
+      "no": "153/086",
+      "name": "マメパト",
+      "name_ko": "콩둘기",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047977_P_MAMEPATO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/153-086.webp"
+    },
+    {
+      "no": "154/086",
+      "name": "ハトーボー",
+      "name_ko": "유토브",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047978_P_HATOBO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/154-086.webp"
+    },
+    {
+      "no": "155/086",
+      "name": "ケンホロウ",
+      "name_ko": "켄호로우",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047979_P_KENHOROU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/155-086.webp"
+    },
+    {
+      "no": "156/086",
+      "name": "タブンネ",
+      "name_ko": "다부니",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047980_P_TABUNNE.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/156-086.webp"
+    },
+    {
+      "no": "157/086",
+      "name": "チラーミィ",
+      "name_ko": "치라미",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047981_P_CHIRAMII.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/157-086.webp"
+    },
+    {
+      "no": "158/086",
+      "name": "チラチーノ",
+      "name_ko": "치라치노",
+      "rarity": "AR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047982_P_CHIRACHINO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/158-086.webp"
+    },
+    {
+      "no": "159/086",
+      "name": "ジャローダex",
+      "name_ko": "샤로다 ex",
+      "rarity": "SR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047983_P_JIXYARODAEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/159-086.webp"
+    },
+    {
+      "no": "160/086",
+      "name": "キュレムex",
+      "name_ko": "큐레무 ex",
+      "rarity": "SR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047984_P_KIXYUREMUEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/160-086.webp"
+    },
+    {
+      "no": "161/086",
+      "name": "ゼクロムex",
+      "name_ko": "제크로무 ex",
+      "rarity": "SR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047985_P_ZEKUROMUEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/161-086.webp"
+    },
+    {
+      "no": "162/086",
+      "name": "メロエッタex",
+      "name_ko": "메로엣타 ex",
+      "rarity": "SR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047986_P_MEROETTAEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/162-086.webp"
+    },
+    {
+      "no": "163/086",
+      "name": "ドリュウズex",
+      "name_ko": "몰드류 ex",
+      "rarity": "SR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047987_P_DORIXYUUZUEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/163-086.webp"
+    },
+    {
+      "no": "164/086",
+      "name": "ゲノセクトex",
+      "name_ko": "게노세크트 ex",
+      "rarity": "SR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047988_P_GENOSEKUTOEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/164-086.webp"
+    },
+    {
+      "no": "167/086",
+      "name": "ジャローダex",
+      "name_ko": "샤로다 ex",
+      "rarity": "SAR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047991_P_JIXYARODAEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/167-086.webp"
+    },
+    {
+      "no": "168/086",
+      "name": "キュレムex",
+      "name_ko": "큐레무 ex",
+      "rarity": "SAR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047992_P_KIXYUREMUEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/168-086.webp"
+    },
+    {
+      "no": "169/086",
+      "name": "ゼクロムex",
+      "name_ko": "제크로무 ex",
+      "rarity": "SAR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047993_P_ZEKUROMUEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/169-086.webp"
+    },
+    {
+      "no": "170/086",
+      "name": "メロエッタex",
+      "name_ko": "메로엣타 ex",
+      "rarity": "SAR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047994_P_MEROETTAEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/170-086.webp"
+    },
+    {
+      "no": "171/086",
+      "name": "ドリュウズex",
+      "name_ko": "몰드류 ex",
+      "rarity": "SAR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047995_P_DORIXYUUZUEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/171-086.webp"
+    },
+    {
+      "no": "172/086",
+      "name": "ゲノセクトex",
+      "name_ko": "게노세크트 ex",
+      "rarity": "SAR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047996_P_GENOSEKUTOEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/172-086.webp"
+    },
+    {
+      "no": "174/086",
+      "name": "ゼクロムex",
+      "name_ko": "제크로무 ex",
+      "rarity": "BWR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047998_P_ZEKUROMUEX.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/174-086.webp"
+    },
+    {
+      "no": "079/086",
+      "name": "エネルギーコイン",
+      "name_ko": "에너지 동전",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047615_T_ENERUGIKOIN.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/079-086.webp"
+    },
+    {
+      "no": "080/086",
+      "name": "古びたふたの化石",
+      "name_ko": "오래된 덮개화석",
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047616_T_FURUBITAFUTANOKASEKI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/080-086.webp"
+    },
+    {
+      "no": "081/086",
+      "name": "ポケギア3.0",
+      "name_ko": "포켓기어3.0",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047617_T_POKEGIA30.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/081-086.webp"
+    },
+    {
+      "no": "082/086",
+      "name": "ふうせん",
+      "name_ko": "풍선",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047618_T_FUUSEN.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/082-086.webp"
+    },
+    {
+      "no": "083/086",
+      "name": "Nの筋書き",
+      "name_ko": "N의 방안",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047619_T_NNOSUJIGAKI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/083-086.webp"
+    },
+    {
+      "no": "084/086",
+      "name": "博士の研究",
+      "name_ko": "박사의 연구",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047620_T_HAKASENOKENKIXYUU.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/084-086.webp"
+    },
+    {
+      "no": "085/086",
+      "name": "マコモ",
+      "name_ko": "주리",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047621_T_MAKOMO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/085-086.webp"
+    },
+    {
+      "no": "165/086",
+      "name": "Nの筋書き",
+      "name_ko": "N의 방안",
+      "rarity": "SR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047989_T_NNOSUJIGAKI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/165-086.webp"
+    },
+    {
+      "no": "166/086",
+      "name": "マコモ",
+      "name_ko": "주리",
+      "rarity": "SR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047990_T_MAKOMO.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/166-086.webp"
+    },
+    {
+      "no": "173/086",
+      "name": "Nの筋書き",
+      "name_ko": "N의 방안",
+      "rarity": "SAR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047997_T_NNOSUJIGAKI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/173-086.webp"
+    },
+    {
+      "no": "086/086",
+      "name": "プリズムエネルギー",
+      "name_ko": "프리즘 에너지",
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047622_E_PURIZUMUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-sv11b/086-086.webp"
+    }
+  ]
+}

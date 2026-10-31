@@ -1,0 +1,205 @@
+{
+  "id": "pkm-jp-smp2",
+  "cards": [
+    {
+      "no": "001/024",
+      "name": "フシギダネ",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036718_P_FUSHIGIDANE.jpg",
+      "image": "dex/cards/pkm-jp-smp2/001-024.webp"
+    },
+    {
+      "no": "002/024",
+      "name": "フシギダネ",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036719_P_FUSHIGIDANE.jpg",
+      "image": "dex/cards/pkm-jp-smp2/002-024.webp"
+    },
+    {
+      "no": "003/024",
+      "name": "ルンパッパ",
+      "name_ko": null,
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036720_P_RUNPAPPA.jpg",
+      "image": "dex/cards/pkm-jp-smp2/003-024.webp"
+    },
+    {
+      "no": "004/024",
+      "name": "ネマシュ",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036721_P_NEMASHU.jpg",
+      "image": "dex/cards/pkm-jp-smp2/004-024.webp"
+    },
+    {
+      "no": "005/024",
+      "name": "ヒトカゲ",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036722_P_HITOKAGE.jpg",
+      "image": "dex/cards/pkm-jp-smp2/005-024.webp"
+    },
+    {
+      "no": "006/024",
+      "name": "リザードン",
+      "name_ko": null,
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036723_P_RIZADON.jpg",
+      "image": "dex/cards/pkm-jp-smp2/006-024.webp"
+    },
+    {
+      "no": "007/024",
+      "name": "リザードンGX",
+      "name_ko": null,
+      "rarity": "RR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036724_P_RIZADONGX.jpg",
+      "image": "dex/cards/pkm-jp-smp2/007-024.webp"
+    },
+    {
+      "no": "008/024",
+      "name": "ウインディ",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036725_P_UINDEI.jpg",
+      "image": "dex/cards/pkm-jp-smp2/008-024.webp"
+    },
+    {
+      "no": "009/024",
+      "name": "コダック",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036726_P_KODAKKU.jpg",
+      "image": "dex/cards/pkm-jp-smp2/009-024.webp"
+    },
+    {
+      "no": "010/024",
+      "name": "コダック",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036727_P_KODAKKU.jpg",
+      "image": "dex/cards/pkm-jp-smp2/010-024.webp"
+    },
+    {
+      "no": "011/024",
+      "name": "コイキング",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036728_P_KOIKINGU.jpg",
+      "image": "dex/cards/pkm-jp-smp2/011-024.webp"
+    },
+    {
+      "no": "012/024",
+      "name": "ゲッコウガ",
+      "name_ko": null,
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036729_P_GEKKOUGA.jpg",
+      "image": "dex/cards/pkm-jp-smp2/012-024.webp"
+    },
+    {
+      "no": "013/024",
+      "name": "ゲッコウガGX",
+      "name_ko": null,
+      "rarity": "RR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036730_P_GEKKOUGAGX.jpg",
+      "image": "dex/cards/pkm-jp-smp2/013-024.webp"
+    },
+    {
+      "no": "014/024",
+      "name": "名探偵ピカチュウ",
+      "name_ko": null,
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036731_P_MEITANTEIPIKACHUU.jpg",
+      "image": "dex/cards/pkm-jp-smp2/014-024.webp"
+    },
+    {
+      "no": "015/024",
+      "name": "バリヤード",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036732_P_BARIYADO.jpg",
+      "image": "dex/cards/pkm-jp-smp2/015-024.webp"
+    },
+    {
+      "no": "016/024",
+      "name": "ミュウツー",
+      "name_ko": null,
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036733_P_MYUUTSU.jpg",
+      "image": "dex/cards/pkm-jp-smp2/016-024.webp"
+    },
+    {
+      "no": "017/024",
+      "name": "ミュウツーGX",
+      "name_ko": null,
+      "rarity": "RR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036734_P_MYUUTSUGX.jpg",
+      "image": "dex/cards/pkm-jp-smp2/017-024.webp"
+    },
+    {
+      "no": "018/024",
+      "name": "カイリキー",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036735_P_KAIRIKI.jpg",
+      "image": "dex/cards/pkm-jp-smp2/018-024.webp"
+    },
+    {
+      "no": "019/024",
+      "name": "プリン",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036736_P_PURIN.jpg",
+      "image": "dex/cards/pkm-jp-smp2/019-024.webp"
+    },
+    {
+      "no": "020/024",
+      "name": "ブルー",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036737_P_BURU.jpg",
+      "image": "dex/cards/pkm-jp-smp2/020-024.webp"
+    },
+    {
+      "no": "021/024",
+      "name": "ブルー",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036738_P_BURU.jpg",
+      "image": "dex/cards/pkm-jp-smp2/021-024.webp"
+    },
+    {
+      "no": "022/024",
+      "name": "ベロリンガ",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036739_P_BERORINGA.jpg",
+      "image": "dex/cards/pkm-jp-smp2/022-024.webp"
+    },
+    {
+      "no": "023/024",
+      "name": "メタモン",
+      "name_ko": null,
+      "rarity": "U",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036740_P_METAMON.jpg",
+      "image": "dex/cards/pkm-jp-smp2/023-024.webp"
+    },
+    {
+      "no": "024/024",
+      "name": "ケッキング",
+      "name_ko": null,
+      "rarity": "C",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036741_P_KEKKINGU.jpg",
+      "image": "dex/cards/pkm-jp-smp2/024-024.webp"
+    },
+    {
+      "no": "025/024",
+      "name": "ヨシダ警部補",
+      "name_ko": null,
+      "rarity": "SR",
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMP2/036742_T_YOSHIDAKEIBUHO.jpg",
+      "image": "dex/cards/pkm-jp-smp2/025-024.webp"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-st36",
+  "cards": [
+    {
+      "no": "OP10-099",
+      "name": "ユースタス・キッド",
+      "name_ko": "유스타스 키드",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-099_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP10-101",
+      "name": "ウルージ",
+      "name_ko": "우루지",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-101_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP10-103",
+      "name": "カポネ・ベッジ",
+      "name_ko": "카포네 벳지",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-103_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP10-109",
+      "name": "バジル・ホーキンス",
+      "name_ko": "바질 호킨스",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-109_r2.png",
+      "image": null
+    },
+    {
+      "no": "OP10-111",
+      "name": "モンキー・Ｄ・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-111_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP10-114",
+      "name": "X・ドレーク",
+      "name_ko": "X 드레이크",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-114_r2.png",
+      "image": null
+    },
+    {
+      "no": "OP12-113",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-113_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP13-116",
+      "name": "この海で一番自由な奴が海賊王だ!!!",
+      "name_ko": "이 바다에서 가장 자유로운 녀석이 해적왕이야.",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-116_r1.png",
+      "image": null
+    },
+    {
+      "no": "P-085",
+      "name": "ジュエリー・ボニー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-085_r2.png",
+      "image": null
+    },
+    {
+      "no": "P-088",
+      "name": "トラファルガー・ロー",
+      "name_ko": "트라팔가 로",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-088_r2.png",
+      "image": null
+    },
+    {
+      "no": "ST36-001",
+      "name": "キャベンディッシュ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST36-001.png",
+      "image": null
+    },
+    {
+      "no": "ST36-002",
+      "name": "キラー",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST36-002.png",
+      "image": null
+    },
+    {
+      "no": "ST36-003",
+      "name": "スクラッチメン・アプー",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST36-003.png",
+      "image": null
+    },
+    {
+      "no": "ST36-004",
+      "name": "バルトロメオ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST36-004.png",
+      "image": null
+    },
+    {
+      "no": "ST36-005",
+      "name": "ユースタス・キッド",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST36-005.png",
+      "image": null
+    }
+  ]
+}

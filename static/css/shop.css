@@ -2215,3 +2215,43 @@ body.actions-in-view .cartbar.show { transform: translateY(120%); }
 .dx-kind-img { position: relative; display: block; background: #fff; box-shadow: inset 0 0 0 1px #eef0f5; }
 .dx-kind-img img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; padding: 6px; }
 .dx-kind-all { background: linear-gradient(135deg, var(--yellow-l), var(--sky-l)); box-shadow: none; }
+
+/* 도감: 수록 카드 목록 창 */
+.dx-card.has-cards { cursor: pointer; transition: transform 220ms var(--ease-out), box-shadow 220ms ease; }
+.dx-card.has-cards:focus-visible { outline: 3px solid var(--sky-d); outline-offset: 2px; }
+.dx-cards-btn { margin: 10px 2px 0; display: inline-flex; align-items: center; justify-content: center; min-height: 34px; border-radius: 10px; background: var(--yellow-l); color: var(--night); font-size: 12.5px; font-weight: 800; }
+.dx-modal { position: fixed; inset: 0; z-index: 90; display: grid; place-items: center; padding: clamp(0px, 3vw, 32px); }
+.dx-modal-back { position: absolute; inset: 0; background: rgba(9, 18, 46, .55); opacity: 0; transition: opacity 240ms ease; }
+.dx-modal-panel { position: relative; width: min(1100px, 100%); max-height: min(88dvh, 920px); display: flex; flex-direction: column; border-radius: 22px; background: #fff; box-shadow: 0 30px 80px -30px rgba(9, 18, 46, .7); transform: translateY(16px) scale(.98); opacity: 0; transition: transform 300ms var(--ease-out), opacity 220ms ease; overflow: hidden; }
+.dx-modal.open .dx-modal-back { opacity: 1; }
+.dx-modal.open .dx-modal-panel { transform: none; opacity: 1; }
+.dx-modal-head { display: flex; align-items: center; gap: 14px; padding: 16px 16px 12px 20px; border-bottom: 1px solid #eef0f5; }
+.dx-modal-img { width: 56px; height: 56px; object-fit: contain; border-radius: 10px; box-shadow: inset 0 0 0 1px #eef0f5; padding: 4px; flex: none; }
+.dx-modal-head > div { flex: 1; min-width: 0; }
+.dx-modal-head h2 { margin: 0; font-size: 18px; font-weight: 800; letter-spacing: -0.02em; }
+.dx-modal-head p { margin: 2px 0 0; color: var(--muted); font-size: 13px; font-weight: 700; }
+.dx-modal-tools { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 12px 20px; }
+.dx-modal-tools .dx-input { flex: 1 1 240px; height: 42px; }
+.dx-modal-tools select { height: 42px; padding: 0 10px; border: 1.5px solid var(--line); border-radius: 11px; background: #fff; font-weight: 700; }
+.dx-modal-count { color: var(--muted); font-size: 13px; font-weight: 800; font-variant-numeric: tabular-nums; }
+.dx-card-grid { flex: 1; overflow-y: auto; overscroll-behavior: contain; display: grid; grid-template-columns: repeat(auto-fill, minmax(132px, 1fr)); gap: 14px; padding: 4px 20px 22px; align-content: start; }
+.dx-c { margin: 0; display: grid; gap: 6px; }
+.dx-c-img { display: block; aspect-ratio: 63 / 88; border-radius: 8px; background: #f2f4f9; overflow: hidden; }
+.dx-c-img img { width: 100%; height: 100%; object-fit: cover; }
+.dx-c figcaption { display: grid; gap: 1px; font-size: 12.5px; line-height: 1.35; }
+.dx-c-no { color: var(--muted); font-weight: 700; font-variant-numeric: tabular-nums; }
+.dx-c-no b { margin-left: 4px; padding: 0 5px; border-radius: 4px; background: var(--yellow-l); color: #7a5a00; font-weight: 800; }
+.dx-c strong { font-weight: 800; color: var(--ink); }
+.dx-c-sub { color: #8a93ab; font-size: 11.5px; }
+.dx-c-empty { grid-column: 1 / -1; margin: 40px 0; text-align: center; color: var(--muted); font-weight: 700; }
+@media (max-width: 767px) {
+  .dx-modal { padding: 0; place-items: end stretch; }
+  .dx-modal-panel { width: 100%; max-height: 92dvh; border-radius: 20px 20px 0 0; padding-bottom: env(safe-area-inset-bottom, 0px); }
+  .dx-card-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; padding-inline: 14px; }
+}
+@media (hover: hover) and (pointer: fine) {
+  .dx-card.has-cards:hover { transform: translateY(-3px); box-shadow: 0 0 0 1px #e1e5ee, 0 20px 34px -22px rgba(15, 30, 69, .5); }
+}
+@media (prefers-reduced-motion: reduce) { .dx-modal-panel, .dx-modal-back { transition: none; } }
+.dx-c-img { position: relative; }
+.dx-c-ph { position: absolute; inset: 0; display: grid; place-items: center; padding: 8px; color: #9aa2b8; font-size: 12px; font-weight: 800; letter-spacing: .02em; text-align: center; background: repeating-linear-gradient(135deg, #f2f4f9 0 10px, #eceff6 10px 20px); }

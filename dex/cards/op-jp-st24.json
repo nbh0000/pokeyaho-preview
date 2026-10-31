@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-st24",
+  "cards": [
+    {
+      "no": "EB01-015",
+      "name": "スクラッチメン・アプー",
+      "name_ko": "스크래치멘 아푸",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-015_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-019",
+      "name": "ジュエリー・ボニー",
+      "name_ko": "쥬얼리 보니",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "緑",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-019_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP07-021",
+      "name": "ウルージ",
+      "name_ko": "우루지",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-021_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-023",
+      "name": "カリブー",
+      "name_ko": "카리브",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-023_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-025",
+      "name": "コリブー",
+      "name_ko": "코리브",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-025_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-031",
+      "name": "バルトロメオ",
+      "name_ko": "바르톨로메오",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-031_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-033",
+      "name": "モンキー・Ｄ・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-033_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-034",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-034_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-036",
+      "name": "鬼気 九刀流 阿修羅 魔九閃",
+      "name_ko": "귀기 구검류 아수라 마구섬",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-036_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-037",
+      "name": "ピザお～か～わ～り～!!!",
+      "name_ko": "피자 추~~가아~~!!!",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-037_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST24-001",
+      "name": "カポネ・ベッジ",
+      "name_ko": "카포네 벳지",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST24-001.png",
+      "image": null
+    },
+    {
+      "no": "ST24-002",
+      "name": "キッド＆キラー",
+      "name_ko": "키드 & 킬러",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST24-002.png",
+      "image": null
+    },
+    {
+      "no": "ST24-003",
+      "name": "バジル・ホーキンス",
+      "name_ko": "바질 호킨스",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST24-003.png",
+      "image": null
+    },
+    {
+      "no": "ST24-004",
+      "name": "ロー＆ベポ",
+      "name_ko": "로 & 베포",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST24-004.png",
+      "image": null
+    },
+    {
+      "no": "ST24-005",
+      "name": "X・ドレーク",
+      "name_ko": "X 드레이크",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST24-005.png",
+      "image": null
+    }
+  ]
+}

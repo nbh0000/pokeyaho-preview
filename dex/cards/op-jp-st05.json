@@ -1,0 +1,192 @@
+{
+  "id": "op-jp-st05",
+  "cards": [
+    {
+      "no": "ST05-001",
+      "name": "シャンクス",
+      "name_ko": "샹크스",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-001.png",
+      "image": null
+    },
+    {
+      "no": "ST05-002",
+      "name": "アイン",
+      "name_ko": "아인",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-002.png",
+      "image": null
+    },
+    {
+      "no": "ST05-003",
+      "name": "アン",
+      "name_ko": "앤",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-003.png",
+      "image": null
+    },
+    {
+      "no": "ST05-004",
+      "name": "ウタ",
+      "name_ko": "우타",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-004.png",
+      "image": null
+    },
+    {
+      "no": "ST05-005",
+      "name": "カリーナ",
+      "name_ko": "카리나",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-005.png",
+      "image": null
+    },
+    {
+      "no": "ST05-006",
+      "name": "ギルド・テゾーロ",
+      "name_ko": "길드 테소로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-006.png",
+      "image": null
+    },
+    {
+      "no": "ST05-007",
+      "name": "ゴードン",
+      "name_ko": "고든",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-007.png",
+      "image": null
+    },
+    {
+      "no": "ST05-008",
+      "name": "シキ",
+      "name_ko": "시키",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-008.png",
+      "image": null
+    },
+    {
+      "no": "ST05-009",
+      "name": "スカーレット",
+      "name_ko": "스칼렛",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-009.png",
+      "image": null
+    },
+    {
+      "no": "ST05-010",
+      "name": "ゼット",
+      "name_ko": "제트",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-010.png",
+      "image": null
+    },
+    {
+      "no": "ST05-011",
+      "name": "ダグラス・バレット",
+      "name_ko": "더글라스 불릿",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-011.png",
+      "image": null
+    },
+    {
+      "no": "ST05-012",
+      "name": "バカラ",
+      "name_ko": "바카라",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-012.png",
+      "image": null
+    },
+    {
+      "no": "ST05-013",
+      "name": "ビンズ",
+      "name_ko": "빈즈",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-013.png",
+      "image": null
+    },
+    {
+      "no": "ST05-014",
+      "name": "ブエナ・フェスタ",
+      "name_ko": "부에나 페스타",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-014.png",
+      "image": null
+    },
+    {
+      "no": "ST05-015",
+      "name": "Dr.インディゴ",
+      "name_ko": "Dr. 인디고",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-015.png",
+      "image": null
+    },
+    {
+      "no": "ST05-016",
+      "name": "獅子威し御所地巻き",
+      "name_ko": "사자의 위협 회오리 흙",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-016.png",
+      "image": null
+    },
+    {
+      "no": "ST05-017",
+      "name": "鎧合体",
+      "name_ko": "유니온 아르마다",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-017.png",
+      "image": null
+    }
+  ]
+}

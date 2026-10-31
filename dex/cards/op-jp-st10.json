@@ -1,0 +1,214 @@
+{
+  "id": "op-jp-st10",
+  "cards": [
+    {
+      "no": "OP01-016",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-016_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP01-025",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-025_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST10-001",
+      "name": "トラファルガー・ロー",
+      "name_ko": "트라팔가 로",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤/紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-001.png",
+      "image": null
+    },
+    {
+      "no": "ST10-002",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤/紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-002.png",
+      "image": null
+    },
+    {
+      "no": "ST10-003",
+      "name": "ユースタス・キッド",
+      "name_ko": null,
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤/紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-003.png",
+      "image": null
+    },
+    {
+      "no": "ST10-004",
+      "name": "サンジ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-004.png",
+      "image": null
+    },
+    {
+      "no": "ST10-005",
+      "name": "ジンベエ",
+      "name_ko": "징베",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-005.png",
+      "image": null
+    },
+    {
+      "no": "ST10-006",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-006.png",
+      "image": null
+    },
+    {
+      "no": "ST10-007",
+      "name": "キラー",
+      "name_ko": "킬러",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-007.png",
+      "image": null
+    },
+    {
+      "no": "ST10-008",
+      "name": "シャチ＆ペンギン",
+      "name_ko": "샤치 & 펭귄",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-008.png",
+      "image": null
+    },
+    {
+      "no": "ST10-009",
+      "name": "ジャンバール",
+      "name_ko": "잠발",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-009.png",
+      "image": null
+    },
+    {
+      "no": "ST10-010",
+      "name": "トラファルガー・ロー",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-010.png",
+      "image": null
+    },
+    {
+      "no": "ST10-011",
+      "name": "ヒート",
+      "name_ko": "히트",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-011.png",
+      "image": null
+    },
+    {
+      "no": "ST10-012",
+      "name": "ベポ",
+      "name_ko": "베포",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-012.png",
+      "image": null
+    },
+    {
+      "no": "ST10-013",
+      "name": "ユースタス・キッド",
+      "name_ko": "유스타스 키드",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-013.png",
+      "image": null
+    },
+    {
+      "no": "ST10-014",
+      "name": "ワイヤー",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-014.png",
+      "image": null
+    },
+    {
+      "no": "ST10-015",
+      "name": "ゴムゴムの巨人つっぱり",
+      "name_ko": "고무고무 기간트 밀쳐내기",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-015.png",
+      "image": null
+    },
+    {
+      "no": "ST10-016",
+      "name": "ゴムゴムの猿王銃乱打",
+      "name_ko": "고무고무 콩 개틀링",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-016.png",
+      "image": null
+    },
+    {
+      "no": "ST10-017",
+      "name": "磁気万力",
+      "name_ko": "펑크 바이스",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-017.png",
+      "image": null
+    }
+  ]
+}

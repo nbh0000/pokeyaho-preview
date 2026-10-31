@@ -276,6 +276,70 @@
     if (yearSelect) yearSelect.addEventListener('change', function () { dx.year = yearSelect.value; applyDx(); });
   }
 
+  // ===== 카드 도감: 세트를 누르면 수록 카드 목록 창 =====
+  var dxModal = document.querySelector('[data-dx-modal]');
+  if (dxModal) {
+    var cGrid = dxModal.querySelector('[data-dx-card-grid]');
+    var cSearch = dxModal.querySelector('[data-dx-card-search]');
+    var cRarity = dxModal.querySelector('[data-dx-rarity]');
+    var cCount = dxModal.querySelector('[data-dx-card-count]');
+    var lastOpener = null, cards = [], closeTimer;
+    var esc = function (v) { return String(v == null ? '' : v).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); };
+    var renderCards = function () {
+      var q = (cSearch.value || '').trim().toLowerCase();
+      var r = cRarity.value;
+      var html = '', shown = 0;
+      cards.forEach(function (c) {
+        var hay = ((c.no || '') + ' ' + (c.name || '') + ' ' + (c.name_ko || '')).toLowerCase();
+        if ((r && c.rarity !== r) || (q && hay.indexOf(q) === -1)) return;
+        shown++;
+        html += '<figure class="dx-c"><span class="dx-c-img">' + (c.image ? '<img src="' + esc(cGrid.getAttribute('data-static-base') + c.image) + '" alt="' + esc(c.name_ko || c.name) + '" loading="lazy" decoding="async">' : '<span class="dx-c-ph">' + esc(c.no || '') + '</span>') + '</span>'
+          + '<figcaption><span class="dx-c-no">' + esc(c.no) + (c.rarity ? ' <b>' + esc(c.rarity) + '</b>' : '') + '</span><strong>' + esc(c.name_ko || c.name) + '</strong>' + (c.name_ko && c.name && c.name_ko !== c.name ? '<span class="dx-c-sub">' + esc(c.name) + '</span>' : '') + '</figcaption></figure>';
+      });
+      cGrid.innerHTML = html || '<p class="dx-c-empty">조건에 맞는 카드가 없습니다.</p>';
+      cCount.textContent = shown + ' / ' + cards.length + '장';
+    };
+    var openSet = function (el) {
+      lastOpener = el;
+      clearTimeout(closeTimer);
+      dxModal.querySelector('[data-dx-modal-title]').textContent = el.getAttribute('data-dx-title');
+      dxModal.querySelector('[data-dx-modal-meta]').textContent = el.getAttribute('data-dx-meta');
+      var img = dxModal.querySelector('[data-dx-modal-img]');
+      var src = el.getAttribute('data-dx-img');
+      img.hidden = !src; if (src) img.src = src;
+      cSearch.value = ''; cRarity.innerHTML = '<option value="">모든 희귀도</option>';
+      cGrid.innerHTML = '<p class="dx-c-empty">카드 목록을 불러오는 중…</p>'; cCount.textContent = '';
+      dxModal.hidden = false;
+      document.body.classList.add('drawer-lock');
+      requestAnimationFrame(function () { dxModal.classList.add('open'); dxModal.querySelector('.drawer-x').focus(); });
+      fetch(cGrid.getAttribute('data-cards-base') + el.getAttribute('data-dx-open') + '.json').then(function (r) { return r.json(); }).then(function (data) {
+        cards = Array.isArray(data.cards) ? data.cards : [];
+        var rarities = [];
+        cards.forEach(function (c) { if (c.rarity && rarities.indexOf(c.rarity) === -1) rarities.push(c.rarity); });
+        rarities.forEach(function (x) { var o = document.createElement('option'); o.value = x; o.textContent = x; cRarity.appendChild(o); });
+        renderCards();
+      }).catch(function () { cGrid.innerHTML = '<p class="dx-c-empty">카드 목록을 불러오지 못했습니다. 잠시 뒤 다시 열어 주세요.</p>'; });
+    };
+    var closeSet = function () {
+      dxModal.classList.remove('open');
+      document.body.classList.remove('drawer-lock');
+      closeTimer = setTimeout(function () { dxModal.hidden = true; cGrid.innerHTML = ''; }, 260);
+      if (lastOpener) lastOpener.focus();
+    };
+    document.addEventListener('click', function (e) {
+      var opener = e.target.closest('[data-dx-open]');
+      if (opener) { openSet(opener); return; }
+      if (e.target.closest('[data-dx-close]')) closeSet();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && !dxModal.hidden) closeSet();
+      var opener = e.target.closest && e.target.closest('[data-dx-open]');
+      if (opener && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); openSet(opener); }
+    });
+    cSearch.addEventListener('input', renderCards);
+    cRarity.addEventListener('change', renderCards);
+  }
+
   // ===== 배너: 마우스를 움직이면 떠다니는 카드·별이 깊이에 따라 다르게 움직인다 =====
   var hero = document.querySelector('[data-hero]');
   if (hero && finePointer && !reduce) {

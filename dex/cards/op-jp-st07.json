@@ -1,0 +1,192 @@
+{
+  "id": "op-jp-st07",
+  "cards": [
+    {
+      "no": "ST07-001",
+      "name": "シャーロット・リンリン",
+      "name_ko": "샬롯 링링",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-001.png",
+      "image": null
+    },
+    {
+      "no": "ST07-002",
+      "name": "シャーロット・アナナ",
+      "name_ko": "샬롯 아나나",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-002.png",
+      "image": null
+    },
+    {
+      "no": "ST07-003",
+      "name": "シャーロット・カタクリ",
+      "name_ko": "샬롯 카타쿠리",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-003.png",
+      "image": null
+    },
+    {
+      "no": "ST07-004",
+      "name": "シャーロット・スナック",
+      "name_ko": "샬롯 스낵",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-004.png",
+      "image": null
+    },
+    {
+      "no": "ST07-005",
+      "name": "シャーロット・ダイフク",
+      "name_ko": "샬롯 다이후쿠",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-005.png",
+      "image": null
+    },
+    {
+      "no": "ST07-006",
+      "name": "シャーロット・フランぺ",
+      "name_ko": "샬롯 플랑페",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-006.png",
+      "image": null
+    },
+    {
+      "no": "ST07-007",
+      "name": "シャーロット・ブリュレ",
+      "name_ko": "샬롯 브륄레",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-007.png",
+      "image": null
+    },
+    {
+      "no": "ST07-008",
+      "name": "シャーロット・プリン",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-008.png",
+      "image": null
+    },
+    {
+      "no": "ST07-009",
+      "name": "シャーロット・モンドール",
+      "name_ko": "샬롯 몽도르",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-009.png",
+      "image": null
+    },
+    {
+      "no": "ST07-010",
+      "name": "シャーロット・リンリン",
+      "name_ko": "샬롯 링링",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-010.png",
+      "image": null
+    },
+    {
+      "no": "ST07-011",
+      "name": "ゼウス",
+      "name_ko": "제우스",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-011.png",
+      "image": null
+    },
+    {
+      "no": "ST07-012",
+      "name": "タマゴ男爵",
+      "name_ko": "타마고 남작",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-012.png",
+      "image": null
+    },
+    {
+      "no": "ST07-013",
+      "name": "プロメテウス",
+      "name_ko": "프로메테우스",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-013.png",
+      "image": null
+    },
+    {
+      "no": "ST07-014",
+      "name": "ぺコムズ",
+      "name_ko": "페콤즈",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-014.png",
+      "image": null
+    },
+    {
+      "no": "ST07-015",
+      "name": "ソウル・ポーカス",
+      "name_ko": "소울 포커스",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-015.png",
+      "image": null
+    },
+    {
+      "no": "ST07-016",
+      "name": "力餅",
+      "name_ko": "생생떡",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-016.png",
+      "image": null
+    },
+    {
+      "no": "ST07-017",
+      "name": "クイーン・ママ・シャンテ号",
+      "name_ko": "퀸 마마 샹테 호",
+      "rarity": "C",
+      "type": "STAGE",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-017.png",
+      "image": null
+    }
+  ]
+}

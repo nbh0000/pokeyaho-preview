@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-st35",
+  "cards": [
+    {
+      "no": "OP12-090",
+      "name": "ベロ・ベティ",
+      "name_ko": "벨로 베티",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-090_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-093",
+      "name": "モーリー",
+      "name_ko": "몰리",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-093_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-098",
+      "name": "夢打撃処裏拳",
+      "name_ko": "잔털 처리권",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-098_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP13-004",
+      "name": "サボ",
+      "name_ko": "사보",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤/黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-004_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP13-005",
+      "name": "イナズマ",
+      "name_ko": "이나즈마",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-005_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP13-008",
+      "name": "エンポリオ・イワンコフ",
+      "name_ko": "엠포리오 이반코프",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-008_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP13-017",
+      "name": "モンキー・Ｄ・ドラゴン",
+      "name_ko": "몽키 D. 드래곤",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-017_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP13-019",
+      "name": "“火炎”が許さねェってよ!!",
+      "name_ko": "'에이스'가 용서하지 않겠다는군!!",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-019_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP13-081",
+      "name": "コアラ",
+      "name_ko": "코알라",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-081_r1.png",
+      "image": null
+    },
+    {
+      "no": "P-105",
+      "name": "サボ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-105_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST35-001",
+      "name": "ハック",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST35-001.png",
+      "image": null
+    },
+    {
+      "no": "ST35-002",
+      "name": "リンドバーグ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST35-002.png",
+      "image": null
+    },
+    {
+      "no": "ST35-003",
+      "name": "カラス",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST35-003.png",
+      "image": null
+    },
+    {
+      "no": "ST35-004",
+      "name": "コアラ",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST35-004.png",
+      "image": null
+    },
+    {
+      "no": "ST35-005",
+      "name": "バーソロミュー・くま",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST35-005.png",
+      "image": null
+    }
+  ]
+}

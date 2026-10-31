@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-st27",
+  "cards": [
+    {
+      "no": "OP09-081",
+      "name": "マーシャル・Ｄ・ティーチ",
+      "name_ko": "마샬 D. 티치",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-081_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP09-083",
+      "name": "ヴァン・オーガー",
+      "name_ko": "반 오거",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-083_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-086",
+      "name": "ジーザス・バージェス",
+      "name_ko": "지저스 바제스",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-086_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-088",
+      "name": "シリュウ",
+      "name_ko": "시류",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-088_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-089",
+      "name": "ストロンガー",
+      "name_ko": "스트롱거",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-089_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-090",
+      "name": "ドクQ",
+      "name_ko": "도크 Q",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-090_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-091",
+      "name": "バスコ・ショット",
+      "name_ko": "바스코 샷",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-091_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-095",
+      "name": "ラフィット",
+      "name_ko": "라피트",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-095_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-099",
+      "name": "ハチノス",
+      "name_ko": "벌집",
+      "rarity": "C",
+      "type": "STAGE",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-099_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP10-084",
+      "name": "サンファン・ウルフ",
+      "name_ko": "산후안 울프",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-084_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST27-001",
+      "name": "アバロ・ピサロ",
+      "name_ko": "아발로 피사로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-001.png",
+      "image": null
+    },
+    {
+      "no": "ST27-002",
+      "name": "カタリーナ・デボン",
+      "name_ko": "카타리나 데본",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-002.png",
+      "image": null
+    },
+    {
+      "no": "ST27-003",
+      "name": "クザン",
+      "name_ko": "쿠잔",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-003.png",
+      "image": null
+    },
+    {
+      "no": "ST27-004",
+      "name": "サンファン・ウルフ",
+      "name_ko": "산후안 울프",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-004.png",
+      "image": null
+    },
+    {
+      "no": "ST27-005",
+      "name": "マーシャル・Ｄ・ティーチ",
+      "name_ko": "마샬 D. 티치",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-005.png",
+      "image": null
+    }
+  ]
+}

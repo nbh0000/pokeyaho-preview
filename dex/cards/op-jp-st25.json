@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-st25",
+  "cards": [
+    {
+      "no": "OP09-042",
+      "name": "バギー",
+      "name_ko": "버기",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP09-043",
+      "name": "アルビダ",
+      "name_ko": "알비다",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-043_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-045",
+      "name": "カバジ",
+      "name_ko": "캐버디",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-045_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-051",
+      "name": "バギー",
+      "name_ko": "버기",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-053",
+      "name": "モージ",
+      "name_ko": "모디",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-053_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-054",
+      "name": "リッチー",
+      "name_ko": "리치",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-054_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-055",
+      "name": "Mr.1(ダズ・ボーネス)",
+      "name_ko": "Mr.1(다즈 보네스)",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-055_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-056",
+      "name": "Mr.3(ギャルディーノ)",
+      "name_ko": "Mr.3(갤디노)",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-056_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-057",
+      "name": "クロスギルド",
+      "name_ko": "크로스 길드",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-057_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-084",
+      "name": "バギー",
+      "name_ko": "버기",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-084_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST25-001",
+      "name": "アルビダ",
+      "name_ko": "알비다",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-001.png",
+      "image": null
+    },
+    {
+      "no": "ST25-002",
+      "name": "カバジ",
+      "name_ko": "캐버디",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-002.png",
+      "image": null
+    },
+    {
+      "no": "ST25-003",
+      "name": "クロコダイル＆ミホーク",
+      "name_ko": "크로커다일 & 미호크",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-003.png",
+      "image": null
+    },
+    {
+      "no": "ST25-004",
+      "name": "バギー",
+      "name_ko": "버기",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-004.png",
+      "image": null
+    },
+    {
+      "no": "ST25-005",
+      "name": "モージ",
+      "name_ko": "모디",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-005.png",
+      "image": null
+    }
+  ]
+}

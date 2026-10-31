@@ -403,9 +403,51 @@
     hitSeen = seen;
   }
 
+  // ===== 방송 보드 =====
+  var boardSig = {};
+  function boardSet(key, sel, html) {
+    var el = document.querySelector(sel);
+    if (!el || boardSig[key] === html) return false;
+    boardSig[key] = html;
+    el.innerHTML = html;
+    return true;
+  }
+  function renderBoard(b) {
+    if (!b) return;
+    if (preview && !b.hits.length && !b.memo.length) b.hits = [{ nickname: '다흔', card: '우타 망가' }, { nickname: '따거', card: '드래곤볼 금딱지' }];
+    if (preview && !b.turn && !b.queue.length) {
+      b.turn = { nickname: '홈런왕', summary: 'EB05 1BOX', count: 2, index: 3, total: 6 };
+      b.queue = [{ nickname: '포켓몬덕후', summary: 'EB05 1BOX', count: 1 }, { nickname: '카톤러버', summary: '북미 30주년 번들', count: 2 }];
+      b.waiting = 2;
+    }
+    setText('[data-bd-n1]', b.notice[0] || '');
+    setText('[data-bd-n2]', b.notice[1] || '');
+    var n2 = document.querySelector('[data-bd-n2]'); if (n2) n2.hidden = !b.notice[1];
+    setText('[data-bd-memo-title]', b.memoTitle || '');
+    setText('[data-bd-turn-title]', b.turnTitle || '');
+    setText('[data-bd-queue-title]', b.queueTitle || '대기 목록');
+    setText('[data-bd-queue-count]', b.waiting ? b.waiting + '명' : '');
+    var memo = b.memo.map(function (l) { return '<li>' + esc(l) + '</li>'; })
+      .concat(b.hits.map(function (h) { return '<li class="hit">' + (h.nickname ? '<b>' + esc(h.nickname) + '님</b> ' : '') + esc(h.card) + '</li>'; }));
+    boardSet('memo', '[data-bd-memo]', memo.join('') || '<li class="empty">힛카드가 나오면 여기에 쌓입니다</li>');
+    var t = b.turn;
+    var turnHtml = t
+      ? '<span class="bd-turn-label">지금 개봉 중' + (t.index ? ' · ' + t.index + '번째' : '') + '</span><strong class="bd-turn-nick">' + esc(t.nickname) + '</strong><span class="bd-turn-item">' + esc(t.summary) + '</span>'
+      : '<span class="bd-turn-idle">개봉 대기 중</span>';
+    if (boardSet('turn', '[data-bd-turn]', turnHtml) && t) replay(document.querySelector('[data-bd-turn]'), 'pop');
+    var q = b.queue.map(function (e) { return '<li><b>' + esc(e.nickname) + '</b><span>' + esc(e.summary) + '</span></li>'; });
+    boardSet('queue', '[data-bd-queue]', q.join('') || '<li class="empty">대기 중인 주문이 없습니다</li>');
+  }
+  function boardLink(ok) {
+    var el = document.querySelector('[data-bd-link]');
+    if (!el) return;
+    el.classList.toggle('off', !ok);
+    el.querySelector('b').textContent = ok ? '실시간 연결' : '연결 확인 중';
+  }
+
   // ===== 조회 =====
   function poll() {
-    var url = '/obs/feed?key=' + encodeURIComponent(C.key) + '&after=' + after + (C.mode === 'ticker' ? '&recent=1' : '') + (C.mode === 'now' ? '&now=1' : '') + (C.mode === 'draw' ? '&draw=1' : '') + (C.mode === 'hits' || C.mode === 'alert' ? '&hits=1' : '');
+    var url = '/obs/feed?key=' + encodeURIComponent(C.key) + '&after=' + after + (C.mode === 'ticker' ? '&recent=1' : '') + (C.mode === 'now' ? '&now=1' : '') + (C.mode === 'draw' ? '&draw=1' : '') + (C.mode === 'board' ? '&board=1' : '') + (C.mode === 'hits' || C.mode === 'alert' ? '&hits=1' : '');
     fetch(url, { cache: 'no-store', credentials: 'same-origin' }).then(function (r) { return r.json(); }).then(function (j) {
       if (!j.ok) throw new Error(j.message || 'feed');
       failCount = 0;
@@ -414,6 +456,9 @@
         renderDraw(j.draw);
       } else if (C.mode === 'now') {
         renderNow(j.now);
+      } else if (C.mode === 'board') {
+        renderBoard(j.board);
+        boardLink(true);
       } else if (C.mode === 'hits') {
         renderHits(j.hits);
       } else if (C.mode === 'alert') {
@@ -428,6 +473,7 @@
       after = j.last;
     }).catch(function () {
       failCount++;
+      if (C.mode === 'board') boardLink(failCount < 2);
     }).then(function () {
       // 서버가 응답하지 않으면 조회 간격을 늘렸다가 복구되면 원래대로
       setTimeout(poll, failCount ? Math.min(15000, C.poll * (1 + failCount)) : C.poll);

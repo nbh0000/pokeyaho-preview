@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-st20",
+  "cards": [
+    {
+      "no": "OP03-099",
+      "name": "シャーロット・カタクリ",
+      "name_ko": "샬롯 카타쿠리",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-099_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP03-106",
+      "name": "シャーロット・オペラ",
+      "name_ko": "샬롯 오페라",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-106_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-107",
+      "name": "シャーロット・ガレット",
+      "name_ko": "샬롯 갈렛",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-107_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-110",
+      "name": "シャーロット・スムージー",
+      "name_ko": "샬롯 스무디",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-110_r2.png",
+      "image": null
+    },
+    {
+      "no": "OP03-112",
+      "name": "シャーロット・プリン",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-115",
+      "name": "シュトロイゼン",
+      "name_ko": "슈트로이젠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-115_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-118",
+      "name": "威国",
+      "name_ko": "위국",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-118_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-121",
+      "name": "雷霆",
+      "name_ko": "뇌정",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "黄",
+      "variant": "r2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-121_r2.png",
+      "image": null
+    },
+    {
+      "no": "ST07-005",
+      "name": "シャーロット・ダイフク",
+      "name_ko": "샬롯 다이후쿠",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-005_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST07-014",
+      "name": "ぺコムズ",
+      "name_ko": "페콤즈",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-014_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST20-001",
+      "name": "シャーロット・カタクリ",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-001.png",
+      "image": null
+    },
+    {
+      "no": "ST20-002",
+      "name": "シャーロット・クラッカー",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-002.png",
+      "image": null
+    },
+    {
+      "no": "ST20-003",
+      "name": "シャーロット・ブリュレ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-003.png",
+      "image": null
+    },
+    {
+      "no": "ST20-004",
+      "name": "シャーロット・プリン",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-004.png",
+      "image": null
+    },
+    {
+      "no": "ST20-005",
+      "name": "シャーロット・リンリン",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-005.png",
+      "image": null
+    }
+  ]
+}

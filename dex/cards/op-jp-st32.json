@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-st32",
+  "cards": [
+    {
+      "no": "OP10-036",
+      "name": "ペローナ",
+      "name_ko": "페로나",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-036_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-020",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "緑",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-020_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP12-023",
+      "name": "河松",
+      "name_ko": "카와마츠",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-023_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-026",
+      "name": "くいな",
+      "name_ko": "쿠이나",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-026_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-027",
+      "name": "コウシロウ",
+      "name_ko": "코시로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-027_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-028",
+      "name": "光月日和",
+      "name_ko": "코즈키 히요리",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-028_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-031",
+      "name": "たしぎ",
+      "name_ko": "타시기",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-031_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-039",
+      "name": "ルフィは海賊王になる男だ!!!",
+      "name_ko": "루피는, 해적왕이 될 사내다!!",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-039_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP15-036",
+      "name": "リューマ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-036_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST24-005",
+      "name": "X・ドレーク",
+      "name_ko": "X 드레이크",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST24-005_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST32-001",
+      "name": "錦えもん",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-001.png",
+      "image": null
+    },
+    {
+      "no": "ST32-002",
+      "name": "光月おでん",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-002.png",
+      "image": null
+    },
+    {
+      "no": "ST32-003",
+      "name": "ジュラキュール・ミホーク",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-003.png",
+      "image": null
+    },
+    {
+      "no": "ST32-004",
+      "name": "シルバーズ・レイリー",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-004.png",
+      "image": null
+    },
+    {
+      "no": "ST32-005",
+      "name": "ロロノア・ゾロ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-005.png",
+      "image": null
+    }
+  ]
+}

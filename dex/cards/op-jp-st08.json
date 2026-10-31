@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-st08",
+  "cards": [
+    {
+      "no": "ST08-001",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-001.png",
+      "image": null
+    },
+    {
+      "no": "ST08-002",
+      "name": "ウタ",
+      "name_ko": "우타",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-002.png",
+      "image": null
+    },
+    {
+      "no": "ST08-003",
+      "name": "ガイモン",
+      "name_ko": "가이몬",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-003.png",
+      "image": null
+    },
+    {
+      "no": "ST08-004",
+      "name": "コビー",
+      "name_ko": "코비",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-004.png",
+      "image": null
+    },
+    {
+      "no": "ST08-005",
+      "name": "シャンクス",
+      "name_ko": "샹크스",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-005.png",
+      "image": null
+    },
+    {
+      "no": "ST08-006",
+      "name": "しらほし",
+      "name_ko": "시라호시",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-006.png",
+      "image": null
+    },
+    {
+      "no": "ST08-007",
+      "name": "ネフェルタリ・ビビ",
+      "name_ko": "네펠타리 비비",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-007.png",
+      "image": null
+    },
+    {
+      "no": "ST08-008",
+      "name": "ヒグマ",
+      "name_ko": "히그마",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-008.png",
+      "image": null
+    },
+    {
+      "no": "ST08-009",
+      "name": "マキノ",
+      "name_ko": "마키노",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-009.png",
+      "image": null
+    },
+    {
+      "no": "ST08-010",
+      "name": "モンキー・D・ガープ",
+      "name_ko": "몽키 D. 가프",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-010.png",
+      "image": null
+    },
+    {
+      "no": "ST08-011",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-011.png",
+      "image": null
+    },
+    {
+      "no": "ST08-012",
+      "name": "ラブーン",
+      "name_ko": "라분",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-012.png",
+      "image": null
+    },
+    {
+      "no": "ST08-013",
+      "name": "Mr.2・ボン・クレー(ベンサム)",
+      "name_ko": "Mr.2 봉쿠레(벤담)",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-013.png",
+      "image": null
+    },
+    {
+      "no": "ST08-014",
+      "name": "ゴムゴムの鐘",
+      "name_ko": "고무고무 종",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-014.png",
+      "image": null
+    },
+    {
+      "no": "ST08-015",
+      "name": "ゴムゴムの銃",
+      "name_ko": "고무고무 총",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-015.png",
+      "image": null
+    }
+  ]
+}

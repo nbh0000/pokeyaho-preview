@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-st33",
+  "cards": [
+    {
+      "no": "EB04-026",
+      "name": "ブルーグラス",
+      "name_ko": "블루그래스",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-026_r1.png",
+      "image": null
+    },
+    {
+      "no": "EB04-028",
+      "name": "アイスタイム",
+      "name_ko": "아이스 타임",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-028_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP12-040",
+      "name": "クザン",
+      "name_ko": "쿠잔",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-040_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP12-043",
+      "name": "クザン",
+      "name_ko": "쿠잔",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-043_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-045",
+      "name": "ジャンゴ",
+      "name_ko": "쟝고",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-045_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-046",
+      "name": "ゼファー",
+      "name_ko": "제파",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-046_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-047",
+      "name": "センゴク",
+      "name_ko": "센고쿠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-047_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-050",
+      "name": "ハグワール・Ｄ・サウロ",
+      "name_ko": "하그왈 D. 사우로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-050_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-052",
+      "name": "フルボディ",
+      "name_ko": "풀보디",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-052_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-057",
+      "name": "アイス塊暴雉嘴",
+      "name_ko": "아이스 블록 페즌트 펙",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "青",
+      "variant": "r1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-057_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST33-001",
+      "name": "コビー",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST33-001.png",
+      "image": null
+    },
+    {
+      "no": "ST33-002",
+      "name": "サカズキ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST33-002.png",
+      "image": null
+    },
+    {
+      "no": "ST33-003",
+      "name": "スモーカー",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST33-003.png",
+      "image": null
+    },
+    {
+      "no": "ST33-004",
+      "name": "ボルサリーノ",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST33-004.png",
+      "image": null
+    },
+    {
+      "no": "ST33-005",
+      "name": "モンキー・Ｄ・ガープ",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST33-005.png",
+      "image": null
+    }
+  ]
+}
