@@ -239,6 +239,43 @@
     if (dexSearch) dexSearch.addEventListener('input', function () { dex.q = dexSearch.value.trim().toLowerCase(); applyDex(); });
   }
 
+  // ===== 카드 도감 v2: 검색·판본·종류·연도 =====
+  var dxGrid = document.querySelector('[data-dx-grid]');
+  if (dxGrid) {
+    var dx = { q: '', region: '', kind: '', year: '' };
+    var dxItems = Array.prototype.slice.call(dxGrid.querySelectorAll('[data-dx-item]'));
+    var dxCount = document.querySelector('[data-dx-count]');
+    var dxEmpty = document.querySelector('[data-dx-empty]');
+    var kindSelect = document.querySelector('[data-dx-kind-select]');
+    var setPressed = function (sel, attr, val) {
+      Array.prototype.slice.call(document.querySelectorAll(sel)).forEach(function (b) { var on = b.getAttribute(attr) === val; b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); });
+    };
+    var applyDx = function () {
+      var shown = 0;
+      dxItems.forEach(function (el) {
+        var ok = (!dx.region || el.getAttribute('data-region') === dx.region) && (!dx.kind || el.getAttribute('data-kind') === dx.kind) && (!dx.year || el.getAttribute('data-year') === dx.year) && (!dx.q || el.getAttribute('data-q').indexOf(dx.q) !== -1);
+        el.hidden = !ok;
+        if (ok) shown++;
+      });
+      if (dxCount) dxCount.textContent = shown;
+      if (dxEmpty) dxEmpty.hidden = shown > 0;
+      setPressed('[data-dx-kind]', 'data-dx-kind', dx.kind);
+      setPressed('[data-dx-region]', 'data-dx-region', dx.region);
+      if (kindSelect) kindSelect.value = dx.kind;
+    };
+    document.addEventListener('click', function (e) {
+      var k = e.target.closest('[data-dx-kind]');
+      var r = e.target.closest('[data-dx-region]');
+      if (k) { dx.kind = k.getAttribute('data-dx-kind'); applyDx(); }
+      else if (r) { dx.region = r.getAttribute('data-dx-region'); applyDx(); }
+    });
+    var dxSearch = document.querySelector('[data-dx-search]');
+    if (dxSearch) dxSearch.addEventListener('input', function () { dx.q = dxSearch.value.trim().toLowerCase(); applyDx(); });
+    if (kindSelect) kindSelect.addEventListener('change', function () { dx.kind = kindSelect.value; applyDx(); });
+    var yearSelect = document.querySelector('[data-dx-year]');
+    if (yearSelect) yearSelect.addEventListener('change', function () { dx.year = yearSelect.value; applyDx(); });
+  }
+
   // ===== 배너: 마우스를 움직이면 떠다니는 카드·별이 깊이에 따라 다르게 움직인다 =====
   var hero = document.querySelector('[data-hero]');
   if (hero && finePointer && !reduce) {
