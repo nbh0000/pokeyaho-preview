@@ -2255,3 +2255,19 @@ body.actions-in-view .cartbar.show { transform: translateY(120%); }
 @media (prefers-reduced-motion: reduce) { .dx-modal-panel, .dx-modal-back { transition: none; } }
 .dx-c-img { position: relative; }
 .dx-c-ph { position: absolute; inset: 0; display: grid; place-items: center; padding: 8px; color: #9aa2b8; font-size: 12px; font-weight: 800; letter-spacing: .02em; text-align: center; background: repeating-linear-gradient(135deg, #f2f4f9 0 10px, #eceff6 10px 20px); }
+
+/* 도감 카드 목록: 희귀도 섹션 (좋은 희귀도부터) */
+.dx-card-grid { display: block; padding: 0 20px 22px; }
+.dx-sec + .dx-sec { margin-top: 22px; }
+.dx-sec-head { position: sticky; top: 0; z-index: 2; display: flex; align-items: baseline; gap: 8px; margin: 0 -20px 12px; padding: 10px 20px 9px; background: rgba(255, 255, 255, .94); -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px); border-bottom: 1px solid #eceff5; font-size: 13px; }
+.dx-sec-head b { display: inline-grid; place-items: center; min-width: 38px; height: 26px; padding: 0 8px; border-radius: 7px; background: #eef1f8; color: #3c4766; font-size: 13.5px; font-weight: 900; letter-spacing: .02em; }
+.dx-sec-head span { color: var(--ink); font-weight: 800; }
+.dx-sec-head em { margin-left: auto; color: var(--muted); font-style: normal; font-weight: 800; font-variant-numeric: tabular-nums; }
+.dx-sec.is-top .dx-sec-head b { background: linear-gradient(135deg, #ffd75a, #ffc61a 55%, #f4a51c); color: #0f1e45; box-shadow: inset 0 -2px 0 rgba(15, 30, 69, .18); }
+.dx-sec-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(132px, 1fr)); gap: 14px; }
+.dx-c-alt { position: absolute; left: 6px; top: 6px; padding: 2px 6px; border-radius: 5px; background: rgba(15, 30, 69, .86); color: #ffd75a; font-size: 10.5px; font-weight: 800; }
+@media (max-width: 767px) {
+  .dx-card-grid { padding-inline: 14px; }
+  .dx-sec-head { margin-inline: -14px; padding-inline: 14px; }
+  .dx-sec-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+}

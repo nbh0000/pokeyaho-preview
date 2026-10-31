@@ -285,18 +285,47 @@
     var cCount = dxModal.querySelector('[data-dx-card-count]');
     var lastOpener = null, cards = [], closeTimer;
     var esc = function (v) { return String(v == null ? '' : v).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); };
+    // 희귀도 순서(좋은 것부터)와 이름. 목록에 없는 희귀도는 일반 등급 앞에 둔다.
+    var RARITY = [
+      ['MUR', '메가 울트라 레어'], ['UR', '울트라 레어'], ['SP', '스페셜 카드'], ['TR', '트레저 레어'], ['SEC', '시크릿 레어'], ['HR', '하이퍼 레어'],
+      ['SAR', '스페셜 아트 레어'], ['MA', ''], ['SSR', '샤이니 슈퍼 레어'], ['CSR', '캐릭터 슈퍼 레어'], ['SR', '슈퍼 레어'], ['CHR', '캐릭터 레어'],
+      ['AR', '아트 레어'], ['S', '샤이니'], ['K', ''], ['ACE', '에이스 스펙'], ['L', '리더'], ['RRR', '트리플 레어'], ['RR', '더블 레어'], ['PR', '프로모'],
+      ['R', '레어'], ['UC', '언커먼'], ['U', '언커먼'], ['C', '커먼'], ['P', '프로모']
+    ];
+    var rarityKey = function (c) { var r = String(c.rarity || '').trim(); return /^SP/.test(r) ? 'SP' : r; };
+    var rarityRank = function (k) {
+      if (!k) return 999;
+      for (var i = 0; i < RARITY.length; i++) if (RARITY[i][0] === k) return i;
+      return RARITY.length - 4.5;
+    };
+    var rarityName = function (k) { for (var i = 0; i < RARITY.length; i++) if (RARITY[i][0] === k) return RARITY[i][1]; return ''; };
+    var cardHtml = function (c) {
+      return '<figure class="dx-c' + (c.variant ? ' is-alt' : '') + '"><span class="dx-c-img">' + (c.image ? '<img src="' + esc(cGrid.getAttribute('data-static-base') + c.image) + '" alt="' + esc(c.name_ko || c.name) + '" loading="lazy" decoding="async">' : '<span class="dx-c-ph">' + esc(c.no || '') + '</span>') + (c.variant ? '<span class="dx-c-alt">패러렐</span>' : '') + '</span>'
+        + '<figcaption><span class="dx-c-no">' + esc(c.no) + (c.rarity ? ' <b>' + esc(rarityKey(c)) + '</b>' : '') + '</span><strong>' + esc(c.name_ko || c.name) + '</strong>' + (c.name_ko && c.name && c.name_ko !== c.name ? '<span class="dx-c-sub">' + esc(c.name) + '</span>' : '') + '</figcaption></figure>';
+    };
     var renderCards = function () {
       var q = (cSearch.value || '').trim().toLowerCase();
       var r = cRarity.value;
-      var html = '', shown = 0;
-      cards.forEach(function (c) {
+      var groups = {}, keys = [], shown = 0;
+      cards.forEach(function (c, idx) {
+        var k = rarityKey(c);
         var hay = ((c.no || '') + ' ' + (c.name || '') + ' ' + (c.name_ko || '')).toLowerCase();
-        if ((r && c.rarity !== r) || (q && hay.indexOf(q) === -1)) return;
+        if ((r && k !== r) || (q && hay.indexOf(q) === -1)) return;
         shown++;
-        html += '<figure class="dx-c"><span class="dx-c-img">' + (c.image ? '<img src="' + esc(cGrid.getAttribute('data-static-base') + c.image) + '" alt="' + esc(c.name_ko || c.name) + '" loading="lazy" decoding="async">' : '<span class="dx-c-ph">' + esc(c.no || '') + '</span>') + '</span>'
-          + '<figcaption><span class="dx-c-no">' + esc(c.no) + (c.rarity ? ' <b>' + esc(c.rarity) + '</b>' : '') + '</span><strong>' + esc(c.name_ko || c.name) + '</strong>' + (c.name_ko && c.name && c.name_ko !== c.name ? '<span class="dx-c-sub">' + esc(c.name) + '</span>' : '') + '</figcaption></figure>';
+        if (!groups[k]) { groups[k] = []; keys.push(k); }
+        groups[k].push({ c: c, i: idx });
       });
+      keys.sort(function (a, b) { return rarityRank(a) - rarityRank(b); });
+      var html = keys.map(function (k) {
+        // 같은 희귀도 안에서는 패러렐을 먼저, 그다음 카드 번호 순
+        var list = groups[k].sort(function (a, b) { return (b.c.variant ? 1 : 0) - (a.c.variant ? 1 : 0) || a.i - b.i; });
+        var title = k || '일반 카드';
+        var sub = k ? rarityName(k) : '희귀도 표시 없음';
+        return '<section class="dx-sec' + (rarityRank(k) <= rarityRank('SR') ? ' is-top' : '') + '"><h3 class="dx-sec-head"><b>' + esc(title) + '</b>' + (sub ? '<span>' + esc(sub) + '</span>' : '') + '<em>' + list.length + '장</em></h3><div class="dx-sec-grid">'
+          + list.map(function (x) { return cardHtml(x.c); }).join('') + '</div></section>';
+      }).join('');
       cGrid.innerHTML = html || '<p class="dx-c-empty">조건에 맞는 카드가 없습니다.</p>';
+      cGrid.scrollTop = 0;
       cCount.textContent = shown + ' / ' + cards.length + '장';
     };
     var openSet = function (el) {
@@ -315,8 +344,9 @@
       fetch(cGrid.getAttribute('data-cards-base') + el.getAttribute('data-dx-open') + '.json').then(function (r) { return r.json(); }).then(function (data) {
         cards = Array.isArray(data.cards) ? data.cards : [];
         var rarities = [];
-        cards.forEach(function (c) { if (c.rarity && rarities.indexOf(c.rarity) === -1) rarities.push(c.rarity); });
-        rarities.forEach(function (x) { var o = document.createElement('option'); o.value = x; o.textContent = x; cRarity.appendChild(o); });
+        cards.forEach(function (c) { var k = rarityKey(c); if (k && rarities.indexOf(k) === -1) rarities.push(k); });
+        rarities.sort(function (a, b) { return rarityRank(a) - rarityRank(b); });
+        rarities.forEach(function (x) { var o = document.createElement('option'); var n = rarityName(x); o.value = x; o.textContent = x + (n ? ' · ' + n : ''); cRarity.appendChild(o); });
         renderCards();
       }).catch(function () { cGrid.innerHTML = '<p class="dx-c-empty">카드 목록을 불러오지 못했습니다. 잠시 뒤 다시 열어 주세요.</p>'; });
     };
