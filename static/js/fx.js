@@ -210,6 +210,35 @@
     update();
   });
 
+  // ===== 카드 도감: 카테고리·판본·이름으로 거르기 =====
+  var dexGrid = document.querySelector('[data-dex-grid]');
+  if (dexGrid) {
+    var dex = { cat: '', region: '', q: '' };
+    var dexEmpty = document.querySelector('[data-dex-empty]');
+    var dexItems = Array.prototype.slice.call(dexGrid.querySelectorAll('[data-dex-item]'));
+    var applyDex = function () {
+      var shown = 0;
+      dexItems.forEach(function (el) {
+        var ok = (!dex.cat || el.getAttribute('data-cat') === dex.cat) && (!dex.region || el.getAttribute('data-region') === dex.region) && (!dex.q || el.getAttribute('data-name').indexOf(dex.q) !== -1);
+        el.hidden = !ok;
+        if (ok) shown++;
+      });
+      if (dexEmpty) dexEmpty.hidden = shown > 0;
+    };
+    document.addEventListener('click', function (e) {
+      var c = e.target.closest('[data-dex-cat]');
+      var r = e.target.closest('[data-dex-region]');
+      if (!c && !r) return;
+      var attr = c ? 'data-dex-cat' : 'data-dex-region';
+      var btn = c || r;
+      Array.prototype.slice.call(document.querySelectorAll('[' + attr + ']')).forEach(function (b) { var on = b === btn; b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); });
+      if (c) dex.cat = btn.getAttribute(attr); else dex.region = btn.getAttribute(attr);
+      applyDex();
+    });
+    var dexSearch = document.querySelector('[data-dex-search]');
+    if (dexSearch) dexSearch.addEventListener('input', function () { dex.q = dexSearch.value.trim().toLowerCase(); applyDex(); });
+  }
+
   // ===== 배너: 마우스를 움직이면 떠다니는 카드·별이 깊이에 따라 다르게 움직인다 =====
   var hero = document.querySelector('[data-hero]');
   if (hero && finePointer && !reduce) {

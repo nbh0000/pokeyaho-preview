@@ -1929,3 +1929,82 @@ body.actions-in-view .cartbar.show { transform: translateY(120%); }
   .home-notice a:hover strong { text-decoration: underline; text-underline-offset: 3px; }
   .home-channel-list a:hover { background: var(--yellow-l); }
 }
+
+/* =====================================================================
+   카드 도감 (/dex) · 홈 도감 띠
+   ===================================================================== */
+.dex-page { padding-top: clamp(28px, 3.4vw, 44px); }
+.dex-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px 24px; flex-wrap: wrap; margin-bottom: 22px; }
+.dex-head h1 { margin: 0; font-size: clamp(26px, 2.6vw, 34px); font-weight: 800; letter-spacing: -0.035em; color: var(--ink); }
+.dex-head p { margin: 8px 0 0; max-width: 56ch; color: var(--muted); font-size: 15px; line-height: 1.6; }
+.dex-head .dex-count { margin: 0; padding: 8px 14px; border-radius: 12px; background: #fff; box-shadow: var(--shadow); color: var(--muted); font-size: 14px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.dex-count b { color: var(--night); font-weight: 800; }
+.dex-tools { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 16px; margin-bottom: 24px; }
+.dex-tools-right { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.dex-search { display: flex; align-items: center; gap: 8px; height: 44px; padding: 0 14px; border-radius: 12px; background: #fff; color: var(--muted); box-shadow: inset 0 0 0 1.5px var(--line); }
+.dex-search:focus-within { box-shadow: inset 0 0 0 2px var(--night); color: var(--night); }
+.dex-search input { width: 180px; border: 0; outline: 0; background: none; font-size: 15px; color: var(--ink); }
+.dex-search input::placeholder { color: #7d86a0; }
+.dex-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 250px), 1fr)); gap: clamp(14px, 1.6vw, 20px); }
+.dex-card { container: dex / inline-size; display: flex; flex-direction: column; padding: 10px; border-radius: 18px; background: #fff; box-shadow: var(--shadow); transition: transform 240ms var(--ease-out), box-shadow 240ms ease; }
+.dex-card[hidden] { display: none; }
+.dex-thumb { position: relative; display: block; aspect-ratio: 4 / 3; border-radius: 13px; overflow: hidden; background: var(--yellow-l); }
+.dex-card[data-cat="원피스카드"] .dex-thumb { background: var(--sky-l); }
+.dex-card[data-cat="드래곤볼/디즈니"] .dex-thumb { background: var(--orange-l); }
+.dex-thumb img { width: 100%; height: 100%; object-fit: contain; padding: 6%; mix-blend-mode: multiply; transition: transform 300ms var(--ease-out); }
+.dex-thumb .ph { position: absolute; inset: 0; display: grid; place-items: center; color: rgba(15, 30, 69, .35); font-weight: 800; letter-spacing: .12em; font-size: 12px; }
+.dex-card.is-out .dex-thumb img { filter: grayscale(1); opacity: .5; }
+.dex-card.is-out .dex-thumb { background: #eceef3; }
+.dex-body { display: grid; gap: 8px; padding: 12px 4px 4px; }
+.dex-meta { display: flex; flex-wrap: wrap; gap: 5px; }
+.dex-meta span { padding: 2px 8px; border-radius: 7px; font-size: 11.5px; font-weight: 800; }
+.dex-cat { background: #edf0f8; color: var(--night); }
+.dex-region { background: var(--yellow-l); color: #7a5a00; }
+.dex-state { margin-left: auto; background: #e6f6ee; color: #1f7a4f; }
+.dex-card.is-out .dex-state { background: #eef0f5; color: #7a8299; }
+.dex-title { margin: 0; font-size: 16.5px; font-weight: 800; letter-spacing: -0.02em; line-height: 1.35; }
+.dex-title a { color: var(--ink); text-decoration: none; }
+.dex-forms { display: flex; flex-wrap: wrap; gap: 6px; }
+.dex-form { display: inline-flex; align-items: center; gap: 6px; min-height: 36px; padding: 0 11px; border-radius: 10px; background: var(--bg); color: var(--night); font-size: 13px; text-decoration: none; transition: background-color 160ms ease, transform 120ms var(--ease-out); }
+.dex-form span { font-weight: 700; color: var(--muted); }
+.dex-form b { font-weight: 800; font-variant-numeric: tabular-nums; }
+.dex-form.out b { color: #8a93ab; font-weight: 700; }
+.dex-form:active { transform: scale(.96); }
+@container dex (max-width: 220px) { .dex-title { font-size: 15px; } .dex-form { padding: 0 9px; font-size: 12.5px; } }
+@media (max-width: 767px) {
+  .dex-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  .dex-card { padding: 7px; border-radius: 16px; }
+  .dex-tools { margin-inline: calc(-1 * var(--gutter)); }
+  .dex-tools .cat-tabs { margin: 0 var(--gutter); max-width: calc(100% - 2 * var(--gutter)); overflow-x: auto; scrollbar-width: none; }
+  .dex-tools-right { width: 100%; padding: 0 var(--gutter); }
+  .dex-search { flex: 1; }
+  .dex-search input { width: 100%; }
+  .dex-state { margin-left: 0; }
+}
+
+/* 홈 도감 띠 */
+.dex-banner { position: relative; isolation: isolate; overflow: hidden; display: flex; align-items: center; gap: 20px; min-height: 120px; margin: 0 0 clamp(44px, 5vw, 64px); padding: 20px 76px 20px clamp(20px, 2.4vw, 32px); border-radius: 20px; color: #fff; text-decoration: none; background: linear-gradient(90deg, rgba(15, 30, 69, .97) 0%, rgba(15, 30, 69, .88) 45%, rgba(15, 30, 69, .55) 100%), #0f1e45 url(../img/hero-v3-1200.webp) center 80% / cover no-repeat; box-shadow: 0 22px 36px -24px rgba(9, 18, 46, .75), inset 0 -4px 0 rgba(0, 0, 0, .18); transition: transform 220ms var(--ease-out); }
+.dex-banner-text { display: grid; gap: 4px; flex: none; }
+.dex-banner strong { font-size: clamp(20px, 2vw, 26px); font-weight: 800; letter-spacing: -0.03em; }
+.dex-banner-text span { color: #c8d2ee; font-size: 14px; font-weight: 600; }
+.dex-banner-thumbs { display: flex; margin-left: auto; }
+.dex-banner-thumbs img { width: 76px; height: 76px; object-fit: contain; padding: 6px; border-radius: 14px; background: #fff; box-shadow: 0 0 0 3px #0f1e45, 0 10px 18px -8px rgba(0, 0, 0, .5); transform: rotate(var(--r, -4deg)); }
+.dex-banner-thumbs img + img { margin-left: -14px; }
+.dex-banner-thumbs img:nth-child(2) { --r: 5deg; }
+.dex-banner-thumbs img:nth-child(3) { --r: -2deg; }
+.dex-banner-thumbs img:nth-child(4) { --r: 7deg; }
+.dex-banner .cat-tile-go { background: var(--yellow); }
+.dex-banner:active { transform: scale(.99); }
+@media (max-width: 767px) {
+  .dex-banner { min-height: 104px; padding-right: 56px; }
+  .dex-banner-thumbs { display: none; }
+}
+@media (hover: hover) and (pointer: fine) {
+  .dex-card:hover { transform: translateY(-4px); box-shadow: 0 1px 2px rgba(15, 30, 69, .06), 0 22px 36px -22px rgba(15, 30, 69, .5); }
+  .dex-card:hover .dex-thumb img { transform: scale(1.05); }
+  .dex-title a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .dex-form:hover { background: var(--yellow-l); }
+  .dex-banner:hover { transform: translateY(-2px); }
+  .dex-banner:hover .cat-tile-go { transform: translateX(3px); }
+}
+@media (max-width: 767px) { .dex-search { flex: 1 1 100%; order: 2; } }
