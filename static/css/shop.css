@@ -1835,3 +1835,25 @@ body.actions-in-view .cartbar.show { transform: translateY(120%); }
 @media (max-width: 767px) {
   .py-hero.v3 .py-hero-bg { background: #cdeef7 url(../img/hero-v3-1200.webp) center bottom / cover no-repeat; }
 }
+/* 배너 v3 낮게: 로고 + 방송 상태만, 아래 개봉 장면 */
+.py-hero.v3 .py-hero-in { min-height: 0; gap: 16px; padding: clamp(28px, 3.4vw, 44px) var(--gutter) clamp(190px, 17vw, 250px); }
+.py-hero.v3 .py-hero-logo img { width: clamp(260px, 26vw, 400px); }
+.py-hero.v3 .py-hero-bg { background-size: cover; background-position: center 78%; }
+.hf-c1 { top: 16%; }
+.hf-c2 { top: 8%; }
+.hf-s1 { top: 62%; }
+.hf-s2 { top: 56%; }
+.py-hero.v3 + .cat-tiles { margin-top: -24px; }
+@media (min-width: 768px) and (max-width: 1023px) {
+  .py-hero.v3 .py-hero-in { padding-bottom: 210px; }
+}
+@media (max-width: 767px) {
+  .py-hero.v3 .py-hero-in { padding: 24px var(--gutter) min(52vw, 220px); gap: 14px; }
+  .py-hero.v3 .py-hero-logo img { width: min(70vw, 290px); }
+  .py-hero.v3 .py-hero-bg { background-position: center bottom; }
+  .py-hero.v3 + .cat-tiles { margin-top: -20px; }
+}
+/* 개봉 장면(상자)이 카테고리 버튼에 가리지 않게: 버튼은 배너 아래로 */
+.py-hero.v3 .py-hero-bg { background-position: center bottom; }
+.py-hero.v3 + .cat-tiles { margin-top: clamp(18px, 2vw, 28px); }
+@media (max-width: 767px) { .py-hero.v3 + .cat-tiles { margin-top: 16px; } }
