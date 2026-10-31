@@ -2271,3 +2271,9 @@ body.actions-in-view .cartbar.show { transform: translateY(120%); }
   .dx-sec-head { margin-inline: -14px; padding-inline: 14px; }
   .dx-sec-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
 }
+
+/* 상품별 적립 안내 칩: '적립 기본 1~3% · 무통장 2~5%' / '적립금 X' */
+.point-chip { justify-self: start; display: inline-block; margin: 0 0 8px; padding: 4px 8px; border-radius: 7px; background: #fff4d6; box-shadow: inset 0 0 0 1px #f2d999; color: #7a5200; font-size: 12px; font-weight: 800; line-height: 1.4; word-break: keep-all; }
+.point-chip.is-none { background: #f3f4f8; box-shadow: inset 0 0 0 1px #e1e5ee; color: #6b7590; }
+.point-chip.detail { margin: 6px 0 0; font-size: 13px; }
+.pcard .point-chip { align-self: flex-start; width: fit-content; max-width: 100%; margin-inline: 0; }

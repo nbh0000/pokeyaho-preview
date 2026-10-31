@@ -685,3 +685,15 @@ tr.is-muted td { opacity: .55; }
 .obs-setup-steps { margin: 10px 0 14px; padding-left: 20px; line-height: 1.7; }
 .obs-setup-note { margin: 10px 0 0; font-size: 13px; }
 @media (max-width: 900px) { .obs-test-layout { grid-template-columns: 1fr; } .obs-phone-wrap { position: static; } }
+
+/* 상품 적립금 설정 */
+.point-fields { margin-top: 8px; }
+.point-range { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.point-range[hidden] { display: none; }
+.range-row { display: flex; align-items: center; gap: 8px; }
+.range-row input { flex: 1; min-width: 0; }
+.range-row em { font-style: normal; color: var(--muted, #8a93ab); font-weight: 700; }
+.point-help { grid-column: 1 / -1; margin: 0; color: var(--muted, #8a93ab); font-size: 13px; }
+.point-range { grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; max-width: 720px; }
+.point-range .field { display: grid; align-content: start; gap: 6px; margin: 0; }
+@media (max-width: 640px) { .point-range { grid-template-columns: 1fr; } }

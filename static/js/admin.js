@@ -332,3 +332,13 @@
     document.addEventListener('visibilitychange', function () { if (!document.hidden) refreshCards(); });
   }
 })();
+
+// 상품 등록·수정: 적립 방식이 '이 상품만 따로 정하기'일 때만 비율 칸을 보인다
+(function () {
+  var mode = document.querySelector('[data-point-mode]');
+  var custom = document.querySelector('[data-point-custom]');
+  if (!mode || !custom) return;
+  var sync = function () { custom.hidden = mode.value !== 'custom'; };
+  mode.addEventListener('change', sync);
+  sync();
+})();
