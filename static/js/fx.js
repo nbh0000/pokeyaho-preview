@@ -1,112 +1,87 @@
-/* 포케야호 화면 효과: 클릭하면 로고색 별이 톡 튀어 오름, 프리미엄 상품 홀로그램, 반응형 보조(필터 줄 끝 흐림, 하단 바 숨김, 버튼 처리 중 표시) */
+/* 포케야호 화면 효과: 점+미니 카드 포인터, 누르면 빛줄기가 퍼짐, 프리미엄 상품 홀로그램, 반응형 보조(필터 줄 끝 흐림, 하단 바 숨김, 버튼 처리 중 표시) */
 (function () {
   'use strict';
   var mq = function (q) { return window.matchMedia ? window.matchMedia(q) : { matches: false }; };
   var reduce = mq('(prefers-reduced-motion: reduce)').matches;
   var finePointer = mq('(hover: hover) and (pointer: fine)').matches;
 
-  // ===== 클릭하면 별 1~3개가 튀어 올랐다가 가상의 바닥에서 두세 번 튕기고 사라진다 =====
-  var KINDS = ['fx-star-y', 'fx-star-s', 'fx-spark'];
-  var items = [];
-  var running = false;
-  var MAX_ITEMS = 18;
+  // ===== 포케야호 포인터: 정확히 따라오는 점 + 한 박자 늦게 따라오며 기우는 미니 카드 =====
+  // 점이 실제 클릭 위치(기준점). 카드는 오른쪽 아래에 떠서 누를 곳을 가리지 않는다.
+  // 누를 수 있는 곳 위에서는 점이 링으로 커지고 카드가 앞면(노랑)으로 뒤집힌다. 글자 입력칸에서는 기본 커서로 돌아간다.
+  var HOT = 'a, button, [role="button"], label, select, summary, .cat-tab, .type-tab, .pcard-thumb, [data-open-cart], .choice .tile';
+  var TEXT = 'input:not([type="checkbox"]):not([type="radio"]):not([type="file"]):not([type="submit"]):not([type="button"]), textarea, [contenteditable]';
+  var cursor = null;
+  if (finePointer && !reduce) {
+    cursor = document.createElement('div');
+    cursor.className = 'pcur';
+    cursor.setAttribute('aria-hidden', 'true');
+    cursor.innerHTML = '<span class="pcur-card"><span class="pcur-face pc-back"></span><span class="pcur-face pc-front"></span></span><span class="pcur-dot"></span>';
+    document.body.appendChild(cursor);
+    document.documentElement.classList.add('has-pcur');
+    var dot = cursor.querySelector('.pcur-dot');
+    var card = cursor.querySelector('.pcur-card');
+    var mx = -100, my = -100, cx = -100, cy = -100, tilt = 0, moving = false, seen = false;
+    var tick = function () {
+      // 카드: 스프링처럼 따라오고, 가로로 움직인 만큼 기운다
+      var dx = mx - cx, dy = my - cy;
+      cx += dx * 0.2;
+      cy += dy * 0.2;
+      tilt += (Math.max(-28, Math.min(28, dx * 0.9)) - tilt) * 0.18;
+      card.style.transform = 'translate3d(' + (cx + 14) + 'px,' + (cy + 16) + 'px,0) rotate(' + tilt.toFixed(2) + 'deg)';
+      if (Math.abs(dx) + Math.abs(dy) + Math.abs(tilt) > 0.3) requestAnimationFrame(tick);
+      else moving = false;
+    };
+    document.addEventListener('pointermove', function (e) {
+      if (e.pointerType !== 'mouse' && e.pointerType !== 'pen') return;
+      mx = e.clientX; my = e.clientY;
+      if (!seen) { seen = true; cx = mx; cy = my; cursor.classList.add('on'); }
+      dot.style.transform = 'translate3d(' + mx + 'px,' + my + 'px,0)';
+      var t = e.target;
+      cursor.classList.toggle('is-hot', !!(t.closest && t.closest(HOT)) && !(t.closest && t.closest(':disabled, [aria-disabled="true"]')));
+      cursor.classList.toggle('is-text', !!(t.closest && t.closest(TEXT)));
+      if (!moving) { moving = true; requestAnimationFrame(tick); }
+    }, { passive: true });
+    document.addEventListener('pointerleave', function () { cursor.classList.remove('on'); seen = false; });
+    document.documentElement.addEventListener('mouseleave', function () { cursor.classList.remove('on'); seen = false; });
+    document.addEventListener('pointerdown', function (e) { if (e.pointerType === 'mouse') cursor.classList.add('is-down'); }, { passive: true });
+    document.addEventListener('pointerup', function () { cursor.classList.remove('is-down'); }, { passive: true });
+  }
+
+  // ===== 누르면: 그 자리에서 빛줄기 8개가 사방으로 짧게 퍼지고, 가운데 링이 번진다 (튕기거나 떨어지지 않음) =====
   var layer = null;
-  function ensureLayer() {
-    if (layer) return layer;
-    layer = document.createElement('div');
-    layer.className = 'fx-layer';
-    layer.setAttribute('aria-hidden', 'true');
-    document.body.appendChild(layer);
-    return layer;
-  }
-  function spawn(x, y) {
-    ensureLayer();
-    var count = 1 + Math.floor(Math.random() * 3);
-    var ring = document.createElement('span');
-    ring.className = 'fx-ring';
-    ring.style.left = x + 'px';
-    ring.style.top = y + 'px';
-    layer.appendChild(ring);
-    setTimeout(function () { ring.remove(); }, 520);
-    var first = Math.floor(Math.random() * KINDS.length);
-    for (var i = 0; i < count; i++) {
-      if (items.length >= MAX_ITEMS) { var oldest = items.shift(); oldest.el.remove(); oldest.shadow.remove(); }
-      var size = (finePointer ? 17 : 16) + Math.random() * 7;
-      var el = document.createElement('span');
-      el.className = 'fx-item ' + KINDS[(first + i) % KINDS.length];
-      el.style.width = el.style.height = size + 'px';
-      layer.appendChild(el);
-      var shadow = document.createElement('span');
-      shadow.className = 'fx-shadow';
-      shadow.style.width = size * 0.8 + 'px';
-      layer.appendChild(shadow);
-      var dir = count === 1 ? (Math.random() - 0.5) : ((i / (count - 1)) - 0.5) * 2 + (Math.random() - 0.5) * 0.4;
-      items.push({
-        el: el, shadow: shadow, size: size,
-        x: x - size / 2, y: y - size / 2,
-        vx: dir * (1.4 + Math.random() * 1.6),
-        vy: -(4.6 + Math.random() * 3),
-        rot: (Math.random() - 0.5) * 40,
-        spin: (Math.random() - 0.5) * 9,
-        floor: Math.min(y + 40 + Math.random() * 36, window.innerHeight - size - 4) - size / 2,
-        bounces: 0, life: 0,
-      });
+  var COLORS = ['#ffc61a', '#45bdd6', '#e0520f', '#ffc61a', '#45bdd6', '#e0520f', '#ffc61a', '#45bdd6'];
+  function burst(x, y) {
+    if (!layer) {
+      layer = document.createElement('div');
+      layer.className = 'fx-layer';
+      layer.setAttribute('aria-hidden', 'true');
+      document.body.appendChild(layer);
     }
-    if (!running) { running = true; requestAnimationFrame(step); }
-  }
-  var last = 0;
-  function step(t) {
-    var dt = last ? Math.min(2.2, (t - last) / 16.67) : 1;
-    last = t;
-    for (var i = items.length - 1; i >= 0; i--) {
-      var b = items[i];
-      b.life += dt;
-      b.vy += 0.55 * dt;
-      b.x += b.vx * dt;
-      b.y += b.vy * dt;
-      b.rot += b.spin * dt;
-      if (b.y >= b.floor) {
-        b.y = b.floor;
-        if (Math.abs(b.vy) > 1.6 && b.bounces < 3) {
-          b.vy = -b.vy * 0.56;
-          b.vx *= 0.82;
-          b.spin *= 0.6;
-          b.bounces++;
-        } else {
-          b.vy = 0;
-          b.vx *= 0.9;
-          b.spin *= 0.8;
-        }
-      }
-      var height = Math.max(0, b.floor - b.y);
-      var fade = b.life > 70 ? Math.max(0, 1 - (b.life - 70) / 22) : 1;
-      // 바닥에 닿는 순간 살짝 눌려 말랑하게
-      var squash = b.y >= b.floor - 0.5 && b.bounces > 0 && b.life < 70 ? ' scale(1.14, 0.84)' : '';
-      b.el.style.transform = 'translate3d(' + b.x + 'px,' + b.y + 'px,0) rotate(' + b.rot + 'deg)' + squash;
-      b.el.style.opacity = fade;
-      b.shadow.style.transform = 'translate3d(' + (b.x + b.size * 0.1) + 'px,' + (b.floor + b.size * 0.86) + 'px,0) scale(' + Math.max(0.35, 1 - height / 90) + ')';
-      b.shadow.style.opacity = fade * Math.max(0.12, 0.45 - height / 300);
-      if (fade <= 0) {
-        b.el.remove();
-        b.shadow.remove();
-        items.splice(i, 1);
-      }
+    var wrap = document.createElement('span');
+    wrap.className = 'fx-burst';
+    wrap.style.left = x + 'px';
+    wrap.style.top = y + 'px';
+    var spin = Math.random() * 45;
+    var html = '<i class="fx-burst-ring"></i>';
+    for (var i = 0; i < 8; i++) {
+      html += '<i class="fx-ray" style="--a:' + (spin + i * 45) + 'deg;--c:' + COLORS[i] + ';--d:' + (i % 2 ? 26 : 36) + 'px"></i>';
     }
-    if (items.length) requestAnimationFrame(step);
-    else { running = false; last = 0; }
+    wrap.innerHTML = html;
+    layer.appendChild(wrap);
+    setTimeout(function () { wrap.remove(); }, 560);
   }
-  // 마우스는 누르는 순간, 터치는 스크롤 중에 뜨지 않도록 실제로 탭했을 때(click)만
   var skip = function (target) { return target.closest('input, textarea, select, [contenteditable], .sheet, .notice-modal, .drawer'); };
   var lastPointer = 'mouse';
   if (!reduce) {
     document.addEventListener('pointerdown', function (e) {
       lastPointer = e.pointerType || 'mouse';
       if (lastPointer === 'touch' || e.button !== 0 || skip(e.target)) return;
-      spawn(e.clientX, e.clientY);
+      burst(e.clientX, e.clientY);
     }, { passive: true });
+    // 터치는 스크롤과 구분하려고 실제 탭(click)에서만
     document.addEventListener('click', function (e) {
       if (lastPointer !== 'touch' || skip(e.target) || (!e.clientX && !e.clientY)) return;
-      spawn(e.clientX, e.clientY);
+      burst(e.clientX, e.clientY);
     }, true);
   }
 

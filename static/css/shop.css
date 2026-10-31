@@ -1633,34 +1633,45 @@ input[type="radio"], input[type="checkbox"] { accent-color: var(--night); }
 .detail-qty button:active { transform: scale(.92); }
 
 /* =====================================================================
-   포케야호 별 커서 (마우스 화면만) · 클릭하면 튀는 별
-   기본 = 노랑 별, 누를 수 있는 곳 = 하늘 별. 기준점은 별 가운데
+   포케야호 포인터 (마우스 화면만): 정확한 점 + 한 박자 늦게 따라오며 기우는 미니 카드
+   누를 수 있는 곳: 점 → 하늘색 링, 카드 → 앞면(노랑)으로 뒤집힘 · 누르는 순간: 링이 조이고 카드가 탁 눌림
    ===================================================================== */
-@media (hover: hover) and (pointer: fine) {
-  html, body {
-    cursor: url('../img/cursor-star.png') 14 14, auto;
-    cursor: -webkit-image-set(url('../img/cursor-star.png') 1x, url('../img/cursor-star@2x.png') 2x) 14 14, auto;
-    cursor: image-set(url('../img/cursor-star.png') 1x, url('../img/cursor-star@2x.png') 2x) 14 14, auto;
-  }
-  a, button, [role='button'], label, select, summary, .cat-tab, .type-tab, .pcard-thumb, [data-open-cart], .choice .tile {
-    cursor: url('../img/cursor-star-hover.png') 14 14, pointer;
-    cursor: -webkit-image-set(url('../img/cursor-star-hover.png') 1x, url('../img/cursor-star-hover@2x.png') 2x) 14 14, pointer;
-    cursor: image-set(url('../img/cursor-star-hover.png') 1x, url('../img/cursor-star-hover@2x.png') 2x) 14 14, pointer;
-  }
-  input, textarea, [contenteditable] { cursor: text; }
-  input[type='checkbox'], input[type='radio'], input[type='file'] { cursor: pointer; }
-  button:disabled, .btn[disabled], .btn.disabled, .stepper button[disabled] { cursor: not-allowed; }
-}
-.fx-layer { position: fixed; inset: 0; z-index: 120; pointer-events: none; overflow: hidden; }
-.fx-item { position: absolute; left: 0; top: 0; background: center / contain no-repeat; will-change: transform, opacity; filter: drop-shadow(0 2px 2px rgba(15, 30, 69, .2)); }
-.fx-star-y { background-image: url('../img/cursor-star-fx.png'); background-image: image-set(url('../img/cursor-star-fx.png') 1x, url('../img/cursor-star-fx@2x.png') 2x); }
-.fx-star-s { background-image: url('../img/cursor-star-hover-fx.png'); background-image: image-set(url('../img/cursor-star-hover-fx.png') 1x, url('../img/cursor-star-hover-fx@2x.png') 2x); }
-.fx-spark { background-image: url('../img/fx-spark-fx.png'); background-image: image-set(url('../img/fx-spark-fx.png') 1x, url('../img/fx-spark-fx@2x.png') 2x); }
-.fx-shadow { position: absolute; left: 0; top: 0; height: 4px; border-radius: 50%; background: rgba(15, 30, 69, .5); filter: blur(2px); will-change: transform, opacity; }
-.fx-ring { position: absolute; width: 30px; height: 30px; margin: -15px 0 0 -15px; border-radius: 50%; border: 2px solid rgba(255, 198, 26, .85); animation: fx-ring 500ms cubic-bezier(.2, .8, .2, 1) forwards; }
-@keyframes fx-ring { from { transform: scale(.3); opacity: 1; } to { transform: scale(1.5); opacity: 0; } }
-@media (prefers-reduced-motion: reduce) { .fx-layer { display: none; } }
-.pgrid-empty::before { content: ''; width: 56px; height: 56px; background: url('../img/cursor-star-fx@2x.png') center / contain no-repeat; }
+html.has-pcur, html.has-pcur * { cursor: none !important; }
+html.has-pcur input:not([type="checkbox"]):not([type="radio"]):not([type="file"]):not([type="submit"]):not([type="button"]),
+html.has-pcur textarea, html.has-pcur [contenteditable] { cursor: text !important; }
+.pcur { position: fixed; inset: 0; z-index: 130; pointer-events: none; opacity: 0; transition: opacity 180ms ease; }
+.pcur.on { opacity: 1; }
+.pcur.is-text { opacity: 0; }
+.pcur-dot { position: absolute; left: 0; top: 0; width: 0; height: 0; will-change: transform; }
+.pcur-dot::before, .pcur-dot::after { content: ''; position: absolute; border-radius: 50%; transition: transform 220ms var(--ease-out), background-color 200ms ease, border-color 200ms ease, opacity 200ms ease; }
+.pcur-dot::before { left: -5px; top: -5px; width: 10px; height: 10px; background: var(--night); box-shadow: 0 0 0 2px #fff, 0 2px 6px rgba(15, 30, 69, .35); }
+.pcur-dot::after { left: -19px; top: -19px; width: 38px; height: 38px; border: 2.5px solid var(--sky); background: rgba(69, 189, 214, .14); transform: scale(.3); opacity: 0; }
+.pcur.is-hot .pcur-dot::before { transform: scale(.6); background: var(--night); }
+.pcur.is-hot .pcur-dot::after { transform: scale(1); opacity: 1; }
+.pcur.is-down .pcur-dot::after { transform: scale(.72); background: rgba(69, 189, 214, .3); }
+.pcur.is-down:not(.is-hot) .pcur-dot::before { transform: scale(.75); }
+.pcur-card { position: absolute; left: 0; top: 0; width: 20px; height: 28px; perspective: 120px; will-change: transform; }
+.pcur-face { position: absolute; inset: 0; border-radius: 4px; backface-visibility: hidden; -webkit-backface-visibility: hidden; transition: transform 340ms var(--ease-out); box-shadow: 0 6px 12px -4px rgba(15, 30, 69, .45); }
+.pcur-face::after { content: ''; position: absolute; left: 50%; top: 50%; width: 10px; height: 10px; margin: -5px 0 0 -5px; clip-path: polygon(50% 0, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); }
+.pcur-face.pc-back { background: var(--night); box-shadow: inset 0 0 0 2px var(--yellow), 0 0 0 1.5px rgba(255, 255, 255, .9), 0 6px 12px -4px rgba(15, 30, 69, .45); }
+.pcur-face.pc-back::after { background: var(--yellow); }
+.pcur-face.pc-front { background: linear-gradient(135deg, #ffd84d, var(--yellow) 45%, #ffb800); box-shadow: inset 0 0 0 2px var(--night), 0 6px 12px -4px rgba(15, 30, 69, .45); transform: rotateY(-180deg); }
+.pcur-face.pc-front::after { background: var(--night); }
+.pcur.is-hot .pcur-face.pc-back { transform: rotateY(180deg); }
+.pcur.is-hot .pcur-face.pc-front { transform: rotateY(0); }
+.pcur.is-down .pcur-face.pc-back { transform: scale(.82); }
+.pcur.is-down.is-hot .pcur-face.pc-front { transform: scale(.82) rotate(-6deg); }
+.pcur.is-down.is-hot .pcur-face.pc-back { transform: rotateY(180deg) scale(.82); }
+
+/* 누르면 퍼지는 빛줄기 */
+.fx-layer { position: fixed; inset: 0; z-index: 125; pointer-events: none; overflow: hidden; }
+.fx-burst { position: absolute; width: 0; height: 0; }
+.fx-burst-ring { position: absolute; left: -9px; top: -9px; width: 18px; height: 18px; border-radius: 50%; border: 2.5px solid var(--yellow); animation: fx-ring 460ms var(--ease-out) forwards; }
+.fx-ray { position: absolute; left: -2px; top: -6px; width: 4px; height: 12px; box-shadow: 0 0 0 1px rgba(255, 255, 255, .7); border-radius: 2px; background: var(--c); transform: rotate(var(--a)) translateY(-8px); animation: fx-ray 480ms var(--ease-out) forwards; }
+@keyframes fx-ring { from { transform: scale(.3); opacity: 1; } to { transform: scale(2.6); opacity: 0; } }
+@keyframes fx-ray { 0% { transform: rotate(var(--a)) translateY(-6px) scaleY(.4); opacity: 1; } 55% { opacity: 1; } 100% { transform: rotate(var(--a)) translateY(calc(-1 * var(--d))) scaleY(.15); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .fx-layer, .pcur { display: none; } }
+.pgrid-empty::before { content: ''; width: 56px; height: 56px; background: url('../img/empty-star.png') center / contain no-repeat; }
 @media (prefers-reduced-motion: no-preference) { .pgrid-empty::before { animation: empty-bob 2.4s ease-in-out infinite; } }
 
 /* ===== 반응형 보조 ===== */
