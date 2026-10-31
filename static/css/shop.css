@@ -86,7 +86,7 @@ input, textarea, select { font-size: 16px; font-family: inherit; color: inherit;
 .brand .g { color: var(--pink); }
 .account-links { display: flex; align-items: center; gap: 9px; }
 .top-link { color: var(--cream); text-decoration: none; font-size: 11px; font-weight: 700; white-space: nowrap; }
-.top-link:hover { color: var(--pink); }
+@media (hover: hover) and (pointer: fine) { .top-link:hover { color: var(--pink); } }
 .brand .q { color: var(--pink); font-size: 16px; transform: translateY(-9px) rotate(10deg); display: inline-block; }
 .top-actions { display: flex; align-items: center; gap: 8px; }
 .icon-btn {
@@ -244,7 +244,7 @@ body.has-cartbar main.wrap { max-width: 820px; }
 .review-file-picker { display: flex; align-items: center; gap: 10px; min-width: 0; margin-top: 2px; padding: 9px; border: 1px dashed var(--pink-d); border-radius: 16px; background: var(--pink-ll); }
 .review-file-input { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap; }
 .review-file-button { display: inline-flex; align-items: center; gap: 9px; flex: none; min-height: 46px; padding: 0 13px 0 9px; border-radius: 12px; background: #fff; color: var(--ink); box-shadow: var(--shadow-soft); cursor: pointer; }
-.review-file-button:hover { background: #fffaf8; }
+@media (hover: hover) and (pointer: fine) { .review-file-button:hover { background: #fffaf8; } }
 .review-file-button:focus-within { outline: 3px solid var(--pink-d); outline-offset: 2px; }
 .review-file-button-icon { display: grid; place-items: center; width: 30px; height: 30px; border-radius: 10px; background: var(--pink); color: var(--night); font-size: 22px; line-height: 1; }
 .review-file-button strong, .review-file-button small { display: block; }
@@ -343,7 +343,7 @@ body.has-cartbar main.wrap { max-width: 820px; }
 .gallery-nav { position: absolute; z-index: 2; top: 50%; display: grid; place-items: center; width: 42px; height: 42px; padding: 0; border: 0; border-radius: 50%; background: rgba(20, 16, 17, .72); color: #fff; font-size: 31px; line-height: 1; cursor: pointer; transform: translateY(-50%); transition: opacity 160ms ease, background 160ms ease; }
 .gallery-nav.prev { left: 14px; }
 .gallery-nav.next { right: 14px; }
-.gallery-nav:hover { background: rgba(20, 16, 17, .9); }
+@media (hover: hover) and (pointer: fine) { .gallery-nav:hover { background: rgba(20, 16, 17, .9); } }
 .gallery-nav:disabled { opacity: .28; cursor: default; pointer-events: none; }
 .detail-info { padding: 10px 0 0; }
 .detail-kicker { color: var(--muted); font-size: 11px; letter-spacing: .12em; margin: 0 0 14px; }
@@ -739,7 +739,7 @@ body.has-cartbar main.wrap { max-width: 820px; }
 .notice-modal-body img { display: block; width: 100%; height: auto; }
 .notice-modal-actions { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 12px 10px 18px; border-top: 1px solid var(--pink-l); background: #fff; }
 .notice-modal-today { padding: 8px 0; border: 0; background: none; color: var(--muted); font: inherit; font-size: 13px; font-weight: 700; cursor: pointer; }
-.notice-modal-today:hover { color: var(--ink); }
+@media (hover: hover) and (pointer: fine) { .notice-modal-today:hover { color: var(--ink); } }
 @media (prefers-reduced-motion: reduce) { .notice-modal, .notice-modal-card { transition: none; } }
 
 /* 주문서 쿠폰 · 마이페이지 쿠폰 */
@@ -895,7 +895,7 @@ body.has-cartbar .yt-float { bottom: calc(var(--bar-h) + 20px); }
 .notice-list { margin: 0; padding: 0; list-style: none; background: #fff; border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
 .notice-list li + li { border-top: 1px solid var(--line); }
 .notice-list a { display: flex; align-items: center; gap: 10px; padding: 16px 18px; text-decoration: none; }
-.notice-list a:hover strong { text-decoration: underline; }
+@media (hover: hover) and (pointer: fine) { .notice-list a:hover strong { text-decoration: underline; } }
 .notice-list strong { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 15px; }
 .notice-list time { flex: none; color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
 .notice-pin { flex: none; padding: 2px 7px; border-radius: 5px; background: var(--pink); color: #fff; font-size: 11px; font-weight: 800; }
@@ -1505,4 +1505,200 @@ body.is-home .cat-scroll { display: none; }
   .cartbar .btn { font-size: 15.5px; padding-left: 16px; }
   .cartbar .count { padding: 4px 9px; font-size: 13px; }
   .cartbar .cartbar-buy { padding-inline: 16px; }
+}
+
+/* =====================================================================
+   포케야호 버튼 체계
+   로고 글자처럼 아래쪽에 두께(안쪽 그림자)가 있는 통통한 버튼. 누르면 두께가 줄며 1px 내려앉는다.
+   주 행동 = 노랑(.pink), 기본 = 남색, 보조 = 연한 남색(.soft), 테두리(.ghost)
+   크기: small 40 · 기본 50 · big 56. 라운드 11 / 14 / 16
+   ===================================================================== */
+:root {
+  --press: inset 0 -3px 0 rgba(15, 30, 69, .2);
+  --press-sm: inset 0 -2px 0 rgba(15, 30, 69, .18);
+  --press-down: inset 0 -1px 0 rgba(15, 30, 69, .2);
+}
+.btn, .py-btn {
+  position: relative; display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  min-height: 50px; padding: 0 22px; border: 0; border-radius: 14px;
+  background: var(--night); color: #fff; box-shadow: var(--press);
+  font: inherit; font-size: 16px; font-weight: 800; letter-spacing: -0.01em; line-height: 1.2;
+  text-decoration: none; white-space: nowrap; cursor: pointer;
+  -webkit-tap-highlight-color: transparent; touch-action: manipulation; user-select: none; -webkit-user-select: none;
+  transition: transform 140ms var(--ease-out), background-color 160ms ease, box-shadow 140ms ease, color 160ms ease, opacity 160ms ease;
+}
+.btn:active:not([disabled]):not(.disabled), .py-btn:active { transform: translateY(1px); box-shadow: var(--press-down); }
+.btn.big { min-height: 56px; padding: 0 26px; border-radius: 16px; font-family: inherit; font-size: 17px; font-weight: 800; }
+.btn.small, .btn.sm { min-height: 40px; padding: 0 14px; border-radius: 11px; font-size: 14px; box-shadow: var(--press-sm); }
+.btn.block { width: 100%; }
+.btn.pink, .py-btn.primary { background: var(--yellow); color: var(--night); box-shadow: var(--press); }
+.btn.soft { background: #e9edf7; color: var(--night); box-shadow: inset 0 -3px 0 rgba(15, 30, 69, .08); }
+.btn.ghost { background: #fff; color: var(--night); box-shadow: inset 0 0 0 1.5px #d6dbe8, inset 0 -3px 0 rgba(15, 30, 69, .06); }
+.btn.ghost:active:not([disabled]) { box-shadow: inset 0 0 0 1.5px #c3cadb; }
+.btn.danger { background: #fff; color: #c42b2b; box-shadow: inset 0 0 0 1.5px #f0c4c4, inset 0 -3px 0 rgba(196, 43, 43, .08); }
+.btn.ok { background: #1f8a5b; color: #fff; }
+.btn.kakao { background: #fee500; color: #191600; box-shadow: inset 0 -3px 0 rgba(25, 22, 0, .12); }
+.btn.google { background: #fff; color: #1f1f1f; box-shadow: inset 0 0 0 1.5px #dadce0, inset 0 -3px 0 rgba(0, 0, 0, .05); }
+.py-btn.ghost { background: rgba(255, 255, 255, .06); color: #fff; box-shadow: inset 0 0 0 1.5px rgba(255, 255, 255, .5); }
+/* 사용 불가: 흐리게만 하지 않고 회색 면으로 바꿔 '못 누름'이 분명하게 */
+.btn[disabled], .btn.disabled, .btn[aria-disabled="true"] { background: #e4e8f1; color: #8a93ab; box-shadow: none; opacity: 1; cursor: not-allowed; pointer-events: none; }
+/* 처리 중: 글자는 남기고 오른쪽에 도는 표시 */
+.btn[aria-busy="true"] { pointer-events: none; }
+.btn[aria-busy="true"]::after { content: ''; width: 15px; height: 15px; border-radius: 50%; border: 2.5px solid currentColor; border-right-color: transparent; animation: btn-spin 700ms linear infinite; }
+@keyframes btn-spin { to { transform: rotate(360deg); } }
+.btn:focus-visible, .py-btn:focus-visible { outline: 3px solid var(--sky-d); outline-offset: 3px; }
+.py-hero .py-btn:focus-visible { outline-color: var(--yellow); }
+.btn .sub { font-size: 13px; font-weight: 700; opacity: .8; }
+
+/* 글자 링크 */
+.link, .back-link { color: var(--night); font-weight: 700; text-decoration: underline; text-decoration-thickness: 1.5px; text-underline-offset: 4px; text-decoration-color: rgba(15, 30, 69, .3); }
+
+/* 아이콘 버튼 (헤더·드로어·시트 닫기) */
+.util, .menu-btn, .drawer-x { -webkit-tap-highlight-color: transparent; touch-action: manipulation; transition: background-color 160ms ease, transform 140ms var(--ease-out); }
+.util { min-width: 44px; height: 44px; justify-content: center; }
+.util:active, .menu-btn:active, .drawer-x:active { transform: scale(.94); }
+.util.cart { box-shadow: var(--press-sm); }
+.util.cart:active { transform: translateY(1px); box-shadow: none; }
+.sheet-close { display: inline-flex; align-items: center; gap: 4px; width: auto; height: 40px; padding: 0 12px 0 10px; border: 0; border-radius: 11px; background: #eef1f8; color: var(--night); font: inherit; font-size: 14px; font-weight: 800; cursor: pointer; }
+.sheet-close:active { transform: scale(.96); }
+.head-search .btn { min-height: 44px; }
+
+/* 수량 조절: 빼기 = 연한 면, 더하기 = 노랑 (카드·상세·장바구니 모두 같은 규칙) */
+.stepper { gap: 4px; }
+.stepper button, .detail-stepper button {
+  width: 40px; height: 40px; display: grid; place-items: center; border: 0; border-radius: 11px;
+  background: #eef1f8; color: var(--night); font-size: 20px; font-weight: 700; cursor: pointer; box-shadow: none;
+  transition: transform 120ms var(--ease-out), background-color 140ms ease;
+}
+.stepper button.plus, .detail-stepper button:last-child { background: var(--yellow); color: var(--night); box-shadow: var(--press-sm); }
+.stepper button:active:not([disabled]), .detail-stepper button:active:not(:disabled) { transform: scale(.9); }
+.stepper button[disabled], .detail-stepper button:disabled { background: #f1f3f8; color: #b6bccd; box-shadow: none; opacity: 1; cursor: not-allowed; }
+.stepper.sm button { width: 36px; height: 36px; border-radius: 10px; font-size: 18px; }
+.detail-stepper { gap: 6px; }
+.detail-stepper button { width: 44px; height: 44px; border-radius: 12px; }
+.pcard-qty button:disabled { background: transparent; color: #c2c8d6; }
+.pcard-qty button[data-step="1"]:disabled { background: #f1f3f8; }
+.pcard-qty output { font-size: 16px; color: var(--night); }
+.cart-line .rm { min-height: 36px; padding: 0 10px; border-radius: 9px; color: var(--muted); font-size: 13px; font-weight: 700; }
+.cart-line .rm:active { background: #fdecec; color: #c42b2b; }
+
+/* 탭·필터: 누르는 순간 살짝 눌림, 선택은 면 색으로 */
+.cat-tab, .type-tab, .tabs a, .detail-tabs a { -webkit-tap-highlight-color: transparent; touch-action: manipulation; transition: background-color 160ms ease, color 160ms ease, border-color 160ms ease, transform 120ms var(--ease-out); }
+.type-tab { min-height: 40px; }
+.tabs { padding: 4px; border-radius: 14px; background: #e9edf6; }
+.tabs a { min-height: 40px; border-radius: 11px; font-weight: 800; }
+.tabs a.on, .tabs a[aria-current] { background: #fff; color: var(--night); box-shadow: 0 2px 8px -4px rgba(15, 30, 69, .35); }
+
+/* 선택 타일(배송 방법 등)과 라디오·체크박스 */
+input[type="radio"], input[type="checkbox"] { accent-color: var(--night); }
+.choice .tile { border-radius: 14px; transition: box-shadow 160ms ease, background-color 160ms ease; }
+.choice input:checked + .tile { background: var(--yellow-l); box-shadow: inset 0 0 0 2px var(--night); }
+.choice input:focus-visible + .tile { outline: 3px solid var(--sky-d); outline-offset: 2px; }
+.copy { border-radius: 9px; font-weight: 800; }
+.chip { border-radius: 7px; font-weight: 800; }
+
+/* 기타 */
+.gallery-nav { width: 44px; height: 44px; background: rgba(255, 255, 255, .92); color: var(--night); box-shadow: 0 6px 16px -8px rgba(15, 30, 69, .5); font-size: 26px; }
+.notice-modal-today { min-height: 40px; padding: 0 6px; font-weight: 700; }
+.review-file-button { border-radius: 12px; }
+
+@media (hover: hover) and (pointer: fine) {
+  .btn:hover:not([disabled]):not(.disabled) { background: var(--night-2); }
+  .btn.pink:hover:not([disabled]), .py-btn.primary:hover { background: #ffd23f; }
+  .btn.soft:hover:not([disabled]) { background: #dfe5f3; }
+  .btn.ghost:hover:not([disabled]) { background: #f6f8fc; box-shadow: inset 0 0 0 1.5px #b8c0d4, inset 0 -3px 0 rgba(15, 30, 69, .06); }
+  .btn.danger:hover:not([disabled]) { background: #fff5f5; }
+  .btn.kakao:hover { background: #f5dc00; }
+  .btn.google:hover { background: #f8f9fb; }
+  .py-btn.ghost:hover { background: rgba(255, 255, 255, .14); }
+  .link:hover, .back-link:hover { text-decoration-color: var(--night); }
+  .util:hover, .menu-btn:hover { background: #eef1f8; }
+  .util.cart:hover { background: var(--night-2); }
+  .drawer-x:hover, .sheet-close:hover { background: #e3e8f4; }
+  .stepper button:hover:not([disabled]), .detail-stepper button:hover:not(:disabled) { background: #e3e8f4; }
+  .stepper button.plus:hover:not([disabled]), .detail-stepper button:last-child:hover:not(:disabled) { background: #ffd23f; }
+  .cart-line .rm:hover { background: #fdecec; color: #c42b2b; }
+  .tabs a:hover:not(.on) { color: var(--night); }
+  .gallery-nav:hover { background: #fff; }
+  .drawer-nav a:hover { background: var(--bg); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .btn, .py-btn, .util, .stepper button, .detail-stepper button { transition: none; }
+  .btn[aria-busy="true"]::after { animation-duration: 2s; }
+}
+.detail-qty { width: auto; gap: 4px; border: 0; border-radius: 0; overflow: visible; }
+.detail-qty button { width: 44px; height: 44px; border-radius: 12px; background: #eef1f8; color: var(--night); font-size: 20px; font-weight: 700; }
+.detail-qty button:last-child { background: var(--yellow); box-shadow: var(--press-sm); }
+.detail-qty input { width: 64px; height: 44px; border: 1.5px solid var(--line); border-radius: 12px; font-weight: 800; color: var(--night); }
+.detail-qty button:active { transform: scale(.92); }
+
+/* =====================================================================
+   포케야호 별 커서 (마우스 화면만) · 클릭하면 튀는 별
+   기본 = 노랑 별, 누를 수 있는 곳 = 하늘 별. 기준점은 별 가운데
+   ===================================================================== */
+@media (hover: hover) and (pointer: fine) {
+  html, body {
+    cursor: url('../img/cursor-star.png') 14 14, auto;
+    cursor: -webkit-image-set(url('../img/cursor-star.png') 1x, url('../img/cursor-star@2x.png') 2x) 14 14, auto;
+    cursor: image-set(url('../img/cursor-star.png') 1x, url('../img/cursor-star@2x.png') 2x) 14 14, auto;
+  }
+  a, button, [role='button'], label, select, summary, .cat-tab, .type-tab, .pcard-thumb, [data-open-cart], .choice .tile {
+    cursor: url('../img/cursor-star-hover.png') 14 14, pointer;
+    cursor: -webkit-image-set(url('../img/cursor-star-hover.png') 1x, url('../img/cursor-star-hover@2x.png') 2x) 14 14, pointer;
+    cursor: image-set(url('../img/cursor-star-hover.png') 1x, url('../img/cursor-star-hover@2x.png') 2x) 14 14, pointer;
+  }
+  input, textarea, [contenteditable] { cursor: text; }
+  input[type='checkbox'], input[type='radio'], input[type='file'] { cursor: pointer; }
+  button:disabled, .btn[disabled], .btn.disabled, .stepper button[disabled] { cursor: not-allowed; }
+}
+.fx-layer { position: fixed; inset: 0; z-index: 120; pointer-events: none; overflow: hidden; }
+.fx-item { position: absolute; left: 0; top: 0; background: center / contain no-repeat; will-change: transform, opacity; filter: drop-shadow(0 2px 2px rgba(15, 30, 69, .2)); }
+.fx-star-y { background-image: url('../img/cursor-star-fx.png'); background-image: image-set(url('../img/cursor-star-fx.png') 1x, url('../img/cursor-star-fx@2x.png') 2x); }
+.fx-star-s { background-image: url('../img/cursor-star-hover-fx.png'); background-image: image-set(url('../img/cursor-star-hover-fx.png') 1x, url('../img/cursor-star-hover-fx@2x.png') 2x); }
+.fx-spark { background-image: url('../img/fx-spark-fx.png'); background-image: image-set(url('../img/fx-spark-fx.png') 1x, url('../img/fx-spark-fx@2x.png') 2x); }
+.fx-shadow { position: absolute; left: 0; top: 0; height: 4px; border-radius: 50%; background: rgba(15, 30, 69, .5); filter: blur(2px); will-change: transform, opacity; }
+.fx-ring { position: absolute; width: 30px; height: 30px; margin: -15px 0 0 -15px; border-radius: 50%; border: 2px solid rgba(255, 198, 26, .85); animation: fx-ring 500ms cubic-bezier(.2, .8, .2, 1) forwards; }
+@keyframes fx-ring { from { transform: scale(.3); opacity: 1; } to { transform: scale(1.5); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .fx-layer { display: none; } }
+.pgrid-empty::before { content: ''; width: 56px; height: 56px; background: url('../img/cursor-star-fx@2x.png') center / contain no-repeat; }
+@media (prefers-reduced-motion: no-preference) { .pgrid-empty::before { animation: empty-bob 2.4s ease-in-out infinite; } }
+
+/* ===== 반응형 보조 ===== */
+/* 가로로 넘기는 줄: 넘길 게 남은 쪽만 흐리게 */
+.cat-tabs.can-right, .cat-scroll-in.can-right, .type-tabs.can-right { -webkit-mask-image: linear-gradient(90deg, #000 calc(100% - 40px), transparent); mask-image: linear-gradient(90deg, #000 calc(100% - 40px), transparent); }
+.cat-tabs.can-left, .cat-scroll-in.can-left, .type-tabs.can-left { -webkit-mask-image: linear-gradient(90deg, transparent, #000 40px); mask-image: linear-gradient(90deg, transparent, #000 40px); }
+.cat-tabs.can-left.can-right, .cat-scroll-in.can-left.can-right, .type-tabs.can-left.can-right { -webkit-mask-image: linear-gradient(90deg, transparent, #000 40px, #000 calc(100% - 40px), transparent); mask-image: linear-gradient(90deg, transparent, #000 40px, #000 calc(100% - 40px), transparent); }
+.cat-scroll::after { content: none; }
+/* 하단 장바구니 바: 푸터·메뉴가 열리면 내려간다 */
+body.foot-in-view .cartbar.show, body.drawer-lock .cartbar.show { transform: translateY(120%); }
+.cartbar { background: linear-gradient(to top, rgba(242, 244, 249, .96) 64%, rgba(242, 244, 249, 0)); }
+.cartbar-inner { max-width: 560px; }
+/* 태블릿: 타일 2열이라 히어로 아래 겹침을 조금 줄이고, 상품 3열 */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .py-hero-in { min-height: 0; padding-top: 48px; padding-bottom: 96px; }
+  .py-hero-logo img { width: 360px; }
+  .pgrid, body.is-home .pgrid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .type-tabs { width: 100%; justify-content: flex-start; }
+}
+/* 큰 화면: 상품 6열, 히어로 로고 더 크게 */
+@media (min-width: 1600px) {
+  .py-hero-logo img { width: 520px; }
+  .py-hero-lead { font-size: 38px; }
+}
+/* 아주 좁은 폰(320~359) */
+@media (max-width: 359px) {
+  .cat-tiles { grid-template-columns: 1fr; }
+  .cat-tile { min-height: 84px; }
+  .pgrid, body.is-home .pgrid { gap: 8px; }
+  .py-hero-actions .py-btn { padding: 0 16px; }
+}
+/* 키보드로 움직일 때 상품 카드 전체에 테두리 */
+.pcard:has(.pcard-thumb:focus-visible, .pcard-name:focus-visible) { box-shadow: 0 0 0 3px var(--sky-d), var(--shadow); }
+.pcard-thumb:focus-visible, .pcard-name:focus-visible { outline: none; }
+body.actions-in-view .cartbar.show { transform: translateY(120%); }
+.detail-qty button:first-child { background: #fff; box-shadow: inset 0 0 0 1.5px var(--line); }
+.detail-qty button:disabled { background: #f1f3f8; color: #b6bccd; box-shadow: none; cursor: not-allowed; }
+@media (hover: hover) and (pointer: fine) {
+  .detail-qty button:first-child:hover:not(:disabled) { background: #f6f8fc; }
+  .detail-qty button:last-child:hover:not(:disabled) { background: #ffd23f; }
 }
