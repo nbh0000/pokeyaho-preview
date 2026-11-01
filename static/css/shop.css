@@ -2313,3 +2313,8 @@ body:has(.brand-hero) .head-logo { visibility: hidden; }
 @media (max-width: 1023px) { .cn-card.t-o { min-height: 112px; } .cn-card.t-o::before { width: 38%; background-size: cover; background-position: 62% 45%; } .cn-card.t-o .cn-text { max-width: 60%; } }
 @media (max-width: 639px) { .cn-card, .cn-card.t-o { min-height: 108px; } .cn-card::before, .cn-card.t-o::before { width: 62%; } .cn-text { max-width: 62%; } }
 @media (prefers-reduced-motion: reduce) { .cn-card, .cn-card::before { transition: none; } }
+
+/* 브랜드 배너 배경: Codex 생성(design-gen/brand-hero-bg.png), 가운데는 로고 자리로 비어 있음 */
+.brand-hero { background: radial-gradient(42% 70% at 50% 55%, rgba(11, 23, 54, .55), transparent 75%), url(../img/brand-hero-bg-1920.webp) center 40% / cover no-repeat, #0b1736; }
+@media (max-width: 1100px) { .brand-hero { background-image: radial-gradient(42% 70% at 50% 55%, rgba(11, 23, 54, .55), transparent 75%), url(../img/brand-hero-bg-1100.webp); } }
+@media (max-width: 639px) { .brand-hero { background-size: auto, auto 100%; background-position: center, center; } }
