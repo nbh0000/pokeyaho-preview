@@ -1,0 +1,101 @@
+{
+  "id": "db-en-sd19",
+  "cards": [
+    {
+      "no": "SD19-01",
+      "name": "Gotenks",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD19-01.png",
+      "image": null
+    },
+    {
+      "no": "SD19-02",
+      "name": "SS3 Gotenks, Warrior's Growth",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-LEADER",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD19-02.png",
+      "image": null
+    },
+    {
+      "no": "SD19-02",
+      "name": "SS3 Gotenks, Warrior's Growth",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-LEADER",
+      "color": "Green",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD19-02_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD19-02",
+      "name": "SS3 Gotenks, Warrior's Growth",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-LEADER",
+      "color": "Green",
+      "variant": "p2",
+      "variant_label": "PR02",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD19-02_PR02.png",
+      "image": null
+    },
+    {
+      "no": "SD19-03",
+      "name": "SS3 Gogeta, Carefree Combatant",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "UNISON",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD19-03.png",
+      "image": null
+    },
+    {
+      "no": "SD19-04",
+      "name": "SS3 Gotenks, Ultimate Rookie",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD19-04.png",
+      "image": null
+    },
+    {
+      "no": "SD19-04",
+      "name": "SS3 Gotenks, Ultimate Rookie",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD19-04_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD19-05",
+      "name": "Gotenks, Fusion Confusion",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD19-05.png",
+      "image": null
+    }
+  ]
+}

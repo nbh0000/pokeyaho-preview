@@ -1,0 +1,137 @@
+{
+  "id": "op-en-set-premium-card-collection-film-red-edition",
+  "cards": [
+    {
+      "no": "OP01-005",
+      "name": "Uta",
+      "name_ko": "우타",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-005_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP01-014",
+      "name": "Jinbe",
+      "name_ko": "징베",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-014_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP01-017",
+      "name": "Nico Robin",
+      "name_ko": "니코 로빈",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-017_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP01-021",
+      "name": "Franky",
+      "name_ko": "프랑키",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-021_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-016",
+      "name": "Shanks",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-016_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-022",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-022_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST01-002",
+      "name": "Usopp",
+      "name_ko": "우솝",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST01-004",
+      "name": "Sanji",
+      "name_ko": "상디",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST01-006",
+      "name": "Tony Tony.Chopper",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST01-007",
+      "name": "Nami",
+      "name_ko": "나미",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST01-011",
+      "name": "Brook",
+      "name_ko": "브룩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST01-013",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013_p1.png",
+      "image": null
+    }
+  ]
+}

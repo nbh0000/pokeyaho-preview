@@ -1,0 +1,104 @@
+{
+  "id": "op-en-set-japanese-2nd-anniversary-set",
+  "cards": [
+    {
+      "no": "OP01-030",
+      "name": "In Two Years!! At the Sabaody Archipelago!!",
+      "name_ko": "2년 후에!! 샤본디 제도에서!!!",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-030_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-013",
+      "name": "Portgas.D.Ace",
+      "name_ko": "포트거스 D. 에이스",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p5",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013_p5.png",
+      "image": null
+    },
+    {
+      "no": "OP03-044",
+      "name": "Kaya",
+      "name_ko": "카야",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-044_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP04-083",
+      "name": "Sabo",
+      "name_ko": "사보",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p5",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-083_p5.png",
+      "image": null
+    },
+    {
+      "no": "OP05-030",
+      "name": "Donquixote Rosinante",
+      "name_ko": "돈키호테 로시난테",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-030_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP06-118",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-118_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP07-064",
+      "name": "Sanji",
+      "name_ko": "상디",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-064_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP08-069",
+      "name": "Charlotte Linlin",
+      "name_ko": "샬롯 링링",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-069_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST13-015",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-015_p2.png",
+      "image": null
+    }
+  ]
+}

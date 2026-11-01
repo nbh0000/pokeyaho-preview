@@ -1,0 +1,137 @@
+{
+  "id": "db-en-xd3",
+  "cards": [
+    {
+      "no": "XD3-01",
+      "name": "Cell",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-01.png",
+      "image": null
+    },
+    {
+      "no": "XD3-02",
+      "name": "Cell, Genetic Consumption",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-02.png",
+      "image": null
+    },
+    {
+      "no": "XD3-03",
+      "name": "Android 18, Imminent Danger",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-03.png",
+      "image": null
+    },
+    {
+      "no": "XD3-04",
+      "name": "Android 17, Impending Crisis",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-04.png",
+      "image": null
+    },
+    {
+      "no": "XD3-04",
+      "name": "Android 17, Impending Crisis",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-04_PR.png",
+      "image": null
+    },
+    {
+      "no": "XD3-05",
+      "name": "SS Son Goku, Valiant Breakthrough",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-05.png",
+      "image": null
+    },
+    {
+      "no": "XD3-06",
+      "name": "SS Vegeta, Begrudging Support",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-06.png",
+      "image": null
+    },
+    {
+      "no": "XD3-07",
+      "name": "Pernicious Progeny",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "EXTRA",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-07.png",
+      "image": null
+    },
+    {
+      "no": "XD3-08",
+      "name": "SS2 Son Gohan, Wounded Victor",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-08.png",
+      "image": null
+    },
+    {
+      "no": "XD3-09",
+      "name": "Cell, Perfection Misspent",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-09.png",
+      "image": null
+    },
+    {
+      "no": "XD3-10",
+      "name": "Cell, Perfection Reclaimed",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-10.png",
+      "image": null
+    }
+  ]
+}

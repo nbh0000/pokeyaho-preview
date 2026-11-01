@@ -1,0 +1,27 @@
+{
+  "id": "pkm-jp-pg11005",
+  "cards": [
+    {
+      "no": "146/M-P",
+      "name": "メガタブンネex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050490_P_MTABUNNEIEKKUSU.jpg",
+      "image": "dex/cards/pkm-jp-pg11005/146-M-P.webp"
+    },
+    {
+      "no": "145/M-P",
+      "name": "リーリエの決心",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050489_T_RIRIENOKESSHIN.jpg",
+      "image": "dex/cards/pkm-jp-pg11005/145-M-P.webp"
+    }
+  ]
+}

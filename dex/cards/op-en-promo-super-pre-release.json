@@ -1,0 +1,27 @@
+{
+  "id": "op-en-promo-super-pre-release",
+  "cards": [
+    {
+      "no": "P-001",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p1.png",
+      "image": "dex/cards/op-en-promo/P-001_p1.webp"
+    },
+    {
+      "no": "P-001",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p2.png",
+      "image": "dex/cards/op-en-promo/P-001_p2.webp"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "pkm-jp-pg11001",
+  "cards": [
+    {
+      "no": "138/M-P",
+      "name": "コソクムシ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050470_P_KOSOKUMUSHI.jpg",
+      "image": "dex/cards/pkm-jp-pg11001/138-M-P.webp"
+    },
+    {
+      "no": "139/M-P",
+      "name": "メガシャリタツex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050471_P_MSHIXYARITATSUEX.jpg",
+      "image": "dex/cards/pkm-jp-pg11001/139-M-P.webp"
+    },
+    {
+      "no": "140/M-P",
+      "name": "シビシラス",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050472_P_SHIBISHIRASU.jpg",
+      "image": "dex/cards/pkm-jp-pg11001/140-M-P.webp"
+    },
+    {
+      "no": "141/M-P",
+      "name": "ミネズミ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050473_P_MINEZUMI.jpg",
+      "image": "dex/cards/pkm-jp-pg11001/141-M-P.webp"
+    },
+    {
+      "no": "142/M-P",
+      "name": "スペシャルレッドカード",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050474_T_SUPESHIXYARUREDDOKADO.jpg",
+      "image": "dex/cards/pkm-jp-pg11001/142-M-P.webp"
+    },
+    {
+      "no": "143/M-P",
+      "name": "デウロ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050475_T_DEURO.jpg",
+      "image": "dex/cards/pkm-jp-pg11001/143-M-P.webp"
+    },
+    {
+      "no": "144/M-P",
+      "name": "ボスの指令",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050476_T_BOSUNOSHIREI.jpg",
+      "image": "dex/cards/pkm-jp-pg11001/144-M-P.webp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "op-jp-promo-875097c51d",
+  "cards": [
+    {
+      "no": "OP01-017",
+      "name": "ニコ・ロビン",
+      "name_ko": "니코 로빈",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-017_p3.png",
+      "image": "dex/cards/op-jp-promo/OP01-017_p3.webp"
+    },
+    {
+      "no": "OP01-108",
+      "name": "人斬り鎌ぞう",
+      "name_ko": "살인귀 카마조",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-108_p1.png",
+      "image": "dex/cards/op-jp-promo/OP01-108_p1.webp"
+    },
+    {
+      "no": "OP02-034",
+      "name": "トニートニー・チョッパー",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-034_p3.png",
+      "image": "dex/cards/op-jp-promo/OP02-034_p3.webp"
+    },
+    {
+      "no": "OP02-108",
+      "name": "ドンキホーテ・ロシナンテ",
+      "name_ko": "돈키호테 로시난테",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-108_p2.png",
+      "image": "dex/cards/op-jp-promo/OP02-108_p2.webp"
+    },
+    {
+      "no": "ST03-004",
+      "name": "ゲッコー・モリア",
+      "name_ko": "겟코 모리아",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-004_p1.png",
+      "image": "dex/cards/op-jp-promo/ST03-004_p1.webp"
+    },
+    {
+      "no": "ST07-007",
+      "name": "シャーロット・ブリュレ",
+      "name_ko": "샬롯 브륄레",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-007_p1.png",
+      "image": "dex/cards/op-jp-promo/ST07-007_p1.webp"
+    }
+  ]
+}

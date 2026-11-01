@@ -1,0 +1,115 @@
+{
+  "id": "op-jp-promo-9e43a5fdad",
+  "cards": [
+    {
+      "no": "P-047",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "LEADER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-047.png",
+      "image": "dex/cards/op-jp-promo/P-047.webp"
+    },
+    {
+      "no": "P-048",
+      "name": "アーロン",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-048.png",
+      "image": "dex/cards/op-jp-promo/P-048.webp"
+    },
+    {
+      "no": "P-049",
+      "name": "ウソップ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-049.png",
+      "image": "dex/cards/op-jp-promo/P-049.webp"
+    },
+    {
+      "no": "P-050",
+      "name": "サンジ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-050.png",
+      "image": "dex/cards/op-jp-promo/P-050.webp"
+    },
+    {
+      "no": "P-051",
+      "name": "シャンクス",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-051.png",
+      "image": "dex/cards/op-jp-promo/P-051.webp"
+    },
+    {
+      "no": "P-052",
+      "name": "ジュラキュール・ミホーク",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-052.png",
+      "image": "dex/cards/op-jp-promo/P-052.webp"
+    },
+    {
+      "no": "P-053",
+      "name": "ナミ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-053.png",
+      "image": "dex/cards/op-jp-promo/P-053.webp"
+    },
+    {
+      "no": "P-054",
+      "name": "モンキー・D・ガープ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-054.png",
+      "image": "dex/cards/op-jp-promo/P-054.webp"
+    },
+    {
+      "no": "P-055",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-055.png",
+      "image": "dex/cards/op-jp-promo/P-055.webp"
+    },
+    {
+      "no": "P-056",
+      "name": "ロロノア・ゾロ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-056.png",
+      "image": "dex/cards/op-jp-promo/P-056.webp"
+    }
+  ]
+}

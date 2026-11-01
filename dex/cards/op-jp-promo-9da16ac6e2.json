@@ -1,0 +1,104 @@
+{
+  "id": "op-jp-promo-9da16ac6e2",
+  "cards": [
+    {
+      "no": "OP05-102",
+      "name": "ゲダツ",
+      "name_ko": "게다츠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-102_p2.png",
+      "image": "dex/cards/op-jp-promo/OP05-102_p2.webp"
+    },
+    {
+      "no": "OP06-025",
+      "name": "ケイミー",
+      "name_ko": "케이미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-025_p2.png",
+      "image": "dex/cards/op-jp-promo/OP06-025_p2.webp"
+    },
+    {
+      "no": "OP06-092",
+      "name": "ブルック",
+      "name_ko": "브룩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-092_p1.png",
+      "image": "dex/cards/op-jp-promo/OP06-092_p1.webp"
+    },
+    {
+      "no": "OP07-064",
+      "name": "サンジ",
+      "name_ko": "상디",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-064_p3.png",
+      "image": "dex/cards/op-jp-promo/OP07-064_p3.webp"
+    },
+    {
+      "no": "OP08-020",
+      "name": "ドラム王国",
+      "name_ko": "드럼 왕국",
+      "rarity": "C",
+      "type": "STAGE",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-020_p1.png",
+      "image": "dex/cards/op-jp-promo/OP08-020_p1.webp"
+    },
+    {
+      "no": "OP09-065",
+      "name": "サンジ",
+      "name_ko": "상디",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-065_p2.png",
+      "image": "dex/cards/op-jp-promo/OP09-065_p2.webp"
+    },
+    {
+      "no": "OP09-076",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-076_p2.png",
+      "image": "dex/cards/op-jp-promo/OP09-076_p2.webp"
+    },
+    {
+      "no": "P-066",
+      "name": "ボア・ハンコック",
+      "name_ko": "보아 행콕",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-066_p1.png",
+      "image": "dex/cards/op-jp-promo/P-066_p1.webp"
+    },
+    {
+      "no": "ST04-003",
+      "name": "カイドウ",
+      "name_ko": "카이도",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-003_p5.png",
+      "image": "dex/cards/op-jp-promo/ST04-003_p5.webp"
+    }
+  ]
+}

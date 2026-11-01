@@ -1,0 +1,125 @@
+{
+  "id": "db-en-sd17",
+  "cards": [
+    {
+      "no": "SD17-01",
+      "name": "Pan",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD17-01.png",
+      "image": null
+    },
+    {
+      "no": "SD17-01",
+      "name": "Pan",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Red",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD17-01_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD17-02",
+      "name": "SS4 Son Goku, Defender of Life",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD17-02.png",
+      "image": null
+    },
+    {
+      "no": "SD17-02",
+      "name": "SS4 Son Goku, Defender of Life",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Red",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD17-02_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD17-02",
+      "name": "SS4 Son Goku, Defender of Life",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Red",
+      "variant": "p2",
+      "variant_label": "PR02",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD17-02_PR02.png",
+      "image": null
+    },
+    {
+      "no": "SD17-02",
+      "name": "SS4 Son Goku, Defender of Life",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Red",
+      "variant": "p3",
+      "variant_label": "PR03",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD17-02_PR03.png",
+      "image": null
+    },
+    {
+      "no": "SD17-02",
+      "name": "SS4 Son Goku, Defender of Life",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Red",
+      "variant": "p4",
+      "variant_label": "PR04",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD17-02_PR04.png",
+      "image": null
+    },
+    {
+      "no": "SD17-03",
+      "name": "Son Gohan, the Awakened",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "UNISON",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD17-03.png",
+      "image": null
+    },
+    {
+      "no": "SD17-04",
+      "name": "SS4 Son Goku, Senses Returned",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD17-04.png",
+      "image": null
+    },
+    {
+      "no": "SD17-05",
+      "name": "Pan, Wisher of Miracles",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD17-05.png",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "pkm-en-pop1",
+  "cards": [
+    {
+      "no": "1",
+      "name": "Blaziken",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/1.png",
+      "image": null
+    },
+    {
+      "no": "2",
+      "name": "Metagross",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Metal",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/2.png",
+      "image": null
+    },
+    {
+      "no": "3",
+      "name": "Rayquaza",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/3.png",
+      "image": null
+    },
+    {
+      "no": "4",
+      "name": "Sceptile",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/4.png",
+      "image": null
+    },
+    {
+      "no": "5",
+      "name": "Swampert",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/5.png",
+      "image": null
+    },
+    {
+      "no": "6",
+      "name": "Beautifly",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/6.png",
+      "image": null
+    },
+    {
+      "no": "7",
+      "name": "Masquerain",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/7.png",
+      "image": null
+    },
+    {
+      "no": "8",
+      "name": "Murkrow",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Darkness",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/8.png",
+      "image": null
+    },
+    {
+      "no": "9",
+      "name": "Pupitar",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/9.png",
+      "image": null
+    },
+    {
+      "no": "10",
+      "name": "Torkoal",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/10.png",
+      "image": null
+    },
+    {
+      "no": "11",
+      "name": "Larvitar",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/11.png",
+      "image": null
+    },
+    {
+      "no": "12",
+      "name": "Minun",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/12.png",
+      "image": null
+    },
+    {
+      "no": "13",
+      "name": "Plusle",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/13.png",
+      "image": null
+    },
+    {
+      "no": "14",
+      "name": "Surskit",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/14.png",
+      "image": null
+    },
+    {
+      "no": "15",
+      "name": "Swellow",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/15.png",
+      "image": null
+    },
+    {
+      "no": "16",
+      "name": "Armaldo ex",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/16.png",
+      "image": null
+    },
+    {
+      "no": "17",
+      "name": "Tyranitar ex",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Darkness",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop1/17.png",
+      "image": null
+    }
+  ]
+}

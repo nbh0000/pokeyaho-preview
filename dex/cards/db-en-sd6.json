@@ -1,0 +1,65 @@
+{
+  "id": "db-en-sd6",
+  "cards": [
+    {
+      "no": "SD6-01",
+      "name": "Gogeta",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD6-01.png",
+      "image": null
+    },
+    {
+      "no": "SD6-02",
+      "name": "Fusion Reborn Vegeta",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD6-02.png",
+      "image": null
+    },
+    {
+      "no": "SD6-03",
+      "name": "Fusion Reborn Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD6-03.png",
+      "image": null
+    },
+    {
+      "no": "SD6-04",
+      "name": "Ultimate Fusion Gogeta",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD6-04.png",
+      "image": null
+    },
+    {
+      "no": "SD6-05",
+      "name": "Great Saiyaman",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD6-05.png",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-f3f70a8c91",
+  "cards": [
+    {
+      "no": "P-150",
+      "name": "クザン",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-150.png",
+      "image": "dex/cards/op-jp-promo/P-150.webp"
+    }
+  ]
+}

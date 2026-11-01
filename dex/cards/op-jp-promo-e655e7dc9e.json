@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-e655e7dc9e",
+  "cards": [
+    {
+      "no": "ST07-010",
+      "name": "シャーロット・リンリン",
+      "name_ko": "샬롯 링링",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-010_p2.png",
+      "image": "dex/cards/op-jp-promo/ST07-010_p2.webp"
+    }
+  ]
+}

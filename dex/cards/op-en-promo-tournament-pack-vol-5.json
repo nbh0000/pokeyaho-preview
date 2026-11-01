@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-tournament-pack-vol-5",
+  "cards": [
+    {
+      "no": "ST01-012",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p4.png",
+      "image": "dex/cards/op-en-promo/ST01-012_p4.webp"
+    },
+    {
+      "no": "ST02-013",
+      "name": "Eustass\"Captain\"Kid",
+      "name_ko": "유스타스 키드",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-013_p1.png",
+      "image": "dex/cards/op-en-promo/ST02-013_p1.webp"
+    },
+    {
+      "no": "ST03-003",
+      "name": "Crocodile",
+      "name_ko": "크로커다일",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-003_p1.png",
+      "image": "dex/cards/op-en-promo/ST03-003_p1.webp"
+    },
+    {
+      "no": "ST04-003",
+      "name": "Kaido",
+      "name_ko": "카이도",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003_p2.png",
+      "image": "dex/cards/op-en-promo/ST04-003_p2.webp"
+    }
+  ]
+}

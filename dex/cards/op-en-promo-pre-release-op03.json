@@ -1,0 +1,16 @@
+{
+  "id": "op-en-promo-pre-release-op03",
+  "cards": [
+    {
+      "no": "ST01-009",
+      "name": "Nefeltari Vivi",
+      "name_ko": "네펠타리 비비",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-009_p1.png",
+      "image": "dex/cards/op-en-promo/ST01-009_p1.webp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "op-en-promo-pirates-party-vol-6",
+  "cards": [
+    {
+      "no": "P-062",
+      "name": "Hody & Hyouzou",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-062.png",
+      "image": "dex/cards/op-en-promo/P-062.webp"
+    }
+  ]
+}

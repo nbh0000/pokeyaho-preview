@@ -1,0 +1,65 @@
+{
+  "id": "db-en-sd11",
+  "cards": [
+    {
+      "no": "SD11-01",
+      "name": "Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD11-01.png",
+      "image": null
+    },
+    {
+      "no": "SD11-02",
+      "name": "Friendly Rival Frieza",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD11-02.png",
+      "image": null
+    },
+    {
+      "no": "SD11-03",
+      "name": "Ultra Instinct Son Goku, Universal Impulse",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red/Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD11-03.png",
+      "image": null
+    },
+    {
+      "no": "SD11-04",
+      "name": "SSB Vegeta, Steadfast Ally",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red/Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD11-04.png",
+      "image": null
+    },
+    {
+      "no": "SD11-05",
+      "name": "We're in This Together!",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "EXTRA",
+      "color": "Red/Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD11-05.png",
+      "image": null
+    }
+  ]
+}

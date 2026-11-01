@@ -1,0 +1,82 @@
+{
+  "id": "op-jp-set-c2255410c5",
+  "cards": [
+    {
+      "no": "P-136",
+      "name": "ウソップ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-136.png",
+      "image": null
+    },
+    {
+      "no": "P-137",
+      "name": "サンジ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-137.png",
+      "image": null
+    },
+    {
+      "no": "P-138",
+      "name": "トニートニー・チョッパー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-138.png",
+      "image": null
+    },
+    {
+      "no": "P-139",
+      "name": "ナミ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-139.png",
+      "image": null
+    },
+    {
+      "no": "P-140",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-140.png",
+      "image": null
+    },
+    {
+      "no": "P-141",
+      "name": "ロロノア・ゾロ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-141.png",
+      "image": null
+    },
+    {
+      "no": "P-142",
+      "name": "ゴーイング・メリー号",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "STAGE",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-142.png",
+      "image": null
+    }
+  ]
+}

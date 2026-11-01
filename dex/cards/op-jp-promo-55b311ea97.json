@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-55b311ea97",
+  "cards": [
+    {
+      "no": "EB05-050",
+      "name": "アトラス",
+      "name_ko": null,
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB05-050_p1.png",
+      "image": "dex/cards/op-jp-promo/EB05-050_p1.webp"
+    }
+  ]
+}

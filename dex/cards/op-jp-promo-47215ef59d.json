@@ -1,0 +1,82 @@
+{
+  "id": "op-jp-promo-47215ef59d",
+  "cards": [
+    {
+      "no": "P-101",
+      "name": "トニートニー・チョッパー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-101_p1.png",
+      "image": "dex/cards/op-jp-promo/P-101_p1.webp"
+    },
+    {
+      "no": "P-102",
+      "name": "ナミ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-102_p1.png",
+      "image": "dex/cards/op-jp-promo/P-102_p1.webp"
+    },
+    {
+      "no": "P-103",
+      "name": "ポートガス・D・エース",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-103_p1.png",
+      "image": "dex/cards/op-jp-promo/P-103_p1.webp"
+    },
+    {
+      "no": "P-104",
+      "name": "シャンクス",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-104_p1.png",
+      "image": "dex/cards/op-jp-promo/P-104_p1.webp"
+    },
+    {
+      "no": "P-105",
+      "name": "サボ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-105_p1.png",
+      "image": "dex/cards/op-jp-promo/P-105_p1.webp"
+    },
+    {
+      "no": "P-106",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-106_p1.png",
+      "image": "dex/cards/op-jp-promo/P-106_p1.webp"
+    },
+    {
+      "no": "P-106",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-106_p2.png",
+      "image": "dex/cards/op-jp-promo/P-106_p2.webp"
+    }
+  ]
+}

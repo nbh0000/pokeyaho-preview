@@ -1,0 +1,71 @@
+{
+  "id": "op-jp-promo-173518e465",
+  "cards": [
+    {
+      "no": "OP10-022",
+      "name": "トラファルガー・ロー",
+      "name_ko": "트라팔가 로",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "緑/黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-022_p2.png",
+      "image": "dex/cards/op-jp-promo/OP10-022_p2.webp"
+    },
+    {
+      "no": "OP10-042",
+      "name": "ウソップ",
+      "name_ko": "우솝",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "青/黒",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-042_p4.png",
+      "image": "dex/cards/op-jp-promo/OP10-042_p4.webp"
+    },
+    {
+      "no": "OP13-004",
+      "name": "サボ",
+      "name_ko": "사보",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤/黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-004_p3.png",
+      "image": "dex/cards/op-jp-promo/OP13-004_p3.webp"
+    },
+    {
+      "no": "OP14-060",
+      "name": "ドンキホーテ・ドフラミンゴ",
+      "name_ko": "돈키호테 도플라밍고",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-060_p2.png",
+      "image": "dex/cards/op-jp-promo/OP14-060_p2.webp"
+    },
+    {
+      "no": "OP15-002",
+      "name": "ルーシー",
+      "name_ko": null,
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤/青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-002_p2.png",
+      "image": "dex/cards/op-jp-promo/OP15-002_p2.webp"
+    },
+    {
+      "no": "OP15-039",
+      "name": "レベッカ",
+      "name_ko": null,
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-039_p2.png",
+      "image": "dex/cards/op-jp-promo/OP15-039_p2.webp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-8a8af1e63d",
+  "cards": [
+    {
+      "no": "P-045",
+      "name": "ロロノア・ゾロ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-045.png",
+      "image": "dex/cards/op-jp-promo/P-045.webp"
+    }
+  ]
+}

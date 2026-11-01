@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-b50d255aed",
+  "cards": [
+    {
+      "no": "P-071",
+      "name": "マルコ",
+      "name_ko": "마르코",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-071.png",
+      "image": "dex/cards/op-jp-promo/P-071.webp"
+    }
+  ]
+}

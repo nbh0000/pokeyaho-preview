@@ -1,0 +1,280 @@
+{
+  "id": "pkm-en-cel25",
+  "cards": [
+    {
+      "no": "1/25",
+      "name": "Ho-Oh",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/1.png",
+      "image": null
+    },
+    {
+      "no": "2/25",
+      "name": "Reshiram",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/2.png",
+      "image": null
+    },
+    {
+      "no": "3/25",
+      "name": "Kyogre",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/3.png",
+      "image": null
+    },
+    {
+      "no": "4/25",
+      "name": "Palkia",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/4.png",
+      "image": null
+    },
+    {
+      "no": "5/25",
+      "name": "Pikachu",
+      "name_ko": null,
+      "rarity": "Rare Holo",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/5.png",
+      "image": null
+    },
+    {
+      "no": "6/25",
+      "name": "Flying Pikachu V",
+      "name_ko": null,
+      "rarity": "Rare Holo V",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/6.png",
+      "image": null
+    },
+    {
+      "no": "7/25",
+      "name": "Flying Pikachu VMAX",
+      "name_ko": null,
+      "rarity": "Rare Holo VMAX",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/7.png",
+      "image": null
+    },
+    {
+      "no": "8/25",
+      "name": "Surfing Pikachu V",
+      "name_ko": null,
+      "rarity": "Rare Holo V",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/8.png",
+      "image": null
+    },
+    {
+      "no": "9/25",
+      "name": "Surfing Pikachu VMAX",
+      "name_ko": null,
+      "rarity": "Rare Holo VMAX",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/9.png",
+      "image": null
+    },
+    {
+      "no": "10/25",
+      "name": "Zekrom",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/10.png",
+      "image": null
+    },
+    {
+      "no": "11/25",
+      "name": "Mew",
+      "name_ko": null,
+      "rarity": "Rare Holo",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/11.png",
+      "image": null
+    },
+    {
+      "no": "12/25",
+      "name": "Xerneas",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/12.png",
+      "image": null
+    },
+    {
+      "no": "13/25",
+      "name": "Cosmog",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/13.png",
+      "image": null
+    },
+    {
+      "no": "14/25",
+      "name": "Cosmoem",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/14.png",
+      "image": null
+    },
+    {
+      "no": "15/25",
+      "name": "Lunala",
+      "name_ko": null,
+      "rarity": "Rare Holo",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/15.png",
+      "image": null
+    },
+    {
+      "no": "16/25",
+      "name": "Zacian V",
+      "name_ko": null,
+      "rarity": "Rare Holo V",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/16.png",
+      "image": null
+    },
+    {
+      "no": "17/25",
+      "name": "Groudon",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/17.png",
+      "image": null
+    },
+    {
+      "no": "18/25",
+      "name": "Zamazenta V",
+      "name_ko": null,
+      "rarity": "Rare Holo V",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/18.png",
+      "image": null
+    },
+    {
+      "no": "19/25",
+      "name": "Yveltal",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Darkness",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/19.png",
+      "image": null
+    },
+    {
+      "no": "20/25",
+      "name": "Dialga",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Metal",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/20.png",
+      "image": null
+    },
+    {
+      "no": "21/25",
+      "name": "Solgaleo",
+      "name_ko": null,
+      "rarity": "Rare Holo",
+      "type": "Pokémon",
+      "color": "Metal",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/21.png",
+      "image": null
+    },
+    {
+      "no": "22/25",
+      "name": "Lugia",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/22.png",
+      "image": null
+    },
+    {
+      "no": "23/25",
+      "name": "Professor's Research (Professor Oak)",
+      "name_ko": null,
+      "rarity": "Rare Holo",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/23.png",
+      "image": null
+    },
+    {
+      "no": "24/25",
+      "name": "Professor's Research (Professor Oak)",
+      "name_ko": null,
+      "rarity": "Rare Ultra",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/24.png",
+      "image": null
+    },
+    {
+      "no": "25/25",
+      "name": "Mew",
+      "name_ko": null,
+      "rarity": "Rare Holo",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25/25.png",
+      "image": null
+    }
+  ]
+}

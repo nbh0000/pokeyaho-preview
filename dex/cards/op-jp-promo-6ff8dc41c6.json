@@ -1,0 +1,27 @@
+{
+  "id": "op-jp-promo-6ff8dc41c6",
+  "cards": [
+    {
+      "no": "P-069",
+      "name": "コアラ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-069.png",
+      "image": "dex/cards/op-jp-promo/P-069.webp"
+    },
+    {
+      "no": "P-076",
+      "name": "サカズキ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "LEADER",
+      "color": "青/黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-076.png",
+      "image": null
+    }
+  ]
+}

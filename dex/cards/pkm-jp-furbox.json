@@ -1,0 +1,27 @@
+{
+  "id": "pkm-jp-furbox",
+  "cards": [
+    {
+      "no": "131/M-P",
+      "name": "ピカチュウex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050555_P_PIKACHIXYUUIEKKUSU.jpg",
+      "image": "dex/cards/pkm-jp-furbox/131-M-P.webp"
+    },
+    {
+      "no": "132/M-P",
+      "name": "ピカチュウex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050556_P_PIKACHIXYUUIEKKUSU.jpg",
+      "image": "dex/cards/pkm-jp-furbox/132-M-P.webp"
+    }
+  ]
+}

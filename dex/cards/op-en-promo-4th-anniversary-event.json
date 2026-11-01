@@ -1,0 +1,27 @@
+{
+  "id": "op-en-promo-4th-anniversary-event",
+  "cards": [
+    {
+      "no": "P-110",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-110.png",
+      "image": "dex/cards/op-en-promo/P-110.webp"
+    },
+    {
+      "no": "P-110",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-110_p1.png",
+      "image": "dex/cards/op-en-promo/P-110_p1.webp"
+    }
+  ]
+}

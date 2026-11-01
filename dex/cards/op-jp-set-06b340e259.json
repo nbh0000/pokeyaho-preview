@@ -1,0 +1,71 @@
+{
+  "id": "op-jp-set-06b340e259",
+  "cards": [
+    {
+      "no": "OP05-098",
+      "name": "エネル",
+      "name_ko": "에넬",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "黄",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-098_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP06-021",
+      "name": "ペローナ",
+      "name_ko": "페로나",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "緑/黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-021_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP08-001",
+      "name": "トニートニー・チョッパー",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤/緑",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-001_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP10-003",
+      "name": "シュガー",
+      "name_ko": "슈거",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤/紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-003_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP10-042",
+      "name": "ウソップ",
+      "name_ko": "우솝",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "青/黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-042_p3.png",
+      "image": null
+    },
+    {
+      "no": "ST21-001",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-001_p2.png",
+      "image": null
+    }
+  ]
+}

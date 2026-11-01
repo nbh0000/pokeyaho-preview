@@ -1,0 +1,27 @@
+{
+  "id": "op-en-promo-extra-grand-battle-for-stores-2026-may",
+  "cards": [
+    {
+      "no": "EB02-006",
+      "name": "Yamato",
+      "name_ko": "야마토",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-006_p2.png",
+      "image": "dex/cards/op-en-promo/EB02-006_p2.webp"
+    },
+    {
+      "no": "OP14-033",
+      "name": "Perona",
+      "name_ko": "페로나",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-033_p2.png",
+      "image": "dex/cards/op-en-promo/OP14-033_p2.webp"
+    }
+  ]
+}

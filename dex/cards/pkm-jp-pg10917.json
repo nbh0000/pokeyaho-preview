@@ -1,0 +1,27 @@
+{
+  "id": "pkm-jp-pg10917",
+  "cards": [
+    {
+      "no": "148/SV-P",
+      "name": "オーガポン みどりのめん",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045841_P_OGAPONMIDORINOMEN.jpg",
+      "image": "dex/cards/pkm-jp-pg10917/148-SV-P.webp"
+    },
+    {
+      "no": "149/SV-P",
+      "name": "鬼の仮面",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045842_T_ONINOKAMEN.jpg",
+      "image": "dex/cards/pkm-jp-pg10917/149-SV-P.webp"
+    }
+  ]
+}

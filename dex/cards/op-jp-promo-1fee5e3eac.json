@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-1fee5e3eac",
+  "cards": [
+    {
+      "no": "OP02-098",
+      "name": "コビー",
+      "name_ko": "코비",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-098_p3.png",
+      "image": "dex/cards/op-jp-promo/OP02-098_p3.webp"
+    }
+  ]
+}

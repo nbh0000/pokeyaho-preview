@@ -1,0 +1,60 @@
+{
+  "id": "op-en-promo-sealed-battle-kit-vol-1",
+  "cards": [
+    {
+      "no": "P-052",
+      "name": "Dracule Mihawk",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-052.png",
+      "image": "dex/cards/op-en-promo/P-052.webp"
+    },
+    {
+      "no": "P-053",
+      "name": "Nami",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-053.png",
+      "image": "dex/cards/op-en-promo/P-053.webp"
+    },
+    {
+      "no": "P-054",
+      "name": "Monkey.D.Garp",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-054.png",
+      "image": "dex/cards/op-en-promo/P-054.webp"
+    },
+    {
+      "no": "P-055",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-055.png",
+      "image": "dex/cards/op-en-promo/P-055.webp"
+    },
+    {
+      "no": "P-056",
+      "name": "Roronoa Zoro",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-056.png",
+      "image": "dex/cards/op-en-promo/P-056.webp"
+    }
+  ]
+}

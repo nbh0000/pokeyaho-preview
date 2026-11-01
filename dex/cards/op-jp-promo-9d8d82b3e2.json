@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-9d8d82b3e2",
+  "cards": [
+    {
+      "no": "OP05-037",
+      "name": "勝者だけが正義だ!!!!",
+      "name_ko": "승자만이, 정의다!!!!",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-037_p2.png",
+      "image": "dex/cards/op-jp-promo/OP05-037_p2.webp"
+    }
+  ]
+}

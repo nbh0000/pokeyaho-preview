@@ -1,0 +1,27 @@
+{
+  "id": "op-en-set-illustration-box-vol-6",
+  "cards": [
+    {
+      "no": "OP12-108",
+      "name": "Donquixote Rosinante",
+      "name_ko": "돈키호테 로시난테",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-108_p3.png",
+      "image": null
+    },
+    {
+      "no": "P-093",
+      "name": "Trafalgar Law",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-093.png",
+      "image": null
+    }
+  ]
+}

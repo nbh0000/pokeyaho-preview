@@ -1,0 +1,104 @@
+{
+  "id": "op-jp-promo-31ce1d6566",
+  "cards": [
+    {
+      "no": "EB03-006",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-006_p1.png",
+      "image": "dex/cards/op-jp-promo/EB03-006_p1.webp"
+    },
+    {
+      "no": "EB03-027",
+      "name": "マーガレット",
+      "name_ko": "마가렛",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB03-027_p1.png",
+      "image": "dex/cards/op-jp-promo/EB03-027_p1.webp"
+    },
+    {
+      "no": "EB04-058",
+      "name": "ボルサリーノ",
+      "name_ko": "볼사리노",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-058_p2.png",
+      "image": "dex/cards/op-jp-promo/EB04-058_p2.webp"
+    },
+    {
+      "no": "OP08-047",
+      "name": "ジョズ",
+      "name_ko": "조즈",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-047_p1.png",
+      "image": "dex/cards/op-jp-promo/OP08-047_p1.webp"
+    },
+    {
+      "no": "OP13-067",
+      "name": "スコッパー・ギャバン",
+      "name_ko": "스코퍼 가반",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-067_p1.png",
+      "image": "dex/cards/op-jp-promo/OP13-067_p1.webp"
+    },
+    {
+      "no": "OP14-083",
+      "name": "ミス・ウェンズデー",
+      "name_ko": "미스 웬즈데이",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-083_p1.png",
+      "image": "dex/cards/op-jp-promo/OP14-083_p1.webp"
+    },
+    {
+      "no": "PRB02-005",
+      "name": "モンキー・Ｄ・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-005_p2.png",
+      "image": "dex/cards/op-jp-promo/PRB02-005_p2.webp"
+    },
+    {
+      "no": "ST23-001",
+      "name": "ウタ",
+      "name_ko": "우타",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST23-001_p1.png",
+      "image": "dex/cards/op-jp-promo/ST23-001_p1.webp"
+    },
+    {
+      "no": "ST29-009",
+      "name": "ニコ・ロビン",
+      "name_ko": "니코 로빈",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST29-009_p2.png",
+      "image": "dex/cards/op-jp-promo/ST29-009_p2.webp"
+    }
+  ]
+}

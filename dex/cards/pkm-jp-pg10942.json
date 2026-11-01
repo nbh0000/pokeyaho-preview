@@ -1,0 +1,82 @@
+{
+  "id": "pkm-jp-pg10942",
+  "cards": [
+    {
+      "no": "184/SV-P",
+      "name": "ベラカスex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/046447_P_BERAKASUEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10942/184-SV-P.webp"
+    },
+    {
+      "no": "185/SV-P",
+      "name": "テツノツツミ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/046448_P_TETSUNOTSUTSUMI.jpg",
+      "image": "dex/cards/pkm-jp-pg10942/185-SV-P.webp"
+    },
+    {
+      "no": "186/SV-P",
+      "name": "ヒポポタス",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/046449_P_HIPOPOTASU.jpg",
+      "image": "dex/cards/pkm-jp-pg10942/186-SV-P.webp"
+    },
+    {
+      "no": "187/SV-P",
+      "name": "カバルドン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/046450_P_KABARUDON.jpg",
+      "image": "dex/cards/pkm-jp-pg10942/187-SV-P.webp"
+    },
+    {
+      "no": "188/SV-P",
+      "name": "ボスの指令",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/046451_T_BOSUNOSHIREI.jpg",
+      "image": "dex/cards/pkm-jp-pg10942/188-SV-P.webp"
+    },
+    {
+      "no": "189/SV-P",
+      "name": "わざマシンマシン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/046452_T_WAZAMASHINMASHIN.jpg",
+      "image": "dex/cards/pkm-jp-pg10942/189-SV-P.webp"
+    },
+    {
+      "no": "190/SV-P",
+      "name": "ジェットエネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/046453_E_JIETTOENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10942/190-SV-P.webp"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "pkm-jp-pg10978",
+  "cards": [
+    {
+      "no": "045/M-P",
+      "name": "リザード",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048480_P_RIZADO.jpg.jpg",
+      "image": "dex/cards/pkm-jp-pg10978/045-M-P.webp"
+    },
+    {
+      "no": "046/M-P",
+      "name": "ワルビアルex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048481_P_WARUBIARUEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10978/046-M-P.webp"
+    },
+    {
+      "no": "047/M-P",
+      "name": "エレズン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048482_P_EREZUN.jpg",
+      "image": "dex/cards/pkm-jp-pg10978/047-M-P.webp"
+    },
+    {
+      "no": "048/M-P",
+      "name": "ノココッチ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048483_P_NOKOKOTCHI.jpg",
+      "image": "dex/cards/pkm-jp-pg10978/048-M-P.webp"
+    },
+    {
+      "no": "049/M-P",
+      "name": "逆境ほけん",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048484_T_GIXYAKKIXYOUHOKEN.jpg",
+      "image": "dex/cards/pkm-jp-pg10978/049-M-P.webp"
+    },
+    {
+      "no": "050/M-P",
+      "name": "ふうせん",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048485_T_FUUSEN.jpg",
+      "image": "dex/cards/pkm-jp-pg10978/050-M-P.webp"
+    },
+    {
+      "no": "051/M-P",
+      "name": "トウコ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048486_T_TOUKO.jpg",
+      "image": "dex/cards/pkm-jp-pg10978/051-M-P.webp"
+    }
+  ]
+}

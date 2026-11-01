@@ -1,0 +1,137 @@
+{
+  "id": "pkm-en-mcd14",
+  "cards": [
+    {
+      "no": "1",
+      "name": "Weedle",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/mcd14/1.png",
+      "image": null
+    },
+    {
+      "no": "2",
+      "name": "Chespin",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/mcd14/2.png",
+      "image": null
+    },
+    {
+      "no": "3",
+      "name": "Fennekin",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/mcd14/3.png",
+      "image": null
+    },
+    {
+      "no": "4",
+      "name": "Froakie",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/mcd14/4.png",
+      "image": null
+    },
+    {
+      "no": "5",
+      "name": "Pikachu",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/mcd14/5.png",
+      "image": null
+    },
+    {
+      "no": "6",
+      "name": "Inkay",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Darkness",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/mcd14/6.png",
+      "image": null
+    },
+    {
+      "no": "7",
+      "name": "Honedge",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Metal",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/mcd14/7.png",
+      "image": null
+    },
+    {
+      "no": "8",
+      "name": "Snubbull",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Fairy",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/mcd14/8.png",
+      "image": null
+    },
+    {
+      "no": "9",
+      "name": "Swirlix",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Fairy",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/mcd14/9.png",
+      "image": null
+    },
+    {
+      "no": "10",
+      "name": "Bunnelby",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/mcd14/10.png",
+      "image": null
+    },
+    {
+      "no": "11",
+      "name": "Fletchling",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/mcd14/11.png",
+      "image": null
+    },
+    {
+      "no": "12",
+      "name": "Furfrou",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/mcd14/12.png",
+      "image": null
+    }
+  ]
+}

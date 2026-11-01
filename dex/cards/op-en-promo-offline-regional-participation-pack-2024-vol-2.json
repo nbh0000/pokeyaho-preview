@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-offline-regional-participation-pack-2024-vol-2",
+  "cards": [
+    {
+      "no": "P-001",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p5",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p5.png",
+      "image": "dex/cards/op-en-promo/P-001_p5.webp"
+    },
+    {
+      "no": "P-003",
+      "name": "Eustass\"Captain\"Kid",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-003_p1.png",
+      "image": "dex/cards/op-en-promo/P-003_p1.webp"
+    },
+    {
+      "no": "P-041",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-041_p1.png",
+      "image": "dex/cards/op-en-promo/P-041_p1.webp"
+    },
+    {
+      "no": "ST03-008",
+      "name": "Trafalgar Law",
+      "name_ko": "트라팔가 로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p3.png",
+      "image": "dex/cards/op-en-promo/ST03-008_p3.webp"
+    }
+  ]
+}

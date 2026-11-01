@@ -1,0 +1,170 @@
+{
+  "id": "op-en-st20",
+  "cards": [
+    {
+      "no": "OP03-099",
+      "name": "Charlotte Katakuri",
+      "name_ko": "샬롯 카타쿠리",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-099_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP03-106",
+      "name": "Charlotte Opera",
+      "name_ko": "샬롯 오페라",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-106_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-107",
+      "name": "Charlotte Galette",
+      "name_ko": "샬롯 갈렛",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-107_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-110",
+      "name": "Charlotte Smoothie",
+      "name_ko": "샬롯 스무디",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-112",
+      "name": "Charlotte Pudding",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-115",
+      "name": "Streusen",
+      "name_ko": "슈트로이젠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-115_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-118",
+      "name": "Ikoku Sovereignty",
+      "name_ko": "위국",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-118_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-121",
+      "name": "Thunder Bolt",
+      "name_ko": "뇌정",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST07-005",
+      "name": "Charlotte Daifuku",
+      "name_ko": "샬롯 다이후쿠",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-005_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST07-014",
+      "name": "Pekoms",
+      "name_ko": "페콤즈",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-014_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST20-001",
+      "name": "Charlotte Katakuri",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-001.png",
+      "image": null
+    },
+    {
+      "no": "ST20-002",
+      "name": "Charlotte Cracker",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-002.png",
+      "image": null
+    },
+    {
+      "no": "ST20-003",
+      "name": "Charlotte Brulee",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003.png",
+      "image": null
+    },
+    {
+      "no": "ST20-004",
+      "name": "Charlotte Pudding",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-004.png",
+      "image": null
+    },
+    {
+      "no": "ST20-005",
+      "name": "Charlotte Linlin",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-005.png",
+      "image": null
+    }
+  ]
+}

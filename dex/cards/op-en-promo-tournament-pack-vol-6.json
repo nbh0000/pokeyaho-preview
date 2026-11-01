@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-tournament-pack-vol-6",
+  "cards": [
+    {
+      "no": "OP03-033",
+      "name": "Hatchan",
+      "name_ko": "핫짱",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-033_p1.png",
+      "image": "dex/cards/op-en-promo/OP03-033_p1.webp"
+    },
+    {
+      "no": "OP03-044",
+      "name": "Kaya",
+      "name_ko": "카야",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-044_p1.png",
+      "image": "dex/cards/op-en-promo/OP03-044_p1.webp"
+    },
+    {
+      "no": "OP03-088",
+      "name": "Fukurou",
+      "name_ko": "후쿠로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-088_p1.png",
+      "image": "dex/cards/op-en-promo/OP03-088_p1.webp"
+    },
+    {
+      "no": "OP03-116",
+      "name": "Shirahoshi",
+      "name_ko": "시라호시",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-116_p1.png",
+      "image": "dex/cards/op-en-promo/OP03-116_p1.webp"
+    }
+  ]
+}

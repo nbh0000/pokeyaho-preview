@@ -1,0 +1,16 @@
+{
+  "id": "op-en-promo-one-piece-card-game-x-psa-exclusive-promo-card",
+  "cards": [
+    {
+      "no": "OP05-060",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-060_p2.png",
+      "image": "dex/cards/op-en-promo/OP05-060_p2.webp"
+    }
+  ]
+}

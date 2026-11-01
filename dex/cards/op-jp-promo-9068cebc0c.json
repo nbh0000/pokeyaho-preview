@@ -1,0 +1,38 @@
+{
+  "id": "op-jp-promo-9068cebc0c",
+  "cards": [
+    {
+      "no": "OP07-053",
+      "name": "ポートガス・D・エース",
+      "name_ko": "포트거스 D. 에이스",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-053_p3.png",
+      "image": "dex/cards/op-jp-promo/OP07-053_p3.webp"
+    },
+    {
+      "no": "OP09-027",
+      "name": "サボ",
+      "name_ko": "사보",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-027_p1.png",
+      "image": "dex/cards/op-jp-promo/OP09-027_p1.webp"
+    },
+    {
+      "no": "ST01-012",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p7",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-012_p7.png",
+      "image": "dex/cards/op-jp-promo/ST01-012_p7.webp"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "op-jp-set-38a7f8a100",
+  "cards": [
+    {
+      "no": "EB02-041",
+      "name": "ゴーイング・メリー号",
+      "name_ko": "고잉 메리 호",
+      "rarity": "R",
+      "type": "STAGE",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-041_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-116",
+      "name": "焔裂き",
+      "name_ko": "화염 가르기",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-116_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP08-036",
+      "name": "エレクトリカルルナ",
+      "name_ko": "일렉트리컬 루나",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-036_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP11-060",
+      "name": "式をブッ壊そう!!!",
+      "name_ko": "식을 망쳐버리자!!!",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-060_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-006",
+      "name": "シャクヤク",
+      "name_ko": "샤쿠야쿠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-006_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-026",
+      "name": "くいな",
+      "name_ko": "쿠이나",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-026_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-051",
+      "name": "ヒナ",
+      "name_ko": "히나",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-051_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-098",
+      "name": "夢打撃処裏拳",
+      "name_ko": "잔털 처리권",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-098_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-112",
+      "name": "ベビー5",
+      "name_ko": "베이비 5",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-112_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP13-063",
+      "name": "光月おでん",
+      "name_ko": "코즈키 오뎅",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-063_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP13-086",
+      "name": "シャルリア宮",
+      "name_ko": "샤를리아 궁",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-086_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST21-017",
+      "name": "ゴムゴムのモグラ銃",
+      "name_ko": "고무고무 두더지 피스톨",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-017_p1.png",
+      "image": null
+    }
+  ]
+}

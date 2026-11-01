@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-fc0c0e7e38",
+  "cards": [
+    {
+      "no": "P-091",
+      "name": "しらほし",
+      "name_ko": "시라호시",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-091.png",
+      "image": "dex/cards/op-jp-promo/P-091.webp"
+    }
+  ]
+}

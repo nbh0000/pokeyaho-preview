@@ -1,0 +1,27 @@
+{
+  "id": "op-en-promo-op-16-release-event",
+  "cards": [
+    {
+      "no": "P-135",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-135.png",
+      "image": "dex/cards/op-en-promo/P-135.webp"
+    },
+    {
+      "no": "P-135",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-135_p1.png",
+      "image": "dex/cards/op-en-promo/P-135_p1.webp"
+    }
+  ]
+}

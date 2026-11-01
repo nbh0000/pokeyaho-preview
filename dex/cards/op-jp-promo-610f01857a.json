@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-610f01857a",
+  "cards": [
+    {
+      "no": "P-034",
+      "name": "サンジ",
+      "name_ko": "상디",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-034.png",
+      "image": "dex/cards/op-jp-promo/P-034.webp"
+    }
+  ]
+}

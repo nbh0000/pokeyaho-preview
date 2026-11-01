@@ -1,0 +1,38 @@
+{
+  "id": "pkm-jp-pg11004",
+  "cards": [
+    {
+      "no": "137/M-P",
+      "name": "メガエルレイドex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050488_P_MERUREIDOIEKKUSU.jpg",
+      "image": "dex/cards/pkm-jp-pg11004/137-M-P.webp"
+    },
+    {
+      "no": "135/M-P",
+      "name": "ポケパッド",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050486_T_POKEPADDO.jpg",
+      "image": "dex/cards/pkm-jp-pg11004/135-M-P.webp"
+    },
+    {
+      "no": "136/M-P",
+      "name": "ガイ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050487_T_GAI.jpg",
+      "image": "dex/cards/pkm-jp-pg11004/136-M-P.webp"
+    }
+  ]
+}

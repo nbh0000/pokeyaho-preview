@@ -1,0 +1,27 @@
+{
+  "id": "op-en-set-illustration-box-vol-8",
+  "cards": [
+    {
+      "no": "OP14-005",
+      "name": "Killer",
+      "name_ko": "킬러",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-005_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP14-014",
+      "name": "Eustass\"Captain\"Kid",
+      "name_ko": "유스타스 키드",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-014_p2.png",
+      "image": null
+    }
+  ]
+}

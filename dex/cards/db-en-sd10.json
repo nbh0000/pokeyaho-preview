@@ -1,0 +1,77 @@
+{
+  "id": "db-en-sd10",
+  "cards": [
+    {
+      "no": "SD10-01",
+      "name": "Baby Vegeta",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD10-01.png",
+      "image": null
+    },
+    {
+      "no": "SD10-02",
+      "name": "SS3 Son Goku, the Last Straw",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD10-02.png",
+      "image": null
+    },
+    {
+      "no": "SD10-02",
+      "name": "SS3 Son Goku, the Last Straw",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD10-02_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD10-03",
+      "name": "Super Baby 1, the Conqueror",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD10-03.png",
+      "image": null
+    },
+    {
+      "no": "SD10-04",
+      "name": "Super Baby 2, Vengeful Rampage",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD10-04.png",
+      "image": null
+    },
+    {
+      "no": "SD10-05",
+      "name": "Battle to the Death",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "EXTRA",
+      "color": "Red/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD10-05.png",
+      "image": null
+    }
+  ]
+}

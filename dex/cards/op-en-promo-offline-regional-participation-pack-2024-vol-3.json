@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-offline-regional-participation-pack-2024-vol-3",
+  "cards": [
+    {
+      "no": "OP01-015",
+      "name": "Tony Tony.Chopper",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-015_p1.png",
+      "image": "dex/cards/op-en-promo/OP01-015_p1.webp"
+    },
+    {
+      "no": "OP02-063",
+      "name": "Mr.1(Daz.Bonez)",
+      "name_ko": "Mr.1(다즈 보네스)",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-063_p1.png",
+      "image": "dex/cards/op-en-promo/OP02-063_p1.webp"
+    },
+    {
+      "no": "OP06-110",
+      "name": "Nekomamushi",
+      "name_ko": "네코마무시",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-110_p1.png",
+      "image": "dex/cards/op-en-promo/OP06-110_p1.webp"
+    },
+    {
+      "no": "OP07-091",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-091_p1.png",
+      "image": "dex/cards/op-en-promo/OP07-091_p1.webp"
+    }
+  ]
+}

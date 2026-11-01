@@ -1,0 +1,93 @@
+{
+  "id": "pkm-jp-pg10964",
+  "cards": [
+    {
+      "no": "272/SV-P",
+      "name": "エネルギー転送",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047709_T_ENERUGITENSOU.jpg",
+      "image": "dex/cards/pkm-jp-pg10964/272-SV-P.webp"
+    },
+    {
+      "no": "273/SV-P",
+      "name": "きずぐすり",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047710_T_KIZUGUSURI.jpg",
+      "image": "dex/cards/pkm-jp-pg10964/273-SV-P.webp"
+    },
+    {
+      "no": "274/SV-P",
+      "name": "クラッシュハンマー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047711_T_KURASSHIXYUHANMA.jpg",
+      "image": "dex/cards/pkm-jp-pg10964/274-SV-P.webp"
+    },
+    {
+      "no": "275/SV-P",
+      "name": "ハイパーボール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047712_T_HAIPABORU.jpg",
+      "image": "dex/cards/pkm-jp-pg10964/275-SV-P.webp"
+    },
+    {
+      "no": "276/SV-P",
+      "name": "ポケモンいれかえ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047713_T_POKEMONIREKAE.jpg",
+      "image": "dex/cards/pkm-jp-pg10964/276-SV-P.webp"
+    },
+    {
+      "no": "277/SV-P",
+      "name": "ポケモンキャッチャー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047714_T_POKEMONKIXYATCHIXYA.jpg",
+      "image": "dex/cards/pkm-jp-pg10964/277-SV-P.webp"
+    },
+    {
+      "no": "278/SV-P",
+      "name": "ボスの指令",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047715_T_BOSUNOSHIREI.jpg",
+      "image": "dex/cards/pkm-jp-pg10964/278-SV-P.webp"
+    },
+    {
+      "no": "279/SV-P",
+      "name": "チェレン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047716_T_CHIEREN.jpg",
+      "image": "dex/cards/pkm-jp-pg10964/279-SV-P.webp"
+    }
+  ]
+}

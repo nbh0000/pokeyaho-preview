@@ -1,0 +1,93 @@
+{
+  "id": "op-jp-promo-2d171d9640",
+  "cards": [
+    {
+      "no": "EB02-026",
+      "name": "ネフェルタリ・ビビ",
+      "name_ko": "네펠타리 비비",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-026_p2.png",
+      "image": "dex/cards/op-jp-promo/EB02-026_p2.webp"
+    },
+    {
+      "no": "EB02-054",
+      "name": "サンジ",
+      "name_ko": "상디",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-054_p2.png",
+      "image": "dex/cards/op-jp-promo/EB02-054_p2.webp"
+    },
+    {
+      "no": "OP07-015",
+      "name": "モンキー・D・ドラゴン",
+      "name_ko": "몽키 D. 드래곤",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-015_p3.png",
+      "image": "dex/cards/op-jp-promo/OP07-015_p3.webp"
+    },
+    {
+      "no": "OP08-106",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-106_p5.png",
+      "image": "dex/cards/op-jp-promo/OP08-106_p5.webp"
+    },
+    {
+      "no": "OP10-032",
+      "name": "たしぎ",
+      "name_ko": "타시기",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-032_p2.png",
+      "image": "dex/cards/op-jp-promo/OP10-032_p2.webp"
+    },
+    {
+      "no": "OP11-071",
+      "name": "シャーロット・ペロスペロー",
+      "name_ko": "샬롯 페로스페로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-071_p1.png",
+      "image": "dex/cards/op-jp-promo/OP11-071_p1.webp"
+    },
+    {
+      "no": "OP12-071",
+      "name": "シャーロット・プリン",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-071_p1.png",
+      "image": "dex/cards/op-jp-promo/OP12-071_p1.webp"
+    },
+    {
+      "no": "OP12-089",
+      "name": "ハック",
+      "name_ko": "핵",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-089_p1.png",
+      "image": "dex/cards/op-jp-promo/OP12-089_p1.webp"
+    }
+  ]
+}

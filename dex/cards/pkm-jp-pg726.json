@@ -1,0 +1,258 @@
+{
+  "id": "pkm-jp-pg726",
+  "cards": [
+    {
+      "no": "001/021",
+      "name": "リザードンV",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038887_P_RIZADONV.jpg",
+      "image": null
+    },
+    {
+      "no": "002/021",
+      "name": "リザードンVMAX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038888_P_RIZADONVMAX.jpg",
+      "image": null
+    },
+    {
+      "no": "003/021",
+      "name": "ビクティニ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038889_P_BIKUTEINI.jpg",
+      "image": null
+    },
+    {
+      "no": "004/021",
+      "name": "ジガルデ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038890_P_JIGARUDE.jpg",
+      "image": null
+    },
+    {
+      "no": "005/021",
+      "name": "タンドン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038891_P_TANDON.jpg",
+      "image": null
+    },
+    {
+      "no": "006/021",
+      "name": "トロッゴン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038892_P_TOROGGON.jpg",
+      "image": null
+    },
+    {
+      "no": "007/021",
+      "name": "セキタンザン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038893_P_SEKITANZAN.jpg",
+      "image": null
+    },
+    {
+      "no": "008/021",
+      "name": "ケンタロス",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038894_P_KENTAROSU.jpg",
+      "image": null
+    },
+    {
+      "no": "009/021",
+      "name": "クイックボール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038895_T_KUIKKUBORU.jpg",
+      "image": null
+    },
+    {
+      "no": "010/021",
+      "name": "しんかのおこう",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038896_T_SHINKANOOKOU.jpg",
+      "image": null
+    },
+    {
+      "no": "011/021",
+      "name": "スマホロトム",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038897_T_SUMAHOROTOMU.jpg",
+      "image": null
+    },
+    {
+      "no": "012/021",
+      "name": "ふしぎなアメ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038898_T_FUSHIGINAAME.jpg",
+      "image": null
+    },
+    {
+      "no": "013/021",
+      "name": "ポケギア3.0",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038899_T_POKEGIA.jpg",
+      "image": null
+    },
+    {
+      "no": "014/021",
+      "name": "ポケモンいれかえ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038900_T_POKEMONIREKAE.jpg",
+      "image": null
+    },
+    {
+      "no": "015/021",
+      "name": "ポケモンキャッチャー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038901_T_POKEMONKYACCHA.jpg",
+      "image": null
+    },
+    {
+      "no": "016/021",
+      "name": "リセットスタンプ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038902_T_RISETTOSUTANPU.jpg",
+      "image": null
+    },
+    {
+      "no": "017/021",
+      "name": "博士の研究",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038903_T_HAKASENOKENKYUUARARAGIHAKASE.jpg",
+      "image": null
+    },
+    {
+      "no": "018/021",
+      "name": "ポケモンごっこ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038904_T_POKEMONGOKKO.jpg",
+      "image": null
+    },
+    {
+      "no": "019/021",
+      "name": "ホップ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038905_T_HOPPU.jpg",
+      "image": null
+    },
+    {
+      "no": "020/021",
+      "name": "マリィ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038906_T_MARII.jpg",
+      "image": null
+    },
+    {
+      "no": "021/021",
+      "name": "ヤロー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SC2/038907_T_YARO.jpg",
+      "image": null
+    },
+    {
+      "no": "FIG",
+      "name": "基本闘エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large//037747_E_KIHONTOUENERUGI.jpg",
+      "image": null
+    },
+    {
+      "no": "FIR",
+      "name": "基本炎エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large//037743_E_KIHONHONOOENERUGI.jpg",
+      "image": null
+    }
+  ]
+}

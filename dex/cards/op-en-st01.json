@@ -1,0 +1,192 @@
+{
+  "id": "op-en-st01",
+  "cards": [
+    {
+      "no": "ST01-001",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-001.png",
+      "image": null
+    },
+    {
+      "no": "ST01-002",
+      "name": "Usopp",
+      "name_ko": "우솝",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002.png",
+      "image": null
+    },
+    {
+      "no": "ST01-003",
+      "name": "Karoo",
+      "name_ko": "카루",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-003.png",
+      "image": null
+    },
+    {
+      "no": "ST01-004",
+      "name": "Sanji",
+      "name_ko": "상디",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004.png",
+      "image": null
+    },
+    {
+      "no": "ST01-005",
+      "name": "Jinbe",
+      "name_ko": "징베",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005.png",
+      "image": null
+    },
+    {
+      "no": "ST01-006",
+      "name": "Tony Tony.Chopper",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png",
+      "image": null
+    },
+    {
+      "no": "ST01-007",
+      "name": "Nami",
+      "name_ko": "나미",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007.png",
+      "image": null
+    },
+    {
+      "no": "ST01-008",
+      "name": "Nico Robin",
+      "name_ko": "니코 로빈",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008.png",
+      "image": null
+    },
+    {
+      "no": "ST01-009",
+      "name": "Nefeltari Vivi",
+      "name_ko": "네펠타리 비비",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-009.png",
+      "image": null
+    },
+    {
+      "no": "ST01-010",
+      "name": "Franky",
+      "name_ko": "프랑키",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010.png",
+      "image": null
+    },
+    {
+      "no": "ST01-011",
+      "name": "Brook",
+      "name_ko": "브룩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png",
+      "image": null
+    },
+    {
+      "no": "ST01-012",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png",
+      "image": null
+    },
+    {
+      "no": "ST01-013",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013.png",
+      "image": null
+    },
+    {
+      "no": "ST01-014",
+      "name": "Guard Point",
+      "name_ko": "모피 강화",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png",
+      "image": null
+    },
+    {
+      "no": "ST01-015",
+      "name": "Gum-Gum Jet Pistol",
+      "name_ko": "고무고무 JET 총",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015.png",
+      "image": null
+    },
+    {
+      "no": "ST01-016",
+      "name": "Diable Jambe",
+      "name_ko": "디아블 잠브",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-016.png",
+      "image": null
+    },
+    {
+      "no": "ST01-017",
+      "name": "Thousand Sunny",
+      "name_ko": "사우전드 써니 호",
+      "rarity": "C",
+      "type": "STAGE",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-017.png",
+      "image": null
+    }
+  ]
+}

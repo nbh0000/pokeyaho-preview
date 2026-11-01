@@ -1,0 +1,192 @@
+{
+  "id": "pkm-en-pop7",
+  "cards": [
+    {
+      "no": "1",
+      "name": "Ampharos",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/1.png",
+      "image": null
+    },
+    {
+      "no": "2",
+      "name": "Gallade",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/2.png",
+      "image": null
+    },
+    {
+      "no": "3",
+      "name": "Latias",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/3.png",
+      "image": null
+    },
+    {
+      "no": "4",
+      "name": "Latios",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/4.png",
+      "image": null
+    },
+    {
+      "no": "5",
+      "name": "Mothim",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/5.png",
+      "image": null
+    },
+    {
+      "no": "6",
+      "name": "Delibird",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/6.png",
+      "image": null
+    },
+    {
+      "no": "7",
+      "name": "Flaaffy",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/7.png",
+      "image": null
+    },
+    {
+      "no": "8",
+      "name": "Kirlia",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/8.png",
+      "image": null
+    },
+    {
+      "no": "9",
+      "name": "Stantler",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/9.png",
+      "image": null
+    },
+    {
+      "no": "10",
+      "name": "Wormadam Sandy Cloak",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/10.png",
+      "image": null
+    },
+    {
+      "no": "11",
+      "name": "Burmy Plant Cloak",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/11.png",
+      "image": null
+    },
+    {
+      "no": "12",
+      "name": "Burmy Sandy Cloak",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/12.png",
+      "image": null
+    },
+    {
+      "no": "13",
+      "name": "Corsola",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/13.png",
+      "image": null
+    },
+    {
+      "no": "14",
+      "name": "Mareep",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/14.png",
+      "image": null
+    },
+    {
+      "no": "15",
+      "name": "Ralts",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/15.png",
+      "image": null
+    },
+    {
+      "no": "16",
+      "name": "Sentret",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/16.png",
+      "image": null
+    },
+    {
+      "no": "17",
+      "name": "Spinda",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop7/17.png",
+      "image": null
+    }
+  ]
+}

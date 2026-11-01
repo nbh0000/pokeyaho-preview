@@ -1,0 +1,65 @@
+{
+  "id": "db-en-ex14",
+  "cards": [
+    {
+      "no": "EX14-01",
+      "name": "Ultimate Shenron, Dimensional Wishmaster",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "UNISON",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX14-01.png",
+      "image": null
+    },
+    {
+      "no": "EX14-02",
+      "name": "Trunks, Power to Save the Future",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX14-02.png",
+      "image": null
+    },
+    {
+      "no": "EX14-03",
+      "name": "Ginyu Force, the Showstoppers",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX14-03.png",
+      "image": null
+    },
+    {
+      "no": "EX14-04",
+      "name": "Son Goten & Trunks, Super Saiyan Tag Team",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX14-04.png",
+      "image": null
+    },
+    {
+      "no": "EX14-05",
+      "name": "Towa, Rewriting History",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX14-05.png",
+      "image": null
+    }
+  ]
+}

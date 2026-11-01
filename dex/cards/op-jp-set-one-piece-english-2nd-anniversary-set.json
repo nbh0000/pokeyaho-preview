@@ -1,0 +1,93 @@
+{
+  "id": "op-jp-set-one-piece-english-2nd-anniversary-set",
+  "cards": [
+    {
+      "no": "OP05-119",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p8",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-119_p8.png",
+      "image": null
+    },
+    {
+      "no": "OP09-001",
+      "name": "シャンクス",
+      "name_ko": "샹크스",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-001_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP09-004",
+      "name": "シャンクス",
+      "name_ko": "샹크스",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p7",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p7.png",
+      "image": null
+    },
+    {
+      "no": "OP09-042",
+      "name": "バギー",
+      "name_ko": "버기",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "青",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-042_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP09-051",
+      "name": "バギー",
+      "name_ko": "버기",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP09-061",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "紫/黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-061_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP09-081",
+      "name": "マーシャル・Ｄ・ティーチ",
+      "name_ko": "마샬 D. 티치",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-081_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP09-093",
+      "name": "マーシャル・D・ティーチ",
+      "name_ko": "마샬 D. 티치",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p6",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-093_p6.png",
+      "image": null
+    }
+  ]
+}

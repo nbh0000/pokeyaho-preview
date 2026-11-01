@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-50daa1e052",
+  "cards": [
+    {
+      "no": "OP13-120",
+      "name": "サボ",
+      "name_ko": "사보",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p5.png",
+      "image": "dex/cards/op-jp-promo/OP13-120_p5.webp"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "pkm-jp-pg10991",
+  "cards": [
+    {
+      "no": "054/M-P",
+      "name": "デデンネGX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/049621_P_DEDENNEGX.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/054-M-P.webp"
+    },
+    {
+      "no": "055/M-P",
+      "name": "ミカルゲ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/BW/049622_P_MIKARUGE.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/055-M-P.webp"
+    },
+    {
+      "no": "056/M-P",
+      "name": "ホルビー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY/049623_P_HORUBI.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/056-M-P.webp"
+    },
+    {
+      "no": "053/M-P",
+      "name": "ペパー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050179_T_PEPA.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/053-M-P.webp"
+    },
+    {
+      "no": "057/M-P",
+      "name": "スペシャルチャージ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/049624_T_SUPESHIXYARUCHIXYAJI.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/057-M-P.webp"
+    },
+    {
+      "no": "058/M-P",
+      "name": "トレーナーズポスト",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY/049625_T_TORENAZUPOSUTO.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/058-M-P.webp"
+    },
+    {
+      "no": "059/M-P",
+      "name": "バトルコンプレッサー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY/049626_T_BATORUKONPURESSA.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/059-M-P.webp"
+    },
+    {
+      "no": "060/M-P",
+      "name": "バトルサーチャー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY/049627_T_BATORUSACHIXYA.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/060-M-P.webp"
+    },
+    {
+      "no": "061/M-P",
+      "name": "フィールドブロアー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/049628_T_FUIRUDOBUROA.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/061-M-P.webp"
+    },
+    {
+      "no": "062/M-P",
+      "name": "かるいし",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY/049629_T_KARUISHI.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/062-M-P.webp"
+    },
+    {
+      "no": "063/M-P",
+      "name": "プルメリ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/049630_T_PURUMERI.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/063-M-P.webp"
+    },
+    {
+      "no": "064/M-P",
+      "name": "パラレルシティ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY/049631_T_PARARERUSHITEI.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/064-M-P.webp"
+    },
+    {
+      "no": "065/M-P",
+      "name": "ダブルドラゴンエネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY/049632_E_DABURUDORAGONENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10991/065-M-P.webp"
+    }
+  ]
+}

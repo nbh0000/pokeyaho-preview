@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-dbac13e2cf",
+  "cards": [
+    {
+      "no": "ST32-003",
+      "name": "ジュラキュール・ミホーク",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-003_p1.png",
+      "image": "dex/cards/op-jp-promo/ST32-003_p1.webp"
+    }
+  ]
+}

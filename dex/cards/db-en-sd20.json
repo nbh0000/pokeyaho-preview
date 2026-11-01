@@ -1,0 +1,89 @@
+{
+  "id": "db-en-sd20",
+  "cards": [
+    {
+      "no": "SD20-01",
+      "name": "Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD20-01.png",
+      "image": null
+    },
+    {
+      "no": "SD20-02",
+      "name": "Son Goku, Growing Up Fast",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-LEADER",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD20-02.png",
+      "image": null
+    },
+    {
+      "no": "SD20-02",
+      "name": "Son Goku, Growing Up Fast",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-LEADER",
+      "color": "Yellow",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD20-02_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD20-02",
+      "name": "Son Goku, Growing Up Fast",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-LEADER",
+      "color": "Yellow",
+      "variant": "p2",
+      "variant_label": "PR02",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD20-02_PR02.png",
+      "image": null
+    },
+    {
+      "no": "SD20-03",
+      "name": "Bulma, Stalwart Adventurer",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "UNISON",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD20-03.png",
+      "image": null
+    },
+    {
+      "no": "SD20-04",
+      "name": "Son Goku, to Lands Unknown",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD20-04.png",
+      "image": null
+    },
+    {
+      "no": "SD20-05",
+      "name": "Yamcha, Dastardly Bandit",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD20-05.png",
+      "image": null
+    }
+  ]
+}

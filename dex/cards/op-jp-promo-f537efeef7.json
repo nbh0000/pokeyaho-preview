@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-f537efeef7",
+  "cards": [
+    {
+      "no": "P-036",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-036.png",
+      "image": "dex/cards/op-jp-promo/P-036.webp"
+    }
+  ]
+}

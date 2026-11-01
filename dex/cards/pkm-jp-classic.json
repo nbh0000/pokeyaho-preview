@@ -1,0 +1,71 @@
+{
+  "id": "pkm-jp-classic",
+  "cards": [
+    {
+      "no": null,
+      "name": "基本草エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/CLF/044413_E_KIHONKUSAENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-classic/card.webp"
+    },
+    {
+      "no": null,
+      "name": "基本炎エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/CLL/044414_E_KIHONHONOOENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-classic/card_2.webp"
+    },
+    {
+      "no": null,
+      "name": "基本水エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/CLK/044415_E_KIHONMIZUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-classic/card_3.webp"
+    },
+    {
+      "no": null,
+      "name": "基本雷エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/CLL/044416_E_KIHONKAMINARIENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-classic/card_4.webp"
+    },
+    {
+      "no": null,
+      "name": "基本超エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/CLK/044417_E_KIHONCHIXYOUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-classic/card_5.webp"
+    },
+    {
+      "no": null,
+      "name": "基本闘エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/CLF/044418_E_KIHONTOUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-classic/card_6.webp"
+    }
+  ]
+}

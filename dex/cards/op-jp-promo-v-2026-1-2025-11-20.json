@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-v-2026-1-2025-11-20",
+  "cards": [
+    {
+      "no": "P-115",
+      "name": "ボア・ハンコック",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-115.png",
+      "image": "dex/cards/op-jp-promo/P-115.webp"
+    }
+  ]
+}

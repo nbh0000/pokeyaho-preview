@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-32b7859267",
+  "cards": [
+    {
+      "no": "P-082",
+      "name": "クロコダイル",
+      "name_ko": "크로커다일",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-082_p1.png",
+      "image": "dex/cards/op-jp-promo/P-082_p1.webp"
+    }
+  ]
+}

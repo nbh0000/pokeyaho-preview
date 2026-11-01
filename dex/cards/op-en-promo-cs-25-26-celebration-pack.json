@@ -1,0 +1,137 @@
+{
+  "id": "op-en-promo-cs-25-26-celebration-pack",
+  "cards": [
+    {
+      "no": "EB01-014",
+      "name": "Sanji",
+      "name_ko": "상디",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-014_p1.png",
+      "image": "dex/cards/op-en-promo/EB01-014_p1.webp"
+    },
+    {
+      "no": "EB01-015",
+      "name": "Scratchmen Apoo",
+      "name_ko": "스크래치멘 아푸",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p4.png",
+      "image": "dex/cards/op-en-promo/EB01-015_p4.webp"
+    },
+    {
+      "no": "OP03-112",
+      "name": "Charlotte Pudding",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p6",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112_p6.png",
+      "image": "dex/cards/op-en-promo/OP03-112_p6.webp"
+    },
+    {
+      "no": "OP04-010",
+      "name": "Tony Tony.Chopper",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-010_p2.png",
+      "image": "dex/cards/op-en-promo/OP04-010_p2.webp"
+    },
+    {
+      "no": "OP04-092",
+      "name": "Rebecca",
+      "name_ko": "레베카",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-092_p3.png",
+      "image": "dex/cards/op-en-promo/OP04-092_p3.webp"
+    },
+    {
+      "no": "OP06-047",
+      "name": "Charlotte Pudding",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-047_p1.png",
+      "image": "dex/cards/op-en-promo/OP06-047_p1.webp"
+    },
+    {
+      "no": "OP06-076",
+      "name": "Hitokiri Kamazo",
+      "name_ko": "살인귀 카마조",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-076_p1.png",
+      "image": "dex/cards/op-en-promo/OP06-076_p1.webp"
+    },
+    {
+      "no": "OP07-053",
+      "name": "Portgas.D.Ace",
+      "name_ko": "포트거스 D. 에이스",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-053_p2.png",
+      "image": "dex/cards/op-en-promo/OP07-053_p2.webp"
+    },
+    {
+      "no": "OP07-080",
+      "name": "Kaku",
+      "name_ko": "카쿠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-080_p1.png",
+      "image": "dex/cards/op-en-promo/OP07-080_p1.webp"
+    },
+    {
+      "no": "OP07-100",
+      "name": "Edison",
+      "name_ko": "에디슨",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-100_p2.png",
+      "image": "dex/cards/op-en-promo/OP07-100_p2.webp"
+    },
+    {
+      "no": "OP08-110",
+      "name": "Wyper",
+      "name_ko": "와이퍼",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p4.png",
+      "image": "dex/cards/op-en-promo/OP08-110_p4.webp"
+    },
+    {
+      "no": "OP09-011",
+      "name": "Hongo",
+      "name_ko": "혼고",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p3.png",
+      "image": "dex/cards/op-en-promo/OP09-011_p3.webp"
+    }
+  ]
+}

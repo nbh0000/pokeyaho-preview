@@ -1,0 +1,60 @@
+{
+  "id": "op-en-promo-included-in-event-pack-vol-1",
+  "cards": [
+    {
+      "no": "P-028",
+      "name": "Portgas.D.Ace",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-028.png",
+      "image": "dex/cards/op-en-promo/P-028.webp"
+    },
+    {
+      "no": "P-029",
+      "name": "Bartolomeo",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-029.png",
+      "image": "dex/cards/op-en-promo/P-029.webp"
+    },
+    {
+      "no": "P-030",
+      "name": "Jinbe",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-030.png",
+      "image": "dex/cards/op-en-promo/P-030.webp"
+    },
+    {
+      "no": "P-031",
+      "name": "Uta",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-031.png",
+      "image": "dex/cards/op-en-promo/P-031.webp"
+    },
+    {
+      "no": "P-032",
+      "name": "Sengoku",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-032.png",
+      "image": "dex/cards/op-en-promo/P-032.webp"
+    }
+  ]
+}

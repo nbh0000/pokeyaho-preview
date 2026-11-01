@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-5c3fa1ca7d",
+  "cards": [
+    {
+      "no": "OP16-092",
+      "name": "ニコ・ロビン",
+      "name_ko": null,
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-092_p1.png",
+      "image": "dex/cards/op-jp-promo/OP16-092_p1.webp"
+    }
+  ]
+}

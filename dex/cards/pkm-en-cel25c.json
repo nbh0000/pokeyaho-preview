@@ -1,0 +1,280 @@
+{
+  "id": "pkm-en-cel25c",
+  "cards": [
+    {
+      "no": "2/25",
+      "name": "Blastoise",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/2_A.png",
+      "image": null
+    },
+    {
+      "no": "4/25",
+      "name": "Charizard",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/4_A.png",
+      "image": null
+    },
+    {
+      "no": "8/25",
+      "name": "Dark Gyarados",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/8_A.png",
+      "image": null
+    },
+    {
+      "no": "9/25",
+      "name": "Team Magma's Groudon",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Fighting/Darkness",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/9_A.png",
+      "image": null
+    },
+    {
+      "no": "15/25",
+      "name": "Venusaur",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/15_A.png",
+      "image": null
+    },
+    {
+      "no": "15/25",
+      "name": "Here Comes Team Rocket!",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/15_B.png",
+      "image": null
+    },
+    {
+      "no": "15/25",
+      "name": "Claydol",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/15_D.png",
+      "image": null
+    },
+    {
+      "no": "15/25",
+      "name": "Rocket's Zapdos",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/15_C.png",
+      "image": null
+    },
+    {
+      "no": "17/25",
+      "name": "Umbreon ★",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Darkness",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/17_A.png",
+      "image": null
+    },
+    {
+      "no": "20/25",
+      "name": "Cleffa",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/20_A.png",
+      "image": null
+    },
+    {
+      "no": "24/25",
+      "name": "_____'s Pikachu",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/24_A.png",
+      "image": null
+    },
+    {
+      "no": "54/25",
+      "name": "Mewtwo-EX",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/54_A.png",
+      "image": null
+    },
+    {
+      "no": "60/25",
+      "name": "Tapu Lele-GX",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/60_A.png",
+      "image": null
+    },
+    {
+      "no": "66/25",
+      "name": "Shining Magikarp",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/66_A.png",
+      "image": null
+    },
+    {
+      "no": "73/25",
+      "name": "Imposter Professor Oak",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/73_A.png",
+      "image": null
+    },
+    {
+      "no": "76/25",
+      "name": "M Rayquaza-EX",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/76_A.png",
+      "image": null
+    },
+    {
+      "no": "86/25",
+      "name": "Rocket's Admin.",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/86_A.png",
+      "image": null
+    },
+    {
+      "no": "88/25",
+      "name": "Mew ex",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/88_A.png",
+      "image": null
+    },
+    {
+      "no": "93/25",
+      "name": "Gardevoir ex δ",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/93_A.png",
+      "image": null
+    },
+    {
+      "no": "97/25",
+      "name": "Xerneas-EX",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Fairy",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/97_A.png",
+      "image": null
+    },
+    {
+      "no": "107/25",
+      "name": "Donphan",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/107_A.png",
+      "image": null
+    },
+    {
+      "no": "109/25",
+      "name": "Luxray GL LV.X",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/109_A.png",
+      "image": null
+    },
+    {
+      "no": "113/25",
+      "name": "Reshiram",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/113_A.png",
+      "image": null
+    },
+    {
+      "no": "114/25",
+      "name": "Zekrom",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/114_A.png",
+      "image": null
+    },
+    {
+      "no": "145/25",
+      "name": "Garchomp C LV.X",
+      "name_ko": null,
+      "rarity": "Classic Collection",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/cel25c/145_A.png",
+      "image": null
+    }
+  ]
+}

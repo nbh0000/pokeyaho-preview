@@ -1,0 +1,125 @@
+{
+  "id": "db-en-sd18",
+  "cards": [
+    {
+      "no": "SD18-01",
+      "name": "Trunks",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD18-01.png",
+      "image": null
+    },
+    {
+      "no": "SD18-01",
+      "name": "Trunks",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Blue",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD18-01_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD18-02",
+      "name": "SSB Vegito, Godly Spirit",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD18-02.png",
+      "image": null
+    },
+    {
+      "no": "SD18-02",
+      "name": "SSB Vegito, Godly Spirit",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Blue",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD18-02_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD18-02",
+      "name": "SSB Vegito, Godly Spirit",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Blue",
+      "variant": "p2",
+      "variant_label": "PR02",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD18-02_PR02.png",
+      "image": null
+    },
+    {
+      "no": "SD18-02",
+      "name": "SSB Vegito, Godly Spirit",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Blue",
+      "variant": "p3",
+      "variant_label": "PR03",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD18-02_PR03.png",
+      "image": null
+    },
+    {
+      "no": "SD18-02",
+      "name": "SSB Vegito, Godly Spirit",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Blue",
+      "variant": "p4",
+      "variant_label": "PR04",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD18-02_PR04.png",
+      "image": null
+    },
+    {
+      "no": "SD18-03",
+      "name": "SSB Vegeta, Committed to Victory",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "UNISON",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD18-03.png",
+      "image": null
+    },
+    {
+      "no": "SD18-04",
+      "name": "SSB Son Goku, Hope for the Future",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD18-04.png",
+      "image": null
+    },
+    {
+      "no": "SD18-05",
+      "name": "SS2 Trunks, Hopeful Strike",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD18-05.png",
+      "image": null
+    }
+  ]
+}

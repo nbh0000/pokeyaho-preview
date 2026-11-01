@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-3e21fab634",
+  "cards": [
+    {
+      "no": "OP06-047",
+      "name": "シャーロット・プリン",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-047_p1.png",
+      "image": "dex/cards/op-jp-promo/OP06-047_p1.webp"
+    }
+  ]
+}

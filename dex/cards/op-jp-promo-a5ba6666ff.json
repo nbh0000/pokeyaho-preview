@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-a5ba6666ff",
+  "cards": [
+    {
+      "no": "P-084",
+      "name": "バギー",
+      "name_ko": "버기",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-084.png",
+      "image": "dex/cards/op-jp-promo/P-084.webp"
+    }
+  ]
+}

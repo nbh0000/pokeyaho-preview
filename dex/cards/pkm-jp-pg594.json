@@ -1,0 +1,280 @@
+{
+  "id": "pkm-jp-pg594",
+  "cards": [
+    {
+      "no": "022/131",
+      "name": "タッツー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035051_P_TATTSU.jpg",
+      "image": "dex/cards/pkm-jp-pg594/022-131.webp"
+    },
+    {
+      "no": "023/131",
+      "name": "ラプラスGX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035052_P_RAPURASUGX.jpg",
+      "image": "dex/cards/pkm-jp-pg594/023-131.webp"
+    },
+    {
+      "no": "024/131",
+      "name": "ワニノコ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035053_P_WANINOKO.jpg",
+      "image": "dex/cards/pkm-jp-pg594/024-131.webp"
+    },
+    {
+      "no": "025/131",
+      "name": "アリゲイツ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035054_P_ARIGEITSU.jpg",
+      "image": "dex/cards/pkm-jp-pg594/025-131.webp"
+    },
+    {
+      "no": "026/131",
+      "name": "オーダイル",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035055_P_ODAIRU.jpg",
+      "image": "dex/cards/pkm-jp-pg594/026-131.webp"
+    },
+    {
+      "no": "027/131",
+      "name": "ホエルコ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035056_P_HOERUKO.jpg",
+      "image": "dex/cards/pkm-jp-pg594/027-131.webp"
+    },
+    {
+      "no": "028/131",
+      "name": "ホエルオー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035057_P_HOERUO.jpg",
+      "image": "dex/cards/pkm-jp-pg594/028-131.webp"
+    },
+    {
+      "no": "029/131",
+      "name": "パルキア",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035058_P_PARUKIA.jpg",
+      "image": "dex/cards/pkm-jp-pg594/029-131.webp"
+    },
+    {
+      "no": "030/131",
+      "name": "ナマコブシ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035059_P_NAMAKOBUSHI.jpg",
+      "image": "dex/cards/pkm-jp-pg594/030-131.webp"
+    },
+    {
+      "no": "031/131",
+      "name": "ハギギシリ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035060_P_HAGIGISHIRI.jpg",
+      "image": "dex/cards/pkm-jp-pg594/031-131.webp"
+    },
+    {
+      "no": "102/131",
+      "name": "タイプ：ヌル",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035131_P_TAIPUNURU.jpg",
+      "image": "dex/cards/pkm-jp-pg594/102-131.webp"
+    },
+    {
+      "no": "105/131",
+      "name": "アクアパッチ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035134_T_AKUAPACCHI.jpg",
+      "image": "dex/cards/pkm-jp-pg594/105-131.webp"
+    },
+    {
+      "no": "107/131",
+      "name": "きずぐすり",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035136_T_KIZUGUSURI.jpg",
+      "image": "dex/cards/pkm-jp-pg573/107-131.webp"
+    },
+    {
+      "no": "110/131",
+      "name": "ネストボール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035139_T_NESUTOBORU.jpg",
+      "image": "dex/cards/pkm-jp-pg573/110-131.webp"
+    },
+    {
+      "no": "111/131",
+      "name": "ハイパーボール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035140_T_HAIPABORU.jpg",
+      "image": "dex/cards/pkm-jp-pg573/111-131.webp"
+    },
+    {
+      "no": "112/131",
+      "name": "ふしぎなアメ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035141_T_FUSHIGINAAME.jpg",
+      "image": "dex/cards/pkm-jp-pg573/112-131.webp"
+    },
+    {
+      "no": "113/131",
+      "name": "ポケモンいれかえ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035142_T_POKEMONIREKAE.jpg",
+      "image": "dex/cards/pkm-jp-pg573/113-131.webp"
+    },
+    {
+      "no": "114/131",
+      "name": "ポケモンキャッチャー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035143_T_POKEMONKYACCHA.jpg",
+      "image": "dex/cards/pkm-jp-pg573/114-131.webp"
+    },
+    {
+      "no": "115/131",
+      "name": "イリマ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035144_T_IRIMA.jpg",
+      "image": "dex/cards/pkm-jp-pg582/115-131.webp"
+    },
+    {
+      "no": "122/131",
+      "name": "ハウ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035151_T_HAU.jpg",
+      "image": "dex/cards/pkm-jp-pg573/122-131.webp"
+    },
+    {
+      "no": "124/131",
+      "name": "ポケモンブリーダー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035153_T_POKEMONBURIDA.jpg",
+      "image": "dex/cards/pkm-jp-pg573/124-131.webp"
+    },
+    {
+      "no": "125/131",
+      "name": "マーマネ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035154_T_MAMANE.jpg",
+      "image": "dex/cards/pkm-jp-pg573/125-131.webp"
+    },
+    {
+      "no": "126/131",
+      "name": "リーリエ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035155_T_RIRIE.jpg",
+      "image": "dex/cards/pkm-jp-pg573/126-131.webp"
+    },
+    {
+      "no": "131/131",
+      "name": "ダブル無色エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMH/035160_E_DABURUMUSHOKUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg573/131-131.webp"
+    },
+    {
+      "no": null,
+      "name": "基本水エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/ENE/034668_E_KIHONMIZUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg528/card_9.webp"
+    }
+  ]
+}

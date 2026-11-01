@@ -1,0 +1,192 @@
+{
+  "id": "pkm-en-pop3",
+  "cards": [
+    {
+      "no": "1",
+      "name": "Blastoise",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/1.png",
+      "image": null
+    },
+    {
+      "no": "2",
+      "name": "Flareon",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/2.png",
+      "image": null
+    },
+    {
+      "no": "3",
+      "name": "Jolteon",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/3.png",
+      "image": null
+    },
+    {
+      "no": "4",
+      "name": "Minun",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/4.png",
+      "image": null
+    },
+    {
+      "no": "5",
+      "name": "Plusle",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/5.png",
+      "image": null
+    },
+    {
+      "no": "6",
+      "name": "Vaporeon",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/6.png",
+      "image": null
+    },
+    {
+      "no": "7",
+      "name": "Combusken",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/7.png",
+      "image": null
+    },
+    {
+      "no": "8",
+      "name": "Donphan",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/8.png",
+      "image": null
+    },
+    {
+      "no": "9",
+      "name": "Forretress",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/9.png",
+      "image": null
+    },
+    {
+      "no": "10",
+      "name": "High Pressure System",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/10.png",
+      "image": null
+    },
+    {
+      "no": "11",
+      "name": "Low Pressure System",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/11.png",
+      "image": null
+    },
+    {
+      "no": "12",
+      "name": "Ditto",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/12.png",
+      "image": null
+    },
+    {
+      "no": "13",
+      "name": "Eevee",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/13.png",
+      "image": null
+    },
+    {
+      "no": "14",
+      "name": "Ivysaur",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/14.png",
+      "image": null
+    },
+    {
+      "no": "15",
+      "name": "Marshtomp",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/15.png",
+      "image": null
+    },
+    {
+      "no": "16",
+      "name": "Pichu Bros.",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/16.png",
+      "image": null
+    },
+    {
+      "no": "17",
+      "name": "Ho-Oh ex",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop3/17.png",
+      "image": null
+    }
+  ]
+}

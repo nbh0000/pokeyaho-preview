@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-e8ac7f9b29",
+  "cards": [
+    {
+      "no": "OP12-028",
+      "name": "光月日和",
+      "name_ko": "코즈키 히요리",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-028_p1.png",
+      "image": "dex/cards/op-jp-promo/OP12-028_p1.webp"
+    },
+    {
+      "no": "OP12-062",
+      "name": "ヴィンスモーク・ソラ",
+      "name_ko": "빈스모크 소라",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-062_p1.png",
+      "image": "dex/cards/op-jp-promo/OP12-062_p1.webp"
+    },
+    {
+      "no": "OP12-093",
+      "name": "モーリー",
+      "name_ko": "몰리",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-093_p1.png",
+      "image": "dex/cards/op-jp-promo/OP12-093_p1.webp"
+    },
+    {
+      "no": "OP12-112",
+      "name": "ベビー５",
+      "name_ko": "베이비 5",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-112_p1.png",
+      "image": "dex/cards/op-jp-promo/OP12-112_p1.webp"
+    }
+  ]
+}

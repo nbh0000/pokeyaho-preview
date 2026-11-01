@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-2c78f82a1e",
+  "cards": [
+    {
+      "no": "EB01-012",
+      "name": "キャベンディッシュ",
+      "name_ko": "캐번디시",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-012_p2.png",
+      "image": "dex/cards/op-jp-promo/EB01-012_p2.webp"
+    }
+  ]
+}

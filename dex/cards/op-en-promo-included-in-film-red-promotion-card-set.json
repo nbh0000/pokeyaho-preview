@@ -1,0 +1,148 @@
+{
+  "id": "op-en-promo-included-in-film-red-promotion-card-set",
+  "cards": [
+    {
+      "no": "P-011",
+      "name": "Uta",
+      "name_ko": null,
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-011.png",
+      "image": "dex/cards/op-en-promo/P-011.webp"
+    },
+    {
+      "no": "P-012",
+      "name": "Jellyfish Pirates",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-012.png",
+      "image": "dex/cards/op-en-promo/P-012.webp"
+    },
+    {
+      "no": "P-013",
+      "name": "Gordon",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-013.png",
+      "image": "dex/cards/op-en-promo/P-013.webp"
+    },
+    {
+      "no": "P-014",
+      "name": "Koby",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-014.png",
+      "image": "dex/cards/op-en-promo/P-014.webp"
+    },
+    {
+      "no": "P-015",
+      "name": "Sunny-Kun",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-015.png",
+      "image": "dex/cards/op-en-promo/P-015.webp"
+    },
+    {
+      "no": "P-016",
+      "name": "Shanks",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-016.png",
+      "image": "dex/cards/op-en-promo/P-016.webp"
+    },
+    {
+      "no": "P-017",
+      "name": "Trafalgar Law",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-017.png",
+      "image": "dex/cards/op-en-promo/P-017.webp"
+    },
+    {
+      "no": "P-018",
+      "name": "Bartolomeo",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-018.png",
+      "image": "dex/cards/op-en-promo/P-018.webp"
+    },
+    {
+      "no": "P-019",
+      "name": "Bepo",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-019.png",
+      "image": "dex/cards/op-en-promo/P-019.webp"
+    },
+    {
+      "no": "P-020",
+      "name": "Helmeppo",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-020.png",
+      "image": "dex/cards/op-en-promo/P-020.webp"
+    },
+    {
+      "no": "P-021",
+      "name": "Benn.Beckman",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-021.png",
+      "image": "dex/cards/op-en-promo/P-021.webp"
+    },
+    {
+      "no": "P-022",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-022.png",
+      "image": "dex/cards/op-en-promo/P-022.webp"
+    },
+    {
+      "no": "P-023",
+      "name": "Yasopp",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-023.png",
+      "image": "dex/cards/op-en-promo/P-023.webp"
+    }
+  ]
+}

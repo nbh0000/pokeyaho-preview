@@ -1,0 +1,38 @@
+{
+  "id": "pkm-jp-pg10960",
+  "cards": [
+    {
+      "no": "241/SV-P",
+      "name": "オーダイル",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047362_P_ODAIRU.jpg",
+      "image": "dex/cards/pkm-jp-pg10960/241-SV-P.webp"
+    },
+    {
+      "no": "242/SV-P",
+      "name": "ピカチュウ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047363_P_PIKACHIXYUU.jpg",
+      "image": "dex/cards/pkm-jp-pg10960/242-SV-P.webp"
+    },
+    {
+      "no": "243/SV-P",
+      "name": "ストリンダーex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047364_P_SUTORINDAEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10960/243-SV-P.webp"
+    }
+  ]
+}

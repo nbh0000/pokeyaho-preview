@@ -1,0 +1,170 @@
+{
+  "id": "op-en-st11",
+  "cards": [
+    {
+      "no": "OP02-028",
+      "name": "Usopp",
+      "name_ko": "우솝",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-028_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-033",
+      "name": "Jinbe",
+      "name_ko": "징베",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-033_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-034",
+      "name": "Tony Tony.Chopper",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-034_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-035",
+      "name": "Trafalgar Law",
+      "name_ko": "트라팔가 로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-035_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP02-037",
+      "name": "Nico Robin",
+      "name_ko": "니코 로빈",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-037_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-039",
+      "name": "Franky",
+      "name_ko": "프랑키",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-039_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-040",
+      "name": "Brook",
+      "name_ko": "브룩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-040_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-041",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-041_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP02-043",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-043_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-045",
+      "name": "Three Sword Style Oni Giri",
+      "name_ko": "삼도류 도깨비 참수",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-045_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST11-001",
+      "name": "Uta",
+      "name_ko": "우타",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-001.png",
+      "image": null
+    },
+    {
+      "no": "ST11-002",
+      "name": "Uta",
+      "name_ko": "우타",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-002.png",
+      "image": null
+    },
+    {
+      "no": "ST11-003",
+      "name": "Backlight",
+      "name_ko": "역광",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003.png",
+      "image": null
+    },
+    {
+      "no": "ST11-004",
+      "name": "New Genesis",
+      "name_ko": "신시대",
+      "rarity": "SR",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004.png",
+      "image": null
+    },
+    {
+      "no": "ST11-005",
+      "name": "I'm invincible",
+      "name_ko": "나는 최강",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005.png",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "id": "pkm-jp-pg916",
+  "cards": [
+    {
+      "no": "001/019",
+      "name": "オリジンパルキアV",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045822_P_ORIJINPARUKIAV.jpg",
+      "image": null
+    },
+    {
+      "no": "002/019",
+      "name": "オリジンパルキアVSTAR",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045823_P_ORIJINPARUKIAVSTAR.jpg",
+      "image": null
+    },
+    {
+      "no": "003/019",
+      "name": "かがやくゲッコウガ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045824_P_KAGAYAKUGEKKOUGA.jpg",
+      "image": null
+    },
+    {
+      "no": "004/019",
+      "name": "セビエ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045825_P_SEBIE.jpg",
+      "image": null
+    },
+    {
+      "no": "005/019",
+      "name": "セゴール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045826_P_SEGORU.jpg",
+      "image": null
+    },
+    {
+      "no": "006/019",
+      "name": "セグレイブ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045827_P_SEGUREIBU.jpg",
+      "image": null
+    },
+    {
+      "no": "007/019",
+      "name": "パオジアンex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045828_P_PAOJIANEX.jpg",
+      "image": null
+    },
+    {
+      "no": "008/019",
+      "name": "ビッパ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045829_P_BIPPA.jpg",
+      "image": null
+    },
+    {
+      "no": "009/019",
+      "name": "ビーダル",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045830_P_BIDARU.jpg",
+      "image": null
+    },
+    {
+      "no": "010/019",
+      "name": "スーパーエネルギー回収",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045831_T_SUPAENERUGIKAISHIXYUU.jpg",
+      "image": null
+    },
+    {
+      "no": "011/019",
+      "name": "ネストボール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045832_T_NESUTOBORU.jpg",
+      "image": null
+    },
+    {
+      "no": "012/019",
+      "name": "ハイパーボール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045833_T_HAIPABORU.jpg",
+      "image": null
+    },
+    {
+      "no": "013/019",
+      "name": "ふしぎなアメ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045834_T_FUSHIGINAAME.jpg",
+      "image": null
+    },
+    {
+      "no": "014/019",
+      "name": "ポケモンいれかえ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045835_T_POKEMONIREKAE.jpg",
+      "image": null
+    },
+    {
+      "no": "015/019",
+      "name": "カイ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045836_T_KAI.jpg",
+      "image": null
+    },
+    {
+      "no": "016/019",
+      "name": "ナンジャモ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045837_T_NANJIXYAMO.jpg",
+      "image": null
+    },
+    {
+      "no": "017/019",
+      "name": "博士の研究",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045838_T_HAKASENOKENKIXYUU.jpg",
+      "image": null
+    },
+    {
+      "no": "018/019",
+      "name": "ボスの指令",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045839_T_BOSUNOSHIREI.jpg",
+      "image": null
+    },
+    {
+      "no": "019/019",
+      "name": "ビーチコート",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVJP/045840_T_BICHIKOTO.jpg",
+      "image": null
+    },
+    {
+      "no": null,
+      "name": "基本水エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/ENE/042781_E_KIHONMIZUENERUGI.jpg",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "db-en-ex04",
+  "cards": [
+    {
+      "no": "EX04-01",
+      "name": "SS Gogeta, Acrobatic Warrior",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX04-01.png",
+      "image": null
+    },
+    {
+      "no": "EX04-01",
+      "name": "SS Gogeta, Acrobatic Warrior",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX04-01_PR.png",
+      "image": null
+    },
+    {
+      "no": "EX04-02",
+      "name": "SS Broly, Rampaging Rush",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX04-02.png",
+      "image": null
+    },
+    {
+      "no": "EX04-03",
+      "name": "SSB Gogeta, Resonant Explosion",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red/Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX04-03.png",
+      "image": null
+    },
+    {
+      "no": "EX04-03",
+      "name": "SSB Gogeta, Resonant Explosion",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red/Green",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX04-03_PR.png",
+      "image": null
+    },
+    {
+      "no": "EX04-04",
+      "name": "Full Power Broly, Resonant Evolution",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red/Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX04-04.png",
+      "image": null
+    }
+  ]
+}

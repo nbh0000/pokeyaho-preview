@@ -1,0 +1,60 @@
+{
+  "id": "op-jp-promo-bff209ee3d",
+  "cards": [
+    {
+      "no": "OP06-063",
+      "name": "ヴィンスモーク・ソラ",
+      "name_ko": "빈스모크 소라",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-063_p1.png",
+      "image": "dex/cards/op-jp-promo/OP06-063_p1.webp"
+    },
+    {
+      "no": "OP09-043",
+      "name": "アルビダ",
+      "name_ko": "알비다",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-043_p1.png",
+      "image": "dex/cards/op-jp-promo/OP09-043_p1.webp"
+    },
+    {
+      "no": "OP09-089",
+      "name": "ストロンガー",
+      "name_ko": "스트롱거",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-089_p1.png",
+      "image": "dex/cards/op-jp-promo/OP09-089_p1.webp"
+    },
+    {
+      "no": "OP10-107",
+      "name": "ジュエリー・ボニー",
+      "name_ko": "쥬얼리 보니",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-107_p1.png",
+      "image": "dex/cards/op-jp-promo/OP10-107_p1.webp"
+    },
+    {
+      "no": "P-069",
+      "name": "コアラ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-069_p1.png",
+      "image": "dex/cards/op-jp-promo/P-069_p1.webp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-51185e5772",
+  "cards": [
+    {
+      "no": "OP15-060",
+      "name": "エネル",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-060_p2.png",
+      "image": "dex/cards/op-jp-promo/OP15-060_p2.webp"
+    }
+  ]
+}

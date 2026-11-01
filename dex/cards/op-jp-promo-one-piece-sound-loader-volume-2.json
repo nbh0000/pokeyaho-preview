@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-one-piece-sound-loader-volume-2",
+  "cards": [
+    {
+      "no": "OP05-098",
+      "name": "エネル",
+      "name_ko": "에넬",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-098_p2.png",
+      "image": "dex/cards/op-jp-promo/OP05-098_p2.webp"
+    }
+  ]
+}

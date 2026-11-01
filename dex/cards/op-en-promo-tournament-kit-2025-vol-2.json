@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-tournament-kit-2025-vol-2",
+  "cards": [
+    {
+      "no": "EB01-015",
+      "name": "Scratchmen Apoo",
+      "name_ko": "스크래치멘 아푸",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p1.png",
+      "image": "dex/cards/op-en-promo/EB01-015_p1.webp"
+    },
+    {
+      "no": "OP04-092",
+      "name": "Rebecca",
+      "name_ko": "레베카",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-092_p1.png",
+      "image": "dex/cards/op-en-promo/OP04-092_p1.webp"
+    },
+    {
+      "no": "OP08-110",
+      "name": "Wyper",
+      "name_ko": "와이퍼",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p2.png",
+      "image": "dex/cards/op-en-promo/OP08-110_p2.webp"
+    },
+    {
+      "no": "OP09-011",
+      "name": "Hongo",
+      "name_ko": "혼고",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p1.png",
+      "image": "dex/cards/op-en-promo/OP09-011_p1.webp"
+    }
+  ]
+}

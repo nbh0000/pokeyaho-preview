@@ -1,0 +1,104 @@
+{
+  "id": "op-jp-set-2nd-anniversary-set",
+  "cards": [
+    {
+      "no": "OP01-030",
+      "name": "2年後に!!!シャボンディ諸島で!!!",
+      "name_ko": "2년 후에!! 샤본디 제도에서!!!",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-030_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-013",
+      "name": "ポートガス・D・エース",
+      "name_ko": "포트거스 D. 에이스",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-013_p5.png",
+      "image": null
+    },
+    {
+      "no": "OP03-044",
+      "name": "カヤ",
+      "name_ko": "카야",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-044_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP04-083",
+      "name": "サボ",
+      "name_ko": "사보",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-083_p5.png",
+      "image": null
+    },
+    {
+      "no": "OP05-030",
+      "name": "ドンキホーテ・ロシナンテ",
+      "name_ko": "돈키호테 로시난테",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-030_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP06-118",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-118_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP07-064",
+      "name": "サンジ",
+      "name_ko": "상디",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-064_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP08-069",
+      "name": "シャーロット・リンリン",
+      "name_ko": "샬롯 링링",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-069_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST13-015",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-015_p2.png",
+      "image": null
+    }
+  ]
+}

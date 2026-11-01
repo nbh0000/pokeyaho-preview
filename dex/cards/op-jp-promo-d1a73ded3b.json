@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-d1a73ded3b",
+  "cards": [
+    {
+      "no": "OP12-028",
+      "name": "光月日和",
+      "name_ko": "코즈키 히요리",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-028_p2.png",
+      "image": "dex/cards/op-jp-promo/OP12-028_p2.webp"
+    }
+  ]
+}

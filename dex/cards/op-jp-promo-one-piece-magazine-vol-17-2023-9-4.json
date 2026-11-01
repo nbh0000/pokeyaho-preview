@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-one-piece-magazine-vol-17-2023-9-4",
+  "cards": [
+    {
+      "no": "P-046",
+      "name": "ヤマト",
+      "name_ko": "야마토",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-046.png",
+      "image": "dex/cards/op-jp-promo/P-046.webp"
+    }
+  ]
+}

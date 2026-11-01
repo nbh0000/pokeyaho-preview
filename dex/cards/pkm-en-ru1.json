@@ -1,0 +1,181 @@
+{
+  "id": "pkm-en-ru1",
+  "cards": [
+    {
+      "no": "1/16",
+      "name": "Venusaur",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/1.png",
+      "image": null
+    },
+    {
+      "no": "2/16",
+      "name": "Cherrim",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/2.png",
+      "image": null
+    },
+    {
+      "no": "3/16",
+      "name": "Ninetales",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/3.png",
+      "image": null
+    },
+    {
+      "no": "4/16",
+      "name": "Heatran",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/4.png",
+      "image": null
+    },
+    {
+      "no": "5/16",
+      "name": "Starmie",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/5.png",
+      "image": null
+    },
+    {
+      "no": "6/16",
+      "name": "Gyarados",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/6.png",
+      "image": null
+    },
+    {
+      "no": "7/16",
+      "name": "Pikachu",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/7.png",
+      "image": null
+    },
+    {
+      "no": "8/16",
+      "name": "Zapdos",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/8.png",
+      "image": null
+    },
+    {
+      "no": "9/16",
+      "name": "Mewtwo",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/9.png",
+      "image": null
+    },
+    {
+      "no": "10/16",
+      "name": "Mew",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/10.png",
+      "image": null
+    },
+    {
+      "no": "11/16",
+      "name": "Diglett",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/11.png",
+      "image": null
+    },
+    {
+      "no": "12/16",
+      "name": "Lucario",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/12.png",
+      "image": null
+    },
+    {
+      "no": "13/16",
+      "name": "Skuntank",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Darkness",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/13.png",
+      "image": null
+    },
+    {
+      "no": "14/16",
+      "name": "Bastiodon",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Metal",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/14.png",
+      "image": null
+    },
+    {
+      "no": "15/16",
+      "name": "Rattata",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/15.png",
+      "image": null
+    },
+    {
+      "no": "16/16",
+      "name": "Bibarel",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/ru1/16.png",
+      "image": null
+    }
+  ]
+}

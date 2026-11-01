@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-d4daa96e56",
+  "cards": [
+    {
+      "no": "OP11-119",
+      "name": "コビー",
+      "name_ko": "코비",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-119_p2.png",
+      "image": "dex/cards/op-jp-promo/OP11-119_p2.webp"
+    }
+  ]
+}

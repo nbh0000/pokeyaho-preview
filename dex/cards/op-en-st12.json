@@ -1,0 +1,192 @@
+{
+  "id": "op-en-st12",
+  "cards": [
+    {
+      "no": "ST12-001",
+      "name": "Roronoa Zoro & Sanji",
+      "name_ko": "롤로노아 조로 & 상디",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Green/Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-001.png",
+      "image": null
+    },
+    {
+      "no": "ST12-002",
+      "name": "Kuina",
+      "name_ko": "쿠이나",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-002.png",
+      "image": null
+    },
+    {
+      "no": "ST12-003",
+      "name": "Dracule Mihawk",
+      "name_ko": "쥬라큘 미호크",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-003.png",
+      "image": null
+    },
+    {
+      "no": "ST12-004",
+      "name": "Humandrill",
+      "name_ko": "휴먼드릴",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-004.png",
+      "image": null
+    },
+    {
+      "no": "ST12-005",
+      "name": "Perona",
+      "name_ko": "페로나",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-005.png",
+      "image": null
+    },
+    {
+      "no": "ST12-006",
+      "name": "Yosaku & Johnny",
+      "name_ko": "요삭 & 조니",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-006.png",
+      "image": null
+    },
+    {
+      "no": "ST12-007",
+      "name": "Rika",
+      "name_ko": "리카",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-007.png",
+      "image": null
+    },
+    {
+      "no": "ST12-008",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-008.png",
+      "image": null
+    },
+    {
+      "no": "ST12-009",
+      "name": "Elephant True Bluefin",
+      "name_ko": "엘리펀트 참다랑어",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-009.png",
+      "image": null
+    },
+    {
+      "no": "ST12-010",
+      "name": "Emporio.Ivankov",
+      "name_ko": "엠포리오 이반코프",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-010.png",
+      "image": null
+    },
+    {
+      "no": "ST12-011",
+      "name": "Sanji",
+      "name_ko": "상디",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-011.png",
+      "image": null
+    },
+    {
+      "no": "ST12-012",
+      "name": "Charlotte Pudding",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-012.png",
+      "image": null
+    },
+    {
+      "no": "ST12-013",
+      "name": "Zeff",
+      "name_ko": "제프",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-013.png",
+      "image": null
+    },
+    {
+      "no": "ST12-014",
+      "name": "Duval",
+      "name_ko": "듀발",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-014.png",
+      "image": null
+    },
+    {
+      "no": "ST12-015",
+      "name": "Patty & Carne",
+      "name_ko": "파티 & 카르네",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-015.png",
+      "image": null
+    },
+    {
+      "no": "ST12-016",
+      "name": "Lion Strike",
+      "name_ko": "사자의 노래",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-016.png",
+      "image": null
+    },
+    {
+      "no": "ST12-017",
+      "name": "Plastic Surgery Shot",
+      "name_ko": "정형 쇼트",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-017.png",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "db-en-ex11",
+  "cards": [
+    {
+      "no": "EX11-01",
+      "name": "Vegeta",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "LEADER",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-01.png",
+      "image": null
+    },
+    {
+      "no": "EX11-02",
+      "name": "Gotenks, Unison of Rage",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "UNISON",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-02.png",
+      "image": null
+    },
+    {
+      "no": "EX11-03",
+      "name": "Whis, Destruction's Conductor",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-03.png",
+      "image": null
+    },
+    {
+      "no": "EX11-04",
+      "name": "Beerus, Wrath of the Gods",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-04.png",
+      "image": null
+    },
+    {
+      "no": "EX11-05",
+      "name": "Android 17, High Alert",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-05.png",
+      "image": null
+    },
+    {
+      "no": "EX11-06",
+      "name": "Frieza, Fair-Weather Fiend",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-06.png",
+      "image": null
+    },
+    {
+      "no": "EX11-07",
+      "name": "Omen of Awakening",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-07.png",
+      "image": null
+    }
+  ]
+}

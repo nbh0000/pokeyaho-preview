@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-9485c3b190",
+  "cards": [
+    {
+      "no": "P-097",
+      "name": "シャンクス",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-097.png",
+      "image": "dex/cards/op-jp-promo/P-097.webp"
+    },
+    {
+      "no": "P-098",
+      "name": "バギー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-098.png",
+      "image": "dex/cards/op-jp-promo/P-098.webp"
+    },
+    {
+      "no": "P-099",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-099.png",
+      "image": "dex/cards/op-jp-promo/P-099.webp"
+    },
+    {
+      "no": "P-100",
+      "name": "マーシャル・D・ティーチ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-100.png",
+      "image": "dex/cards/op-jp-promo/P-100.webp"
+    }
+  ]
+}

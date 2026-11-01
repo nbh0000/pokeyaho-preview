@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-c1b221035f",
+  "cards": [
+    {
+      "no": "P-118",
+      "name": "リリス",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-118.png",
+      "image": "dex/cards/op-jp-promo/P-118.webp"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-1271438ee4",
+  "cards": [
+    {
+      "no": "OP03-033",
+      "name": "はっちゃん",
+      "name_ko": "핫짱",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-033_p1.png",
+      "image": "dex/cards/op-jp-promo/OP03-033_p1.webp"
+    },
+    {
+      "no": "OP03-044",
+      "name": "カヤ",
+      "name_ko": "카야",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-044_p1.png",
+      "image": "dex/cards/op-jp-promo/OP03-044_p1.webp"
+    },
+    {
+      "no": "OP03-088",
+      "name": "フクロウ",
+      "name_ko": "후쿠로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-088_p1.png",
+      "image": "dex/cards/op-jp-promo/OP03-088_p1.webp"
+    },
+    {
+      "no": "OP03-116",
+      "name": "しらほし",
+      "name_ko": "시라호시",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-116_p1.png",
+      "image": "dex/cards/op-jp-promo/OP03-116_p1.webp"
+    }
+  ]
+}

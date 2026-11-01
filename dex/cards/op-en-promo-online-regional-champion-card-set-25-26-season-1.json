@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-online-regional-champion-card-set-25-26-season-1",
+  "cards": [
+    {
+      "no": "EB01-043",
+      "name": "Spandine",
+      "name_ko": "스팬다인",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p6",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p6.png",
+      "image": "dex/cards/op-en-promo/EB01-043_p6.webp"
+    },
+    {
+      "no": "OP07-021",
+      "name": "Urouge",
+      "name_ko": "우루지",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p7",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-021_p7.png",
+      "image": "dex/cards/op-en-promo/OP07-021_p7.webp"
+    },
+    {
+      "no": "OP09-106",
+      "name": "Nico Olvia",
+      "name_ko": "니코 올비아",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p6",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p6.png",
+      "image": "dex/cards/op-en-promo/OP09-106_p6.webp"
+    },
+    {
+      "no": "P-078",
+      "name": "Adio",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p5",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078_p5.png",
+      "image": "dex/cards/op-en-promo/P-078_p5.webp"
+    }
+  ]
+}

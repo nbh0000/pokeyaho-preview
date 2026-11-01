@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-tournament-pack-vol-4",
+  "cards": [
+    {
+      "no": "OP01-035",
+      "name": "Okiku",
+      "name_ko": "오키쿠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-035_p1.png",
+      "image": "dex/cards/op-en-promo/OP01-035_p1.webp"
+    },
+    {
+      "no": "ST01-011",
+      "name": "Brook",
+      "name_ko": "브룩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p2.png",
+      "image": "dex/cards/op-en-promo/ST01-011_p2.webp"
+    },
+    {
+      "no": "ST03-005",
+      "name": "Dracule Mihawk",
+      "name_ko": "쥬라큘 미호크",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p1.png",
+      "image": "dex/cards/op-en-promo/ST03-005_p1.webp"
+    },
+    {
+      "no": "ST06-006",
+      "name": "Tashigi",
+      "name_ko": "타시기",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p1.png",
+      "image": "dex/cards/op-en-promo/ST06-006_p1.webp"
+    }
+  ]
+}

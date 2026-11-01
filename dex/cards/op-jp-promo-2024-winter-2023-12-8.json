@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-2024-winter-2023-12-8",
+  "cards": [
+    {
+      "no": "P-065",
+      "name": "トニートニー・チョッパー",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-065.png",
+      "image": "dex/cards/op-jp-promo/P-065.webp"
+    }
+  ]
+}

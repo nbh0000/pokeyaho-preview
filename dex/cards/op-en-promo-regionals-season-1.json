@@ -1,0 +1,16 @@
+{
+  "id": "op-en-promo-regionals-season-1",
+  "cards": [
+    {
+      "no": "OP07-119",
+      "name": "Portgas.D.Ace",
+      "name_ko": "포트거스 D. 에이스",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-119_p2.png",
+      "image": "dex/cards/op-en-promo/OP07-119_p2.webp"
+    }
+  ]
+}

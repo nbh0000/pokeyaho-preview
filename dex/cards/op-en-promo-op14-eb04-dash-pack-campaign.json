@@ -1,0 +1,71 @@
+{
+  "id": "op-en-promo-op14-eb04-dash-pack-campaign",
+  "cards": [
+    {
+      "no": "OP14-014",
+      "name": "Eustass\"Captain\"Kid",
+      "name_ko": "유스타스 키드",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-014_p3.png",
+      "image": "dex/cards/op-en-promo/OP14-014_p3.webp"
+    },
+    {
+      "no": "OP14-029",
+      "name": "Tashigi",
+      "name_ko": "타시기",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-029_p2.png",
+      "image": "dex/cards/op-en-promo/OP14-029_p2.webp"
+    },
+    {
+      "no": "OP14-043",
+      "name": "Aladine",
+      "name_ko": "알라딘",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-043_p1.png",
+      "image": "dex/cards/op-en-promo/OP14-043_p1.webp"
+    },
+    {
+      "no": "OP14-074",
+      "name": "Monet",
+      "name_ko": "모네",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-074_p1.png",
+      "image": "dex/cards/op-en-promo/OP14-074_p1.webp"
+    },
+    {
+      "no": "OP14-087",
+      "name": "Miss.Valentine(Mikita)",
+      "name_ko": "미스 발렌타인(미키타)",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-087_p1.png",
+      "image": "dex/cards/op-en-promo/OP14-087_p1.webp"
+    },
+    {
+      "no": "OP14-108",
+      "name": "Silvers Rayleigh",
+      "name_ko": "실버즈 레일리",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-108_p2.png",
+      "image": "dex/cards/op-en-promo/OP14-108_p2.webp"
+    }
+  ]
+}

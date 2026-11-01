@@ -1,0 +1,27 @@
+{
+  "id": "op-en-set-illustration-box-vol-7",
+  "cards": [
+    {
+      "no": "OP14-107",
+      "name": "Shakuyaku",
+      "name_ko": "샤쿠야쿠",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-107_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP14-108",
+      "name": "Silvers Rayleigh",
+      "name_ko": "실버즈 레일리",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-108_p1.png",
+      "image": null
+    }
+  ]
+}

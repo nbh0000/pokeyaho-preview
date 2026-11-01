@@ -1,0 +1,49 @@
+{
+  "id": "pkm-jp-pg10992",
+  "cards": [
+    {
+      "no": "066/M-P",
+      "name": "ラルトス",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/049714_P_RARUTOSU.jpg",
+      "image": "dex/cards/pkm-jp-pg10992/066-M-P.webp"
+    },
+    {
+      "no": "067/M-P",
+      "name": "キルリア",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/049715_P_KIRURIA.jpg",
+      "image": "dex/cards/pkm-jp-pg10992/067-M-P.webp"
+    },
+    {
+      "no": "068/M-P",
+      "name": "メガエルレイドex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/049716_P_MERUREIDOEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10992/068-M-P.webp"
+    },
+    {
+      "no": "069/M-P",
+      "name": "パワープロテイン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/049717_T_PAWAPUROTEIN.jpg",
+      "image": "dex/cards/pkm-jp-pg10992/069-M-P.webp"
+    }
+  ]
+}

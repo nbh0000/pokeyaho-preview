@@ -1,0 +1,65 @@
+{
+  "id": "db-en-sd9",
+  "cards": [
+    {
+      "no": "SD9-01",
+      "name": "King Vegeta",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD9-01.png",
+      "image": null
+    },
+    {
+      "no": "SD9-02",
+      "name": "Raditz, Earth Invader",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD9-02.png",
+      "image": null
+    },
+    {
+      "no": "SD9-03",
+      "name": "Vegeta, Royal Prince",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD9-03.png",
+      "image": null
+    },
+    {
+      "no": "SD9-04",
+      "name": "Fated Kaio-Ken Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red/Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD9-04.png",
+      "image": null
+    },
+    {
+      "no": "SD9-05",
+      "name": "King Vegeta's Dynasty",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "EXTRA",
+      "color": "Red/Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD9-05.png",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-2595617142",
+  "cards": [
+    {
+      "no": "ST10-006",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-006_p2.png",
+      "image": "dex/cards/op-jp-promo/ST10-006_p2.webp"
+    }
+  ]
+}

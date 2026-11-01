@@ -1,0 +1,170 @@
+{
+  "id": "op-en-st19",
+  "cards": [
+    {
+      "no": "OP02-093",
+      "name": "Smoker",
+      "name_ko": "스모커",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Black",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-093_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP02-098",
+      "name": "Koby",
+      "name_ko": "코비",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-098_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-106",
+      "name": "Tsuru",
+      "name_ko": "츠루",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-106_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-108",
+      "name": "Donquixote Rosinante",
+      "name_ko": "돈키호테 로시난테",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-108_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-109",
+      "name": "Jaguar.D.Saul",
+      "name_ko": "하그왈 D. 사우로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-109_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-113",
+      "name": "Helmeppo",
+      "name_ko": "헤르메포",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-113_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-116",
+      "name": "Yamakaji",
+      "name_ko": "야마카지",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-116_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-117",
+      "name": "Ice Age",
+      "name_ko": "아이스 에이지",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-117_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-079",
+      "name": "Vergo",
+      "name_ko": "베르고",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-079_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-089",
+      "name": "Brannew",
+      "name_ko": "브랜뉴",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-089_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST19-001",
+      "name": "Smoker",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-001.png",
+      "image": null
+    },
+    {
+      "no": "ST19-002",
+      "name": "Sengoku",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-002.png",
+      "image": null
+    },
+    {
+      "no": "ST19-003",
+      "name": "Tashigi",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-003.png",
+      "image": null
+    },
+    {
+      "no": "ST19-004",
+      "name": "Hina",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-004.png",
+      "image": null
+    },
+    {
+      "no": "ST19-005",
+      "name": "Monkey.D.Garp",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-005.png",
+      "image": null
+    }
+  ]
+}

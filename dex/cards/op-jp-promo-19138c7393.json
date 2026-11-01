@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-19138c7393",
+  "cards": [
+    {
+      "no": "EB01-014",
+      "name": "サンジ",
+      "name_ko": "상디",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-014_p1.png",
+      "image": "dex/cards/op-jp-promo/EB01-014_p1.webp"
+    },
+    {
+      "no": "OP06-047",
+      "name": "シャーロット・プリン",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-047_p2.png",
+      "image": "dex/cards/op-jp-promo/OP06-047_p2.webp"
+    },
+    {
+      "no": "OP06-076",
+      "name": "人斬り鎌ぞう",
+      "name_ko": "살인귀 카마조",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-076_p1.png",
+      "image": "dex/cards/op-jp-promo/OP06-076_p1.webp"
+    },
+    {
+      "no": "OP07-080",
+      "name": "カク",
+      "name_ko": "카쿠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-080_p1.png",
+      "image": "dex/cards/op-jp-promo/OP07-080_p1.webp"
+    }
+  ]
+}

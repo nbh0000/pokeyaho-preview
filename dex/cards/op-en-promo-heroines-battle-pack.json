@@ -1,0 +1,38 @@
+{
+  "id": "op-en-promo-heroines-battle-pack",
+  "cards": [
+    {
+      "no": "P-111",
+      "name": "Nico Robin",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-111.png",
+      "image": "dex/cards/op-en-promo/P-111.webp"
+    },
+    {
+      "no": "P-112",
+      "name": "Nami",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-112.png",
+      "image": "dex/cards/op-en-promo/P-112.webp"
+    },
+    {
+      "no": "P-113",
+      "name": "Jewelry Bonney",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-113.png",
+      "image": "dex/cards/op-en-promo/P-113.webp"
+    }
+  ]
+}

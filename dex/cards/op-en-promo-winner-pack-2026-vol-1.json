@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-winner-pack-2026-vol-1",
+  "cards": [
+    {
+      "no": "OP12-028",
+      "name": "Kouzuki Hiyori",
+      "name_ko": "코즈키 히요리",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-028_p2.png",
+      "image": "dex/cards/op-en-promo/OP12-028_p2.webp"
+    },
+    {
+      "no": "OP12-062",
+      "name": "Vinsmoke Sora",
+      "name_ko": "빈스모크 소라",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-062_p2.png",
+      "image": "dex/cards/op-en-promo/OP12-062_p2.webp"
+    },
+    {
+      "no": "OP12-093",
+      "name": "Morley",
+      "name_ko": "몰리",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-093_p2.png",
+      "image": "dex/cards/op-en-promo/OP12-093_p2.webp"
+    },
+    {
+      "no": "OP12-112",
+      "name": "Baby 5",
+      "name_ko": "베이비 5",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-112_p3.png",
+      "image": "dex/cards/op-en-promo/OP12-112_p3.webp"
+    }
+  ]
+}

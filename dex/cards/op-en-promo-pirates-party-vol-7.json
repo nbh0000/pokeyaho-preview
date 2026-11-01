@@ -1,0 +1,27 @@
+{
+  "id": "op-en-promo-pirates-party-vol-7",
+  "cards": [
+    {
+      "no": "P-068",
+      "name": "Sanji",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-068.png",
+      "image": "dex/cards/op-en-promo/P-068.webp"
+    },
+    {
+      "no": "P-076",
+      "name": "Sakazuki",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "LEADER",
+      "color": "Blue/Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-076.png",
+      "image": "dex/cards/op-en-promo/P-076.webp"
+    }
+  ]
+}

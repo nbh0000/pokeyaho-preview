@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-event-pack-vol-3",
+  "cards": [
+    {
+      "no": "OP05-036",
+      "name": "Monet",
+      "name_ko": "모네",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-036_p1.png",
+      "image": "dex/cards/op-en-promo/OP05-036_p1.webp"
+    },
+    {
+      "no": "P-042",
+      "name": "Roronoa Zoro",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-042.png",
+      "image": "dex/cards/op-en-promo/P-042.webp"
+    },
+    {
+      "no": "P-046",
+      "name": "Yamato",
+      "name_ko": "야마토",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-046.png",
+      "image": "dex/cards/op-en-promo/P-046.webp"
+    },
+    {
+      "no": "ST03-008",
+      "name": "Trafalgar Law",
+      "name_ko": "트라팔가 로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p2.png",
+      "image": "dex/cards/op-en-promo/ST03-008_p2.webp"
+    }
+  ]
+}

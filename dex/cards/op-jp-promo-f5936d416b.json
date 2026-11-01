@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-f5936d416b",
+  "cards": [
+    {
+      "no": "EB02-019",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-019_p1.png",
+      "image": "dex/cards/op-jp-promo/EB02-019_p1.webp"
+    }
+  ]
+}

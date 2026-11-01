@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-37f82b1540",
+  "cards": [
+    {
+      "no": "ST10-004",
+      "name": "サンジ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-004_p1.png",
+      "image": "dex/cards/op-jp-promo/ST10-004_p1.webp"
+    }
+  ]
+}

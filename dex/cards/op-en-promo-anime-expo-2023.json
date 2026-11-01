@@ -1,0 +1,16 @@
+{
+  "id": "op-en-promo-anime-expo-2023",
+  "cards": [
+    {
+      "no": "P-037",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-037.png",
+      "image": "dex/cards/op-en-promo/P-037.webp"
+    }
+  ]
+}

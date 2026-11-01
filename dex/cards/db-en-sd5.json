@@ -1,0 +1,65 @@
+{
+  "id": "db-en-sd5",
+  "cards": [
+    {
+      "no": "SD5-01",
+      "name": "Golden Great Ape Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD5-01.png",
+      "image": null
+    },
+    {
+      "no": "SD5-02",
+      "name": "Power Charge Bardock",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD5-02.png",
+      "image": null
+    },
+    {
+      "no": "SD5-03",
+      "name": "SSB Son Goku, at the Apex",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD5-03.png",
+      "image": null
+    },
+    {
+      "no": "SD5-04",
+      "name": "Reborn Might SS4 Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD5-04.png",
+      "image": null
+    },
+    {
+      "no": "SD5-05",
+      "name": "Ultimate Potential SS2 Son Gohan",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD5-05.png",
+      "image": null
+    }
+  ]
+}

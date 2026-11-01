@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-cb8ad63f19",
+  "cards": [
+    {
+      "no": "OP05-006",
+      "name": "コアラ",
+      "name_ko": "코알라",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-006_p3.png",
+      "image": "dex/cards/op-jp-promo/OP05-006_p3.webp"
+    }
+  ]
+}

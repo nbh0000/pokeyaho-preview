@@ -1,0 +1,49 @@
+{
+  "id": "pkm-jp-pg10950",
+  "cards": [
+    {
+      "no": "192/SV-P",
+      "name": "ニャース",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047160_P_NIXYASU.jpg",
+      "image": "dex/cards/pkm-jp-pg10950/192-SV-P.webp"
+    },
+    {
+      "no": "193/SV-P",
+      "name": "パルデア ウパー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047161_P_PARUDEAUPA.jpg",
+      "image": "dex/cards/pkm-jp-pg10950/193-SV-P.webp"
+    },
+    {
+      "no": "194/SV-P",
+      "name": "スイクン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047162_P_SUIKUN.jpg",
+      "image": "dex/cards/pkm-jp-pg10950/194-SV-P.webp"
+    },
+    {
+      "no": "195/SV-P",
+      "name": "ジュラルドン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047163_P_JIXYURARUDON.jpg",
+      "image": "dex/cards/pkm-jp-pg10950/195-SV-P.webp"
+    }
+  ]
+}

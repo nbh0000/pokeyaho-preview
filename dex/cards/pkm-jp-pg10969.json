@@ -1,0 +1,71 @@
+{
+  "id": "pkm-jp-pg10969",
+  "cards": [
+    {
+      "no": "017/M-P",
+      "name": "ニャオハ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048255_P_NIXYAOHA.jpg",
+      "image": "dex/cards/pkm-jp-pg10969/017-M-P.webp"
+    },
+    {
+      "no": "018/M-P",
+      "name": "ホゲータ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048256_P_HOGETA.jpg",
+      "image": "dex/cards/pkm-jp-pg10969/018-M-P.webp"
+    },
+    {
+      "no": "019/M-P",
+      "name": "クワッス",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048257_P_KUWASSU.jpg",
+      "image": "dex/cards/pkm-jp-pg10969/019-M-P.webp"
+    },
+    {
+      "no": "020/M-P",
+      "name": "ピカチュウ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048258_P_PIKACHIXYUU.jpg",
+      "image": "dex/cards/pkm-jp-pg10969/020-M-P.webp"
+    },
+    {
+      "no": "021/M-P",
+      "name": "ラルトス",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048259_P_RARUTOSU.jpg",
+      "image": "dex/cards/pkm-jp-pg10969/021-M-P.webp"
+    },
+    {
+      "no": "022/M-P",
+      "name": "リオル",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048260_P_RIORU.jpg",
+      "image": "dex/cards/pkm-jp-pg10969/022-M-P.webp"
+    }
+  ]
+}

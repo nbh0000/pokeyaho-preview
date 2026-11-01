@@ -1,0 +1,38 @@
+{
+  "id": "op-jp-set-1st-anniversary-set",
+  "cards": [
+    {
+      "no": "OP01-006",
+      "name": "お玉",
+      "name_ko": "오타마",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-006_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP02-015",
+      "name": "マキノ",
+      "name_ko": "마키노",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-015_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP03-013",
+      "name": "マルコ",
+      "name_ko": "마르코",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-013_p3.png",
+      "image": null
+    }
+  ]
+}

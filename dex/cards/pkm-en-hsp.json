@@ -1,0 +1,280 @@
+{
+  "id": "pkm-en-hsp",
+  "cards": [
+    {
+      "no": "HGSS01",
+      "name": "Ho-Oh",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS01.png",
+      "image": null
+    },
+    {
+      "no": "HGSS02",
+      "name": "Lugia",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS02.png",
+      "image": null
+    },
+    {
+      "no": "HGSS03",
+      "name": "Pikachu",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS03.png",
+      "image": null
+    },
+    {
+      "no": "HGSS04",
+      "name": "Wobbuffet",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS04.png",
+      "image": null
+    },
+    {
+      "no": "HGSS05",
+      "name": "Hoothoot",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS05.png",
+      "image": null
+    },
+    {
+      "no": "HGSS06",
+      "name": "Noctowl",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS06.png",
+      "image": null
+    },
+    {
+      "no": "HGSS07",
+      "name": "Feraligatr",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS07.png",
+      "image": null
+    },
+    {
+      "no": "HGSS08",
+      "name": "Meganium",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS08.png",
+      "image": null
+    },
+    {
+      "no": "HGSS09",
+      "name": "Typhlosion",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS09.png",
+      "image": null
+    },
+    {
+      "no": "HGSS10",
+      "name": "Latias",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS10.png",
+      "image": null
+    },
+    {
+      "no": "HGSS11",
+      "name": "Latios",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS11.png",
+      "image": null
+    },
+    {
+      "no": "HGSS12",
+      "name": "Cleffa",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS12.png",
+      "image": null
+    },
+    {
+      "no": "HGSS13",
+      "name": "Smoochum",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS13.png",
+      "image": null
+    },
+    {
+      "no": "HGSS14",
+      "name": "Lapras",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS14.png",
+      "image": null
+    },
+    {
+      "no": "HGSS15",
+      "name": "Shuckle",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS15.png",
+      "image": null
+    },
+    {
+      "no": "HGSS16",
+      "name": "Plusle",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS16.png",
+      "image": null
+    },
+    {
+      "no": "HGSS17",
+      "name": "Minun",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS17.png",
+      "image": null
+    },
+    {
+      "no": "HGSS18",
+      "name": "Tropical Tidal Wave",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS18.png",
+      "image": null
+    },
+    {
+      "no": "HGSS19",
+      "name": "Raikou",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS19.png",
+      "image": null
+    },
+    {
+      "no": "HGSS20",
+      "name": "Entei",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS20.png",
+      "image": null
+    },
+    {
+      "no": "HGSS21",
+      "name": "Suicune",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS21.png",
+      "image": null
+    },
+    {
+      "no": "HGSS22",
+      "name": "Porygon",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS22.png",
+      "image": null
+    },
+    {
+      "no": "HGSS23",
+      "name": "Porygon2",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS23.png",
+      "image": null
+    },
+    {
+      "no": "HGSS24",
+      "name": "Hitmonchan",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS24.png",
+      "image": null
+    },
+    {
+      "no": "HGSS25",
+      "name": "Hitmonlee",
+      "name_ko": null,
+      "rarity": "Promo",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/hsp/HGSS25.png",
+      "image": null
+    }
+  ]
+}

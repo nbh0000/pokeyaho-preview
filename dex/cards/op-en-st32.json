@@ -1,0 +1,170 @@
+{
+  "id": "op-en-st32",
+  "cards": [
+    {
+      "no": "OP10-036",
+      "name": "Perona",
+      "name_ko": "페로나",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-036_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-020",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Green",
+      "variant": "p5",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-020_p5.png",
+      "image": null
+    },
+    {
+      "no": "OP12-023",
+      "name": "Kawamatsu",
+      "name_ko": "카와마츠",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-023_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-026",
+      "name": "Kuina",
+      "name_ko": "쿠이나",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-026_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-027",
+      "name": "Koushirou",
+      "name_ko": "코시로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-027_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-028",
+      "name": "Kouzuki Hiyori",
+      "name_ko": "코즈키 히요리",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-028_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-031",
+      "name": "Tashigi",
+      "name_ko": "타시기",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-031_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-039",
+      "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+      "name_ko": "루피는, 해적왕이 될 사내다!!",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-039_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP15-036",
+      "name": "Ryuma",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-036_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST24-005",
+      "name": "X.Drake",
+      "name_ko": "X 드레이크",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-005_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST32-001",
+      "name": "Kin'emon",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-001.png",
+      "image": null
+    },
+    {
+      "no": "ST32-002",
+      "name": "Kouzuki Oden",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-002.png",
+      "image": null
+    },
+    {
+      "no": "ST32-003",
+      "name": "Dracule Mihawk",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-003.png",
+      "image": null
+    },
+    {
+      "no": "ST32-004",
+      "name": "Silvers Rayleigh",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-004.png",
+      "image": null
+    },
+    {
+      "no": "ST32-005",
+      "name": "Roronoa Zoro",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST32-005.png",
+      "image": null
+    }
+  ]
+}

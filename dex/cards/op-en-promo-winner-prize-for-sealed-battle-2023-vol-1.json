@@ -1,0 +1,16 @@
+{
+  "id": "op-en-promo-winner-prize-for-sealed-battle-2023-vol-1",
+  "cards": [
+    {
+      "no": "OP04-083",
+      "name": "Sabo",
+      "name_ko": "사보",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-083_p3.png",
+      "image": "dex/cards/op-en-promo/OP04-083_p3.webp"
+    }
+  ]
+}

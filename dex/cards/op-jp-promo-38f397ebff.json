@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-38f397ebff",
+  "cards": [
+    {
+      "no": "P-087",
+      "name": "ニコ・ロビン",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-087.png",
+      "image": "dex/cards/op-jp-promo/P-087.webp"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "pkm-en-tk2b",
+  "cards": [
+    {
+      "no": "1/12",
+      "name": "Arcanine",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2b/1.png",
+      "image": null
+    },
+    {
+      "no": "2/12",
+      "name": "Charmander",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2b/2.png",
+      "image": null
+    },
+    {
+      "no": "3/12",
+      "name": "Charmeleon",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2b/3.png",
+      "image": null
+    },
+    {
+      "no": "4/12",
+      "name": "Growlithe",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2b/4.png",
+      "image": null
+    },
+    {
+      "no": "5/12",
+      "name": "Mareep",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2b/5.png",
+      "image": null
+    },
+    {
+      "no": "6/12",
+      "name": "Minun",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2b/6.png",
+      "image": null
+    },
+    {
+      "no": "7/12",
+      "name": "Vulpix",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2b/7.png",
+      "image": null
+    },
+    {
+      "no": "8/12",
+      "name": "Celio's Network",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2b/8.png",
+      "image": null
+    },
+    {
+      "no": "9/12",
+      "name": "Energy Search",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2b/9.png",
+      "image": null
+    },
+    {
+      "no": "10/12",
+      "name": "Potion",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2b/10.png",
+      "image": null
+    },
+    {
+      "no": "11/12",
+      "name": "Fire Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2b/11.png",
+      "image": null
+    },
+    {
+      "no": "12/12",
+      "name": "Lightning Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2b/12.png",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": "db-en-fs07",
+  "cards": [
+    {
+      "no": "FS07-01",
+      "name": "Vegeta (Mini) : DA",
+      "name_ko": null,
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-01_f.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-02",
+      "name": "Krillin",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-02.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-03",
+      "name": "Android 18",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-03.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-04",
+      "name": "Trunks (Mini) : DA",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-04.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-05",
+      "name": "Piccolo (Mini) : DA",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-05.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-06",
+      "name": "Bulma (Mini) : DA",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-06.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-07",
+      "name": "Vegeta : DA",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-07.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-08",
+      "name": "Marron",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-08.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-09",
+      "name": "Majin Buu (Mini) : DA",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-09.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-10",
+      "name": "Hercule (Mini) : DA",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-10.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-11",
+      "name": "Vegeta&#039;s Battle Armor",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "EXTRA",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-11.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-12",
+      "name": "Proud Saiyan",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "EXTRA",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-12.webp",
+      "image": null
+    },
+    {
+      "no": "FB01-048",
+      "name": "Son Goku",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB01-048_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FB02-062",
+      "name": "Mai : Future",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB02-062_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FS02-05",
+      "name": "Son Goten",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS02-05_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FS02-10",
+      "name": "Videl",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": "p2",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS02-10_p2.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-04",
+      "name": "Trunks (Mini) : DA",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-04_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-05",
+      "name": "Piccolo (Mini) : DA",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-05_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-06",
+      "name": "Bulma (Mini) : DA",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-06_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-07",
+      "name": "Vegeta : DA",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-07_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-09",
+      "name": "Majin Buu (Mini) : DA",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-09_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FS07-10",
+      "name": "Hercule (Mini) : DA",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-10_p1.webp",
+      "image": null
+    }
+  ]
+}

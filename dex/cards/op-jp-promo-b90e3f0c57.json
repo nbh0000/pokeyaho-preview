@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-b90e3f0c57",
+  "cards": [
+    {
+      "no": "OP05-091",
+      "name": "レベッカ",
+      "name_ko": "레베카",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-091_p3.png",
+      "image": "dex/cards/op-jp-promo/OP05-091_p3.webp"
+    }
+  ]
+}

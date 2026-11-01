@@ -1,0 +1,225 @@
+{
+  "id": "pkm-jp-pg709",
+  "cards": [
+    {
+      "no": "001/020",
+      "name": "アブソル",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038033_P_ABUSORU.jpg",
+      "image": "dex/cards/pkm-jp-pg709/001-020.webp"
+    },
+    {
+      "no": "002/020",
+      "name": "モノズ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038034_P_MONOZU.jpg",
+      "image": "dex/cards/pkm-jp-pg709/002-020.webp"
+    },
+    {
+      "no": "003/020",
+      "name": "ジヘッド",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038035_P_JIHEDDO.jpg",
+      "image": "dex/cards/pkm-jp-pg709/003-020.webp"
+    },
+    {
+      "no": "004/020",
+      "name": "サザンドラ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038036_P_SAZANDORA.jpg",
+      "image": "dex/cards/pkm-jp-pg709/004-020.webp"
+    },
+    {
+      "no": "005/020",
+      "name": "クスネ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038037_P_KUSUNE.jpg",
+      "image": "dex/cards/pkm-jp-pg709/005-020.webp"
+    },
+    {
+      "no": "006/020",
+      "name": "オーロンゲV",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038038_P_ORONGEV.jpg",
+      "image": "dex/cards/pkm-jp-pg709/006-020.webp"
+    },
+    {
+      "no": "007/020",
+      "name": "オーロンゲVMAX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038039_P_ORONGEVMAX.jpg",
+      "image": "dex/cards/pkm-jp-pg709/007-020.webp"
+    },
+    {
+      "no": "008/020",
+      "name": "ルギア",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038040_P_RUGIA.jpg",
+      "image": "dex/cards/pkm-jp-pg709/008-020.webp"
+    },
+    {
+      "no": "009/020",
+      "name": "クイックボール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038041_T_KUIKKUBORU.jpg",
+      "image": "dex/cards/pkm-jp-pg709/009-020.webp"
+    },
+    {
+      "no": "010/020",
+      "name": "しんかのおこう",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038042_T_SHINKANOOKOU.jpg",
+      "image": "dex/cards/pkm-jp-pg709/010-020.webp"
+    },
+    {
+      "no": "011/020",
+      "name": "スマホロトム",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038043_T_SUMAHOROTOMU.jpg",
+      "image": "dex/cards/pkm-jp-pg709/011-020.webp"
+    },
+    {
+      "no": "012/020",
+      "name": "ふしぎなアメ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038044_T_FUSHIGINAAME.jpg",
+      "image": "dex/cards/pkm-jp-pg709/012-020.webp"
+    },
+    {
+      "no": "013/020",
+      "name": "ポケギア3.0",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038045_T_POKEGIA.jpg",
+      "image": "dex/cards/pkm-jp-pg709/013-020.webp"
+    },
+    {
+      "no": "014/020",
+      "name": "ポケモンいれかえ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038046_T_POKEMONIREKAE.jpg",
+      "image": "dex/cards/pkm-jp-pg709/014-020.webp"
+    },
+    {
+      "no": "015/020",
+      "name": "ポケモンキャッチャー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038047_T_POKEMONKYACCHA.jpg",
+      "image": "dex/cards/pkm-jp-pg709/015-020.webp"
+    },
+    {
+      "no": "016/020",
+      "name": "リセットスタンプ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038048_T_RISETTOSUTANPU.jpg",
+      "image": "dex/cards/pkm-jp-pg709/016-020.webp"
+    },
+    {
+      "no": "017/020",
+      "name": "シロナ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038049_T_SHIRONA.jpg",
+      "image": "dex/cards/pkm-jp-pg709/017-020.webp"
+    },
+    {
+      "no": "018/020",
+      "name": "ソニア",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038050_T_SONIA.jpg",
+      "image": "dex/cards/pkm-jp-pg709/018-020.webp"
+    },
+    {
+      "no": "019/020",
+      "name": "博士の研究",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038051_T_HAKASENOKENKYUUMAGUNORIAHAKASE.jpg",
+      "image": "dex/cards/pkm-jp-pg709/019-020.webp"
+    },
+    {
+      "no": "020/020",
+      "name": "ホップ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SCS/038052_T_HOPPU.jpg",
+      "image": "dex/cards/pkm-jp-pg709/020-020.webp"
+    }
+  ]
+}

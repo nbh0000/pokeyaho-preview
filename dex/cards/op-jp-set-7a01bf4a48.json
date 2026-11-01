@@ -1,0 +1,71 @@
+{
+  "id": "op-jp-set-7a01bf4a48",
+  "cards": [
+    {
+      "no": "OP01-001",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-001_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP06-022",
+      "name": "ヤマト",
+      "name_ko": "야마토",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "緑/黄",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP07-019",
+      "name": "ジュエリー・ボニー",
+      "name_ko": "쥬얼리 보니",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "緑",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-019_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP07-097",
+      "name": "ベガパンク",
+      "name_ko": "베가펑크",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "黄",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-097_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP08-002",
+      "name": "マルコ",
+      "name_ko": "마르코",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤/青",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-002_p3.png",
+      "image": null
+    },
+    {
+      "no": "ST01-001",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-001_p4.png",
+      "image": null
+    }
+  ]
+}

@@ -2441,3 +2441,5 @@ body:has(.brand-hero) .head-logo { visibility: hidden; }
 .dx-world.w-onepiece { --bg: url(../img/tile-sky.webp); }
 .dx-world.w-dragonball { --bg: url(../img/tile-orange.webp); }
 .cn-card.t-y::before { background-position: 58% 30%; }
+/* 종류 카드에 쓸 이미지가 없을 때(예: 프로모) 빈 칸 대신 이름 글자 */
+.dx-kind .dx-kind-img.n0::after { content: attr(data-empty); position: absolute; inset: 0; display: grid; place-items: center; color: #d8b552; font-size: clamp(28px, 2.6vw, 40px); font-weight: 900; letter-spacing: .08em; }

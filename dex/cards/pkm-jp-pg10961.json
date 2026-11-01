@@ -1,0 +1,82 @@
+{
+  "id": "pkm-jp-pg10961",
+  "cards": [
+    {
+      "no": "262/SV-P",
+      "name": "コダック",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047492_P_KODAKKU.jpg",
+      "image": "dex/cards/pkm-jp-pg10961/262-SV-P.webp"
+    },
+    {
+      "no": "263/SV-P",
+      "name": "ゴルダック",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047493_P_GORUDAKKU.jpg",
+      "image": "dex/cards/pkm-jp-pg10961/263-SV-P.webp"
+    },
+    {
+      "no": "264/SV-P",
+      "name": "ハバタクカミ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047494_P_HABATAKUKAMI.jpg",
+      "image": "dex/cards/pkm-jp-pg10961/264-SV-P.webp"
+    },
+    {
+      "no": "265/SV-P",
+      "name": "ロケット団のガルーラex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047495_P_ROKETTODANNOGARURAEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10961/265-SV-P.webp"
+    },
+    {
+      "no": "266/SV-P",
+      "name": "夜のタンカ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047496_T_YORUNOTANKA.jpg",
+      "image": "dex/cards/pkm-jp-pg10961/266-SV-P.webp"
+    },
+    {
+      "no": "267/SV-P",
+      "name": "ロケット団のさいみん装置",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047497_T_ROKETTODANNOSAIMINSOUCHI.jpg",
+      "image": "dex/cards/pkm-jp-pg10961/267-SV-P.webp"
+    },
+    {
+      "no": "268/SV-P",
+      "name": "スグリ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047498_T_SUGURI.jpg",
+      "image": "dex/cards/pkm-jp-pg10961/268-SV-P.webp"
+    }
+  ]
+}

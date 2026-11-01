@@ -1,0 +1,27 @@
+{
+  "id": "op-jp-promo-one-piece-card-game-1st-anniversary-complete-guide",
+  "cards": [
+    {
+      "no": "P-040",
+      "name": "カイドウ",
+      "name_ko": "카이도",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-040.png",
+      "image": "dex/cards/op-jp-promo/P-040.webp"
+    },
+    {
+      "no": "P-041",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-041_p1.png",
+      "image": "dex/cards/op-jp-promo/P-041_p1.webp"
+    }
+  ]
+}

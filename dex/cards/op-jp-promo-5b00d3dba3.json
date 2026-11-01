@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-5b00d3dba3",
+  "cards": [
+    {
+      "no": "OP08-067",
+      "name": "シャーロット・プリン",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-067_p2.png",
+      "image": "dex/cards/op-jp-promo/OP08-067_p2.webp"
+    }
+  ]
+}

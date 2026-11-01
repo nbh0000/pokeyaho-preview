@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-7ef102364a",
+  "cards": [
+    {
+      "no": "OP01-035",
+      "name": "お菊",
+      "name_ko": "오키쿠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-035_p1.png",
+      "image": "dex/cards/op-jp-promo/OP01-035_p1.webp"
+    },
+    {
+      "no": "ST01-011",
+      "name": "ブルック",
+      "name_ko": "브룩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-011_p2.png",
+      "image": "dex/cards/op-jp-promo/ST01-011_p2.webp"
+    },
+    {
+      "no": "ST03-005",
+      "name": "ジュラキュール・ミホーク",
+      "name_ko": "쥬라큘 미호크",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-005_p1.png",
+      "image": "dex/cards/op-jp-promo/ST03-005_p1.webp"
+    },
+    {
+      "no": "ST06-006",
+      "name": "たしぎ",
+      "name_ko": "타시기",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-006_p1.png",
+      "image": "dex/cards/op-jp-promo/ST06-006_p1.webp"
+    }
+  ]
+}

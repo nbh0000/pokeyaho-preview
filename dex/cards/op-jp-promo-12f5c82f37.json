@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-12f5c82f37",
+  "cards": [
+    {
+      "no": "OP14-033",
+      "name": "ペローナ",
+      "name_ko": "페로나",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-033_p2.png",
+      "image": "dex/cards/op-jp-promo/OP14-033_p2.webp"
+    }
+  ]
+}

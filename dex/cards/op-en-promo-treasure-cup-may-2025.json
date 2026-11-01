@@ -1,0 +1,38 @@
+{
+  "id": "op-en-promo-treasure-cup-may-2025",
+  "cards": [
+    {
+      "no": "EB01-048",
+      "name": "Laboon",
+      "name_ko": "라분",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-048_p2.png",
+      "image": "dex/cards/op-en-promo/EB01-048_p2.webp"
+    },
+    {
+      "no": "OP08-067",
+      "name": "Charlotte Pudding",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-067_p2.png",
+      "image": "dex/cards/op-en-promo/OP08-067_p2.webp"
+    },
+    {
+      "no": "OP09-069",
+      "name": "Trafalgar Law",
+      "name_ko": "트라팔가 로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-069_p2.png",
+      "image": "dex/cards/op-en-promo/OP09-069_p2.webp"
+    }
+  ]
+}

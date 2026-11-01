@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-event-pack-vol-5",
+  "cards": [
+    {
+      "no": "OP05-067",
+      "name": "Zoro-Juurou",
+      "name_ko": "조로주로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-067_p2.png",
+      "image": "dex/cards/op-en-promo/OP05-067_p2.webp"
+    },
+    {
+      "no": "OP06-101",
+      "name": "O-Nami",
+      "name_ko": "오나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-101_p3.png",
+      "image": "dex/cards/op-en-promo/OP06-101_p3.webp"
+    },
+    {
+      "no": "P-065",
+      "name": "Tony Tony.Chopper",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-065.png",
+      "image": "dex/cards/op-en-promo/P-065.webp"
+    },
+    {
+      "no": "P-069",
+      "name": "Koala",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069.png",
+      "image": "dex/cards/op-en-promo/P-069.webp"
+    }
+  ]
+}

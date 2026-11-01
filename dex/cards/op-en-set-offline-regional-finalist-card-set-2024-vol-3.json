@@ -1,0 +1,16 @@
+{
+  "id": "op-en-set-offline-regional-finalist-card-set-2024-vol-3",
+  "cards": [
+    {
+      "no": "OP07-091",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-091_p1.png",
+      "image": "dex/cards/op-en-promo/OP07-091_p1.webp"
+    }
+  ]
+}

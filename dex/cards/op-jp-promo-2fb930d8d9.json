@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-2fb930d8d9",
+  "cards": [
+    {
+      "no": "P-095",
+      "name": "サンジ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-095.png",
+      "image": "dex/cards/op-jp-promo/P-095.webp"
+    }
+  ]
+}

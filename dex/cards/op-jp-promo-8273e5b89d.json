@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-8273e5b89d",
+  "cards": [
+    {
+      "no": "OP13-108",
+      "name": "ジュエリー・ボニー",
+      "name_ko": "쥬얼리 보니",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-108_p2.png",
+      "image": "dex/cards/op-jp-promo/OP13-108_p2.webp"
+    }
+  ]
+}

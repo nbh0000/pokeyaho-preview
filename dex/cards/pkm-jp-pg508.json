@@ -1,0 +1,170 @@
+{
+  "id": "pkm-jp-pg508",
+  "cards": [
+    {
+      "no": "001/018",
+      "name": "ネストボール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033184_T_NESUTOBORU.jpg",
+      "image": "dex/cards/pkm-jp-pg508/001-018.webp"
+    },
+    {
+      "no": "002/018",
+      "name": "ハイパーボール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033185_T_HAIPABORU.jpg",
+      "image": "dex/cards/pkm-jp-pg508/002-018.webp"
+    },
+    {
+      "no": "003/018",
+      "name": "ふしぎなアメ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033186_T_FUSHIGINAAME.jpg",
+      "image": "dex/cards/pkm-jp-pg508/003-018.webp"
+    },
+    {
+      "no": "004/018",
+      "name": "ククイ博士",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033187_T_KUKUIHAKASE.jpg",
+      "image": "dex/cards/pkm-jp-pg508/004-018.webp"
+    },
+    {
+      "no": "005/018",
+      "name": "リーリエ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033188_T_RIRIE.jpg",
+      "image": "dex/cards/pkm-jp-pg508/005-018.webp"
+    },
+    {
+      "no": "006/018",
+      "name": "ダブル無色エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033189_E_DABURUMUSHOKUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg508/006-018.webp"
+    },
+    {
+      "no": "DAR",
+      "name": "基本悪エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033196_E_KIHONAKUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg508/DAR.webp"
+    },
+    {
+      "no": "FAI",
+      "name": "基本フェアリーエネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033198_E_KIHONYOUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg508/FAI.webp"
+    },
+    {
+      "no": "FIG",
+      "name": "基本闘エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033195_E_KIHONTOUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg508/FIG.webp"
+    },
+    {
+      "no": "FIR",
+      "name": "基本炎エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033191_E_KIHONHONOOENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg508/FIR.webp"
+    },
+    {
+      "no": "GRA",
+      "name": "基本草エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033190_E_KIHONKUSAENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg508/GRA.webp"
+    },
+    {
+      "no": "LIG",
+      "name": "基本雷エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033193_E_KIHONKAMINARIENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg508/LIG.webp"
+    },
+    {
+      "no": "MET",
+      "name": "基本鋼エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033197_E_KIHONKOUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg508/MET.webp"
+    },
+    {
+      "no": "PSY",
+      "name": "基本超エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033194_E_KIHONCHOUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg508/PSY.webp"
+    },
+    {
+      "no": "WAT",
+      "name": "基本水エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033192_E_KIHONMIZUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg508/WAT.webp"
+    }
+  ]
+}

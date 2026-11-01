@@ -1,0 +1,38 @@
+{
+  "id": "op-jp-promo-8f2ed2e75b",
+  "cards": [
+    {
+      "no": "OP01-021",
+      "name": "フランキー",
+      "name_ko": "프랑키",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-021_p3.png",
+      "image": "dex/cards/op-jp-promo/OP01-021_p3.webp"
+    },
+    {
+      "no": "OP01-033",
+      "name": "イゾウ",
+      "name_ko": "이조",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-033_p1.png",
+      "image": "dex/cards/op-jp-promo/OP01-033_p1.webp"
+    },
+    {
+      "no": "ST04-011",
+      "name": "ブラックマリア",
+      "name_ko": "블랙마리아",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-011_p1.png",
+      "image": "dex/cards/op-jp-promo/ST04-011_p1.webp"
+    }
+  ]
+}

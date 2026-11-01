@@ -1,0 +1,170 @@
+{
+  "id": "op-en-st15",
+  "cards": [
+    {
+      "no": "OP02-001",
+      "name": "Edward.Newgate",
+      "name_ko": "에드워드 뉴게이트",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-001_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP02-008",
+      "name": "Jozu",
+      "name_ko": "조즈",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-008_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-018",
+      "name": "Marco",
+      "name_ko": "마르코",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-019",
+      "name": "Rakuyo",
+      "name_ko": "라쿠요",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-019_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-023",
+      "name": "You May Be a Fool...but I Still Love You",
+      "name_ko": "못난 아들을, 그래도 사랑 하겠다...",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-023_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-003",
+      "name": "Izo",
+      "name_ko": "이조",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-003_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-006",
+      "name": "Speed Jil",
+      "name_ko": "스피드 질",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-006_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-007",
+      "name": "Namule",
+      "name_ko": "나무르",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-007_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-009",
+      "name": "Haruta",
+      "name_ko": "하루타",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-009_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-010",
+      "name": "Fossa",
+      "name_ko": "포사",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-010_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST15-001",
+      "name": "Atmos",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-001.png",
+      "image": null
+    },
+    {
+      "no": "ST15-002",
+      "name": "Edward.Newgate",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-002.png",
+      "image": null
+    },
+    {
+      "no": "ST15-003",
+      "name": "Kingdew",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-003.png",
+      "image": null
+    },
+    {
+      "no": "ST15-004",
+      "name": "Thatch",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-004.png",
+      "image": null
+    },
+    {
+      "no": "ST15-005",
+      "name": "Portgas.D.Ace",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-005.png",
+      "image": null
+    }
+  ]
+}

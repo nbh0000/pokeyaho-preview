@@ -1,0 +1,60 @@
+{
+  "id": "op-jp-promo-1f85b8554b",
+  "cards": [
+    {
+      "no": "P-028",
+      "name": "ポートガス・D・エース",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-028.png",
+      "image": "dex/cards/op-jp-promo/P-028.webp"
+    },
+    {
+      "no": "P-029",
+      "name": "バルトロメオ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-029.png",
+      "image": "dex/cards/op-jp-promo/P-029.webp"
+    },
+    {
+      "no": "P-030",
+      "name": "ジンベエ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-030.png",
+      "image": "dex/cards/op-jp-promo/P-030.webp"
+    },
+    {
+      "no": "P-031",
+      "name": "ウタ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-031.png",
+      "image": "dex/cards/op-jp-promo/P-031.webp"
+    },
+    {
+      "no": "P-032",
+      "name": "センゴク",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-032.png",
+      "image": "dex/cards/op-jp-promo/P-032.webp"
+    }
+  ]
+}

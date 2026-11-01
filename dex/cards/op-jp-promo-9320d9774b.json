@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-9320d9774b",
+  "cards": [
+    {
+      "no": "P-151",
+      "name": "スモーカー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-151.png",
+      "image": "dex/cards/op-jp-promo/P-151.webp"
+    }
+  ]
+}

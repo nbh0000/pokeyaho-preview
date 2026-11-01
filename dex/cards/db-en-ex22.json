@@ -1,0 +1,173 @@
+{
+  "id": "db-en-ex22",
+  "cards": [
+    {
+      "no": "EX22-01",
+      "name": "Goku Black",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "LEADER",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-01.png",
+      "image": null
+    },
+    {
+      "no": "EX22-02",
+      "name": "SS Rose Goku Black, Dark Purple Sickle",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "Z-LEADER",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-02.png",
+      "image": null
+    },
+    {
+      "no": "EX22-03",
+      "name": "Zamasu, Serving Justice",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "Z-BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-03.png",
+      "image": null
+    },
+    {
+      "no": "EX22-04",
+      "name": "SS Rose Goku Black, Serving Justice",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "Z-BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-04.png",
+      "image": null
+    },
+    {
+      "no": "EX22-05",
+      "name": "Fused Zamasu, Striving for Perfect Order",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-05.png",
+      "image": null
+    },
+    {
+      "no": "EX22-06",
+      "name": "Fused Zamasu, the Power of the Gods is Complete",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-06.png",
+      "image": null
+    },
+    {
+      "no": "EX22-07",
+      "name": "SS Rose Goku Black, Shining Illusion",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-07.png",
+      "image": null
+    },
+    {
+      "no": "EX22-08",
+      "name": "SS Rose Goku Black, Justice of Destruction",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-08.png",
+      "image": null
+    },
+    {
+      "no": "EX22-08",
+      "name": "SS Rose Goku Black, Justice of Destruction",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-08_PR.png",
+      "image": null
+    },
+    {
+      "no": "EX22-09",
+      "name": "SS Rose Goku Black, Close Combat",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-09.png",
+      "image": null
+    },
+    {
+      "no": "EX22-10",
+      "name": "Goku Black, Fake Protagonist",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-10.png",
+      "image": null
+    },
+    {
+      "no": "EX22-11",
+      "name": "Gowasu, Easygoing Watcher",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-11.png",
+      "image": null
+    },
+    {
+      "no": "EX22-12",
+      "name": "Zuno, Convergence of Knowledge",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-12.png",
+      "image": null
+    },
+    {
+      "no": "EX22-13",
+      "name": "Breaking a Taboo",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX22-13.png",
+      "image": null
+    }
+  ]
+}

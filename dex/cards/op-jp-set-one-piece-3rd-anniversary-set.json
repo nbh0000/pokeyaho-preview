@@ -1,0 +1,115 @@
+{
+  "id": "op-jp-set-one-piece-3rd-anniversary-set",
+  "cards": [
+    {
+      "no": "OP07-118",
+      "name": "サボ",
+      "name_ko": "사보",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-118_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP09-119",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-119_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP11-054",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-054_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP11-067",
+      "name": "シャーロット・カタクリ",
+      "name_ko": "샬롯 카타쿠리",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-067_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP12-034",
+      "name": "ペローナ",
+      "name_ko": "페로나",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-034_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP12-039",
+      "name": "ルフィは海賊王になる男だ!!!",
+      "name_ko": "루피는, 해적왕이 될 사내다!!",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-039_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP12-079",
+      "name": "ルフィは“海賊王”になる男だ!!!",
+      "name_ko": "루피는 '해적왕'이 될 사내다!!!",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-079_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP12-094",
+      "name": "モンキー・Ｄ・ドラゴン",
+      "name_ko": "몽키 D. 드래곤",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-094_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP12-119",
+      "name": "バーソロミュー・くま",
+      "name_ko": "바솔로뮤 쿠마",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-119_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST15-005",
+      "name": "ポートガス・D・エース",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-005_p2.png",
+      "image": null
+    }
+  ]
+}

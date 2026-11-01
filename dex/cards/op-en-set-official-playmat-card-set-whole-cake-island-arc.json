@@ -1,0 +1,16 @@
+{
+  "id": "op-en-set-official-playmat-card-set-whole-cake-island-arc",
+  "cards": [
+    {
+      "no": "OP11-041",
+      "name": "Nami",
+      "name_ko": "나미",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Blue/Yellow",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-041_p3.png",
+      "image": null
+    }
+  ]
+}

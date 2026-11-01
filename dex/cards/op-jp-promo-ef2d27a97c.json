@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-ef2d27a97c",
+  "cards": [
+    {
+      "no": "P-083",
+      "name": "シャンクス",
+      "name_ko": "샹크스",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-083.png",
+      "image": "dex/cards/op-jp-promo/P-083.webp"
+    }
+  ]
+}

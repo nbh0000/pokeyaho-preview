@@ -1,0 +1,38 @@
+{
+  "id": "op-en-promo-treasure-cup-august-2025",
+  "cards": [
+    {
+      "no": "OP11-004",
+      "name": "Kujyaku",
+      "name_ko": "쿠자쿠",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-004_p2.png",
+      "image": "dex/cards/op-en-promo/OP11-004_p2.webp"
+    },
+    {
+      "no": "OP11-010",
+      "name": "Hibari",
+      "name_ko": "히바리",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-010_p2.png",
+      "image": "dex/cards/op-en-promo/OP11-010_p2.webp"
+    },
+    {
+      "no": "OP11-119",
+      "name": "Koby",
+      "name_ko": "코비",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-119_p2.png",
+      "image": "dex/cards/op-en-promo/OP11-119_p2.webp"
+    }
+  ]
+}

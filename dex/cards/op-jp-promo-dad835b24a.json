@@ -1,0 +1,38 @@
+{
+  "id": "op-jp-promo-dad835b24a",
+  "cards": [
+    {
+      "no": "P-152",
+      "name": "エドワード・ニューゲート",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-152.png",
+      "image": "dex/cards/op-jp-promo/P-152.webp"
+    },
+    {
+      "no": "P-153",
+      "name": "ポートガス・D・エース",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-153.png",
+      "image": "dex/cards/op-jp-promo/P-153.webp"
+    },
+    {
+      "no": "P-154",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-154.png",
+      "image": "dex/cards/op-jp-promo/P-154.webp"
+    }
+  ]
+}

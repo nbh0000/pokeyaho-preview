@@ -1,0 +1,49 @@
+{
+  "id": "pkm-jp-pg10910",
+  "cards": [
+    {
+      "no": "143/SV-P",
+      "name": "エネルギーシール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045410_T_ENERUGISHIRU.jpg",
+      "image": "dex/cards/pkm-jp-pg10910/143-SV-P.webp"
+    },
+    {
+      "no": "144/SV-P",
+      "name": "スナッチアーム",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045411_T_SUNATCHIAMU.jpg",
+      "image": "dex/cards/pkm-jp-pg10910/144-SV-P.webp"
+    },
+    {
+      "no": "145/SV-P",
+      "name": "勇気のおまもり",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045412_T_YUUKINOOMAMORI.jpg",
+      "image": "dex/cards/pkm-jp-pg10910/145-SV-P.webp"
+    },
+    {
+      "no": "146/SV-P",
+      "name": "ワザマシン エヴォリューション",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045413_T_WAZAMASHINEVUORIXYUSHIXYON.jpg",
+      "image": "dex/cards/pkm-jp-pg10910/146-SV-P.webp"
+    }
+  ]
+}

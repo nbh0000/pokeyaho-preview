@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-f29119156e",
+  "cards": [
+    {
+      "no": "ST18-002",
+      "name": "おナミ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST18-002_p1.png",
+      "image": "dex/cards/op-jp-promo/ST18-002_p1.webp"
+    }
+  ]
+}

@@ -385,10 +385,10 @@
     };
     var gradeTitle = function (k) { if (!isOp) return k; for (var i = 0; i < OP_GRADES.length; i++) if (OP_GRADES[i][0] === k) return OP_GRADES[i][1]; return k; };
     var gradeSub = function (k) { if (!isOp) return rarityName(k); for (var i = 0; i < OP_GRADES.length; i++) if (OP_GRADES[i][0] === k) return OP_GRADES[i][2]; return ''; };
-    // 로컬 썸네일이 없고 핫링크를 허용하는 이미지 서버(pokemontcg.io)면 원본 주소를 쓴다
+    // 로컬 썸네일이 없고 외부 표시를 막지 않는 이미지 서버(pokemontcg.io, 드래곤볼 공식)면 원본 주소를 쓴다
     var cardSrc = function (c) {
       if (c.image) return cGrid.getAttribute('data-static-base') + c.image;
-      if (c.image_url && /^https:\/\/images\.pokemontcg\.io\//.test(c.image_url)) return c.image_url;
+      if (c.image_url && /^https:\/\/(images\.pokemontcg\.io|www\.dbs-cardgame\.com)\//.test(c.image_url)) return c.image_url;
       return '';
     };
     var cardHtml = function (c) {

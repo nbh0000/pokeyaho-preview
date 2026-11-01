@@ -1,0 +1,104 @@
+{
+  "id": "op-jp-promo-f39b956643",
+  "cards": [
+    {
+      "no": "OP11-107",
+      "name": "チョンマゲ",
+      "name_ko": "촌마게",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-107_p1.png",
+      "image": "dex/cards/op-jp-promo/OP11-107_p1.webp"
+    },
+    {
+      "no": "OP14-004",
+      "name": "キャベンディッシュ",
+      "name_ko": "캐번디시",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-004_p1.png",
+      "image": "dex/cards/op-jp-promo/OP14-004_p1.webp"
+    },
+    {
+      "no": "OP14-118",
+      "name": "わらわ こわい…♡",
+      "name_ko": "나 무서워...♡",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-118_p2.png",
+      "image": "dex/cards/op-jp-promo/OP14-118_p2.webp"
+    },
+    {
+      "no": "OP15-074",
+      "name": "放電",
+      "name_ko": null,
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-074_p1.png",
+      "image": "dex/cards/op-jp-promo/OP15-074_p1.webp"
+    },
+    {
+      "no": "OP16-097",
+      "name": "ヤマト",
+      "name_ko": null,
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-097_p1.png",
+      "image": "dex/cards/op-jp-promo/OP16-097_p1.webp"
+    },
+    {
+      "no": "OP17-044",
+      "name": "キャプテン・ジョン",
+      "name_ko": null,
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-044_p1.png",
+      "image": "dex/cards/op-jp-promo/OP17-044_p1.webp"
+    },
+    {
+      "no": "P-093",
+      "name": "トラファルガー・ロー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-093_p1.png",
+      "image": "dex/cards/op-jp-promo/P-093_p1.webp"
+    },
+    {
+      "no": "P-097",
+      "name": "シャンクス",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-097_p1.png",
+      "image": "dex/cards/op-jp-promo/P-097_p1.webp"
+    },
+    {
+      "no": "ST32-001",
+      "name": "錦えもん",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST32-001_p1.png",
+      "image": "dex/cards/op-jp-promo/ST32-001_p1.webp"
+    }
+  ]
+}

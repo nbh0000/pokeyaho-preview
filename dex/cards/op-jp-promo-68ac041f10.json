@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-68ac041f10",
+  "cards": [
+    {
+      "no": "OP08-084",
+      "name": "ジャック",
+      "name_ko": "잭",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-084_p2.png",
+      "image": "dex/cards/op-jp-promo/OP08-084_p2.webp"
+    }
+  ]
+}

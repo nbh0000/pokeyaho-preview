@@ -1,0 +1,104 @@
+{
+  "id": "op-en-set-premium-card-collection-live-action-edition",
+  "cards": [
+    {
+      "no": "P-047",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "LEADER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-047_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-048",
+      "name": "Arlong",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-048_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-049",
+      "name": "Usopp",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-049_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-050",
+      "name": "Sanji",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-050_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-051",
+      "name": "Shanks",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-051_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-052",
+      "name": "Dracule Mihawk",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-052_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-053",
+      "name": "Nami",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-053_p4.png",
+      "image": null
+    },
+    {
+      "no": "P-055",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-055_p4.png",
+      "image": null
+    },
+    {
+      "no": "P-056",
+      "name": "Roronoa Zoro",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-056_p1.png",
+      "image": null
+    }
+  ]
+}

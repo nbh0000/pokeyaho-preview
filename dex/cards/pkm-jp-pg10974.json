@@ -1,0 +1,126 @@
+{
+  "id": "pkm-jp-pg10974",
+  "cards": [
+    {
+      "no": "034/M-P",
+      "name": "シェイミ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048321_P_SHIEIMI.jpg",
+      "image": "dex/cards/pkm-jp-pg10974/034-M-P.webp"
+    },
+    {
+      "no": "043/M-P",
+      "name": "ロケット団のミュウツーex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048330_P_ROKETTODANNOMIXYUUTSUEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10974/043-M-P.webp"
+    },
+    {
+      "no": "044/M-P",
+      "name": "ブレイブバングル",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048331_T_BUREIBUBANGURU.jpg",
+      "image": "dex/cards/pkm-jp-pg10974/044-M-P.webp"
+    },
+    {
+      "no": "035/M-P",
+      "name": "基本草エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048322_E_KIHONKUSAENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10974/035-M-P.webp"
+    },
+    {
+      "no": "036/M-P",
+      "name": "基本炎エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048323_E_KIHONHONOOENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10974/036-M-P.webp"
+    },
+    {
+      "no": "037/M-P",
+      "name": "基本水エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048324_E_KIHONMIZUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10974/037-M-P.webp"
+    },
+    {
+      "no": "038/M-P",
+      "name": "基本雷エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048325_E_KIHONKAMINARIENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10974/038-M-P.webp"
+    },
+    {
+      "no": "039/M-P",
+      "name": "基本超エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048326_E_KIHONCHIXYOUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10974/039-M-P.webp"
+    },
+    {
+      "no": "040/M-P",
+      "name": "基本闘エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048327_E_KIHONTOUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10974/040-M-P.webp"
+    },
+    {
+      "no": "041/M-P",
+      "name": "基本悪エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048328_E_KIHONAKUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10974/041-M-P.webp"
+    },
+    {
+      "no": "042/M-P",
+      "name": "基本鋼エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048329_E_KIHONHAGANEENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10974/042-M-P.webp"
+    }
+  ]
+}

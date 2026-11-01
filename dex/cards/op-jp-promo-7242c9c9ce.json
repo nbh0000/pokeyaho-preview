@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-7242c9c9ce",
+  "cards": [
+    {
+      "no": "OP07-053",
+      "name": "ポートガス・D・エース",
+      "name_ko": "포트거스 D. 에이스",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-053_p2.png",
+      "image": "dex/cards/op-jp-promo/OP07-053_p2.webp"
+    }
+  ]
+}

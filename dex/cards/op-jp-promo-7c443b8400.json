@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-7c443b8400",
+  "cards": [
+    {
+      "no": "P-067",
+      "name": "ユースタス・キッド",
+      "name_ko": "유스타스 키드",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-067.png",
+      "image": "dex/cards/op-jp-promo/P-067.webp"
+    }
+  ]
+}

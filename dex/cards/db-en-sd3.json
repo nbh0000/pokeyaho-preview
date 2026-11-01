@@ -1,0 +1,65 @@
+{
+  "id": "db-en-sd3",
+  "cards": [
+    {
+      "no": "SD3-01",
+      "name": "The Masked Saiyan",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-01.png",
+      "image": null
+    },
+    {
+      "no": "SD3-02",
+      "name": "Killer Sword Trunks",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-02.png",
+      "image": null
+    },
+    {
+      "no": "SD3-03",
+      "name": "Quick blade Trunks",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-03.png",
+      "image": null
+    },
+    {
+      "no": "SD3-04",
+      "name": "Encroaching Threat Masked Saiyan",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-04.png",
+      "image": null
+    },
+    {
+      "no": "SD3-05",
+      "name": "Power Aura Mira",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-05.png",
+      "image": null
+    }
+  ]
+}

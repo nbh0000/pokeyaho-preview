@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-one-piece-heroines-campaign-dash-pack",
+  "cards": [
+    {
+      "no": "EB02-026",
+      "name": "Nefeltari Vivi",
+      "name_ko": "네펠타리 비비",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-026_p2.png",
+      "image": "dex/cards/op-en-promo/EB02-026_p2.webp"
+    },
+    {
+      "no": "OP05-006",
+      "name": "Koala",
+      "name_ko": "코알라",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-006_p4.png",
+      "image": "dex/cards/op-en-promo/OP05-006_p4.webp"
+    },
+    {
+      "no": "OP09-034",
+      "name": "Perona",
+      "name_ko": "페로나",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-034_p2.png",
+      "image": "dex/cards/op-en-promo/OP09-034_p2.webp"
+    },
+    {
+      "no": "ST18-002",
+      "name": "O-Nami",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-002_p2.png",
+      "image": "dex/cards/op-en-promo/ST18-002_p2.webp"
+    }
+  ]
+}

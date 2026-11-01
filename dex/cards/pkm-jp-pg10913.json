@@ -1,0 +1,159 @@
+{
+  "id": "pkm-jp-pg10913",
+  "cards": [
+    {
+      "no": "003/XY-P",
+      "name": "エネルギー回収",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045645_T_ENERUGIKAISHIXYUU.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/003-XY-P.webp"
+    },
+    {
+      "no": "004/XY-P",
+      "name": "エネルギーつけかえ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045646_T_ENERUGITSUKEKAE.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/004-XY-P.webp"
+    },
+    {
+      "no": "005/XY-P",
+      "name": "スーパーポケモン回収",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045647_T_SUPAPOKEMONKAISHIXYUU.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/005-XY-P.webp"
+    },
+    {
+      "no": "006/XYP",
+      "name": "ともだちてちょう",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045648_T_TOMODACHITECHIXYOU.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/006-XYP.webp"
+    },
+    {
+      "no": "007/XY-P",
+      "name": "なんでもなおし",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045649_T_NANDEMONAOSHI.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/007-XY-P.webp"
+    },
+    {
+      "no": null,
+      "name": "基本草エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045650_E_KIHONKUSAENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/card.webp"
+    },
+    {
+      "no": null,
+      "name": "基本炎エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045651_E_KIHONHONOOENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/card_2.webp"
+    },
+    {
+      "no": null,
+      "name": "基本水エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045652_E_KIHONMIZUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/card_3.webp"
+    },
+    {
+      "no": null,
+      "name": "基本雷エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045653_E_KIHONKAMINARIENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/card_4.webp"
+    },
+    {
+      "no": null,
+      "name": "基本超エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045654_E_KIHONCHIXYOUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/card_5.webp"
+    },
+    {
+      "no": null,
+      "name": "基本闘エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045655_E_KIHONTOUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/card_6.webp"
+    },
+    {
+      "no": null,
+      "name": "基本悪エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045656_E_KIHONAKUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/card_7.webp"
+    },
+    {
+      "no": null,
+      "name": "基本鋼エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045657_E_KIHONHAGANEENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/card_8.webp"
+    },
+    {
+      "no": null,
+      "name": "基本フェアリーエネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/XY-P/045658_E_KIHONFUEARIENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg10913/card_9.webp"
+    }
+  ]
+}

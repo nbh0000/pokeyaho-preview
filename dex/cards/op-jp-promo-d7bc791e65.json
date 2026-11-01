@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-d7bc791e65",
+  "cards": [
+    {
+      "no": "P-068",
+      "name": "サンジ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-068.png",
+      "image": "dex/cards/op-jp-promo/P-068.webp"
+    }
+  ]
+}

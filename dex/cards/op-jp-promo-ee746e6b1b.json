@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-ee746e6b1b",
+  "cards": [
+    {
+      "no": "P-044",
+      "name": "サボ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-044.png",
+      "image": "dex/cards/op-jp-promo/P-044.webp"
+    }
+  ]
+}

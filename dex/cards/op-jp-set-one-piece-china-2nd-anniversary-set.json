@@ -1,0 +1,137 @@
+{
+  "id": "op-jp-set-one-piece-china-2nd-anniversary-set",
+  "cards": [
+    {
+      "no": "EB01-023",
+      "name": "エドワード・ウィーブル",
+      "name_ko": "에드워드 위블",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-023_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP05-011",
+      "name": "バーソロミュー・くま",
+      "name_ko": "바솔로뮤 쿠마",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-011_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-040",
+      "name": "クロコダイル",
+      "name_ko": "크로커다일",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-040_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP07-044",
+      "name": "ジュラキュール・ミホーク",
+      "name_ko": "쥬라큘 미호크",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-044_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-047",
+      "name": "トラファルガー・ロー",
+      "name_ko": "트라팔가 로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-047_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP07-048",
+      "name": "ドンキホーテ・ドフラミンゴ",
+      "name_ko": "돈키호테 도플라밍고",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-048_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP07-051",
+      "name": "ボア・ハンコック",
+      "name_ko": "보아 행콕",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-051_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP07-051",
+      "name": "ボア・ハンコック",
+      "name_ko": "보아 행콕",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-051_p5.png",
+      "image": null
+    },
+    {
+      "no": "P-030",
+      "name": "ジンベエ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-030_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST03-004",
+      "name": "ゲッコー・モリア",
+      "name_ko": "겟코 모리아",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-004_p4.png",
+      "image": null
+    },
+    {
+      "no": "ST17-003",
+      "name": "バギー",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-003_p3.png",
+      "image": null
+    },
+    {
+      "no": "ST17-005",
+      "name": "マーシャル・D・ティーチ",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-005_p2.png",
+      "image": null
+    }
+  ]
+}

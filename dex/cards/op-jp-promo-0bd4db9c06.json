@@ -1,0 +1,38 @@
+{
+  "id": "op-jp-promo-0bd4db9c06",
+  "cards": [
+    {
+      "no": "EB01-003",
+      "name": "キッド&キラー",
+      "name_ko": "키드 & 킬러",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-003_p2.png",
+      "image": "dex/cards/op-jp-promo/EB01-003_p2.webp"
+    },
+    {
+      "no": "OP07-047",
+      "name": "トラファルガー・ロー",
+      "name_ko": "트라팔가 로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-047_p2.png",
+      "image": "dex/cards/op-jp-promo/OP07-047_p2.webp"
+    },
+    {
+      "no": "OP07-109",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-109_p3.png",
+      "image": "dex/cards/op-jp-promo/OP07-109_p3.webp"
+    }
+  ]
+}

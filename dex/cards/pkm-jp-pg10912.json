@@ -1,0 +1,27 @@
+{
+  "id": "pkm-jp-pg10912",
+  "cards": [
+    {
+      "no": "153/SV-P",
+      "name": "ネモ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045643_T_NEMO.jpg",
+      "image": "dex/cards/pkm-jp-pg10912/153-SV-P.webp"
+    },
+    {
+      "no": "154/SV-P",
+      "name": "ネモ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045644_T_NEMO.jpg",
+      "image": "dex/cards/pkm-jp-pg10912/154-SV-P.webp"
+    }
+  ]
+}

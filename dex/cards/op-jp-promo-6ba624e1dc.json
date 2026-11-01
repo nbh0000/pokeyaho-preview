@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-6ba624e1dc",
+  "cards": [
+    {
+      "no": "OP09-004",
+      "name": "シャンクス",
+      "name_ko": "샹크스",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p4.png",
+      "image": "dex/cards/op-jp-promo/OP09-004_p4.webp"
+    }
+  ]
+}

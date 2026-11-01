@@ -1,0 +1,137 @@
+{
+  "id": "db-en-xd1",
+  "cards": [
+    {
+      "no": "XD1-01",
+      "name": "Cabba",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD1-01.png",
+      "image": null
+    },
+    {
+      "no": "XD1-02",
+      "name": "Vegeta, Saiyan of Universe 7",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD1-02.png",
+      "image": null
+    },
+    {
+      "no": "XD1-03",
+      "name": "Champa, Scheming God of Destruction",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD1-03.png",
+      "image": null
+    },
+    {
+      "no": "XD1-04",
+      "name": "Sisterly Bonds Kale",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD1-04.png",
+      "image": null
+    },
+    {
+      "no": "XD1-05",
+      "name": "Hit, Ace of Universe 6",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD1-05.png",
+      "image": null
+    },
+    {
+      "no": "XD1-06",
+      "name": "Cabba, Saiyan of Universe 6",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD1-06.png",
+      "image": null
+    },
+    {
+      "no": "XD1-07",
+      "name": "Caulifla, Troublemaker of Universe 6",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD1-07.png",
+      "image": null
+    },
+    {
+      "no": "XD1-08",
+      "name": "Vegeta & Cabba, Master-Pupil Bond",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD1-08.png",
+      "image": null
+    },
+    {
+      "no": "XD1-09",
+      "name": "Planet Sadala",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "EXTRA",
+      "color": "Blue/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD1-09.png",
+      "image": null
+    },
+    {
+      "no": "XD1-10",
+      "name": "Frost's Deadly Poison",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "EXTRA",
+      "color": "Blue/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD1-10.png",
+      "image": null
+    },
+    {
+      "no": "XD1-10",
+      "name": "Frost's Deadly Poison",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "EXTRA",
+      "color": "Blue/Yellow",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD1-10_PR.png",
+      "image": null
+    }
+  ]
+}

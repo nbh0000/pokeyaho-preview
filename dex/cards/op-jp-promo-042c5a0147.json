@@ -1,0 +1,159 @@
+{
+  "id": "op-jp-promo-042c5a0147",
+  "cards": [
+    {
+      "no": "OP13-007",
+      "name": "エース＆サボ＆ルフィ",
+      "name_ko": "에이스 & 사보 & 루피",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-007_p2.png",
+      "image": "dex/cards/op-jp-promo/OP13-007_p2.webp"
+    },
+    {
+      "no": "P-122",
+      "name": "エース＆サボ＆ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "LEADER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-122.png",
+      "image": "dex/cards/op-jp-promo/P-122.webp"
+    },
+    {
+      "no": "P-123",
+      "name": "エドワード・ニューゲート",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-123.png",
+      "image": "dex/cards/op-jp-promo/P-123.webp"
+    },
+    {
+      "no": "P-124",
+      "name": "カーリー・ダダン",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-124.png",
+      "image": "dex/cards/op-jp-promo/P-124.webp"
+    },
+    {
+      "no": "P-125",
+      "name": "コビー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-125.png",
+      "image": "dex/cards/op-jp-promo/P-125.webp"
+    },
+    {
+      "no": "P-126",
+      "name": "サボ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-126.png",
+      "image": "dex/cards/op-jp-promo/P-126.webp"
+    },
+    {
+      "no": "P-127",
+      "name": "シャンクス",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-127.png",
+      "image": "dex/cards/op-jp-promo/P-127.webp"
+    },
+    {
+      "no": "P-128",
+      "name": "ポートガス・Ｄ・エース",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-128.png",
+      "image": "dex/cards/op-jp-promo/P-128.webp"
+    },
+    {
+      "no": "P-129",
+      "name": "マキノ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-129.png",
+      "image": "dex/cards/op-jp-promo/P-129.webp"
+    },
+    {
+      "no": "P-130",
+      "name": "モンキー・Ｄ・ガープ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-130.png",
+      "image": "dex/cards/op-jp-promo/P-130.webp"
+    },
+    {
+      "no": "P-131",
+      "name": "モンキー・Ｄ・ドラゴン",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-131.png",
+      "image": "dex/cards/op-jp-promo/P-131.webp"
+    },
+    {
+      "no": "P-132",
+      "name": "モンキー・Ｄ・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-132.png",
+      "image": "dex/cards/op-jp-promo/P-132.webp"
+    },
+    {
+      "no": "P-133",
+      "name": "ヤマト",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-133.png",
+      "image": "dex/cards/op-jp-promo/P-133.webp"
+    },
+    {
+      "no": "P-134",
+      "name": "食い逃げ常習犯",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "EVENT",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-134.png",
+      "image": "dex/cards/op-jp-promo/P-134.webp"
+    }
+  ]
+}

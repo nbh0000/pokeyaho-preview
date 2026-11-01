@@ -1,0 +1,115 @@
+{
+  "id": "pkm-en-tk1b",
+  "cards": [
+    {
+      "no": "1/10",
+      "name": "Electrike",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk1b/1.png",
+      "image": null
+    },
+    {
+      "no": "2/10",
+      "name": "Latios",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk1b/2.png",
+      "image": null
+    },
+    {
+      "no": "3/10",
+      "name": "Linoone",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk1b/3.png",
+      "image": null
+    },
+    {
+      "no": "4/10",
+      "name": "Magnemite",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk1b/4.png",
+      "image": null
+    },
+    {
+      "no": "5/10",
+      "name": "Magneton",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk1b/5.png",
+      "image": null
+    },
+    {
+      "no": "6/10",
+      "name": "Pikachu",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk1b/6.png",
+      "image": null
+    },
+    {
+      "no": "7/10",
+      "name": "Zigzagoon",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk1b/7.png",
+      "image": null
+    },
+    {
+      "no": "8/10",
+      "name": "Potion",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk1b/8.png",
+      "image": null
+    },
+    {
+      "no": "9/10",
+      "name": "Energy Search",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk1b/9.png",
+      "image": null
+    },
+    {
+      "no": "10/10",
+      "name": "Lightning Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk1b/10.png",
+      "image": null
+    }
+  ]
+}

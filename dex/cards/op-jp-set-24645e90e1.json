@@ -1,0 +1,82 @@
+{
+  "id": "op-jp-set-24645e90e1",
+  "cards": [
+    {
+      "no": "P-143",
+      "name": "クロコダイル",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-143.png",
+      "image": null
+    },
+    {
+      "no": "P-144",
+      "name": "ミス・オールサンデー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-144.png",
+      "image": null
+    },
+    {
+      "no": "P-145",
+      "name": "ミス・ウェンズデー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-145.png",
+      "image": null
+    },
+    {
+      "no": "P-146",
+      "name": "ミス・ゴールデンウィーク(マリアンヌ)",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-146.png",
+      "image": null
+    },
+    {
+      "no": "P-147",
+      "name": "ミス・バレンタイン(ミキータ)",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-147.png",
+      "image": null
+    },
+    {
+      "no": "P-148",
+      "name": "Mr.３(ギャルディーノ)",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-148.png",
+      "image": null
+    },
+    {
+      "no": "P-149",
+      "name": "Mr.５(ジェム)",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-149.png",
+      "image": null
+    }
+  ]
+}

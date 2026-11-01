@@ -1,0 +1,71 @@
+{
+  "id": "op-en-promo-winner-pack-2026-vol-2",
+  "cards": [
+    {
+      "no": "P-101",
+      "name": "Tony Tony.Chopper",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-101_p2.png",
+      "image": "dex/cards/op-en-promo/P-101_p2.webp"
+    },
+    {
+      "no": "P-102",
+      "name": "Nami",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-102_p2.png",
+      "image": "dex/cards/op-en-promo/P-102_p2.webp"
+    },
+    {
+      "no": "P-103",
+      "name": "Portgas.D.Ace",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-103_p2.png",
+      "image": "dex/cards/op-en-promo/P-103_p2.webp"
+    },
+    {
+      "no": "P-104",
+      "name": "Shanks",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-104_p2.png",
+      "image": "dex/cards/op-en-promo/P-104_p2.webp"
+    },
+    {
+      "no": "P-105",
+      "name": "Sabo",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-105_p3.png",
+      "image": "dex/cards/op-en-promo/P-105_p3.webp"
+    },
+    {
+      "no": "P-106",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-106_p2.png",
+      "image": "dex/cards/op-en-promo/P-106_p2.webp"
+    }
+  ]
+}

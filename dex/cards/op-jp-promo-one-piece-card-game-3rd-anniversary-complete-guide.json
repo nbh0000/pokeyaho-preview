@@ -1,0 +1,27 @@
+{
+  "id": "op-jp-promo-one-piece-card-game-3rd-anniversary-complete-guide",
+  "cards": [
+    {
+      "no": "EB02-017",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-017_p2.png",
+      "image": "dex/cards/op-jp-promo/EB02-017_p2.webp"
+    },
+    {
+      "no": "OP07-107",
+      "name": "フランキー",
+      "name_ko": "프랑키",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-107_p2.png",
+      "image": "dex/cards/op-jp-promo/OP07-107_p2.webp"
+    }
+  ]
+}

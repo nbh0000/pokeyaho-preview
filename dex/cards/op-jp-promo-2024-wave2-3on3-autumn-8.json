@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-2024-wave2-3on3-autumn-8",
+  "cards": [
+    {
+      "no": "OP05-086",
+      "name": "ネフェルタリ・ビビ",
+      "name_ko": "네펠타리 비비",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-086_p1.png",
+      "image": "dex/cards/op-jp-promo/OP05-086_p1.webp"
+    }
+  ]
+}

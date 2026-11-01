@@ -1,0 +1,49 @@
+{
+  "id": "pkm-jp-pg500",
+  "cards": [
+    {
+      "no": "001/004",
+      "name": "モクロー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SM0/033001_P_MOKURO.jpg",
+      "image": "dex/cards/pkm-jp-pg500/001-004.webp"
+    },
+    {
+      "no": "002/004",
+      "name": "ニャビー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SM0/033002_P_NYABI.jpg",
+      "image": "dex/cards/pkm-jp-pg500/002-004.webp"
+    },
+    {
+      "no": "003/004",
+      "name": "アシマリ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SM0/033003_P_ASHIMARI.jpg",
+      "image": "dex/cards/pkm-jp-pg500/003-004.webp"
+    },
+    {
+      "no": "004/004",
+      "name": "ピカチュウ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SM0/033004_P_PIKACHUU.jpg",
+      "image": "dex/cards/pkm-jp-pg500/004-004.webp"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "pkm-en-pop6",
+  "cards": [
+    {
+      "no": "1",
+      "name": "Bastiodon",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Metal",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/1.png",
+      "image": null
+    },
+    {
+      "no": "2",
+      "name": "Lucario",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/2.png",
+      "image": null
+    },
+    {
+      "no": "3",
+      "name": "Manaphy",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/3.png",
+      "image": null
+    },
+    {
+      "no": "4",
+      "name": "Pachirisu",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/4.png",
+      "image": null
+    },
+    {
+      "no": "5",
+      "name": "Rampardos",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/5.png",
+      "image": null
+    },
+    {
+      "no": "6",
+      "name": "Drifloon",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/6.png",
+      "image": null
+    },
+    {
+      "no": "7",
+      "name": "Gible",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/7.png",
+      "image": null
+    },
+    {
+      "no": "8",
+      "name": "Riolu",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/8.png",
+      "image": null
+    },
+    {
+      "no": "9",
+      "name": "Pikachu",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/9.png",
+      "image": null
+    },
+    {
+      "no": "10",
+      "name": "Staravia",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/10.png",
+      "image": null
+    },
+    {
+      "no": "11",
+      "name": "Bidoof",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/11.png",
+      "image": null
+    },
+    {
+      "no": "12",
+      "name": "Buneary",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/12.png",
+      "image": null
+    },
+    {
+      "no": "13",
+      "name": "Cherubi",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/13.png",
+      "image": null
+    },
+    {
+      "no": "14",
+      "name": "Chimchar",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/14.png",
+      "image": null
+    },
+    {
+      "no": "15",
+      "name": "Piplup",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/15.png",
+      "image": null
+    },
+    {
+      "no": "16",
+      "name": "Starly",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/16.png",
+      "image": null
+    },
+    {
+      "no": "17",
+      "name": "Turtwig",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop6/17.png",
+      "image": null
+    }
+  ]
+}

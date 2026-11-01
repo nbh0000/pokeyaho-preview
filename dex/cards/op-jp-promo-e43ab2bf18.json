@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-e43ab2bf18",
+  "cards": [
+    {
+      "no": "ST01-006",
+      "name": "トニートニー・チョッパー",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p6",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006_p6.png",
+      "image": "dex/cards/op-jp-promo/ST01-006_p6.webp"
+    }
+  ]
+}

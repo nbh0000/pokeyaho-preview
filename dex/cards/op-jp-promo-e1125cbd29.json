@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-e1125cbd29",
+  "cards": [
+    {
+      "no": "OP03-112",
+      "name": "シャーロット・プリン",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112_p3.png",
+      "image": "dex/cards/op-jp-promo/OP03-112_p3.webp"
+    }
+  ]
+}

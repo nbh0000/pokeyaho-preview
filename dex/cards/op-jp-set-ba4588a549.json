@@ -1,0 +1,137 @@
+{
+  "id": "op-jp-set-ba4588a549",
+  "cards": [
+    {
+      "no": "OP01-114",
+      "name": "X・ドレーク",
+      "name_ko": "X 드레이크",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-114_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP03-055",
+      "name": "ゴムゴムの大槌",
+      "name_ko": "고무고무 대망치",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-055_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP04-095",
+      "name": "バ～～～～リアッ!!",
+      "name_ko": "배리어~~~~!!",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-095_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP05-005",
+      "name": "カラス",
+      "name_ko": "카라스",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-005_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP05-019",
+      "name": "火拳",
+      "name_ko": "불주먹",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-019_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP05-114",
+      "name": "神の裁き",
+      "name_ko": "신의 심판",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-114_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP06-038",
+      "name": "一大・三千・大千・世界",
+      "name_ko": "일대·삼천·대천·세계",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-038_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP06-104",
+      "name": "菊之丞",
+      "name_ko": "키쿠노죠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-104_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST02-004",
+      "name": "カポネ・ベッジ",
+      "name_ko": "카포네 벳지",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-004_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST03-013",
+      "name": "ボア・ハンコック",
+      "name_ko": "보아 행콕",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-013_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST04-017",
+      "name": "鬼ヶ島",
+      "name_ko": "오니가시마",
+      "rarity": "C",
+      "type": "STAGE",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-017_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST06-008",
+      "name": "ヒナ",
+      "name_ko": "히나",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-008_p1.png",
+      "image": null
+    }
+  ]
+}

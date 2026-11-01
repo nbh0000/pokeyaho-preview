@@ -1,0 +1,82 @@
+{
+  "id": "pkm-jp-pg11014",
+  "cards": [
+    {
+      "no": "148/M-P",
+      "name": "アローラ ナッシー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050557_P_ARORANASSHI.jpg",
+      "image": "dex/cards/pkm-jp-pg11014/148-M-P.webp"
+    },
+    {
+      "no": "149/M-P",
+      "name": "ファイヤー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050558_P_FUAIYA.jpg",
+      "image": "dex/cards/pkm-jp-pg11014/149-M-P.webp"
+    },
+    {
+      "no": "150/M-P",
+      "name": "フリーザー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050559_P_FURIZA.jpg",
+      "image": "dex/cards/pkm-jp-pg11014/150-M-P.webp"
+    },
+    {
+      "no": "151/M-P",
+      "name": "ゲッコウガex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050560_P_GEKKOUGAIEKKUSU.jpg",
+      "image": "dex/cards/pkm-jp-pg11014/151-M-P.webp"
+    },
+    {
+      "no": "152/M-P",
+      "name": "サンダー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050561_P_SANDA.jpg",
+      "image": "dex/cards/pkm-jp-pg11014/152-M-P.webp"
+    },
+    {
+      "no": "153/M-P",
+      "name": "ニンフィアex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050562_P_NINFUIAIEKKUSU.jpg",
+      "image": "dex/cards/pkm-jp-pg11014/153-M-P.webp"
+    },
+    {
+      "no": "154/M-P",
+      "name": "ルカリオ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050563_P_RUKARIO.jpg",
+      "image": "dex/cards/pkm-jp-pg11014/154-M-P.webp"
+    }
+  ]
+}

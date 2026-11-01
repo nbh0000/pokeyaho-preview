@@ -1,0 +1,170 @@
+{
+  "id": "op-jp-promo-8be10b8fdf",
+  "cards": [
+    {
+      "no": "OP01-039",
+      "name": "キラー",
+      "name_ko": "킬러",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-039_p3.png",
+      "image": "dex/cards/op-jp-promo/OP01-039_p3.webp"
+    },
+    {
+      "no": "OP01-055",
+      "name": "おれの”侍”になれ‼!",
+      "name_ko": "내 '사무라이'가 돼라!!!",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-055_p2.png",
+      "image": "dex/cards/op-jp-promo/OP01-055_p2.webp"
+    },
+    {
+      "no": "OP02-005",
+      "name": "カーリー・ダダン",
+      "name_ko": "컬리 다단",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-005_p4.png",
+      "image": "dex/cards/op-jp-promo/OP02-005_p4.webp"
+    },
+    {
+      "no": "OP02-068",
+      "name": "ゴムゴムの雨",
+      "name_ko": "고무고무 비",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-068_p2.png",
+      "image": "dex/cards/op-jp-promo/OP02-068_p2.webp"
+    },
+    {
+      "no": "OP03-008",
+      "name": "バギー",
+      "name_ko": "버기",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-008_p3.png",
+      "image": "dex/cards/op-jp-promo/OP03-008_p3.webp"
+    },
+    {
+      "no": "OP03-044",
+      "name": "カヤ",
+      "name_ko": "카야",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-044_p4.png",
+      "image": "dex/cards/op-jp-promo/OP03-044_p4.webp"
+    },
+    {
+      "no": "OP03-048",
+      "name": "ノジコ",
+      "name_ko": "노지코",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-048_p2.png",
+      "image": "dex/cards/op-jp-promo/OP03-048_p2.webp"
+    },
+    {
+      "no": "OP03-072",
+      "name": "ゴムゴムのJET銃乱打",
+      "name_ko": "고무고무 JET 총난타",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-072_p2.png",
+      "image": "dex/cards/op-jp-promo/OP03-072_p2.webp"
+    },
+    {
+      "no": "OP03-097",
+      "name": "六王銃",
+      "name_ko": "육왕건",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-097_p1.png",
+      "image": "dex/cards/op-jp-promo/OP03-097_p1.webp"
+    },
+    {
+      "no": "OP04-016",
+      "name": "反行儀キックコース",
+      "name_ko": "안티 매너 킥 코스",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-016_p2.png",
+      "image": "dex/cards/op-jp-promo/OP04-016_p2.webp"
+    },
+    {
+      "no": "OP04-077",
+      "name": "イデオ",
+      "name_ko": "이데오",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-077_p2.png",
+      "image": "dex/cards/op-jp-promo/OP04-077_p2.webp"
+    },
+    {
+      "no": "OP04-096",
+      "name": "コリーダコロシアム",
+      "name_ko": "코리다 콜로세움",
+      "rarity": "C",
+      "type": "STAGE",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-096_p2.png",
+      "image": "dex/cards/op-jp-promo/OP04-096_p2.webp"
+    },
+    {
+      "no": "ST01-011",
+      "name": "ブルック",
+      "name_ko": "브룩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p6",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-011_p6.png",
+      "image": "dex/cards/op-jp-promo/ST01-011_p6.webp"
+    },
+    {
+      "no": "ST02-007",
+      "name": "ジュエリー・ボニー",
+      "name_ko": "쥬얼리 보니",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-007_p5.png",
+      "image": "dex/cards/op-jp-promo/ST02-007_p5.webp"
+    },
+    {
+      "no": "ST06-008",
+      "name": "ヒナ",
+      "name_ko": "히나",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-008_p3.png",
+      "image": "dex/cards/op-jp-promo/ST06-008_p3.webp"
+    }
+  ]
+}

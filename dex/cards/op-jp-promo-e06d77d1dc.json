@@ -1,0 +1,104 @@
+{
+  "id": "op-jp-promo-e06d77d1dc",
+  "cards": [
+    {
+      "no": "OP01-039",
+      "name": "キラー",
+      "name_ko": "킬러",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-039_p1.png",
+      "image": "dex/cards/op-jp-promo/OP01-039_p1.webp"
+    },
+    {
+      "no": "OP01-114",
+      "name": "X・ドレーク",
+      "name_ko": "X 드레이크",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-114_p1.png",
+      "image": "dex/cards/op-jp-promo/OP01-114_p1.webp"
+    },
+    {
+      "no": "OP02-004",
+      "name": "エドワード・ニューゲート",
+      "name_ko": "에드워드 뉴게이트",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-004_p3.png",
+      "image": "dex/cards/op-jp-promo/OP02-004_p3.webp"
+    },
+    {
+      "no": "OP02-008",
+      "name": "ジョズ",
+      "name_ko": "조즈",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-008_p1.png",
+      "image": "dex/cards/op-jp-promo/OP02-008_p1.webp"
+    },
+    {
+      "no": "OP03-013",
+      "name": "マルコ",
+      "name_ko": "마르코",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-013_p2.png",
+      "image": "dex/cards/op-jp-promo/OP03-013_p2.webp"
+    },
+    {
+      "no": "OP04-100",
+      "name": "カポネ・ベッジ",
+      "name_ko": "카포네 벳지",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-100_p2.png",
+      "image": "dex/cards/op-jp-promo/OP04-100_p2.webp"
+    },
+    {
+      "no": "ST02-010",
+      "name": "バジル・ホーキンス",
+      "name_ko": "바질 호킨스",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-010_p2.png",
+      "image": "dex/cards/op-jp-promo/ST02-010_p2.webp"
+    },
+    {
+      "no": "ST03-008",
+      "name": "トラファルガー・ロー",
+      "name_ko": "트라팔가 로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-008_p5.png",
+      "image": "dex/cards/op-jp-promo/ST03-008_p5.webp"
+    },
+    {
+      "no": "ST10-013",
+      "name": "ユースタス・キッド",
+      "name_ko": "유스타스 키드",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-013_p1.png",
+      "image": "dex/cards/op-jp-promo/ST10-013_p1.webp"
+    }
+  ]
+}

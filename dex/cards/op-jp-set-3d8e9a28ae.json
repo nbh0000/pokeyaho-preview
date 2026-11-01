@@ -1,0 +1,71 @@
+{
+  "id": "op-jp-set-3d8e9a28ae",
+  "cards": [
+    {
+      "no": "OP01-005",
+      "name": "ウタ",
+      "name_ko": "우타",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-005_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP02-120",
+      "name": "ウタ",
+      "name_ko": "우타",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-120_p3.png",
+      "image": null
+    },
+    {
+      "no": "P-011",
+      "name": "ウタ",
+      "name_ko": null,
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-011_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-031",
+      "name": "ウタ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-031_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST05-004",
+      "name": "ウタ",
+      "name_ko": "우타",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-004_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST08-002",
+      "name": "ウタ",
+      "name_ko": "우타",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-002_p2.png",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-event-pack-vol-6",
+  "cards": [
+    {
+      "no": "P-070",
+      "name": "Carrot",
+      "name_ko": "캐럿",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-070.png",
+      "image": "dex/cards/op-en-promo/P-070.webp"
+    },
+    {
+      "no": "P-077",
+      "name": "Ulti",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-077.png",
+      "image": "dex/cards/op-en-promo/P-077.webp"
+    },
+    {
+      "no": "P-079",
+      "name": "Lim",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-079.png",
+      "image": "dex/cards/op-en-promo/P-079.webp"
+    },
+    {
+      "no": "P-083",
+      "name": "Shanks",
+      "name_ko": "샹크스",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-083.png",
+      "image": "dex/cards/op-en-promo/P-083.webp"
+    }
+  ]
+}

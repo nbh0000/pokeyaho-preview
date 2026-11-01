@@ -1,0 +1,137 @@
+{
+  "id": "op-en-set-premium-card-collection-best-selection",
+  "cards": [
+    {
+      "no": "OP01-029",
+      "name": "Radical Beam!!",
+      "name_ko": "라디칼 비～～임!!!",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "Red",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP01-057",
+      "name": "Paradise Waterfall",
+      "name_ko": "도원 백룡",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-057_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-005",
+      "name": "Curly.Dadan",
+      "name_ko": "컬리 다단",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-005_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP02-036",
+      "name": "Nami",
+      "name_ko": "나미",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-036_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP02-106",
+      "name": "Tsuru",
+      "name_ko": "츠루",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p6",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-106_p6.png",
+      "image": null
+    },
+    {
+      "no": "OP02-117",
+      "name": "Ice Age",
+      "name_ko": "아이스 에이지",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "Black",
+      "variant": "p7",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-117_p7.png",
+      "image": null
+    },
+    {
+      "no": "OP03-121",
+      "name": "Thunder Bolt",
+      "name_ko": "뇌정",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Yellow",
+      "variant": "p5",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_p5.png",
+      "image": null
+    },
+    {
+      "no": "OP04-105",
+      "name": "Charlotte Amande",
+      "name_ko": "샬롯 아망드",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-105_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST03-012",
+      "name": "Pacifista",
+      "name_ko": "파시피스타",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-012_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST03-017",
+      "name": "Love-Love Mellow",
+      "name_ko": "매료매료 멜로우",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-017_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST04-016",
+      "name": "Blast Breath",
+      "name_ko": "보로 브레스",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Purple",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016_p4.png",
+      "image": null
+    },
+    {
+      "no": "ST05-014",
+      "name": "Buena Festa",
+      "name_ko": "부에나 페스타",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-014_p1.png",
+      "image": null
+    }
+  ]
+}

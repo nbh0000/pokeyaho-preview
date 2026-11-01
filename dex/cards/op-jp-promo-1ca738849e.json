@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-1ca738849e",
+  "cards": [
+    {
+      "no": "P-070",
+      "name": "キャロット",
+      "name_ko": "캐럿",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-070.png",
+      "image": "dex/cards/op-jp-promo/P-070.webp"
+    }
+  ]
+}

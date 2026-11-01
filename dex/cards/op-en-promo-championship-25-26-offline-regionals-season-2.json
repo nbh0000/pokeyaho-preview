@@ -1,0 +1,38 @@
+{
+  "id": "op-en-promo-championship-25-26-offline-regionals-season-2",
+  "cards": [
+    {
+      "no": "OP09-004",
+      "name": "Shanks",
+      "name_ko": "샹크스",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p4.png",
+      "image": "dex/cards/op-en-promo/OP09-004_p4.webp"
+    },
+    {
+      "no": "OP09-009",
+      "name": "Benn.Beckman",
+      "name_ko": "벤 베크맨",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_p2.png",
+      "image": "dex/cards/op-en-promo/OP09-009_p2.webp"
+    },
+    {
+      "no": "OP09-013",
+      "name": "Yasopp",
+      "name_ko": "야솝",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_p1.png",
+      "image": "dex/cards/op-en-promo/OP09-013_p1.webp"
+    }
+  ]
+}

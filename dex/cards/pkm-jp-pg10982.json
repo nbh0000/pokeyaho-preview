@@ -1,0 +1,60 @@
+{
+  "id": "pkm-jp-pg10982",
+  "cards": [
+    {
+      "no": "254/SV-P",
+      "name": "ヒビキのホウオウex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/049613_P_HIBIKINOHOUOUEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10982/254-SV-P.webp"
+    },
+    {
+      "no": "255/SV-P",
+      "name": "シロナのガブリアスex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/049614_P_SHIRONANOGABURIASUEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10982/255-SV-P.webp"
+    },
+    {
+      "no": "256/SV-P",
+      "name": "ペパーのマフィティフex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/049615_P_PEPANOMAFUITEIFUEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10982/256-SV-P.webp"
+    },
+    {
+      "no": "252/SV-P",
+      "name": "ネモ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/049611_T_NEMO.jpg",
+      "image": "dex/cards/pkm-jp-pg10982/252-SV-P.webp"
+    },
+    {
+      "no": "253/SV-P",
+      "name": "ネモ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/049612_T_NEMO.jpg",
+      "image": "dex/cards/pkm-jp-pg10982/253-SV-P.webp"
+    }
+  ]
+}

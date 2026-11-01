@@ -1,0 +1,125 @@
+{
+  "id": "db-en-xd2",
+  "cards": [
+    {
+      "no": "XD2-01",
+      "name": "Android 21",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD2-01.png",
+      "image": null
+    },
+    {
+      "no": "XD2-02",
+      "name": "Android 17, Mechanical Prowess",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD2-02.png",
+      "image": null
+    },
+    {
+      "no": "XD2-03",
+      "name": "Android 18, Mechanical Prowess",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD2-03.png",
+      "image": null
+    },
+    {
+      "no": "XD2-04",
+      "name": "Android 16, Mechanical Prowess",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD2-04.png",
+      "image": null
+    },
+    {
+      "no": "XD2-05",
+      "name": "Photon Wave",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "EXTRA",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD2-05.png",
+      "image": null
+    },
+    {
+      "no": "XD2-06",
+      "name": "Might of the Red Ribbon Army",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "EXTRA",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD2-06.png",
+      "image": null
+    },
+    {
+      "no": "XD2-07",
+      "name": "Android 16, A New Start",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue/Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD2-07.png",
+      "image": null
+    },
+    {
+      "no": "XD2-08",
+      "name": "Android 21, A Bad Omen",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue/Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD2-08.png",
+      "image": null
+    },
+    {
+      "no": "XD2-09",
+      "name": "Android 21, the Beautiful Scientist",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue/Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD2-09.png",
+      "image": null
+    },
+    {
+      "no": "XD2-10",
+      "name": "Predation",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "EXTRA",
+      "color": "Blue/Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/XD2-10.png",
+      "image": null
+    }
+  ]
+}

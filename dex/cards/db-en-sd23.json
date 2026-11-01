@@ -1,0 +1,113 @@
+{
+  "id": "db-en-sd23",
+  "cards": [
+    {
+      "no": "SD23-01",
+      "name": "Son Goku & Vegeta",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD23-01.png",
+      "image": null
+    },
+    {
+      "no": "SD23-01",
+      "name": "Son Goku & Vegeta",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Black",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD23-01_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD23-02",
+      "name": "SS Trunks, Guide From the Future",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD23-02.png",
+      "image": null
+    },
+    {
+      "no": "SD23-03",
+      "name": "Mai, Together With Trunks",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD23-03.png",
+      "image": null
+    },
+    {
+      "no": "SD23-04",
+      "name": "Final Kamehameha",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-EXTRA",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD23-04.png",
+      "image": null
+    },
+    {
+      "no": "SD23-04",
+      "name": "Final Kamehameha",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-EXTRA",
+      "color": "Black",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD23-04_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD23-05",
+      "name": "Son Goku, Help Has Arrived",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD23-05.png",
+      "image": null
+    },
+    {
+      "no": "SD23-06",
+      "name": "Vegeta, Help Has Arrived",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD23-06.png",
+      "image": null
+    },
+    {
+      "no": "SD23-07",
+      "name": "SSB Vegito, Beyond Shining",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD23-07.png",
+      "image": null
+    }
+  ]
+}

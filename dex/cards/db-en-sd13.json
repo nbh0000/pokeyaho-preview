@@ -1,0 +1,65 @@
+{
+  "id": "db-en-sd13",
+  "cards": [
+    {
+      "no": "SD13-01",
+      "name": "Frieza",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD13-01.png",
+      "image": null
+    },
+    {
+      "no": "SD13-02",
+      "name": "Frieza : Xeno, Darkness Overflowing",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "UNISON",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD13-02.png",
+      "image": null
+    },
+    {
+      "no": "SD13-03",
+      "name": "Ginyu, Frieza's Greatest Soldier",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD13-03.png",
+      "image": null
+    },
+    {
+      "no": "SD13-04",
+      "name": "Zarbon, Frieza's Right-Hand Man",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD13-04.png",
+      "image": null
+    },
+    {
+      "no": "SD13-05",
+      "name": "Dodoria, Frieza's Devoted Servant",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD13-05.png",
+      "image": null
+    }
+  ]
+}

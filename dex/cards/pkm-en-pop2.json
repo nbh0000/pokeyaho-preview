@@ -1,0 +1,192 @@
+{
+  "id": "pkm-en-pop2",
+  "cards": [
+    {
+      "no": "1",
+      "name": "Entei",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/1.png",
+      "image": null
+    },
+    {
+      "no": "2",
+      "name": "Pidgeot",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/2.png",
+      "image": null
+    },
+    {
+      "no": "3",
+      "name": "Raikou",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/3.png",
+      "image": null
+    },
+    {
+      "no": "4",
+      "name": "Suicune",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/4.png",
+      "image": null
+    },
+    {
+      "no": "5",
+      "name": "Tauros",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/5.png",
+      "image": null
+    },
+    {
+      "no": "6",
+      "name": "Venusaur",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/6.png",
+      "image": null
+    },
+    {
+      "no": "7",
+      "name": "Ivysaur",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/7.png",
+      "image": null
+    },
+    {
+      "no": "8",
+      "name": "Mr. Briney's Compassion",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/8.png",
+      "image": null
+    },
+    {
+      "no": "9",
+      "name": "Multi Technical Machine 01",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/9.png",
+      "image": null
+    },
+    {
+      "no": "10",
+      "name": "Pokémon Park",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/10.png",
+      "image": null
+    },
+    {
+      "no": "11",
+      "name": "TV Reporter",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/11.png",
+      "image": null
+    },
+    {
+      "no": "12",
+      "name": "Bulbasaur",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/12.png",
+      "image": null
+    },
+    {
+      "no": "13",
+      "name": "Cacnea",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/13.png",
+      "image": null
+    },
+    {
+      "no": "14",
+      "name": "Luvdisc",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/14.png",
+      "image": null
+    },
+    {
+      "no": "15",
+      "name": "Phanpy",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/15.png",
+      "image": null
+    },
+    {
+      "no": "16",
+      "name": "Pikachu",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/16.png",
+      "image": null
+    },
+    {
+      "no": "17",
+      "name": "Celebi ex",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop2/17.png",
+      "image": null
+    }
+  ]
+}

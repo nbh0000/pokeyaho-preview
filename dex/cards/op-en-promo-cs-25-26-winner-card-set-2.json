@@ -1,0 +1,60 @@
+{
+  "id": "op-en-promo-cs-25-26-winner-card-set-2",
+  "cards": [
+    {
+      "no": "OP06-063",
+      "name": "Vinsmoke Sora",
+      "name_ko": "빈스모크 소라",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-063_p4.png",
+      "image": "dex/cards/op-en-promo/OP06-063_p4.webp"
+    },
+    {
+      "no": "OP09-043",
+      "name": "Alvida",
+      "name_ko": "알비다",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-043_p3.png",
+      "image": "dex/cards/op-en-promo/OP09-043_p3.webp"
+    },
+    {
+      "no": "OP09-089",
+      "name": "Stronger",
+      "name_ko": "스트롱거",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089_p3.png",
+      "image": "dex/cards/op-en-promo/OP09-089_p3.webp"
+    },
+    {
+      "no": "OP10-107",
+      "name": "Jewelry Bonney",
+      "name_ko": "쥬얼리 보니",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-107_p3.png",
+      "image": "dex/cards/op-en-promo/OP10-107_p3.webp"
+    },
+    {
+      "no": "P-069",
+      "name": "Koala",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p6",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069_p6.png",
+      "image": "dex/cards/op-en-promo/P-069_p6.webp"
+    }
+  ]
+}

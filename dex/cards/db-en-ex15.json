@@ -1,0 +1,77 @@
+{
+  "id": "db-en-ex15",
+  "cards": [
+    {
+      "no": "EX15-01",
+      "name": "Gogeta, Time for Payback",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX15-01.png",
+      "image": null
+    },
+    {
+      "no": "EX15-02",
+      "name": "Vegeta, Protector of the Earth",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX15-02.png",
+      "image": null
+    },
+    {
+      "no": "EX15-03",
+      "name": "Majin Buu, Malice Distilled",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX15-03.png",
+      "image": null
+    },
+    {
+      "no": "EX15-04",
+      "name": "Garlic Jr., Immortal Avenger",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX15-04.png",
+      "image": null
+    },
+    {
+      "no": "EX15-05",
+      "name": "Mira, Dimensional Superpower",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "UNISON",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX15-05.png",
+      "image": null
+    },
+    {
+      "no": "EX15-05",
+      "name": "Mira, Dimensional Superpower",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "UNISON",
+      "color": "Black",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX15-05_PR.png",
+      "image": null
+    }
+  ]
+}

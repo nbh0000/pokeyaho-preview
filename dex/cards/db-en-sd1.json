@@ -1,0 +1,65 @@
+{
+  "id": "db-en-sd1",
+  "cards": [
+    {
+      "no": "SD1-01",
+      "name": "Super Saiyan God Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD1-01.png",
+      "image": null
+    },
+    {
+      "no": "SD1-02",
+      "name": "God Rush Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD1-02.png",
+      "image": null
+    },
+    {
+      "no": "SD1-03",
+      "name": "SS3 Son Goku, Maximum Energy",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD1-03.png",
+      "image": null
+    },
+    {
+      "no": "SD1-04",
+      "name": "Rapid Spirit Ball Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD1-04.png",
+      "image": null
+    },
+    {
+      "no": "SD1-05",
+      "name": "Vegeta, Prince of Speed",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD1-05.png",
+      "image": null
+    }
+  ]
+}

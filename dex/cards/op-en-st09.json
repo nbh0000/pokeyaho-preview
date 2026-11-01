@@ -1,0 +1,170 @@
+{
+  "id": "op-en-st09",
+  "cards": [
+    {
+      "no": "ST09-001",
+      "name": "Yamato",
+      "name_ko": "야마토",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-001.png",
+      "image": null
+    },
+    {
+      "no": "ST09-002",
+      "name": "Uzuki Tempura",
+      "name_ko": "우즈키 텐푸라",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-002.png",
+      "image": null
+    },
+    {
+      "no": "ST09-003",
+      "name": "Ulti",
+      "name_ko": "울티",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-003.png",
+      "image": null
+    },
+    {
+      "no": "ST09-004",
+      "name": "Kaido",
+      "name_ko": "카이도",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-004.png",
+      "image": null
+    },
+    {
+      "no": "ST09-005",
+      "name": "Kouzuki Oden",
+      "name_ko": "코즈키 오뎅",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-005.png",
+      "image": null
+    },
+    {
+      "no": "ST09-006",
+      "name": "Kouzuki Momonosuke",
+      "name_ko": "코즈키 모모노스케",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-006.png",
+      "image": null
+    },
+    {
+      "no": "ST09-007",
+      "name": "Shinobu",
+      "name_ko": "시노부",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-007.png",
+      "image": null
+    },
+    {
+      "no": "ST09-008",
+      "name": "Shimotsuki Ushimaru",
+      "name_ko": "시모츠키 우시마루",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-008.png",
+      "image": null
+    },
+    {
+      "no": "ST09-009",
+      "name": "Fugetsu Omusubi",
+      "name_ko": "후게츠 오무스비",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-009.png",
+      "image": null
+    },
+    {
+      "no": "ST09-010",
+      "name": "Portgas.D.Ace",
+      "name_ko": "포트거스 D. 에이스",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-010.png",
+      "image": null
+    },
+    {
+      "no": "ST09-011",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-011.png",
+      "image": null
+    },
+    {
+      "no": "ST09-012",
+      "name": "Yamato",
+      "name_ko": "야마토",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-012.png",
+      "image": null
+    },
+    {
+      "no": "ST09-013",
+      "name": "Yamato",
+      "name_ko": "야마토",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-013.png",
+      "image": null
+    },
+    {
+      "no": "ST09-014",
+      "name": "Narikabura Arrow",
+      "name_ko": "우는살",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014.png",
+      "image": null
+    },
+    {
+      "no": "ST09-015",
+      "name": "Thunder Bagua",
+      "name_ko": "뇌명팔괘",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-015.png",
+      "image": null
+    }
+  ]
+}

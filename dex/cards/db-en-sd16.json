@@ -1,0 +1,65 @@
+{
+  "id": "db-en-sd16",
+  "cards": [
+    {
+      "no": "SD16-01",
+      "name": "Masked Saiyan",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD16-01.png",
+      "image": null
+    },
+    {
+      "no": "SD16-02",
+      "name": "Dark Masked King, Spirit Resonance",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "UNISON",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD16-02.png",
+      "image": null
+    },
+    {
+      "no": "SD16-03",
+      "name": "Dark Broly, Spirit Boost Berserker",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD16-03.png",
+      "image": null
+    },
+    {
+      "no": "SD16-04",
+      "name": "Masked Saiyan, Spirit Boost Enigma",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD16-04.png",
+      "image": null
+    },
+    {
+      "no": "SD16-05",
+      "name": "Black Masked Saiyan, Spirit Boost Minion",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD16-05.png",
+      "image": null
+    }
+  ]
+}

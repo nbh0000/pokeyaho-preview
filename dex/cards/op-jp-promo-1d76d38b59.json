@@ -1,0 +1,38 @@
+{
+  "id": "op-jp-promo-1d76d38b59",
+  "cards": [
+    {
+      "no": "P-078",
+      "name": "アディオ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-078_p1.png",
+      "image": "dex/cards/op-jp-promo/P-078_p1.webp"
+    },
+    {
+      "no": "P-079",
+      "name": "リム",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-079_p1.png",
+      "image": "dex/cards/op-jp-promo/P-079_p1.webp"
+    },
+    {
+      "no": "P-086",
+      "name": "トラファルガー・ロー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "LEADER",
+      "color": "赤/紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-086.png",
+      "image": "dex/cards/op-jp-promo/P-086.webp"
+    }
+  ]
+}

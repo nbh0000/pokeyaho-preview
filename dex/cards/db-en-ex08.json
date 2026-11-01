@@ -1,0 +1,89 @@
+{
+  "id": "db-en-ex08",
+  "cards": [
+    {
+      "no": "EX08-01",
+      "name": "Son Goten, Strong of Heart",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red/Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-01.png",
+      "image": null
+    },
+    {
+      "no": "EX08-02",
+      "name": "Meticulous Scheming",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Blue/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-02.png",
+      "image": null
+    },
+    {
+      "no": "EX08-03",
+      "name": "Super Baby 2, the Malicious Tyrant",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-03.png",
+      "image": null
+    },
+    {
+      "no": "EX08-04",
+      "name": "SS Gogeta, All-Out Assault",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red/Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-04.png",
+      "image": null
+    },
+    {
+      "no": "EX08-05",
+      "name": "Combination Attack",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Red/Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-05.png",
+      "image": null
+    },
+    {
+      "no": "EX08-06",
+      "name": "SS Broly, All-Out Assault",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-06.png",
+      "image": null
+    },
+    {
+      "no": "EX08-07",
+      "name": "Wailing Spirit",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Green/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-07.png",
+      "image": null
+    }
+  ]
+}

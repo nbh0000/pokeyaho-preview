@@ -1,0 +1,27 @@
+{
+  "id": "op-en-promo-op15-eb04-release-event",
+  "cards": [
+    {
+      "no": "P-115",
+      "name": "Boa Hancock",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-115.png",
+      "image": "dex/cards/op-en-promo/P-115.webp"
+    },
+    {
+      "no": "P-115",
+      "name": "Boa Hancock",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-115_p1.png",
+      "image": "dex/cards/op-en-promo/P-115_p1.webp"
+    }
+  ]
+}

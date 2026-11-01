@@ -1,0 +1,27 @@
+{
+  "id": "op-en-promo-store-2-on-2-battle",
+  "cards": [
+    {
+      "no": "P-082",
+      "name": "Crocodile",
+      "name_ko": "크로커다일",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-082.png",
+      "image": "dex/cards/op-en-promo/P-082.webp"
+    },
+    {
+      "no": "P-082",
+      "name": "Crocodile",
+      "name_ko": "크로커다일",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-082_p1.png",
+      "image": "dex/cards/op-en-promo/P-082_p1.webp"
+    }
+  ]
+}

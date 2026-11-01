@@ -1,0 +1,38 @@
+{
+  "id": "op-en-promo-treasure-cup-august-september",
+  "cards": [
+    {
+      "no": "OP01-070",
+      "name": "Dracule Mihawk",
+      "name_ko": "쥬라큘 미호크",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070_p2.png",
+      "image": "dex/cards/op-en-promo/OP01-070_p2.webp"
+    },
+    {
+      "no": "OP06-093",
+      "name": "Perona",
+      "name_ko": "페로나",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-093_p3.png",
+      "image": "dex/cards/op-en-promo/OP06-093_p3.webp"
+    },
+    {
+      "no": "ST12-008",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-008_p1.png",
+      "image": "dex/cards/op-en-promo/ST12-008_p1.webp"
+    }
+  ]
+}

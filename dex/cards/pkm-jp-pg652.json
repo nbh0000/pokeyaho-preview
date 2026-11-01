@@ -1,0 +1,225 @@
+{
+  "id": "pkm-jp-pg652",
+  "cards": [
+    {
+      "no": "008/031",
+      "name": "カプ・テテフGX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036849_P_KAPUTETEFUGX.jpg",
+      "image": "dex/cards/pkm-jp-pg651/008-031.webp"
+    },
+    {
+      "no": "010/031",
+      "name": "ブラッキー&ダークライGX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036851_P_BURAKKIDAKURAIGX.jpg",
+      "image": "dex/cards/pkm-jp-pg652/010-031.webp"
+    },
+    {
+      "no": "011/031",
+      "name": "アローラ ベトベター",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036852_P_ARORABETOBETA.jpg",
+      "image": "dex/cards/pkm-jp-pg652/011-031.webp"
+    },
+    {
+      "no": "012/031",
+      "name": "ヤミカラス",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036853_P_YAMIKARASU.jpg",
+      "image": "dex/cards/pkm-jp-pg652/012-031.webp"
+    },
+    {
+      "no": "013/031",
+      "name": "ドンカラス",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036854_P_DONKARASU.jpg",
+      "image": "dex/cards/pkm-jp-pg652/013-031.webp"
+    },
+    {
+      "no": "014/031",
+      "name": "ニューラ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036855_P_NYURA.jpg",
+      "image": "dex/cards/pkm-jp-pg652/014-031.webp"
+    },
+    {
+      "no": "015/031",
+      "name": "マニューラGX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036856_P_MANYURAGX.jpg",
+      "image": "dex/cards/pkm-jp-pg652/015-031.webp"
+    },
+    {
+      "no": "016/031",
+      "name": "フーパ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036857_P_FUPA.jpg",
+      "image": "dex/cards/pkm-jp-pg652/016-031.webp"
+    },
+    {
+      "no": "017/031",
+      "name": "ハイパーボール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036858_T_HAIPABORU.jpg",
+      "image": "dex/cards/pkm-jp-pg652/017-031.webp"
+    },
+    {
+      "no": "019/031",
+      "name": "ポケギア3.0",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036860_T_POKEGIA.jpg",
+      "image": "dex/cards/pkm-jp-pg651/019-031.webp"
+    },
+    {
+      "no": "020/031",
+      "name": "ポケモンいれかえ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036861_T_POKEMONIREKAE.jpg",
+      "image": "dex/cards/pkm-jp-pg651/020-031.webp"
+    },
+    {
+      "no": "021/031",
+      "name": "まんたんのくすり",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036862_T_MANTANNOKUSURI.jpg",
+      "image": "dex/cards/pkm-jp-pg652/021-031.webp"
+    },
+    {
+      "no": "023/031",
+      "name": "こだわりハチマキ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036864_T_KODAWARIHACHIMAKI.jpg",
+      "image": "dex/cards/pkm-jp-pg651/023-031.webp"
+    },
+    {
+      "no": "024/031",
+      "name": "グズマ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036865_T_GUZUMA.jpg",
+      "image": "dex/cards/pkm-jp-pg651/024-031.webp"
+    },
+    {
+      "no": "025/031",
+      "name": "シロナ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036866_T_SHIRONA.jpg",
+      "image": "dex/cards/pkm-jp-pg651/025-031.webp"
+    },
+    {
+      "no": "026/031",
+      "name": "ハウ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036867_T_HAU.jpg",
+      "image": "dex/cards/pkm-jp-pg651/026-031.webp"
+    },
+    {
+      "no": "028/031",
+      "name": "リーリエ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036869_T_RIRIE.jpg",
+      "image": "dex/cards/pkm-jp-pg651/028-031.webp"
+    },
+    {
+      "no": "029/031",
+      "name": "レッドの挑戦",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036870_T_REDDONOCHOUSEN.jpg",
+      "image": "dex/cards/pkm-jp-pg652/029-031.webp"
+    },
+    {
+      "no": "030/031",
+      "name": "ナイトシティ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SMM/036871_T_NAITOSHITEI.jpg",
+      "image": "dex/cards/pkm-jp-pg652/030-031.webp"
+    },
+    {
+      "no": null,
+      "name": "基本悪エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/ENE/036469_E_KIHONAKUENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg640/card_7.webp"
+    }
+  ]
+}

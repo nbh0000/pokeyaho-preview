@@ -1,0 +1,27 @@
+{
+  "id": "op-en-sd01",
+  "cards": [
+    {
+      "no": "OP15-098",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-098_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP16-001",
+      "name": "Portgas.D.Ace",
+      "name_ko": null,
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-001_p2.png",
+      "image": null
+    }
+  ]
+}

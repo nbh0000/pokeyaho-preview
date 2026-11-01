@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-2acd11a886",
+  "cards": [
+    {
+      "no": "P-116",
+      "name": "ニコ・ロビン",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-116.png",
+      "image": "dex/cards/op-jp-promo/P-116.webp"
+    }
+  ]
+}

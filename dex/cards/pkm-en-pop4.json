@@ -1,0 +1,192 @@
+{
+  "id": "pkm-en-pop4",
+  "cards": [
+    {
+      "no": "1",
+      "name": "Chimecho δ",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Metal",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/1.png",
+      "image": null
+    },
+    {
+      "no": "2",
+      "name": "Deoxys δ",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/2.png",
+      "image": null
+    },
+    {
+      "no": "3",
+      "name": "Flygon",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/3.png",
+      "image": null
+    },
+    {
+      "no": "4",
+      "name": "Mew",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/4.png",
+      "image": null
+    },
+    {
+      "no": "5",
+      "name": "Sceptile",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/5.png",
+      "image": null
+    },
+    {
+      "no": "6",
+      "name": "Combusken",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/6.png",
+      "image": null
+    },
+    {
+      "no": "7",
+      "name": "Grovyle",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/7.png",
+      "image": null
+    },
+    {
+      "no": "8",
+      "name": "Heal Energy",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/8.png",
+      "image": null
+    },
+    {
+      "no": "9",
+      "name": "Pokémon Fan Club",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/9.png",
+      "image": null
+    },
+    {
+      "no": "10",
+      "name": "Scramble Energy",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/10.png",
+      "image": null
+    },
+    {
+      "no": "11",
+      "name": "Mudkip",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/11.png",
+      "image": null
+    },
+    {
+      "no": "12",
+      "name": "Pidgey",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/12.png",
+      "image": null
+    },
+    {
+      "no": "13",
+      "name": "Pikachu",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/13.png",
+      "image": null
+    },
+    {
+      "no": "14",
+      "name": "Squirtle",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/14.png",
+      "image": null
+    },
+    {
+      "no": "15",
+      "name": "Treecko δ",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/15.png",
+      "image": null
+    },
+    {
+      "no": "16",
+      "name": "Wobbuffet",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/16.png",
+      "image": null
+    },
+    {
+      "no": "17",
+      "name": "Deoxys ex",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop4/17.png",
+      "image": null
+    }
+  ]
+}

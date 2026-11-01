@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-1908f90d91",
+  "cards": [
+    {
+      "no": "OP06-069",
+      "name": "ヴィンスモーク・レイジュ",
+      "name_ko": "빈스모크 레이주",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-069_p2.png",
+      "image": "dex/cards/op-jp-promo/OP06-069_p2.webp"
+    }
+  ]
+}

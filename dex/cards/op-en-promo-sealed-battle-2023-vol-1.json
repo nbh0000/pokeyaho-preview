@@ -1,0 +1,60 @@
+{
+  "id": "op-en-promo-sealed-battle-2023-vol-1",
+  "cards": [
+    {
+      "no": "P-047",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "LEADER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-047.png",
+      "image": "dex/cards/op-en-promo/P-047.webp"
+    },
+    {
+      "no": "P-048",
+      "name": "Arlong",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-048.png",
+      "image": "dex/cards/op-en-promo/P-048.webp"
+    },
+    {
+      "no": "P-049",
+      "name": "Usopp",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-049.png",
+      "image": "dex/cards/op-en-promo/P-049.webp"
+    },
+    {
+      "no": "P-050",
+      "name": "Sanji",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-050.png",
+      "image": "dex/cards/op-en-promo/P-050.webp"
+    },
+    {
+      "no": "P-051",
+      "name": "Shanks",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-051.png",
+      "image": "dex/cards/op-en-promo/P-051.webp"
+    }
+  ]
+}

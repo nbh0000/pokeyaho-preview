@@ -1,0 +1,148 @@
+{
+  "id": "op-en-set-gift-collection-2023-gc-01",
+  "cards": [
+    {
+      "no": "OP01-005",
+      "name": "Uta",
+      "name_ko": "우타",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-005_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP01-013",
+      "name": "Sanji",
+      "name_ko": "상디",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP01-016",
+      "name": "Nami",
+      "name_ko": "나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p5",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p5.png",
+      "image": null
+    },
+    {
+      "no": "OP01-021",
+      "name": "Franky",
+      "name_ko": "프랑키",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-021_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP02-059",
+      "name": "Boa Hancock",
+      "name_ko": "보아 행콕",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-059_p2.png",
+      "image": null
+    },
+    {
+      "no": "P-001",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p4.png",
+      "image": null
+    },
+    {
+      "no": "P-028",
+      "name": "Portgas.D.Ace",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-028_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST01-005",
+      "name": "Jinbe",
+      "name_ko": "징베",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST01-006",
+      "name": "Tony Tony.Chopper",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p3.png",
+      "image": null
+    },
+    {
+      "no": "ST01-008",
+      "name": "Nico Robin",
+      "name_ko": "니코 로빈",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST01-013",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST03-008",
+      "name": "Trafalgar Law",
+      "name_ko": "트라팔가 로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST09-012",
+      "name": "Yamato",
+      "name_ko": "야마토",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-012_p1.png",
+      "image": null
+    }
+  ]
+}

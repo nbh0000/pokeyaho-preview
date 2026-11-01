@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-f7eda437a7",
+  "cards": [
+    {
+      "no": "EB02-035",
+      "name": "サンジ&プリン",
+      "name_ko": "상디 & 푸딩",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-035_p2.png",
+      "image": "dex/cards/op-jp-promo/EB02-035_p2.webp"
+    }
+  ]
+}

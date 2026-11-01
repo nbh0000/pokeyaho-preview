@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-564fb887f8",
+  "cards": [
+    {
+      "no": "OP04-083",
+      "name": "サボ",
+      "name_ko": "사보",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-083_p3.png",
+      "image": "dex/cards/op-jp-promo/OP04-083_p3.webp"
+    }
+  ]
+}

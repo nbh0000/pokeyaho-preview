@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-f74f57ed9f",
+  "cards": [
+    {
+      "no": "ST01-015",
+      "name": "ゴムゴムのJET銃",
+      "name_ko": "고무고무 JET 총",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-015_p3.png",
+      "image": "dex/cards/op-jp-promo/ST01-015_p3.webp"
+    }
+  ]
+}

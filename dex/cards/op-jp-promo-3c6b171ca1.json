@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-3c6b171ca1",
+  "cards": [
+    {
+      "no": "P-090",
+      "name": "シャーロット・スムージー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-090.png",
+      "image": "dex/cards/op-jp-promo/P-090.webp"
+    }
+  ]
+}

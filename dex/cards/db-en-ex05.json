@@ -1,0 +1,65 @@
+{
+  "id": "db-en-ex05",
+  "cards": [
+    {
+      "no": "EX05-01",
+      "name": "Janemba, Lighthearted Destroyer",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX05-01.png",
+      "image": null
+    },
+    {
+      "no": "EX05-02",
+      "name": "Boujack, Pirate's Pride",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX05-02.png",
+      "image": null
+    },
+    {
+      "no": "EX05-03",
+      "name": "Janemba, Resonant Agent of Destruction",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX05-03.png",
+      "image": null
+    },
+    {
+      "no": "EX05-04",
+      "name": "Boujack, Resonant Agent of Destruction",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX05-04.png",
+      "image": null
+    },
+    {
+      "no": "EX05-04",
+      "name": "Boujack, Resonant Agent of Destruction",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue/Yellow",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX05-04_PR.png",
+      "image": null
+    }
+  ]
+}

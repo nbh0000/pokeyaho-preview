@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-8c47701254",
+  "cards": [
+    {
+      "no": "P-108",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-108.png",
+      "image": "dex/cards/op-jp-promo/P-108.webp"
+    }
+  ]
+}

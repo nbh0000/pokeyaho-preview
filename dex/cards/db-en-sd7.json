@@ -1,0 +1,65 @@
+{
+  "id": "db-en-sd7",
+  "cards": [
+    {
+      "no": "SD7-01",
+      "name": "Dragon Ball",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD7-01.png",
+      "image": null
+    },
+    {
+      "no": "SD7-02",
+      "name": "Dimensional Warrior Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD7-02.png",
+      "image": null
+    },
+    {
+      "no": "SD7-03",
+      "name": "Vegeta, Returned from Darkness",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD7-03.png",
+      "image": null
+    },
+    {
+      "no": "SD7-04",
+      "name": "Shenron, Figure of Majesty",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD7-04.png",
+      "image": null
+    },
+    {
+      "no": "SD7-05",
+      "name": "Mega Focus Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD7-05.png",
+      "image": null
+    }
+  ]
+}

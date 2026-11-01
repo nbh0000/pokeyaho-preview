@@ -1,0 +1,137 @@
+{
+  "id": "op-en-set-premium-card-collection-bandai-card-games-fest-23-24-edition",
+  "cards": [
+    {
+      "no": "OP01-033",
+      "name": "Izo",
+      "name_ko": "이조",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p6",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p6.png",
+      "image": null
+    },
+    {
+      "no": "OP01-035",
+      "name": "Okiku",
+      "name_ko": "오키쿠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-035_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP03-088",
+      "name": "Fukurou",
+      "name_ko": "후쿠로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-088_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP03-102",
+      "name": "Sanji",
+      "name_ko": "상디",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-102_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP03-116",
+      "name": "Shirahoshi",
+      "name_ko": "시라호시",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p7",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-116_p7.png",
+      "image": null
+    },
+    {
+      "no": "P-001",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p6",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p6.png",
+      "image": null
+    },
+    {
+      "no": "P-030",
+      "name": "Jinbe",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-030_p3.png",
+      "image": null
+    },
+    {
+      "no": "ST01-011",
+      "name": "Brook",
+      "name_ko": "브룩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p5",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p5.png",
+      "image": null
+    },
+    {
+      "no": "ST03-007",
+      "name": "Sentomaru",
+      "name_ko": "센토마루",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST04-008",
+      "name": "Jack",
+      "name_ko": "잭",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST04-011",
+      "name": "Black Maria",
+      "name_ko": "블랙마리아",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-011_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST06-006",
+      "name": "Tashigi",
+      "name_ko": "타시기",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p4.png",
+      "image": null
+    }
+  ]
+}

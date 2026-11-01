@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-736eab66f4",
+  "cards": [
+    {
+      "no": "EB02-019",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-019_p2.png",
+      "image": "dex/cards/op-jp-promo/EB02-019_p2.webp"
+    },
+    {
+      "no": "EB02-055",
+      "name": "ジンベエ",
+      "name_ko": "징베",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-055_p1.png",
+      "image": "dex/cards/op-jp-promo/EB02-055_p1.webp"
+    },
+    {
+      "no": "OP08-062",
+      "name": "シャーロット・カタクリ",
+      "name_ko": "샬롯 카타쿠리",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-062_p1.png",
+      "image": "dex/cards/op-jp-promo/OP08-062_p1.webp"
+    },
+    {
+      "no": "ST19-002",
+      "name": "センゴク",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST19-002_p1.png",
+      "image": "dex/cards/op-jp-promo/ST19-002_p1.webp"
+    }
+  ]
+}

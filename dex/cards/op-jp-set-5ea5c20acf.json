@@ -1,0 +1,137 @@
+{
+  "id": "op-jp-set-5ea5c20acf",
+  "cards": [
+    {
+      "no": "OP04-032",
+      "name": "ベビー5",
+      "name_ko": "베이비 5",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-032_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP05-004",
+      "name": "エンポリオ・イワンコフ",
+      "name_ko": "엠포리오 이반코프",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-004_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP06-016",
+      "name": "レイズ・マックス",
+      "name_ko": "레이즈 맥스",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-016_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP06-090",
+      "name": "ドクトル・ホグバック",
+      "name_ko": "Dr. 호그백",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-090_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP08-040",
+      "name": "アトモス",
+      "name_ko": "아트모스",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-040_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-072",
+      "name": "リューマ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-072_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-073",
+      "name": "サボ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-073_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-074",
+      "name": "ポートガス・D・エース",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-074_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-075",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-075_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST04-002",
+      "name": "うるティ",
+      "name_ko": "울티",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-002_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST05-002",
+      "name": "アイン",
+      "name_ko": "아인",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST05-002_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST13-012",
+      "name": "マキノ",
+      "name_ko": "마키노",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-012_p2.png",
+      "image": null
+    }
+  ]
+}

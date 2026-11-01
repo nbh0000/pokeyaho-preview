@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-d427305509",
+  "cards": [
+    {
+      "no": "OP09-069",
+      "name": "トラファルガー・ロー",
+      "name_ko": "트라팔가 로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-069_p2.png",
+      "image": "dex/cards/op-jp-promo/OP09-069_p2.webp"
+    }
+  ]
+}

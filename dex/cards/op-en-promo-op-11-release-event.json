@@ -1,0 +1,27 @@
+{
+  "id": "op-en-promo-op-11-release-event",
+  "cards": [
+    {
+      "no": "P-081",
+      "name": "Dracule Mihawk",
+      "name_ko": "쥬라큘 미호크",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-081.png",
+      "image": "dex/cards/op-en-promo/P-081.webp"
+    },
+    {
+      "no": "P-081",
+      "name": "Dracule Mihawk",
+      "name_ko": "쥬라큘 미호크",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-081_p1.png",
+      "image": "dex/cards/op-en-promo/P-081_p1.webp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-9d4157b2aa",
+  "cards": [
+    {
+      "no": "P-063",
+      "name": "ジンベエ",
+      "name_ko": "징베",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-063.png",
+      "image": "dex/cards/op-jp-promo/P-063.webp"
+    }
+  ]
+}

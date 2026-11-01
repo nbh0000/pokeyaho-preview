@@ -1,0 +1,60 @@
+{
+  "id": "op-jp-promo-97d2fa7e48",
+  "cards": [
+    {
+      "no": "OP13-046",
+      "name": "ビスタ",
+      "name_ko": "비스타",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-046_p1.png",
+      "image": "dex/cards/op-jp-promo/OP13-046_p1.webp"
+    },
+    {
+      "no": "OP13-071",
+      "name": "ネコマムシ",
+      "name_ko": "네코마무시",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-071_p1.png",
+      "image": "dex/cards/op-jp-promo/OP13-071_p1.webp"
+    },
+    {
+      "no": "OP13-087",
+      "name": "チャルロス聖",
+      "name_ko": "차를로스 성",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-087_p1.png",
+      "image": "dex/cards/op-jp-promo/OP13-087_p1.webp"
+    },
+    {
+      "no": "OP14-026",
+      "name": "光月おでん",
+      "name_ko": "코즈키 오뎅",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-026_p1.png",
+      "image": "dex/cards/op-jp-promo/OP14-026_p1.webp"
+    },
+    {
+      "no": "OP14-107",
+      "name": "シャクヤク",
+      "name_ko": "샤쿠야쿠",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-107_p1.png",
+      "image": "dex/cards/op-jp-promo/OP14-107_p1.webp"
+    }
+  ]
+}

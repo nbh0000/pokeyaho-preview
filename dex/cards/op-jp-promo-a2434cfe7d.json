@@ -1,0 +1,60 @@
+{
+  "id": "op-jp-promo-a2434cfe7d",
+  "cards": [
+    {
+      "no": "OP01-015",
+      "name": "トニートニー・チョッパー",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-015_p1.png",
+      "image": "dex/cards/op-jp-promo/OP01-015_p1.webp"
+    },
+    {
+      "no": "OP02-063",
+      "name": "Mr.1(ダズ・ボーネス)",
+      "name_ko": "Mr.1(다즈 보네스)",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-063_p1.png",
+      "image": "dex/cards/op-jp-promo/OP02-063_p1.webp"
+    },
+    {
+      "no": "OP05-036",
+      "name": "モネ",
+      "name_ko": "모네",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-036_p1.png",
+      "image": "dex/cards/op-jp-promo/OP05-036_p1.webp"
+    },
+    {
+      "no": "OP06-110",
+      "name": "ネコマムシ",
+      "name_ko": "네코마무시",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_p3.png",
+      "image": "dex/cards/op-jp-promo/OP06-110_p3.webp"
+    },
+    {
+      "no": "OP07-091",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-091_p1.png",
+      "image": "dex/cards/op-jp-promo/OP07-091_p1.webp"
+    }
+  ]
+}

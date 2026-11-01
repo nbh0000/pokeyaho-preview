@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-b53139e4f6",
+  "cards": [
+    {
+      "no": "OP08-106",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-106_p3.png",
+      "image": "dex/cards/op-jp-promo/OP08-106_p3.webp"
+    }
+  ]
+}

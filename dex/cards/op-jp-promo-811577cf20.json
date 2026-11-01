@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-811577cf20",
+  "cards": [
+    {
+      "no": "ST01-013",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-013_p5.png",
+      "image": "dex/cards/op-jp-promo/ST01-013_p5.webp"
+    }
+  ]
+}

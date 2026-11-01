@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-event-pack-vol-7",
+  "cards": [
+    {
+      "no": "P-088",
+      "name": "Trafalgar Law",
+      "name_ko": "트라팔가 로",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088.png",
+      "image": "dex/cards/op-en-promo/P-088.webp"
+    },
+    {
+      "no": "P-090",
+      "name": "Charlotte Smoothie",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-090.png",
+      "image": "dex/cards/op-en-promo/P-090.webp"
+    },
+    {
+      "no": "P-091",
+      "name": "Shirahoshi",
+      "name_ko": "시라호시",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-091.png",
+      "image": "dex/cards/op-en-promo/P-091.webp"
+    },
+    {
+      "no": "P-092",
+      "name": "Koby",
+      "name_ko": "코비",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-092.png",
+      "image": "dex/cards/op-en-promo/P-092.webp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "op-en-promo-included-in-pirates-party-card-vol-2",
+  "cards": [
+    {
+      "no": "P-026",
+      "name": "Morgan",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-026.png",
+      "image": "dex/cards/op-en-promo/P-026.webp"
+    }
+  ]
+}

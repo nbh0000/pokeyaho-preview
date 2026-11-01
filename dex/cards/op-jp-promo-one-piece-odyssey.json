@@ -1,0 +1,27 @@
+{
+  "id": "op-jp-promo-one-piece-odyssey",
+  "cards": [
+    {
+      "no": "P-078",
+      "name": "アディオ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-078.png",
+      "image": "dex/cards/op-jp-promo/P-078.webp"
+    },
+    {
+      "no": "P-079",
+      "name": "リム",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-079.png",
+      "image": "dex/cards/op-jp-promo/P-079.webp"
+    }
+  ]
+}

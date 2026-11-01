@@ -1,0 +1,38 @@
+{
+  "id": "op-en-promo-regional-2024-wave2",
+  "cards": [
+    {
+      "no": "OP03-112",
+      "name": "Charlotte Pudding",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112_p2.png",
+      "image": "dex/cards/op-en-promo/OP03-112_p2.webp"
+    },
+    {
+      "no": "OP03-114",
+      "name": "Charlotte Linlin",
+      "name_ko": "샬롯 링링",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-114_p3.png",
+      "image": "dex/cards/op-en-promo/OP03-114_p3.webp"
+    },
+    {
+      "no": "OP03-123",
+      "name": "Charlotte Katakuri",
+      "name_ko": "샬롯 카타쿠리",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-123_p2.png",
+      "image": "dex/cards/op-en-promo/OP03-123_p2.webp"
+    }
+  ]
+}

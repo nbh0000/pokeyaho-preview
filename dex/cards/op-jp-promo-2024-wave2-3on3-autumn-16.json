@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-2024-wave2-3on3-autumn-16",
+  "cards": [
+    {
+      "no": "OP03-116",
+      "name": "しらほし",
+      "name_ko": "시라호시",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-116_p4.png",
+      "image": "dex/cards/op-jp-promo/OP03-116_p4.webp"
+    }
+  ]
+}

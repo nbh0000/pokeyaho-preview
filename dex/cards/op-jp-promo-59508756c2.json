@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-59508756c2",
+  "cards": [
+    {
+      "no": "ST10-013",
+      "name": "ユースタス・キッド",
+      "name_ko": "유스타스 키드",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-013_p2.png",
+      "image": "dex/cards/op-jp-promo/ST10-013_p2.webp"
+    }
+  ]
+}

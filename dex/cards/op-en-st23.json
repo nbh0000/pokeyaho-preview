@@ -1,0 +1,170 @@
+{
+  "id": "op-en-st23",
+  "cards": [
+    {
+      "no": "OP09-001",
+      "name": "Shanks",
+      "name_ko": "샹크스",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP09-006",
+      "name": "Howling Gab",
+      "name_ko": "\"하울링\" 갭",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-006_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-010",
+      "name": "Bonk Punch",
+      "name_ko": "봉크 펀치",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-010_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-011",
+      "name": "Hongo",
+      "name_ko": "혼고",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-012",
+      "name": "Monster",
+      "name_ko": "몬스터",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-012_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-013",
+      "name": "Yasopp",
+      "name_ko": "야솝",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-014",
+      "name": "Limejuice",
+      "name_ko": "라임주스",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-015",
+      "name": "Lucky.Roux",
+      "name_ko": "럭키 루",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-015_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-016",
+      "name": "Rockstar",
+      "name_ko": "록스타",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-016_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-020",
+      "name": "Come On!! We'll Fight You!!",
+      "name_ko": "덤벼라…!!! 우리가 상대를 해주마!!!",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "Red",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST23-001",
+      "name": "Uta",
+      "name_ko": "우타",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-001.png",
+      "image": null
+    },
+    {
+      "no": "ST23-002",
+      "name": "Shanks",
+      "name_ko": "샹크스",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-002.png",
+      "image": null
+    },
+    {
+      "no": "ST23-003",
+      "name": "Benn.Beckman",
+      "name_ko": "벤 베크맨",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-003.png",
+      "image": null
+    },
+    {
+      "no": "ST23-004",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-004.png",
+      "image": null
+    },
+    {
+      "no": "ST23-005",
+      "name": "Yasopp",
+      "name_ko": "야솝",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-005.png",
+      "image": null
+    }
+  ]
+}

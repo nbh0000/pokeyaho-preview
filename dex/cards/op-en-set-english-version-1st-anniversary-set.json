@@ -1,0 +1,115 @@
+{
+  "id": "op-en-set-english-version-1st-anniversary-set",
+  "cards": [
+    {
+      "no": "OP01-004",
+      "name": "Usopp",
+      "name_ko": "우솝",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-004_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP01-013",
+      "name": "Sanji",
+      "name_ko": "상디",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP01-016",
+      "name": "Nami",
+      "name_ko": "나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p7",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p7.png",
+      "image": null
+    },
+    {
+      "no": "OP01-017",
+      "name": "Nico Robin",
+      "name_ko": "니코 로빈",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-017_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP01-025",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025_p3.png",
+      "image": null
+    },
+    {
+      "no": "ST01-006",
+      "name": "Tony Tony.Chopper",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p4.png",
+      "image": null
+    },
+    {
+      "no": "ST01-010",
+      "name": "Franky",
+      "name_ko": "프랑키",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST01-011",
+      "name": "Brook",
+      "name_ko": "브룩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p3.png",
+      "image": null
+    },
+    {
+      "no": "ST10-005",
+      "name": "Jinbe",
+      "name_ko": "징베",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-005_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST10-006",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p2.png",
+      "image": null
+    }
+  ]
+}

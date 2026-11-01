@@ -1,0 +1,65 @@
+{
+  "id": "db-en-sd15",
+  "cards": [
+    {
+      "no": "SD15-01",
+      "name": "Vegeta",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD15-01.png",
+      "image": null
+    },
+    {
+      "no": "SD15-02",
+      "name": "SS Cabba, Spirit Resonance",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "UNISON",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD15-02.png",
+      "image": null
+    },
+    {
+      "no": "SD15-03",
+      "name": "Son Goku, Spirit Boost Warrior",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD15-03.png",
+      "image": null
+    },
+    {
+      "no": "SD15-04",
+      "name": "Surprise Attack Son Gohan",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD15-04.png",
+      "image": null
+    },
+    {
+      "no": "SD15-05",
+      "name": "Surprise Attack SSB Vegeta",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD15-05.png",
+      "image": null
+    }
+  ]
+}

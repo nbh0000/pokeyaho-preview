@@ -1,0 +1,65 @@
+{
+  "id": "db-en-sd12",
+  "cards": [
+    {
+      "no": "SD12-01",
+      "name": "Vegito",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD12-01.png",
+      "image": null
+    },
+    {
+      "no": "SD12-02",
+      "name": "Gogeta, Pursuit of Power",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "UNISON",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD12-02.png",
+      "image": null
+    },
+    {
+      "no": "SD12-03",
+      "name": "SSB Son Goku, Tenacious Warrior",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD12-03.png",
+      "image": null
+    },
+    {
+      "no": "SD12-04",
+      "name": "SSB Vegeta, Heroic Warrior",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD12-04.png",
+      "image": null
+    },
+    {
+      "no": "SD12-05",
+      "name": "SS Trunks, Architect of Peace",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD12-05.png",
+      "image": null
+    }
+  ]
+}

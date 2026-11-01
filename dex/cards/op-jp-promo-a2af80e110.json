@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-a2af80e110",
+  "cards": [
+    {
+      "no": "OP02-096",
+      "name": "クザン",
+      "name_ko": "쿠잔",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-096_p3.png",
+      "image": "dex/cards/op-jp-promo/OP02-096_p3.webp"
+    }
+  ]
+}

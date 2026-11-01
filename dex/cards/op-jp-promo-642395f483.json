@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-642395f483",
+  "cards": [
+    {
+      "no": "P-111",
+      "name": "ニコ・ロビン",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-111.png",
+      "image": "dex/cards/op-jp-promo/P-111.webp"
+    },
+    {
+      "no": "P-112",
+      "name": "ナミ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-112.png",
+      "image": "dex/cards/op-jp-promo/P-112.webp"
+    },
+    {
+      "no": "P-113",
+      "name": "ジュエリー・ボニー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-113.png",
+      "image": "dex/cards/op-jp-promo/P-113.webp"
+    },
+    {
+      "no": "P-114",
+      "name": "ロロノア・ゾロ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-114.png",
+      "image": "dex/cards/op-jp-promo/P-114.webp"
+    }
+  ]
+}

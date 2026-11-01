@@ -1,0 +1,27 @@
+{
+  "id": "pkm-jp-pg10998",
+  "cards": [
+    {
+      "no": "086/M-P",
+      "name": "メガガルーラex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050172_P_MGARURAEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10998/086-M-P.webp"
+    },
+    {
+      "no": "085/M-P",
+      "name": "ポケパッド",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050171_T_POKEPADDO.jpg",
+      "image": "dex/cards/pkm-jp-pg10997/085-M-P.webp"
+    }
+  ]
+}

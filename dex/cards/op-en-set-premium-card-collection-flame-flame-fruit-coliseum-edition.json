@@ -1,0 +1,38 @@
+{
+  "id": "op-en-set-premium-card-collection-flame-flame-fruit-coliseum-edition",
+  "cards": [
+    {
+      "no": "P-152",
+      "name": "Edward.Newgate",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-152.png",
+      "image": null
+    },
+    {
+      "no": "P-153",
+      "name": "Portgas.D.Ace",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-153.png",
+      "image": null
+    },
+    {
+      "no": "P-154",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-154.png",
+      "image": null
+    }
+  ]
+}

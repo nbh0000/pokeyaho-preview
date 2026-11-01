@@ -1,0 +1,192 @@
+{
+  "id": "pkm-en-pop9",
+  "cards": [
+    {
+      "no": "1",
+      "name": "Garchomp",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/1.png",
+      "image": null
+    },
+    {
+      "no": "2",
+      "name": "Manaphy",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/2.png",
+      "image": null
+    },
+    {
+      "no": "3",
+      "name": "Raichu",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/3.png",
+      "image": null
+    },
+    {
+      "no": "4",
+      "name": "Regigigas",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/4.png",
+      "image": null
+    },
+    {
+      "no": "5",
+      "name": "Rotom",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/5.png",
+      "image": null
+    },
+    {
+      "no": "6",
+      "name": "Buizel",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/6.png",
+      "image": null
+    },
+    {
+      "no": "7",
+      "name": "Croagunk",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/7.png",
+      "image": null
+    },
+    {
+      "no": "8",
+      "name": "Gabite",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/8.png",
+      "image": null
+    },
+    {
+      "no": "9",
+      "name": "Lopunny",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/9.png",
+      "image": null
+    },
+    {
+      "no": "10",
+      "name": "Pachirisu",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/10.png",
+      "image": null
+    },
+    {
+      "no": "11",
+      "name": "Pichu",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/11.png",
+      "image": null
+    },
+    {
+      "no": "12",
+      "name": "Buneary",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/12.png",
+      "image": null
+    },
+    {
+      "no": "13",
+      "name": "Chimchar",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/13.png",
+      "image": null
+    },
+    {
+      "no": "14",
+      "name": "Gible",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/14.png",
+      "image": null
+    },
+    {
+      "no": "15",
+      "name": "Pikachu",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/15.png",
+      "image": null
+    },
+    {
+      "no": "16",
+      "name": "Piplup",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/16.png",
+      "image": null
+    },
+    {
+      "no": "17",
+      "name": "Turtwig",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop9/17.png",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "op-en-promo-regional-25-26-season1",
+  "cards": [
+    {
+      "no": "OP09-050",
+      "name": "Nami",
+      "name_ko": "나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-050_p2.png",
+      "image": "dex/cards/op-en-promo/OP09-050_p2.webp"
+    },
+    {
+      "no": "OP09-065",
+      "name": "Sanji",
+      "name_ko": "상디",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-065_p2.png",
+      "image": "dex/cards/op-en-promo/OP09-065_p2.webp"
+    },
+    {
+      "no": "OP09-076",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076_p1.png",
+      "image": "dex/cards/op-en-promo/OP09-076_p1.webp"
+    }
+  ]
+}

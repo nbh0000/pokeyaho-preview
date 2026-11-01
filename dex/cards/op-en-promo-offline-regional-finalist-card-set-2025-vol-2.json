@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-offline-regional-finalist-card-set-2025-vol-2",
+  "cards": [
+    {
+      "no": "EB01-003",
+      "name": "Kid & Killer",
+      "name_ko": "키드 & 킬러",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p3.png",
+      "image": "dex/cards/op-en-promo/EB01-003_p3.webp"
+    },
+    {
+      "no": "OP07-047",
+      "name": "Trafalgar Law",
+      "name_ko": "트라팔가 로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-047_p3.png",
+      "image": "dex/cards/op-en-promo/OP07-047_p3.webp"
+    },
+    {
+      "no": "P-085",
+      "name": "Jewelry Bonney",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-085_p1.png",
+      "image": "dex/cards/op-en-promo/P-085_p1.webp"
+    },
+    {
+      "no": "P-089",
+      "name": "Tony Tony.Chopper",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-089_p1.png",
+      "image": "dex/cards/op-en-promo/P-089_p1.webp"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "db-en-ex18",
+  "cards": [
+    {
+      "no": "EX18-01",
+      "name": "Piccolo, Spirit Boost Defender",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "UNISON",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX18-01.png",
+      "image": null
+    },
+    {
+      "no": "EX18-02",
+      "name": "Son Gohan, Spirit Boost Vindicator",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX18-02.png",
+      "image": null
+    },
+    {
+      "no": "EX18-03",
+      "name": "Trunks, Spirit Resonance",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX18-03.png",
+      "image": null
+    },
+    {
+      "no": "EX18-04",
+      "name": "Sword Dance of the Demon God",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX18-04.png",
+      "image": null
+    },
+    {
+      "no": "EX18-05",
+      "name": "Boujack, Pinpoint Onslaught",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX18-05.png",
+      "image": null
+    }
+  ]
+}

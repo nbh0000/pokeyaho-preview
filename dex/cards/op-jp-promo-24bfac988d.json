@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-24bfac988d",
+  "cards": [
+    {
+      "no": "EB02-001",
+      "name": "カルー",
+      "name_ko": "카루",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-001_p1.png",
+      "image": "dex/cards/op-jp-promo/EB02-001_p1.webp"
+    },
+    {
+      "no": "EB05-050",
+      "name": "アトラス",
+      "name_ko": null,
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB05-050_p2.png",
+      "image": "dex/cards/op-jp-promo/EB05-050_p2.webp"
+    },
+    {
+      "no": "OP16-045",
+      "name": "クロコダイル",
+      "name_ko": null,
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-045_p1.png",
+      "image": "dex/cards/op-jp-promo/OP16-045_p1.webp"
+    },
+    {
+      "no": "OP17-090",
+      "name": "フランキー",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP17-090_p1.png",
+      "image": "dex/cards/op-jp-promo/OP17-090_p1.webp"
+    }
+  ]
+}

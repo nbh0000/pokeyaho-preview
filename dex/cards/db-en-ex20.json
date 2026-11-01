@@ -1,0 +1,149 @@
+{
+  "id": "db-en-ex20",
+  "cards": [
+    {
+      "no": "EX20-01",
+      "name": "Cell",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "LEADER",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX20-01.png",
+      "image": null
+    },
+    {
+      "no": "EX20-01",
+      "name": "Cell",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "LEADER",
+      "color": "Green",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX20-01_PR.png",
+      "image": null
+    },
+    {
+      "no": "EX20-01",
+      "name": "Cell",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "LEADER",
+      "color": "Green",
+      "variant": "p2",
+      "variant_label": "PR02",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX20-01_PR02.png",
+      "image": null
+    },
+    {
+      "no": "EX20-02",
+      "name": "Dr. Gero, Evil's Activation",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "UNISON",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX20-02.png",
+      "image": null
+    },
+    {
+      "no": "EX20-03",
+      "name": "Android 17, Absorption Imminent",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX20-03.png",
+      "image": null
+    },
+    {
+      "no": "EX20-04",
+      "name": "Android 17 & Android 18, Absorption Imminent",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX20-04.png",
+      "image": null
+    },
+    {
+      "no": "EX20-05",
+      "name": "Android 18, Absorption Imminent",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX20-05.png",
+      "image": null
+    },
+    {
+      "no": "EX20-06",
+      "name": "Cell, Startling Assimilation",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX20-06.png",
+      "image": null
+    },
+    {
+      "no": "EX20-07",
+      "name": "Cell, Absorption Onslaught",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX20-07.png",
+      "image": null
+    },
+    {
+      "no": "EX20-08",
+      "name": "Wretched Regeneration",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX20-08.png",
+      "image": null
+    },
+    {
+      "no": "EX20-09",
+      "name": "Cell, Unending Torrent",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "GreenYellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX20-09.png",
+      "image": null
+    },
+    {
+      "no": "EX20-10",
+      "name": "Cell, Dawn of Despair",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "GreenYellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX20-10.png",
+      "image": null
+    }
+  ]
+}

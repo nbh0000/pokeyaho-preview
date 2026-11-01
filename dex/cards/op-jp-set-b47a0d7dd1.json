@@ -1,0 +1,137 @@
+{
+  "id": "op-jp-set-b47a0d7dd1",
+  "cards": [
+    {
+      "no": "OP01-005",
+      "name": "ウタ",
+      "name_ko": "우타",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-005_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP01-014",
+      "name": "ジンベエ",
+      "name_ko": "징베",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-014_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP01-017",
+      "name": "ニコ・ロビン",
+      "name_ko": "니코 로빈",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-017_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP01-021",
+      "name": "フランキー",
+      "name_ko": "프랑키",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-021_p4.png",
+      "image": null
+    },
+    {
+      "no": "P-016",
+      "name": "シャンクス",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-016_p2.png",
+      "image": null
+    },
+    {
+      "no": "P-022",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-022_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST01-002",
+      "name": "ウソップ",
+      "name_ko": "우솝",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-002_p4.png",
+      "image": null
+    },
+    {
+      "no": "ST01-004",
+      "name": "サンジ",
+      "name_ko": "상디",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-004_p4.png",
+      "image": null
+    },
+    {
+      "no": "ST01-006",
+      "name": "トニートニー・チョッパー",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-006_p4.png",
+      "image": null
+    },
+    {
+      "no": "ST01-007",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-007_p5.png",
+      "image": null
+    },
+    {
+      "no": "ST01-011",
+      "name": "ブルック",
+      "name_ko": "브룩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-011_p4.png",
+      "image": null
+    },
+    {
+      "no": "ST01-013",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-013_p3.png",
+      "image": null
+    }
+  ]
+}

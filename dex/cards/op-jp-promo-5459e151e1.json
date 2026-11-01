@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-5459e151e1",
+  "cards": [
+    {
+      "no": "OP16-032",
+      "name": "ボア・ハンコック",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-032_p2.png",
+      "image": "dex/cards/op-jp-promo/OP16-032_p2.webp"
+    }
+  ]
+}

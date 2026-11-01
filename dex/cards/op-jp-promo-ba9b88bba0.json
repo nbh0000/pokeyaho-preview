@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-ba9b88bba0",
+  "cards": [
+    {
+      "no": "ST01-007",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-007_p2.png",
+      "image": "dex/cards/op-jp-promo/ST01-007_p2.webp"
+    },
+    {
+      "no": "ST02-007",
+      "name": "ジュエリー・ボニー",
+      "name_ko": "쥬얼리 보니",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-007_p1.png",
+      "image": "dex/cards/op-jp-promo/ST02-007_p1.webp"
+    },
+    {
+      "no": "ST03-007",
+      "name": "戦桃丸",
+      "name_ko": "센토마루",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-007_p1.png",
+      "image": "dex/cards/op-jp-promo/ST03-007_p1.webp"
+    },
+    {
+      "no": "ST04-010",
+      "name": "フーズ・フー",
+      "name_ko": "후즈 후",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-010_p1.png",
+      "image": "dex/cards/op-jp-promo/ST04-010_p1.webp"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "op-en-promo-cs-25-26-event-pack",
+  "cards": [
+    {
+      "no": "OP05-067",
+      "name": "Zoro-Juurou",
+      "name_ko": "조로주로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p5",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-067_p5.png",
+      "image": "dex/cards/op-en-promo/OP05-067_p5.webp"
+    },
+    {
+      "no": "OP06-101",
+      "name": "O-Nami",
+      "name_ko": "오나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-101_p4.png",
+      "image": "dex/cards/op-en-promo/OP06-101_p4.webp"
+    },
+    {
+      "no": "P-065",
+      "name": "Tony Tony.Chopper",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-065_p1.png",
+      "image": "dex/cards/op-en-promo/P-065_p1.webp"
+    },
+    {
+      "no": "P-069",
+      "name": "Koala",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-069_p1.png",
+      "image": "dex/cards/op-en-promo/P-069_p1.webp"
+    },
+    {
+      "no": "P-070",
+      "name": "Carrot",
+      "name_ko": "캐럿",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-070_p1.png",
+      "image": "dex/cards/op-en-promo/P-070_p1.webp"
+    },
+    {
+      "no": "P-077",
+      "name": "Ulti",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-077_p1.png",
+      "image": "dex/cards/op-en-promo/P-077_p1.webp"
+    },
+    {
+      "no": "P-079",
+      "name": "Lim",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-079_p1.png",
+      "image": "dex/cards/op-en-promo/P-079_p1.webp"
+    },
+    {
+      "no": "P-083",
+      "name": "Shanks",
+      "name_ko": "샹크스",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-083_p1.png",
+      "image": "dex/cards/op-en-promo/P-083_p1.webp"
+    }
+  ]
+}

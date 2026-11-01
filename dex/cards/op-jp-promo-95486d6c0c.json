@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-95486d6c0c",
+  "cards": [
+    {
+      "no": "P-024",
+      "name": "海賊王に!!!おれはなるっ!!!!",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "EVENT",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-024.png",
+      "image": "dex/cards/op-jp-promo/P-024.webp"
+    }
+  ]
+}

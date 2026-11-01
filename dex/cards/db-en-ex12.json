@@ -1,0 +1,113 @@
+{
+  "id": "db-en-ex12",
+  "cards": [
+    {
+      "no": "EX12-01",
+      "name": "Toppo",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "LEADER",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX12-01.png",
+      "image": null
+    },
+    {
+      "no": "EX12-02",
+      "name": "Vegeta, Unison of Fury",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "UNISON",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX12-02.png",
+      "image": null
+    },
+    {
+      "no": "EX12-02",
+      "name": "Vegeta, Unison of Fury",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "UNISON",
+      "color": "Yellow",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX12-02_PR.png",
+      "image": null
+    },
+    {
+      "no": "EX12-02",
+      "name": "Vegeta, Unison of Fury",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "UNISON",
+      "color": "Yellow",
+      "variant": "p2",
+      "variant_label": "PR02",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX12-02_PR02.png",
+      "image": null
+    },
+    {
+      "no": "EX12-03",
+      "name": "Belmod, the Self-Indulgent",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX12-03.png",
+      "image": null
+    },
+    {
+      "no": "EX12-04",
+      "name": "Marcarita, Tutor of Power",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX12-04.png",
+      "image": null
+    },
+    {
+      "no": "EX12-05",
+      "name": "Dyspo, the Flashstriker",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX12-05.png",
+      "image": null
+    },
+    {
+      "no": "EX12-06",
+      "name": "Kahseral, the Slashstriker",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX12-06.png",
+      "image": null
+    },
+    {
+      "no": "EX12-07",
+      "name": "Spirit Fist",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX12-07.png",
+      "image": null
+    }
+  ]
+}

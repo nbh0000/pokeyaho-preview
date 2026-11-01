@@ -1,0 +1,71 @@
+{
+  "id": "op-jp-promo-9e8c6ff0a2",
+  "cards": [
+    {
+      "no": "OP01-016",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-016_p5.png",
+      "image": "dex/cards/op-jp-promo/OP01-016_p5.webp"
+    },
+    {
+      "no": "OP01-077",
+      "name": "ペローナ",
+      "name_ko": "페로나",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-077_p3.png",
+      "image": "dex/cards/op-jp-promo/OP01-077_p3.webp"
+    },
+    {
+      "no": "OP02-029",
+      "name": "キャロット",
+      "name_ko": "캐럿",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-029_p2.png",
+      "image": "dex/cards/op-jp-promo/OP02-029_p2.webp"
+    },
+    {
+      "no": "OP02-105",
+      "name": "たしぎ",
+      "name_ko": "타시기",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-105_p3.png",
+      "image": "dex/cards/op-jp-promo/OP02-105_p3.webp"
+    },
+    {
+      "no": "ST04-011",
+      "name": "ブラックマリア",
+      "name_ko": "블랙마리아",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-011_p3.png",
+      "image": "dex/cards/op-jp-promo/ST04-011_p3.webp"
+    },
+    {
+      "no": "ST07-008",
+      "name": "シャーロット・プリン",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-008_p3.png",
+      "image": "dex/cards/op-jp-promo/ST07-008_p3.webp"
+    }
+  ]
+}

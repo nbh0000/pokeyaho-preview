@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-one-piece-magazine-focus-on-one-piece-fan-letter",
+  "cards": [
+    {
+      "no": "P-096",
+      "name": "少女",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-096.png",
+      "image": "dex/cards/op-jp-promo/P-096.webp"
+    }
+  ]
+}

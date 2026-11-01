@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-offline-regional-participation-pack-2024-vol-1",
+  "cards": [
+    {
+      "no": "OP03-089",
+      "name": "Brannew",
+      "name_ko": "브랜뉴",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-089_p1.png",
+      "image": "dex/cards/op-en-promo/OP03-089_p1.webp"
+    },
+    {
+      "no": "OP03-102",
+      "name": "Sanji",
+      "name_ko": "상디",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-102_p1.png",
+      "image": "dex/cards/op-en-promo/OP03-102_p1.webp"
+    },
+    {
+      "no": "ST01-015",
+      "name": "Gum-Gum Jet Pistol",
+      "name_ko": "고무고무 JET 총",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015_p1.png",
+      "image": "dex/cards/op-en-promo/ST01-015_p1.webp"
+    },
+    {
+      "no": "ST02-008",
+      "name": "Scratchmen Apoo",
+      "name_ko": "스크래치멘 아푸",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-008_p1.png",
+      "image": "dex/cards/op-en-promo/ST02-008_p1.webp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-e2c4d6bf5e",
+  "cards": [
+    {
+      "no": "ST04-005",
+      "name": "クイーン",
+      "name_ko": "퀸",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-005_p2.png",
+      "image": "dex/cards/op-jp-promo/ST04-005_p2.webp"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "op-jp-promo-aac83b0687",
+  "cards": [
+    {
+      "no": "OP11-012",
+      "name": "フランキー",
+      "name_ko": "프랑키",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-012_p1.png",
+      "image": "dex/cards/op-jp-promo/OP11-012_p1.webp"
+    },
+    {
+      "no": "OP11-058",
+      "name": "モンキー・Ｄ・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-058_p1.png",
+      "image": "dex/cards/op-jp-promo/OP11-058_p1.webp"
+    },
+    {
+      "no": "OP11-065",
+      "name": "シャーロット・アナナ",
+      "name_ko": "샬롯 아나나",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-065_p1.png",
+      "image": "dex/cards/op-jp-promo/OP11-065_p1.webp"
+    },
+    {
+      "no": "OP11-096",
+      "name": "リッパー",
+      "name_ko": "리퍼",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-096_p1.png",
+      "image": "dex/cards/op-jp-promo/OP11-096_p1.webp"
+    },
+    {
+      "no": "OP12-036",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-036_p1.png",
+      "image": "dex/cards/op-jp-promo/OP12-036_p1.webp"
+    }
+  ]
+}

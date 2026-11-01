@@ -1,0 +1,93 @@
+{
+  "id": "pkm-jp-pg737",
+  "cards": [
+    {
+      "no": "001/004",
+      "name": "ブースターVMAX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039654_P_BUSUTAVMAX.jpg",
+      "image": null
+    },
+    {
+      "no": "002/004",
+      "name": "シャワーズVMAX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039655_P_SHAWAZUVMAX.jpg",
+      "image": null
+    },
+    {
+      "no": "003/004",
+      "name": "サンダースVMAX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039656_P_SANDASUVMAX.jpg",
+      "image": null
+    },
+    {
+      "no": "004/004",
+      "name": "エーフィVMAX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039657_P_EFIVMAX.jpg",
+      "image": null
+    },
+    {
+      "no": "FIR",
+      "name": "基本炎エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039658_E_KIHONHONOOENERUGI.jpg",
+      "image": null
+    },
+    {
+      "no": "LIG",
+      "name": "基本雷エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039660_E_KIHONKAMINARIENERUGI.jpg",
+      "image": null
+    },
+    {
+      "no": "PSY",
+      "name": "基本超エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039661_E_KIHONCHOUENERUGI.jpg",
+      "image": null
+    },
+    {
+      "no": "WAT",
+      "name": "基本水エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039659_E_KIHONMIZUENERUGI.jpg",
+      "image": null
+    }
+  ]
+}

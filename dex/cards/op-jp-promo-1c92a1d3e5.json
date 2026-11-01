@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-1c92a1d3e5",
+  "cards": [
+    {
+      "no": "OP02-114",
+      "name": "ボルサリーノ",
+      "name_ko": "볼사리노",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-114_p3.png",
+      "image": "dex/cards/op-jp-promo/OP02-114_p3.webp"
+    }
+  ]
+}

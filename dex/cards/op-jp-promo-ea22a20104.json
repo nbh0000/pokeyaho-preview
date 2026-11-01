@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-ea22a20104",
+  "cards": [
+    {
+      "no": "OP10-005",
+      "name": "サンジ",
+      "name_ko": "상디",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-005_p2.png",
+      "image": "dex/cards/op-jp-promo/OP10-005_p2.webp"
+    }
+  ]
+}

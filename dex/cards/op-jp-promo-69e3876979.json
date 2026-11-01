@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-69e3876979",
+  "cards": [
+    {
+      "no": "OP01-094",
+      "name": "カイドウ",
+      "name_ko": "카이도",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-094_p3.png",
+      "image": "dex/cards/op-jp-promo/OP01-094_p3.webp"
+    }
+  ]
+}

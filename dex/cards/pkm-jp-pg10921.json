@@ -1,0 +1,27 @@
+{
+  "id": "pkm-jp-pg10921",
+  "cards": [
+    {
+      "no": "173/SV-P",
+      "name": "ヨルノズク",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/046133_P_YORUNOZUKU.jpg",
+      "image": "dex/cards/pkm-jp-pg10921/173-SV-P.webp"
+    },
+    {
+      "no": "150/SV-P",
+      "name": "なかよしポフィン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045403_T_NAKAYOSHIPOFUIN.jpg",
+      "image": "dex/cards/pkm-jp-pg10907/150-SV-P.webp"
+    }
+  ]
+}

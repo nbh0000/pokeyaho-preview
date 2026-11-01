@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-1e1717940a",
+  "cards": [
+    {
+      "no": "ST10-010",
+      "name": "トラファルガー・ロー",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-010_p2.png",
+      "image": "dex/cards/op-jp-promo/ST10-010_p2.webp"
+    }
+  ]
+}

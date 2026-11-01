@@ -1,0 +1,60 @@
+{
+  "id": "op-en-promo-included-in-promotion-pack-2022",
+  "cards": [
+    {
+      "no": "P-001",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001.png",
+      "image": "dex/cards/op-en-promo/P-001.webp"
+    },
+    {
+      "no": "P-002",
+      "name": "I Smell Adventure!!!",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "EVENT",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-002.png",
+      "image": "dex/cards/op-en-promo/P-002.webp"
+    },
+    {
+      "no": "P-003",
+      "name": "Eustass\"Captain\"Kid",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-003.png",
+      "image": "dex/cards/op-en-promo/P-003.webp"
+    },
+    {
+      "no": "P-004",
+      "name": "Crocodile",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-004.png",
+      "image": "dex/cards/op-en-promo/P-004.webp"
+    },
+    {
+      "no": "P-005",
+      "name": "Kaido",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-005.png",
+      "image": "dex/cards/op-en-promo/P-005.webp"
+    }
+  ]
+}

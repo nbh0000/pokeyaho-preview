@@ -1,0 +1,137 @@
+{
+  "id": "db-en-sd8",
+  "cards": [
+    {
+      "no": "SD8-01",
+      "name": "Broly",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-01.png",
+      "image": null
+    },
+    {
+      "no": "SD8-02",
+      "name": "Broly, the Ravager",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-02.png",
+      "image": null
+    },
+    {
+      "no": "SD8-03",
+      "name": "Broly, Rushing Forth",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-03.png",
+      "image": null
+    },
+    {
+      "no": "SD8-04",
+      "name": "Defending Father Paragus",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-04.png",
+      "image": null
+    },
+    {
+      "no": "SD8-04",
+      "name": "Defending Father Paragus",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-04_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD8-05",
+      "name": "Cheelai, Frieza Force Soldier",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-05.png",
+      "image": null
+    },
+    {
+      "no": "SD8-06",
+      "name": "Lemo, Frieza Force Soldier",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-06.png",
+      "image": null
+    },
+    {
+      "no": "SD8-07",
+      "name": "Son Goku, Time to Fight",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-07.png",
+      "image": null
+    },
+    {
+      "no": "SD8-08",
+      "name": "Vegeta, Time to Fight",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-08.png",
+      "image": null
+    },
+    {
+      "no": "SD8-09",
+      "name": "Godly Destruction Whis",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-09.png",
+      "image": null
+    },
+    {
+      "no": "SD8-10",
+      "name": "Godly Destruction Beerus",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-10.png",
+      "image": null
+    }
+  ]
+}

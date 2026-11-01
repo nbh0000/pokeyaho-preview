@@ -1,0 +1,159 @@
+{
+  "id": "op-jp-promo-6daffc8fe4",
+  "cards": [
+    {
+      "no": "EB01-006",
+      "name": "トニートニー・チョッパー",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-006_p4.png",
+      "image": "dex/cards/op-jp-promo/EB01-006_p4.webp"
+    },
+    {
+      "no": "EB01-006",
+      "name": "トニートニー・チョッパー",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-006_p5.png",
+      "image": "dex/cards/op-jp-promo/EB01-006_p5.webp"
+    },
+    {
+      "no": "EB01-046",
+      "name": "ブルック",
+      "name_ko": "브룩",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-046_p2.png",
+      "image": "dex/cards/op-jp-promo/EB01-046_p2.webp"
+    },
+    {
+      "no": "EB01-046",
+      "name": "ブルック",
+      "name_ko": "브룩",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-046_p3.png",
+      "image": "dex/cards/op-jp-promo/EB01-046_p3.webp"
+    },
+    {
+      "no": "OP01-077",
+      "name": "ペローナ",
+      "name_ko": "페로나",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-077_p4.png",
+      "image": "dex/cards/op-jp-promo/OP01-077_p4.webp"
+    },
+    {
+      "no": "OP01-077",
+      "name": "ペローナ",
+      "name_ko": "페로나",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p5",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-077_p5.png",
+      "image": "dex/cards/op-jp-promo/OP01-077_p5.webp"
+    },
+    {
+      "no": "OP07-021",
+      "name": "ウルージ",
+      "name_ko": "우루지",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-021_p2.png",
+      "image": "dex/cards/op-jp-promo/OP07-021_p2.webp"
+    },
+    {
+      "no": "OP07-021",
+      "name": "ウルージ",
+      "name_ko": "우루지",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-021_p3.png",
+      "image": "dex/cards/op-jp-promo/OP07-021_p3.webp"
+    },
+    {
+      "no": "OP08-074",
+      "name": "ブラックマリア",
+      "name_ko": "블랙마리아",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-074_p2.png",
+      "image": "dex/cards/op-jp-promo/OP08-074_p2.webp"
+    },
+    {
+      "no": "OP08-074",
+      "name": "ブラックマリア",
+      "name_ko": "블랙마리아",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-074_p3.png",
+      "image": "dex/cards/op-jp-promo/OP08-074_p3.webp"
+    },
+    {
+      "no": "OP09-050",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-050_p2.png",
+      "image": "dex/cards/op-jp-promo/OP09-050_p2.webp"
+    },
+    {
+      "no": "OP09-050",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-050_p3.png",
+      "image": "dex/cards/op-jp-promo/OP09-050_p3.webp"
+    },
+    {
+      "no": "OP09-106",
+      "name": "ニコ・オルビア",
+      "name_ko": "니코 올비아",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-106_p1.png",
+      "image": "dex/cards/op-jp-promo/OP09-106_p1.webp"
+    },
+    {
+      "no": "OP09-106",
+      "name": "ニコ・オルビア",
+      "name_ko": "니코 올비아",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-106_p2.png",
+      "image": "dex/cards/op-jp-promo/OP09-106_p2.webp"
+    }
+  ]
+}

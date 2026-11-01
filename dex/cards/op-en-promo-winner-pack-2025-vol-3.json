@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-winner-pack-2025-vol-3",
+  "cards": [
+    {
+      "no": "EB02-019",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-019_p2.png",
+      "image": "dex/cards/op-en-promo/EB02-019_p2.webp"
+    },
+    {
+      "no": "EB02-055",
+      "name": "Jinbe",
+      "name_ko": "징베",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-055_p2.png",
+      "image": "dex/cards/op-en-promo/EB02-055_p2.webp"
+    },
+    {
+      "no": "OP08-062",
+      "name": "Charlotte Katakuri",
+      "name_ko": "샬롯 카타쿠리",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-062_p2.png",
+      "image": "dex/cards/op-en-promo/OP08-062_p2.webp"
+    },
+    {
+      "no": "ST19-002",
+      "name": "Sengoku",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST19-002_p2.png",
+      "image": "dex/cards/op-en-promo/ST19-002_p2.webp"
+    }
+  ]
+}

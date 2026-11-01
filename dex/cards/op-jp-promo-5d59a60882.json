@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-5d59a60882",
+  "cards": [
+    {
+      "no": "OP04-112",
+      "name": "ヤマト",
+      "name_ko": "야마토",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-112_p2.png",
+      "image": "dex/cards/op-jp-promo/OP04-112_p2.webp"
+    }
+  ]
+}

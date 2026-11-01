@@ -1,0 +1,159 @@
+{
+  "id": "op-jp-set-5a7772fd20",
+  "cards": [
+    {
+      "no": "EB01-043",
+      "name": "スパンダイン",
+      "name_ko": "스팬다인",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-043_p1.png",
+      "image": null
+    },
+    {
+      "no": "EB01-043",
+      "name": "スパンダイン",
+      "name_ko": "스팬다인",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-043_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP05-093",
+      "name": "ロブ・ルッチ",
+      "name_ko": "로브 루치",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-093_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP05-093",
+      "name": "ロブ・ルッチ",
+      "name_ko": "로브 루치",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-093_p4.png",
+      "image": null
+    },
+    {
+      "no": "OP08-105",
+      "name": "ジュエリー・ボニー",
+      "name_ko": "쥬얼리 보니",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-105_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP08-105",
+      "name": "ジュエリー・ボニー",
+      "name_ko": "쥬얼리 보니",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-105_p3.png",
+      "image": null
+    },
+    {
+      "no": "ST01-007",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p6",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-007_p6.png",
+      "image": null
+    },
+    {
+      "no": "ST01-007",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p7",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-007_p7.png",
+      "image": null
+    },
+    {
+      "no": "ST10-013",
+      "name": "ユースタス・キッド",
+      "name_ko": "유스타스 키드",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-013_p3.png",
+      "image": null
+    },
+    {
+      "no": "ST10-013",
+      "name": "ユースタス・キッド",
+      "name_ko": "유스타스 키드",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST10-013_p4.png",
+      "image": null
+    },
+    {
+      "no": "ST16-001",
+      "name": "ウタ",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-001_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST16-001",
+      "name": "ウタ",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST16-001_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST17-004",
+      "name": "ボア・ハンコック",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-004_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST17-004",
+      "name": "ボア・ハンコック",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-004_p2.png",
+      "image": null
+    }
+  ]
+}

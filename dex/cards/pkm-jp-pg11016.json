@@ -1,0 +1,82 @@
+{
+  "id": "pkm-jp-pg11016",
+  "cards": [
+    {
+      "no": "166/M-P",
+      "name": "ゴビット",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050778_P_GOBITTO.jpg",
+      "image": "dex/cards/pkm-jp-pg11016/166-M-P.webp"
+    },
+    {
+      "no": "167/M-P",
+      "name": "ハリテヤマ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050779_P_HARITEYAMA.jpg",
+      "image": "dex/cards/pkm-jp-pg11016/167-M-P.webp"
+    },
+    {
+      "no": "168/M-P",
+      "name": "ゴース",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050780_P_GOSU.jpg",
+      "image": "dex/cards/pkm-jp-pg11016/168-M-P.webp"
+    },
+    {
+      "no": "169/M-P",
+      "name": "メガヒードランex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050781_P_MHIDORANIEKKUSU.jpg",
+      "image": "dex/cards/pkm-jp-pg11016/169-M-P.webp"
+    },
+    {
+      "no": "170/M-P",
+      "name": "エネルギーリサイクル",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050782_T_ENERUGIRISAIKURU.jpg",
+      "image": "dex/cards/pkm-jp-pg11016/170-M-P.webp"
+    },
+    {
+      "no": "171/M-P",
+      "name": "ハルジオ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050783_T_HARUJIO.jpg",
+      "image": "dex/cards/pkm-jp-pg11016/171-M-P.webp"
+    },
+    {
+      "no": "172/M-P",
+      "name": "ムク",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050784_T_MUKU.jpg",
+      "image": "dex/cards/pkm-jp-pg11016/172-M-P.webp"
+    }
+  ]
+}

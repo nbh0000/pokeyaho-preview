@@ -1,0 +1,101 @@
+{
+  "id": "db-en-ex09",
+  "cards": [
+    {
+      "no": "EX09-01",
+      "name": "Son Goku, Nimbus Voyager",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX09-01.png",
+      "image": null
+    },
+    {
+      "no": "EX09-02",
+      "name": "Vegeta, Time for Vacation",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX09-02.png",
+      "image": null
+    },
+    {
+      "no": "EX09-03",
+      "name": "Super Saiyan Son Goku",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "LEADER",
+      "color": "Red/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX09-03.png",
+      "image": null
+    },
+    {
+      "no": "EX09-04",
+      "name": "Son Gohan & Videl, Power Couple",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX09-04.png",
+      "image": null
+    },
+    {
+      "no": "EX09-05",
+      "name": "Son Goten & Trunks, Back to Back",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX09-05.png",
+      "image": null
+    },
+    {
+      "no": "EX09-06",
+      "name": "Almighty Resistance",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Red/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX09-06.png",
+      "image": null
+    },
+    {
+      "no": "EX09-06",
+      "name": "Almighty Resistance",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Red/Yellow",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX09-06_PR.png",
+      "image": null
+    },
+    {
+      "no": "EX09-06",
+      "name": "Almighty Resistance",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Red/Yellow",
+      "variant": "p2",
+      "variant_label": "PR02",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX09-06_PR02.png",
+      "image": null
+    }
+  ]
+}

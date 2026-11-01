@@ -1,0 +1,16 @@
+{
+  "id": "op-en-promo-pre-release-op08",
+  "cards": [
+    {
+      "no": "P-071",
+      "name": "Marco",
+      "name_ko": "마르코",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-071.png",
+      "image": "dex/cards/op-en-promo/P-071.webp"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "op-en-promo-tournament-pack-vol-1",
+  "cards": [
+    {
+      "no": "P-006",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-006.png",
+      "image": "dex/cards/op-en-promo/P-006.webp"
+    },
+    {
+      "no": "P-007",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-007.png",
+      "image": "dex/cards/op-en-promo/P-007.webp"
+    },
+    {
+      "no": "P-008",
+      "name": "Yamato",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-008.png",
+      "image": "dex/cards/op-en-promo/P-008.webp"
+    },
+    {
+      "no": "P-009",
+      "name": "Trafalgar Law",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-009.png",
+      "image": "dex/cards/op-en-promo/P-009.webp"
+    },
+    {
+      "no": "P-010",
+      "name": "Kaido",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-010.png",
+      "image": "dex/cards/op-en-promo/P-010.webp"
+    }
+  ]
+}

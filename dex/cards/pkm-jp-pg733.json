@@ -1,0 +1,71 @@
+{
+  "id": "pkm-jp-pg733",
+  "cards": [
+    {
+      "no": "001/006",
+      "name": "はくばバドレックスV",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039502_P_HAKUBABADOREKKUSUV.jpg",
+      "image": null
+    },
+    {
+      "no": "002/006",
+      "name": "こくばバドレックスV",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039503_P_KOKUBABADOREKKUSUV.jpg",
+      "image": null
+    },
+    {
+      "no": "003/006",
+      "name": "妖しいカンヅメ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039504_T_AYASHIIKANDUME.jpg",
+      "image": null
+    },
+    {
+      "no": "004/006",
+      "name": "たっぷりバケツ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039505_T_TAPPURIBAKETSU.jpg",
+      "image": null
+    },
+    {
+      "no": "005/006",
+      "name": "ウォッシュ水エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039506_E_UOSSHUMIZUENERUGI.jpg",
+      "image": null
+    },
+    {
+      "no": "006/006",
+      "name": "ホラー超エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039507_E_HORACHOUENERUGI.jpg",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "op-en-promo-included-in-online-regional-participation-pack-vol-1",
+  "cards": [
+    {
+      "no": "OP02-035",
+      "name": "Trafalgar Law",
+      "name_ko": "트라팔가 로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-035_p1.png",
+      "image": "dex/cards/op-en-promo/OP02-035_p1.webp"
+    },
+    {
+      "no": "OP02-098",
+      "name": "Koby",
+      "name_ko": "코비",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-098_p1.png",
+      "image": "dex/cards/op-en-promo/OP02-098_p1.webp"
+    },
+    {
+      "no": "ST01-004",
+      "name": "Sanji",
+      "name_ko": "상디",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p1.png",
+      "image": "dex/cards/op-en-promo/ST01-004_p1.webp"
+    },
+    {
+      "no": "ST03-014",
+      "name": "Marshall.D.Teach",
+      "name_ko": "마샬 D. 티치",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-014_p1.png",
+      "image": "dex/cards/op-en-promo/ST03-014_p1.webp"
+    },
+    {
+      "no": "ST04-008",
+      "name": "Jack",
+      "name_ko": "잭",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008_p1.png",
+      "image": "dex/cards/op-en-promo/ST04-008_p1.webp"
+    },
+    {
+      "no": "ST07-008",
+      "name": "Charlotte Pudding",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-008_p1.png",
+      "image": "dex/cards/op-en-promo/ST07-008_p1.webp"
+    }
+  ]
+}

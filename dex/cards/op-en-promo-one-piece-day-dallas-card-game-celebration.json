@@ -1,0 +1,27 @@
+{
+  "id": "op-en-promo-one-piece-day-dallas-card-game-celebration",
+  "cards": [
+    {
+      "no": "OP07-113",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-113_p1.png",
+      "image": "dex/cards/op-en-promo/OP07-113_p1.webp"
+    },
+    {
+      "no": "ST10-006",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p4",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p4.png",
+      "image": "dex/cards/op-en-promo/ST10-006_p4.webp"
+    }
+  ]
+}

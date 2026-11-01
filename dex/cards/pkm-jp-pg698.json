@@ -1,0 +1,280 @@
+{
+  "id": "pkm-jp-pg698",
+  "cards": [
+    {
+      "no": "001/024",
+      "name": "ピカチュウ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037551_P_PIKACHUU.jpg",
+      "image": "dex/cards/pkm-jp-pg698/001-024.webp"
+    },
+    {
+      "no": "002/024",
+      "name": "ライチュウ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037552_P_RAICHUU.jpg",
+      "image": "dex/cards/pkm-jp-pg698/002-024.webp"
+    },
+    {
+      "no": "003/024",
+      "name": "チョンチー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037553_P_CHONCHI.jpg",
+      "image": "dex/cards/pkm-jp-pg698/003-024.webp"
+    },
+    {
+      "no": "004/024",
+      "name": "バチュル",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037554_P_BACHURU.jpg",
+      "image": "dex/cards/pkm-jp-pg698/004-024.webp"
+    },
+    {
+      "no": "005/024",
+      "name": "デンチュラ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037555_P_DENCHURA.jpg",
+      "image": "dex/cards/pkm-jp-pg698/005-024.webp"
+    },
+    {
+      "no": "006/024",
+      "name": "カプ・コケコV",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037556_P_KAPUKOKEKOV.jpg",
+      "image": "dex/cards/pkm-jp-pg698/006-024.webp"
+    },
+    {
+      "no": "007/024",
+      "name": "ワンパチ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037557_P_WANPACHI.jpg",
+      "image": "dex/cards/pkm-jp-pg698/007-024.webp"
+    },
+    {
+      "no": "008/024",
+      "name": "パルスワン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037558_P_PARUSUWAN.jpg",
+      "image": "dex/cards/pkm-jp-pg698/008-024.webp"
+    },
+    {
+      "no": "009/024",
+      "name": "モルペコ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037559_P_MORUPEKO.jpg",
+      "image": "dex/cards/pkm-jp-pg698/009-024.webp"
+    },
+    {
+      "no": "010/024",
+      "name": "ジジーロン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037560_P_JIJIRON.jpg",
+      "image": "dex/cards/pkm-jp-pg698/010-024.webp"
+    },
+    {
+      "no": "011/024",
+      "name": "ウールー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037561_P_URU.jpg",
+      "image": "dex/cards/pkm-jp-pg698/011-024.webp"
+    },
+    {
+      "no": "012/024",
+      "name": "エネルギー回収",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037562_T_ENERUGIKAISHUU.jpg",
+      "image": "dex/cards/pkm-jp-pg698/012-024.webp"
+    },
+    {
+      "no": "013/024",
+      "name": "エネルギー転送",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037563_T_ENERUGITENSOU.jpg",
+      "image": "dex/cards/pkm-jp-pg698/013-024.webp"
+    },
+    {
+      "no": "014/024",
+      "name": "スーパーボール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037564_T_SUPABORU.jpg",
+      "image": "dex/cards/pkm-jp-pg698/014-024.webp"
+    },
+    {
+      "no": "015/024",
+      "name": "ポケギア3.0",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037565_T_POKEGIA.jpg",
+      "image": "dex/cards/pkm-jp-pg698/015-024.webp"
+    },
+    {
+      "no": "016/024",
+      "name": "ポケモンいれかえ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037566_T_POKEMONIREKAE.jpg",
+      "image": "dex/cards/pkm-jp-pg698/016-024.webp"
+    },
+    {
+      "no": "017/024",
+      "name": "ポケモンキャッチャー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037567_T_POKEMONKYACCHA.jpg",
+      "image": "dex/cards/pkm-jp-pg698/017-024.webp"
+    },
+    {
+      "no": "018/024",
+      "name": "ロトムじてんしゃ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037568_T_ROTOMUJITENSHA.jpg",
+      "image": "dex/cards/pkm-jp-pg698/018-024.webp"
+    },
+    {
+      "no": "019/024",
+      "name": "げんきのハチマキ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037569_T_GENKINOHACHIMAKI.jpg",
+      "image": "dex/cards/pkm-jp-pg698/019-024.webp"
+    },
+    {
+      "no": "020/024",
+      "name": "博士の研究",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037570_T_HAKASENOKENKYUUMAGUNORIAHAKASE.jpg",
+      "image": "dex/cards/pkm-jp-pg698/020-024.webp"
+    },
+    {
+      "no": "021/024",
+      "name": "ビート",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037571_T_BITO.jpg",
+      "image": "dex/cards/pkm-jp-pg698/021-024.webp"
+    },
+    {
+      "no": "022/024",
+      "name": "ポケモンごっこ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037572_T_POKEMONGOKKO.jpg",
+      "image": "dex/cards/pkm-jp-pg698/022-024.webp"
+    },
+    {
+      "no": "023/024",
+      "name": "ホップ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037573_T_HOPPU.jpg",
+      "image": "dex/cards/pkm-jp-pg698/023-024.webp"
+    },
+    {
+      "no": "024/024",
+      "name": "マリィ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037574_T_MARII.jpg",
+      "image": "dex/cards/pkm-jp-pg698/024-024.webp"
+    },
+    {
+      "no": "LIG",
+      "name": "基本雷エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037575_E_KIHONKAMINARIENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg698/LIG.webp"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-tournament-pack-vol-7",
+  "cards": [
+    {
+      "no": "OP01-041",
+      "name": "Kouzuki Momonosuke",
+      "name_ko": "코즈키 모모노스케",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-041_p1.png",
+      "image": "dex/cards/op-en-promo/OP01-041_p1.webp"
+    },
+    {
+      "no": "OP05-106",
+      "name": "Shura",
+      "name_ko": "슈라",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-106_p1.png",
+      "image": "dex/cards/op-en-promo/OP05-106_p1.webp"
+    },
+    {
+      "no": "P-017",
+      "name": "Trafalgar Law",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-017_p1.png",
+      "image": "dex/cards/op-en-promo/P-017_p1.webp"
+    },
+    {
+      "no": "P-019",
+      "name": "Bepo",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-019_p1.png",
+      "image": "dex/cards/op-en-promo/P-019_p1.webp"
+    }
+  ]
+}

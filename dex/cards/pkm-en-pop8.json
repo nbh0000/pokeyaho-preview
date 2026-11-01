@@ -1,0 +1,192 @@
+{
+  "id": "pkm-en-pop8",
+  "cards": [
+    {
+      "no": "1",
+      "name": "Heatran",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/1.png",
+      "image": null
+    },
+    {
+      "no": "2",
+      "name": "Lucario",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/2.png",
+      "image": null
+    },
+    {
+      "no": "3",
+      "name": "Luxray",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/3.png",
+      "image": null
+    },
+    {
+      "no": "4",
+      "name": "Probopass",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Metal",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/4.png",
+      "image": null
+    },
+    {
+      "no": "5",
+      "name": "Yanmega",
+      "name_ko": null,
+      "rarity": "Rare",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/5.png",
+      "image": null
+    },
+    {
+      "no": "6",
+      "name": "Cherrim",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/6.png",
+      "image": null
+    },
+    {
+      "no": "7",
+      "name": "Carnivine",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/7.png",
+      "image": null
+    },
+    {
+      "no": "8",
+      "name": "Luxio",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/8.png",
+      "image": null
+    },
+    {
+      "no": "9",
+      "name": "Night Maintenance",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/9.png",
+      "image": null
+    },
+    {
+      "no": "10",
+      "name": "Rare Candy",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/10.png",
+      "image": null
+    },
+    {
+      "no": "11",
+      "name": "Roseanne's Research",
+      "name_ko": null,
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/11.png",
+      "image": null
+    },
+    {
+      "no": "12",
+      "name": "Chimchar",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/12.png",
+      "image": null
+    },
+    {
+      "no": "13",
+      "name": "Croagunk",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/13.png",
+      "image": null
+    },
+    {
+      "no": "14",
+      "name": "Happiny",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/14.png",
+      "image": null
+    },
+    {
+      "no": "15",
+      "name": "Piplup",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/15.png",
+      "image": null
+    },
+    {
+      "no": "16",
+      "name": "Riolu",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/16.png",
+      "image": null
+    },
+    {
+      "no": "17",
+      "name": "Turtwig",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Pokémon",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/pop8/17.png",
+      "image": null
+    }
+  ]
+}

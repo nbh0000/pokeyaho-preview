@@ -1,0 +1,27 @@
+{
+  "id": "pkm-jp-pg10958",
+  "cards": [
+    {
+      "no": "258/SV-P",
+      "name": "ガチグマ アカツキex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047295_P_GACHIGUMAAKATSUKIEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10958/258-SV-P.webp"
+    },
+    {
+      "no": "237/SV-P",
+      "name": "なかよしポフィン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047172_T_NAKAYOSHIPOFUIN.jpg",
+      "image": "dex/cards/pkm-jp-pg10947/237-SV-P.webp"
+    }
+  ]
+}

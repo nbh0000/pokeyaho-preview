@@ -1,0 +1,269 @@
+{
+  "id": "pkm-jp-pg696",
+  "cards": [
+    {
+      "no": "001/023",
+      "name": "ロコン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037503_P_ROKON.jpg",
+      "image": "dex/cards/pkm-jp-pg696/001-023.webp"
+    },
+    {
+      "no": "002/023",
+      "name": "キュウコン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037504_P_KYUUKON.jpg",
+      "image": "dex/cards/pkm-jp-pg696/002-023.webp"
+    },
+    {
+      "no": "003/023",
+      "name": "ビクティニV",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037505_P_BIKUTEINIV.jpg",
+      "image": "dex/cards/pkm-jp-pg696/003-023.webp"
+    },
+    {
+      "no": "004/023",
+      "name": "クイタラン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037506_P_KUITARAN.jpg",
+      "image": "dex/cards/pkm-jp-pg696/004-023.webp"
+    },
+    {
+      "no": "005/023",
+      "name": "バクガメス",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037507_P_BAKUGAMESU.jpg",
+      "image": "dex/cards/pkm-jp-pg696/005-023.webp"
+    },
+    {
+      "no": "006/023",
+      "name": "ヒバニー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037508_P_HIBANI.jpg",
+      "image": "dex/cards/pkm-jp-pg696/006-023.webp"
+    },
+    {
+      "no": "007/023",
+      "name": "ラビフット",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037509_P_RABIFUTTO.jpg",
+      "image": "dex/cards/pkm-jp-pg696/007-023.webp"
+    },
+    {
+      "no": "008/023",
+      "name": "エースバーン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037510_P_ESUBAN.jpg",
+      "image": "dex/cards/pkm-jp-pg696/008-023.webp"
+    },
+    {
+      "no": "009/023",
+      "name": "ヤクデ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037511_P_YAKUDE.jpg",
+      "image": "dex/cards/pkm-jp-pg696/009-023.webp"
+    },
+    {
+      "no": "010/023",
+      "name": "チラーミィ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037512_P_CHIRAMII.jpg",
+      "image": "dex/cards/pkm-jp-pg696/010-023.webp"
+    },
+    {
+      "no": "011/023",
+      "name": "エネルギー転送",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037513_T_ENERUGITENSOU.jpg",
+      "image": "dex/cards/pkm-jp-pg696/011-023.webp"
+    },
+    {
+      "no": "012/023",
+      "name": "クラッシュハンマー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037514_T_KURASSHUHANMA.jpg",
+      "image": "dex/cards/pkm-jp-pg696/012-023.webp"
+    },
+    {
+      "no": "013/023",
+      "name": "しんかのおこう",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037515_T_SHINKANOOKOU.jpg",
+      "image": "dex/cards/pkm-jp-pg696/013-023.webp"
+    },
+    {
+      "no": "014/023",
+      "name": "スーパーボール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037516_T_SUPABORU.jpg",
+      "image": "dex/cards/pkm-jp-pg696/014-023.webp"
+    },
+    {
+      "no": "015/023",
+      "name": "ふしぎなアメ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037517_T_FUSHIGINAAME.jpg",
+      "image": "dex/cards/pkm-jp-pg696/015-023.webp"
+    },
+    {
+      "no": "016/023",
+      "name": "ポケギア3.0",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037518_T_POKEGIA.jpg",
+      "image": "dex/cards/pkm-jp-pg696/016-023.webp"
+    },
+    {
+      "no": "017/023",
+      "name": "ポケモンいれかえ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037519_T_POKEMONIREKAE.jpg",
+      "image": "dex/cards/pkm-jp-pg696/017-023.webp"
+    },
+    {
+      "no": "018/023",
+      "name": "ポケモンキャッチャー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037520_T_POKEMONKYACCHA.jpg",
+      "image": "dex/cards/pkm-jp-pg696/018-023.webp"
+    },
+    {
+      "no": "019/023",
+      "name": "げんきのハチマキ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037521_T_GENKINOHACHIMAKI.jpg",
+      "image": "dex/cards/pkm-jp-pg696/019-023.webp"
+    },
+    {
+      "no": "020/023",
+      "name": "博士の研究",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037522_T_HAKASENOKENKYUUMAGUNORIAHAKASE.jpg",
+      "image": "dex/cards/pkm-jp-pg696/020-023.webp"
+    },
+    {
+      "no": "021/023",
+      "name": "ポケモンごっこ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037523_T_POKEMONGOKKO.jpg",
+      "image": "dex/cards/pkm-jp-pg696/021-023.webp"
+    },
+    {
+      "no": "022/023",
+      "name": "ホップ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037524_T_HOPPU.jpg",
+      "image": "dex/cards/pkm-jp-pg696/022-023.webp"
+    },
+    {
+      "no": "023/023",
+      "name": "マリィ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037525_T_MARII.jpg",
+      "image": "dex/cards/pkm-jp-pg696/023-023.webp"
+    },
+    {
+      "no": "FIR",
+      "name": "基本炎エネルギー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SA/037526_E_KIHONHONOOENERUGI.jpg",
+      "image": "dex/cards/pkm-jp-pg696/FIR.webp"
+    }
+  ]
+}

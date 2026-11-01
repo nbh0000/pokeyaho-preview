@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-85a911d223",
+  "cards": [
+    {
+      "no": "P-117",
+      "name": "ナミ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "LEADER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-117.png",
+      "image": "dex/cards/op-jp-promo/P-117.webp"
+    }
+  ]
+}

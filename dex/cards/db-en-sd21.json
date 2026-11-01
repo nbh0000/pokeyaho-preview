@@ -1,0 +1,89 @@
+{
+  "id": "db-en-sd21",
+  "cards": [
+    {
+      "no": "SD21-01",
+      "name": "Son Gohan",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD21-01.png",
+      "image": null
+    },
+    {
+      "no": "SD21-02",
+      "name": "Piccolo, Master-Student Technique",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD21-02.png",
+      "image": null
+    },
+    {
+      "no": "SD21-03",
+      "name": "Frieza, Unexpected Assistance",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD21-03.png",
+      "image": null
+    },
+    {
+      "no": "SD21-04",
+      "name": "Son Gohan, Master-Student Technique",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD21-04.png",
+      "image": null
+    },
+    {
+      "no": "SD21-05",
+      "name": "Piccolo, Piercing Flash",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD21-05.png",
+      "image": null
+    },
+    {
+      "no": "SD21-06",
+      "name": "Krillin, Clever Fighter",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD21-06.png",
+      "image": null
+    },
+    {
+      "no": "SD21-07",
+      "name": "Android 18, Perfect Teamwork",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD21-07.png",
+      "image": null
+    }
+  ]
+}

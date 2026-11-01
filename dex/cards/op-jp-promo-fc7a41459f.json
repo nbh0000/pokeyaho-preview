@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-fc7a41459f",
+  "cards": [
+    {
+      "no": "OP15-068",
+      "name": "神兵",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP15-068_p1.png",
+      "image": "dex/cards/op-jp-promo/OP15-068_p1.webp"
+    },
+    {
+      "no": "OP16-010",
+      "name": "ナミュール",
+      "name_ko": null,
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-010_p1.png",
+      "image": "dex/cards/op-jp-promo/OP16-010_p1.webp"
+    },
+    {
+      "no": "OP16-024",
+      "name": "イナズマ",
+      "name_ko": null,
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-024_p1.png",
+      "image": "dex/cards/op-jp-promo/OP16-024_p1.webp"
+    },
+    {
+      "no": "OP16-092",
+      "name": "ニコ・ロビン",
+      "name_ko": null,
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP16-092_p2.png",
+      "image": "dex/cards/op-jp-promo/OP16-092_p2.webp"
+    }
+  ]
+}

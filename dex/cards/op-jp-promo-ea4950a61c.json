@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-ea4950a61c",
+  "cards": [
+    {
+      "no": "P-066",
+      "name": "ボア・ハンコック",
+      "name_ko": "보아 행콕",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-066.png",
+      "image": "dex/cards/op-jp-promo/P-066.webp"
+    }
+  ]
+}

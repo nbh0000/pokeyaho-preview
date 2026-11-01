@@ -1,0 +1,38 @@
+{
+  "id": "op-en-promo-treasure-cup-february-2025",
+  "cards": [
+    {
+      "no": "OP08-084",
+      "name": "Jack",
+      "name_ko": "잭",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-084_p2.png",
+      "image": "dex/cards/op-en-promo/OP08-084_p2.webp"
+    },
+    {
+      "no": "OP09-002",
+      "name": "Uta",
+      "name_ko": "우타",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-002_p2.png",
+      "image": "dex/cards/op-en-promo/OP09-002_p2.webp"
+    },
+    {
+      "no": "ST18-003",
+      "name": "San-Gorou",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-003_p1.png",
+      "image": "dex/cards/op-en-promo/ST18-003_p1.webp"
+    }
+  ]
+}

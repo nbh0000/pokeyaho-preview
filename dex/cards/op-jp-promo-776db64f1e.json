@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-776db64f1e",
+  "cards": [
+    {
+      "no": "P-121",
+      "name": "ブルック",
+      "name_ko": null,
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-121.png",
+      "image": "dex/cards/op-jp-promo/P-121.webp"
+    }
+  ]
+}

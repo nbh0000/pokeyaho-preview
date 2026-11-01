@@ -1,0 +1,82 @@
+{
+  "id": "pkm-jp-pg706",
+  "cards": [
+    {
+      "no": "001/007",
+      "name": "ガラル ニャース",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP1/037784_P_GARARUNYASU.jpg",
+      "image": "dex/cards/pkm-jp-pg706/001-007.webp"
+    },
+    {
+      "no": "002/007",
+      "name": "ガラル ニャイキング",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP1/037785_P_GARARUNYAIKINGU.jpg",
+      "image": "dex/cards/pkm-jp-pg706/002-007.webp"
+    },
+    {
+      "no": "003/007",
+      "name": "ザシアン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP1/037786_P_ZASHIAN.jpg",
+      "image": "dex/cards/pkm-jp-pg706/003-007.webp"
+    },
+    {
+      "no": "004/007",
+      "name": "ザマゼンタ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP1/037787_P_ZAMAZENTA.jpg",
+      "image": "dex/cards/pkm-jp-pg706/004-007.webp"
+    },
+    {
+      "no": "005/007",
+      "name": "メタルソーサー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP1/037788_T_METARUSOSA.jpg",
+      "image": "dex/cards/pkm-jp-pg706/005-007.webp"
+    },
+    {
+      "no": "006/007",
+      "name": "ポケモンごっこ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP1/037789_T_POKEMONGOKKO.jpg",
+      "image": "dex/cards/pkm-jp-pg706/006-007.webp"
+    },
+    {
+      "no": "007/007",
+      "name": "ホップ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP1/037790_T_HOPPU.jpg",
+      "image": "dex/cards/pkm-jp-pg706/007-007.webp"
+    }
+  ]
+}

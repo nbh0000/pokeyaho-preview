@@ -1,0 +1,280 @@
+{
+  "id": "pkm-jp-pg11015",
+  "cards": [
+    {
+      "no": "001/025",
+      "name": "リザードン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050753_P_RIZADON.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/001-025.webp"
+    },
+    {
+      "no": "002/025",
+      "name": "フシギバナ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050754_P_FUSHIGIBANA.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/002-025.webp"
+    },
+    {
+      "no": "003/025",
+      "name": "カメックス",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050755_P_KAMEKKUSU.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/003-025.webp"
+    },
+    {
+      "no": "005/025",
+      "name": "わるいギャラドス",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050757_P_WARUIGIXYARADOSU.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/005-025.webp"
+    },
+    {
+      "no": "007/025",
+      "name": "＿＿＿＿＿＿＿のピカチュウ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050759_P_NOPIKACHIXYUU.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/007-025.webp"
+    },
+    {
+      "no": "008/025",
+      "name": "R団のサンダー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050760_P_RDANNOSANDA.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/008-025.webp"
+    },
+    {
+      "no": "009/025",
+      "name": "ピィ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050761_P_PII.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/009-025.webp"
+    },
+    {
+      "no": "010/025",
+      "name": "ひかるコイキング",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050762_P_HIKARUKOIKINGU.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/010-025.webp"
+    },
+    {
+      "no": "011/025",
+      "name": "マグマ団のグラードン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050763_P_MAGUMADANNOGURADON.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/011-025.webp"
+    },
+    {
+      "no": "012/025",
+      "name": "ブラッキー☆",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050764_P_BURAKKI.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/012-025.webp"
+    },
+    {
+      "no": "014/025",
+      "name": "ミュウex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050766_P_MIXYUUEX.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/014-025.webp"
+    },
+    {
+      "no": "015/025",
+      "name": "サーナイトex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050767_P_SANAITOEX.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/015-025.webp"
+    },
+    {
+      "no": "016/025",
+      "name": "ネンドール",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050768_P_NENDORU.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/016-025.webp"
+    },
+    {
+      "no": "017/025",
+      "name": "レントラーGL［ジムリーダー］ LV.X",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050769_P_RENTORAGLLVX.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/017-025.webp"
+    },
+    {
+      "no": "018/025",
+      "name": "ガブリアスC[チャンピオン] LV.X",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050770_P_GABURIASUCLVX.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/018-025.webp"
+    },
+    {
+      "no": "019/025",
+      "name": "ドンファン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050771_P_DONFUAN.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/019-025.webp"
+    },
+    {
+      "no": "020/025",
+      "name": "レシラム",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050772_P_RESHIRAMU.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/020-025.webp"
+    },
+    {
+      "no": "021/025",
+      "name": "ゼクロム",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050773_P_ZEKUROMU.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/021-025.webp"
+    },
+    {
+      "no": "022/025",
+      "name": "ミュウツーEX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050774_P_MIXYUUTSUEX.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/022-025.webp"
+    },
+    {
+      "no": "023/025",
+      "name": "ゼルネアスEX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050775_P_ZERUNEASUEX.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/023-025.webp"
+    },
+    {
+      "no": "024/025",
+      "name": "レックウザEX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050776_P_MREKKUUZAEX.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/024-025.webp"
+    },
+    {
+      "no": "025/025",
+      "name": "カプ・テテフGX",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050777_P_KAPUTETEFUGX.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/025-025.webp"
+    },
+    {
+      "no": "004/025",
+      "name": "にせオーキドはかせ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050756_T_NISEOKIDOHAKASE.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/004-025.webp"
+    },
+    {
+      "no": "006/025",
+      "name": "ロケット団参上！",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050758_T_ROKETTODANSANJIXYOU.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/006-025.webp"
+    },
+    {
+      "no": "013/025",
+      "name": "ロケット団の幹部",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-P/050765_T_ROKETTODANNOKANBU.jpg",
+      "image": "dex/cards/pkm-jp-pg11015/013-025.webp"
+    }
+  ]
+}

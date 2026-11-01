@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-8843eee913",
+  "cards": [
+    {
+      "no": "OP03-044",
+      "name": "カヤ",
+      "name_ko": "카야",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-044_p2.png",
+      "image": "dex/cards/op-jp-promo/OP03-044_p2.webp"
+    }
+  ]
+}

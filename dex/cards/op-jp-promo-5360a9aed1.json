@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-5360a9aed1",
+  "cards": [
+    {
+      "no": "OP14-087",
+      "name": "ミス・バレンタイン(ミキータ)",
+      "name_ko": "미스 발렌타인(미키타)",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-087_p2.png",
+      "image": "dex/cards/op-jp-promo/OP14-087_p2.webp"
+    }
+  ]
+}

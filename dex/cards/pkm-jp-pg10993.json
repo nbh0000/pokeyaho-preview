@@ -1,0 +1,82 @@
+{
+  "id": "pkm-jp-pg10993",
+  "cards": [
+    {
+      "no": "070/M-P",
+      "name": "ヤドン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050035_P_YADON.jpg",
+      "image": "dex/cards/pkm-jp-pg10993/070-M-P.webp"
+    },
+    {
+      "no": "071/M-P",
+      "name": "メガヤドランex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050036_P_MYADORANEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10993/071-M-P.webp"
+    },
+    {
+      "no": "072/M-P",
+      "name": "ジーランス",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050037_P_JIRANSU.jpg",
+      "image": "dex/cards/pkm-jp-pg10993/072-M-P.webp"
+    },
+    {
+      "no": "073/M-P",
+      "name": "カメテテ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050038_P_KAMETETE.jpg",
+      "image": "dex/cards/pkm-jp-pg10993/073-M-P.webp"
+    },
+    {
+      "no": "074/M-P",
+      "name": "ブレイブバングル",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050039_T_BUREIBUBANGURU.jpg",
+      "image": "dex/cards/pkm-jp-pg10993/074-M-P.webp"
+    },
+    {
+      "no": "075/M-P",
+      "name": "ジェット",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050040_T_JIETTO.jpg",
+      "image": "dex/cards/pkm-jp-pg10993/075-M-P.webp"
+    },
+    {
+      "no": "076/M-P",
+      "name": "ミツルの思いやり",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050041_T_MITSURUNOOMOIYARI.jpg",
+      "image": "dex/cards/pkm-jp-pg10993/076-M-P.webp"
+    }
+  ]
+}

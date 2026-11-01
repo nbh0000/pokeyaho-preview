@@ -1,0 +1,170 @@
+{
+  "id": "op-en-st16",
+  "cards": [
+    {
+      "no": "P-029",
+      "name": "Bartolomeo",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-029_r1.png",
+      "image": null
+    },
+    {
+      "no": "P-057",
+      "name": "Fleeting Lullaby",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-057_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-058",
+      "name": "Where the Wind Blows",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-058_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-059",
+      "name": "The World's Continuation",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-059_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-060",
+      "name": "Tot Musica",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-060_p1.png",
+      "image": null
+    },
+    {
+      "no": "P-061",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-061_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST11-001",
+      "name": "Uta",
+      "name_ko": "우타",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-001_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST11-003",
+      "name": "Backlight",
+      "name_ko": "역광",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST11-004",
+      "name": "New Genesis",
+      "name_ko": "신시대",
+      "rarity": "SR",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-004_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST11-005",
+      "name": "I'm invincible",
+      "name_ko": "나는 최강",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-005_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST16-001",
+      "name": "Uta",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-001.png",
+      "image": null
+    },
+    {
+      "no": "ST16-002",
+      "name": "Gordon",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-002.png",
+      "image": null
+    },
+    {
+      "no": "ST16-003",
+      "name": "Charlotte Katakuri",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-003.png",
+      "image": null
+    },
+    {
+      "no": "ST16-004",
+      "name": "Shanks",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-004.png",
+      "image": null
+    },
+    {
+      "no": "ST16-005",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-005.png",
+      "image": null
+    }
+  ]
+}

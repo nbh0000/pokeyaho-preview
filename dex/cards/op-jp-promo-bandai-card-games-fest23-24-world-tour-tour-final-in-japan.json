@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-bandai-card-games-fest23-24-world-tour-tour-final-in-japan",
+  "cards": [
+    {
+      "no": "P-041",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-041_p4.png",
+      "image": "dex/cards/op-jp-promo/P-041_p4.webp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-8a0c19220a",
+  "cards": [
+    {
+      "no": "P-135",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-135.png",
+      "image": "dex/cards/op-jp-promo/P-135.webp"
+    }
+  ]
+}

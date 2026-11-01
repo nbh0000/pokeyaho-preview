@@ -1,0 +1,258 @@
+{
+  "id": "db-en-fs05",
+  "cards": [
+    {
+      "no": "FS05-01",
+      "name": "Bardock",
+      "name_ko": null,
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-01_f.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-02",
+      "name": "Great Ape Bardock",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-02.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-03",
+      "name": "Kakarot",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-03.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-04",
+      "name": "Fasha",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-04.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-05",
+      "name": "Son Gohan",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-05.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-06",
+      "name": "Tora",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-06.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-07",
+      "name": "Borgos",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-07.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-08",
+      "name": "Dodoria",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-08.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-09",
+      "name": "Nappa : Adolescence",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-09.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-10",
+      "name": "Bardock",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-10.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-11",
+      "name": "Bardock",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-11.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-12",
+      "name": "Shugesh",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-12.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-13",
+      "name": "Frieza",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-13.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-14",
+      "name": "Vegeta : Youth",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-14.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-15",
+      "name": "Resisting Destiny",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "EXTRA",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-15.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-16",
+      "name": "A Lonesome, Final Battle",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "EXTRA",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-16.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-03",
+      "name": "Kakarot",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-03_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-05",
+      "name": "Son Gohan",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-05_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-09",
+      "name": "Nappa : Adolescence",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-09_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-11",
+      "name": "Bardock",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": "p3",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-11_p3.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-13",
+      "name": "Frieza",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-13_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-14",
+      "name": "Vegeta : Youth",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-14_p1.webp",
+      "image": null
+    },
+    {
+      "no": "FS05-15",
+      "name": "Resisting Destiny",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "EXTRA",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-15_p1.webp",
+      "image": null
+    }
+  ]
+}

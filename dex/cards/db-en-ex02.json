@@ -1,0 +1,113 @@
+{
+  "id": "db-en-ex02",
+  "cards": [
+    {
+      "no": "EX02-01",
+      "name": "Time Patrol Trunks",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-01.png",
+      "image": null
+    },
+    {
+      "no": "EX02-01",
+      "name": "Time Patrol Trunks",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-01_PR.png",
+      "image": null
+    },
+    {
+      "no": "EX02-02",
+      "name": "Masked Saiyan, the Mysterious Warrior",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-02.png",
+      "image": null
+    },
+    {
+      "no": "EX02-02",
+      "name": "Masked Saiyan, the Mysterious Warrior",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-02_PR.png",
+      "image": null
+    },
+    {
+      "no": "EX02-03",
+      "name": "Supreme Kai of Time, Continuity Keeper",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-03.png",
+      "image": null
+    },
+    {
+      "no": "EX02-04",
+      "name": "Time Ruler Towa",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-04.png",
+      "image": null
+    },
+    {
+      "no": "EX02-05",
+      "name": "Mira, From the Darkness",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-05.png",
+      "image": null
+    },
+    {
+      "no": "EX02-06",
+      "name": "Majin Twin Shun Shun",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-06.png",
+      "image": null
+    },
+    {
+      "no": "EX02-07",
+      "name": "Majin Twin Haru Haru",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-07.png",
+      "image": null
+    }
+  ]
+}

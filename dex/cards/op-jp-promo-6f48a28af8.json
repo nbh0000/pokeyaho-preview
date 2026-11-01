@@ -1,0 +1,71 @@
+{
+  "id": "op-jp-promo-6f48a28af8",
+  "cards": [
+    {
+      "no": "P-101",
+      "name": "トニートニー・チョッパー",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-101.png",
+      "image": "dex/cards/op-jp-promo/P-101.webp"
+    },
+    {
+      "no": "P-102",
+      "name": "ナミ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-102.png",
+      "image": "dex/cards/op-jp-promo/P-102.webp"
+    },
+    {
+      "no": "P-103",
+      "name": "ポートガス・D・エース",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-103.png",
+      "image": "dex/cards/op-jp-promo/P-103.webp"
+    },
+    {
+      "no": "P-104",
+      "name": "シャンクス",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-104.png",
+      "image": "dex/cards/op-jp-promo/P-104.webp"
+    },
+    {
+      "no": "P-105",
+      "name": "サボ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-105.png",
+      "image": "dex/cards/op-jp-promo/P-105.webp"
+    },
+    {
+      "no": "P-106",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-106.png",
+      "image": "dex/cards/op-jp-promo/P-106.webp"
+    }
+  ]
+}

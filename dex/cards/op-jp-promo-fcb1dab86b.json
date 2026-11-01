@@ -1,0 +1,38 @@
+{
+  "id": "op-jp-promo-fcb1dab86b",
+  "cards": [
+    {
+      "no": "OP07-066",
+      "name": "トニートニー・チョッパー",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-066_p1.png",
+      "image": "dex/cards/op-jp-promo/OP07-066_p1.webp"
+    },
+    {
+      "no": "OP10-033",
+      "name": "ナミ",
+      "name_ko": "나미",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-033_p1.png",
+      "image": "dex/cards/op-jp-promo/OP10-033_p1.webp"
+    },
+    {
+      "no": "ST17-003",
+      "name": "バギー",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-003_p1.png",
+      "image": "dex/cards/op-jp-promo/ST17-003_p1.webp"
+    }
+  ]
+}

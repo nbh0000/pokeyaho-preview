@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-23141e2cfe",
+  "cards": [
+    {
+      "no": "OP09-002",
+      "name": "ウタ",
+      "name_ko": "우타",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-002_p2.png",
+      "image": "dex/cards/op-jp-promo/OP09-002_p2.webp"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "op-en-st04",
+  "cards": [
+    {
+      "no": "ST04-001",
+      "name": "Kaido",
+      "name_ko": "카이도",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-001.png",
+      "image": null
+    },
+    {
+      "no": "ST04-002",
+      "name": "Ulti",
+      "name_ko": "울티",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-002.png",
+      "image": null
+    },
+    {
+      "no": "ST04-003",
+      "name": "Kaido",
+      "name_ko": "카이도",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003.png",
+      "image": null
+    },
+    {
+      "no": "ST04-004",
+      "name": "King",
+      "name_ko": "킹",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-004.png",
+      "image": null
+    },
+    {
+      "no": "ST04-005",
+      "name": "Queen",
+      "name_ko": "퀸",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005.png",
+      "image": null
+    },
+    {
+      "no": "ST04-006",
+      "name": "Sasaki",
+      "name_ko": "사사키",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-006.png",
+      "image": null
+    },
+    {
+      "no": "ST04-007",
+      "name": "Sheepshead",
+      "name_ko": "시프스 헤드",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-007.png",
+      "image": null
+    },
+    {
+      "no": "ST04-008",
+      "name": "Jack",
+      "name_ko": "잭",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008.png",
+      "image": null
+    },
+    {
+      "no": "ST04-009",
+      "name": "Ginrummy",
+      "name_ko": "진라미",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-009.png",
+      "image": null
+    },
+    {
+      "no": "ST04-010",
+      "name": "Who's.Who",
+      "name_ko": "후즈 후",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-010.png",
+      "image": null
+    },
+    {
+      "no": "ST04-011",
+      "name": "Black Maria",
+      "name_ko": "블랙마리아",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-011.png",
+      "image": null
+    },
+    {
+      "no": "ST04-012",
+      "name": "Page One",
+      "name_ko": "페이지 원",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-012.png",
+      "image": null
+    },
+    {
+      "no": "ST04-013",
+      "name": "X.Drake",
+      "name_ko": "X 드레이크",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-013.png",
+      "image": null
+    },
+    {
+      "no": "ST04-014",
+      "name": "Lead Performer \"Disaster\"",
+      "name_ko": "대간판\"재해\"",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-014.png",
+      "image": null
+    },
+    {
+      "no": "ST04-015",
+      "name": "Brachio Bomber",
+      "name_ko": "브라키오 봄버",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-015.png",
+      "image": null
+    },
+    {
+      "no": "ST04-016",
+      "name": "Blast Breath",
+      "name_ko": "보로 브레스",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016.png",
+      "image": null
+    },
+    {
+      "no": "ST04-017",
+      "name": "Onigashima Island",
+      "name_ko": "오니가시마",
+      "rarity": "C",
+      "type": "STAGE",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-017.png",
+      "image": null
+    }
+  ]
+}

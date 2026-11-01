@@ -1,0 +1,27 @@
+{
+  "id": "op-jp-promo-2a856ac762",
+  "cards": [
+    {
+      "no": "OP01-120",
+      "name": "シャンクス",
+      "name_ko": "샹크스",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-120_p4.png",
+      "image": "dex/cards/op-jp-promo/OP01-120_p4.webp"
+    },
+    {
+      "no": "OP07-119",
+      "name": "ポートガス・D・エース",
+      "name_ko": "포트거스 D. 에이스",
+      "rarity": "SEC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-119_p2.png",
+      "image": "dex/cards/op-jp-promo/OP07-119_p2.webp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "op-en-promo-pre-release-op02",
+  "cards": [
+    {
+      "no": "P-025",
+      "name": "Smoker",
+      "name_ko": "스모커",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-025.png",
+      "image": "dex/cards/op-en-promo/P-025.webp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-99de7e36ed",
+  "cards": [
+    {
+      "no": "P-092",
+      "name": "コビー",
+      "name_ko": "코비",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-092.png",
+      "image": "dex/cards/op-jp-promo/P-092.webp"
+    }
+  ]
+}

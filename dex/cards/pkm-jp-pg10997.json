@@ -1,0 +1,82 @@
+{
+  "id": "pkm-jp-pg10997",
+  "cards": [
+    {
+      "no": "095/M-P",
+      "name": "シェイミ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050173_P_SHIEIMI.jpg",
+      "image": "dex/cards/pkm-jp-pg10997/095-M-P.webp"
+    },
+    {
+      "no": "096/M-P",
+      "name": "メガマフォクシーex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050174_P_MMAFUOKUSHIEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10997/096-M-P.webp"
+    },
+    {
+      "no": "097/M-P",
+      "name": "パウワウ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050175_P_PAUWAU.jpg",
+      "image": "dex/cards/pkm-jp-pg10997/097-M-P.webp"
+    },
+    {
+      "no": "098/M-P",
+      "name": "シュシュプ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050176_P_SHIXYUSHIXYUPU.jpg",
+      "image": "dex/cards/pkm-jp-pg10997/098-M-P.webp"
+    },
+    {
+      "no": "085/M-P",
+      "name": "ポケパッド",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050171_T_POKEPADDO.jpg",
+      "image": "dex/cards/pkm-jp-pg10997/085-M-P.webp"
+    },
+    {
+      "no": "099/M-P",
+      "name": "グリ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050177_T_GURI.jpg",
+      "image": "dex/cards/pkm-jp-pg10997/099-M-P.webp"
+    },
+    {
+      "no": "100/M-P",
+      "name": "ヒカリ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/050178_T_HIKARI.jpg",
+      "image": "dex/cards/pkm-jp-pg10997/100-M-P.webp"
+    }
+  ]
+}

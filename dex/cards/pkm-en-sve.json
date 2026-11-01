@@ -1,0 +1,181 @@
+{
+  "id": "pkm-en-sve",
+  "cards": [
+    {
+      "no": "1/8",
+      "name": "Basic Grass Energy",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/1.png",
+      "image": null
+    },
+    {
+      "no": "2/8",
+      "name": "Basic Fire Energy",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/2.png",
+      "image": null
+    },
+    {
+      "no": "3/8",
+      "name": "Basic Water Energy",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/3.png",
+      "image": null
+    },
+    {
+      "no": "4/8",
+      "name": "Basic Lightning Energy",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/4.png",
+      "image": null
+    },
+    {
+      "no": "5/8",
+      "name": "Basic Psychic Energy",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/5.png",
+      "image": null
+    },
+    {
+      "no": "6/8",
+      "name": "Basic Fighting Energy",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/6.png",
+      "image": null
+    },
+    {
+      "no": "7/8",
+      "name": "Basic Darkness Energy",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/7.png",
+      "image": null
+    },
+    {
+      "no": "8/8",
+      "name": "Basic Metal Energy",
+      "name_ko": null,
+      "rarity": "Common",
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/8.png",
+      "image": null
+    },
+    {
+      "no": "9/8",
+      "name": "Basic Grass Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": "Grass",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/9.png",
+      "image": null
+    },
+    {
+      "no": "10/8",
+      "name": "Basic Fire Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": "Fire",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/10.png",
+      "image": null
+    },
+    {
+      "no": "11/8",
+      "name": "Basic Water Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": "Water",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/11.png",
+      "image": null
+    },
+    {
+      "no": "12/8",
+      "name": "Basic Lightning Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/12.png",
+      "image": null
+    },
+    {
+      "no": "13/8",
+      "name": "Basic Psychic Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/13.png",
+      "image": null
+    },
+    {
+      "no": "14/8",
+      "name": "Basic Fighting Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": "Fighting",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/14.png",
+      "image": null
+    },
+    {
+      "no": "15/8",
+      "name": "Basic Darkness Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": "Darkness",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/15.png",
+      "image": null
+    },
+    {
+      "no": "16/8",
+      "name": "Basic Metal Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": "Metal",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/sve/16.png",
+      "image": null
+    }
+  ]
+}

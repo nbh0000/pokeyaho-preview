@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-one-piece-card-game",
+  "cards": [
+    {
+      "no": "OP13-001",
+      "name": "モンキー・Ｄ・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "赤/緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-001_p1.png",
+      "image": "dex/cards/op-jp-promo/OP13-001_p1.webp"
+    }
+  ]
+}

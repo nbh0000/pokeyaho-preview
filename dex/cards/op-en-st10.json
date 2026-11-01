@@ -1,0 +1,214 @@
+{
+  "id": "op-en-st10",
+  "cards": [
+    {
+      "no": "OP01-016",
+      "name": "Nami",
+      "name_ko": "나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p3.png",
+      "image": null
+    },
+    {
+      "no": "OP01-025",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025_p2.png",
+      "image": null
+    },
+    {
+      "no": "ST10-001",
+      "name": "Trafalgar Law",
+      "name_ko": "트라팔가 로",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Red/Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-001.png",
+      "image": null
+    },
+    {
+      "no": "ST10-002",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Red/Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-002.png",
+      "image": null
+    },
+    {
+      "no": "ST10-003",
+      "name": "Eustass\"Captain\"Kid",
+      "name_ko": null,
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Red/Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-003.png",
+      "image": null
+    },
+    {
+      "no": "ST10-004",
+      "name": "Sanji",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-004.png",
+      "image": null
+    },
+    {
+      "no": "ST10-005",
+      "name": "Jinbe",
+      "name_ko": "징베",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-005.png",
+      "image": null
+    },
+    {
+      "no": "ST10-006",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006.png",
+      "image": null
+    },
+    {
+      "no": "ST10-007",
+      "name": "Killer",
+      "name_ko": "킬러",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-007.png",
+      "image": null
+    },
+    {
+      "no": "ST10-008",
+      "name": "Shachi & Penguin",
+      "name_ko": "샤치 & 펭귄",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008.png",
+      "image": null
+    },
+    {
+      "no": "ST10-009",
+      "name": "Jean Bart",
+      "name_ko": "잠발",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-009.png",
+      "image": null
+    },
+    {
+      "no": "ST10-010",
+      "name": "Trafalgar Law",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010.png",
+      "image": null
+    },
+    {
+      "no": "ST10-011",
+      "name": "Heat",
+      "name_ko": "히트",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-011.png",
+      "image": null
+    },
+    {
+      "no": "ST10-012",
+      "name": "Bepo",
+      "name_ko": "베포",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-012.png",
+      "image": null
+    },
+    {
+      "no": "ST10-013",
+      "name": "Eustass\"Captain\"Kid",
+      "name_ko": "유스타스 키드",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-013.png",
+      "image": null
+    },
+    {
+      "no": "ST10-014",
+      "name": "Wire",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-014.png",
+      "image": null
+    },
+    {
+      "no": "ST10-015",
+      "name": "Gum-Gum Giant Sumo Slap",
+      "name_ko": "고무고무 기간트 밀쳐내기",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-015.png",
+      "image": null
+    },
+    {
+      "no": "ST10-016",
+      "name": "Gum-Gum Kong Gatling",
+      "name_ko": "고무고무 콩 개틀링",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-016.png",
+      "image": null
+    },
+    {
+      "no": "ST10-017",
+      "name": "Punk Vise",
+      "name_ko": "펑크 바이스",
+      "rarity": "C",
+      "type": "EVENT",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-017.png",
+      "image": null
+    }
+  ]
+}

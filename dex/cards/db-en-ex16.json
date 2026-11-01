@@ -1,0 +1,125 @@
+{
+  "id": "db-en-ex16",
+  "cards": [
+    {
+      "no": "EX16-01",
+      "name": "Towa",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "LEADER",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX16-01.png",
+      "image": null
+    },
+    {
+      "no": "EX16-02",
+      "name": "Dark Shenron, Tyrannical Savior",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "UNISON",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX16-02.png",
+      "image": null
+    },
+    {
+      "no": "EX16-03",
+      "name": "Dark Broly, Unbridled Destruction",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX16-03.png",
+      "image": null
+    },
+    {
+      "no": "EX16-04",
+      "name": "Dark Broly, the Shadow Warrior",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX16-04.png",
+      "image": null
+    },
+    {
+      "no": "EX16-05",
+      "name": "Janemba, the Shadow Warrior",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX16-05.png",
+      "image": null
+    },
+    {
+      "no": "EX16-06",
+      "name": "Frieza, the Shadow Warrior",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX16-06.png",
+      "image": null
+    },
+    {
+      "no": "EX16-07",
+      "name": "Majin Buu, the Shadow Warrior",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX16-07.png",
+      "image": null
+    },
+    {
+      "no": "EX16-08",
+      "name": "Lord Slug, the Shadow Warrior",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX16-08.png",
+      "image": null
+    },
+    {
+      "no": "EX16-09",
+      "name": "Dark Dragon Balls",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX16-09.png",
+      "image": null
+    },
+    {
+      "no": "EX16-10",
+      "name": "Lord Slug, Unbridled Might",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX16-10.png",
+      "image": null
+    }
+  ]
+}

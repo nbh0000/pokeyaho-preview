@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-one-piece-magazine-one-piece-020",
+  "cards": [
+    {
+      "no": "ST21-014",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST21-014_p2.png",
+      "image": "dex/cards/op-jp-promo/ST21-014_p2.webp"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "db-en-sd14",
+  "cards": [
+    {
+      "no": "SD14-01",
+      "name": "Vegeta : Xeno & Trunks : Xeno",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD14-01.png",
+      "image": null
+    },
+    {
+      "no": "SD14-01",
+      "name": "Vegeta : Xeno & Trunks : Xeno",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Black",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD14-01_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD14-02",
+      "name": "SS Gotenks, Fusion of Friendship",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "UNISON",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD14-02.png",
+      "image": null
+    },
+    {
+      "no": "SD14-03",
+      "name": "Time Agent Vegeta",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD14-03.png",
+      "image": null
+    },
+    {
+      "no": "SD14-04",
+      "name": "Time Agent Trunks",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD14-04.png",
+      "image": null
+    },
+    {
+      "no": "SD14-05",
+      "name": "Supreme Kai of Time, Guardian of Spacetime",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD14-05.png",
+      "image": null
+    },
+    {
+      "no": "SD14-05",
+      "name": "Supreme Kai of Time, Guardian of Spacetime",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD14-05_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD14-05",
+      "name": "Supreme Kai of Time, Guardian of Spacetime",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Black",
+      "variant": "p2",
+      "variant_label": "PR02",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD14-05_PR02.png",
+      "image": null
+    }
+  ]
+}

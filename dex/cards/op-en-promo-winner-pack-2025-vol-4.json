@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-winner-pack-2025-vol-4",
+  "cards": [
+    {
+      "no": "OP05-037",
+      "name": "Because the Side of Justice Will Be Whichever Side Wins!!",
+      "name_ko": "승자만이, 정의다!!!!",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-037_p2.png",
+      "image": "dex/cards/op-en-promo/OP05-037_p2.webp"
+    },
+    {
+      "no": "OP06-051",
+      "name": "Tsuru",
+      "name_ko": "츠루",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-051_p2.png",
+      "image": "dex/cards/op-en-promo/OP06-051_p2.webp"
+    },
+    {
+      "no": "OP09-108",
+      "name": "Bartholomew Kuma",
+      "name_ko": "바솔로뮤 쿠마",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-108_p2.png",
+      "image": "dex/cards/op-en-promo/OP09-108_p2.webp"
+    },
+    {
+      "no": "ST10-008",
+      "name": "Shachi & Penguin",
+      "name_ko": "샤치 & 펭귄",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008_p2.png",
+      "image": "dex/cards/op-en-promo/ST10-008_p2.webp"
+    }
+  ]
+}

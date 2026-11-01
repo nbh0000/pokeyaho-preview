@@ -1,0 +1,16 @@
+{
+  "id": "op-en-promo-included-in-pirates-party-card-vol-1",
+  "cards": [
+    {
+      "no": "P-024",
+      "name": "I'm Gonna Be King of the Pirates!!",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "EVENT",
+      "color": "Green",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-024.png",
+      "image": "dex/cards/op-en-promo/P-024.webp"
+    }
+  ]
+}

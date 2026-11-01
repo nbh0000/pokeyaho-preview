@@ -1,0 +1,38 @@
+{
+  "id": "op-jp-promo-94fb92186b",
+  "cards": [
+    {
+      "no": "P-001",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-001_p2.png",
+      "image": "dex/cards/op-jp-promo/P-001_p2.webp"
+    },
+    {
+      "no": "P-003",
+      "name": "ユースタス・キッド",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-003_p1.png",
+      "image": "dex/cards/op-jp-promo/P-003_p1.webp"
+    },
+    {
+      "no": "ST03-008",
+      "name": "トラファルガー・ロー",
+      "name_ko": "트라팔가 로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-008_p1.png",
+      "image": "dex/cards/op-jp-promo/ST03-008_p1.webp"
+    }
+  ]
+}

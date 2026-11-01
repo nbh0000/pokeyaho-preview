@@ -1,0 +1,125 @@
+{
+  "id": "db-en-sd2",
+  "cards": [
+    {
+      "no": "SD2-01",
+      "name": "Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD2-01.png",
+      "image": null
+    },
+    {
+      "no": "SD2-02",
+      "name": "Broken Limits Super Saiyan 3 Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD2-02.png",
+      "image": null
+    },
+    {
+      "no": "SD2-02",
+      "name": "Broken Limits Super Saiyan 3 Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD2-02_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD2-03",
+      "name": "Unbreakable Super Saiyan Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD2-03.png",
+      "image": null
+    },
+    {
+      "no": "SD2-03",
+      "name": "Unbreakable Super Saiyan Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD2-03_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD2-03",
+      "name": "Unbreakable Super Saiyan Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": "p2",
+      "variant_label": "PR02",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD2-03_PR02.png",
+      "image": null
+    },
+    {
+      "no": "SD2-03",
+      "name": "Unbreakable Super Saiyan Son Goku",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": "p3",
+      "variant_label": "PR03",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD2-03_PR03.png",
+      "image": null
+    },
+    {
+      "no": "SD2-04",
+      "name": "Rushing Warrior Pan",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD2-04.png",
+      "image": null
+    },
+    {
+      "no": "SD2-05",
+      "name": "Chain Attack Trunks",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD2-05.png",
+      "image": null
+    },
+    {
+      "no": "SD2-05",
+      "name": "Chain Attack Trunks",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Red",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD2-05_PR.png",
+      "image": null
+    }
+  ]
+}

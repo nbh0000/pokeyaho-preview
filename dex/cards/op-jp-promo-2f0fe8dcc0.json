@@ -1,0 +1,38 @@
+{
+  "id": "op-jp-promo-2f0fe8dcc0",
+  "cards": [
+    {
+      "no": "OP07-113",
+      "name": "ロロノア・ゾロ",
+      "name_ko": "롤로노아 조로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-113_p1.png",
+      "image": "dex/cards/op-jp-promo/OP07-113_p1.webp"
+    },
+    {
+      "no": "OP09-034",
+      "name": "ペローナ",
+      "name_ko": "페로나",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-034_p2.png",
+      "image": "dex/cards/op-jp-promo/OP09-034_p2.webp"
+    },
+    {
+      "no": "ST12-003",
+      "name": "ジュラキュール・ミホーク",
+      "name_ko": "쥬라큘 미호크",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-003_p1.png",
+      "image": "dex/cards/op-jp-promo/ST12-003_p1.webp"
+    }
+  ]
+}

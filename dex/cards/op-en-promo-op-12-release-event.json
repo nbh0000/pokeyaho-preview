@@ -1,0 +1,27 @@
+{
+  "id": "op-en-promo-op-12-release-event",
+  "cards": [
+    {
+      "no": "P-092",
+      "name": "Koby",
+      "name_ko": "코비",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-092_p1.png",
+      "image": "dex/cards/op-en-promo/P-092_p1.webp"
+    },
+    {
+      "no": "P-092",
+      "name": "Koby",
+      "name_ko": "코비",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-092_p2.png",
+      "image": "dex/cards/op-en-promo/P-092_p2.webp"
+    }
+  ]
+}

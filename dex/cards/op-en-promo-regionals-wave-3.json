@@ -1,0 +1,38 @@
+{
+  "id": "op-en-promo-regionals-wave-3",
+  "cards": [
+    {
+      "no": "OP03-116",
+      "name": "Shirahoshi",
+      "name_ko": "시라호시",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-116_p2.png",
+      "image": "dex/cards/op-en-promo/OP03-116_p2.webp"
+    },
+    {
+      "no": "OP05-086",
+      "name": "Nefeltari Vivi",
+      "name_ko": "네펠타리 비비",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-086_p1.png",
+      "image": "dex/cards/op-en-promo/OP05-086_p1.webp"
+    },
+    {
+      "no": "OP05-091",
+      "name": "Rebecca",
+      "name_ko": "레베카",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-091_p3.png",
+      "image": "dex/cards/op-en-promo/OP05-091_p3.webp"
+    }
+  ]
+}

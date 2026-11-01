@@ -1,0 +1,82 @@
+{
+  "id": "pkm-jp-pg10967",
+  "cards": [
+    {
+      "no": "001/M-P",
+      "name": "チコリータ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048247_P_CHIKORITA.jpg",
+      "image": "dex/cards/pkm-jp-pg10967/001-M-P.webp"
+    },
+    {
+      "no": "002/M-P",
+      "name": "ラプラスex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048248_P_RAPURASUEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10967/002-M-P.webp"
+    },
+    {
+      "no": "003/M-P",
+      "name": "マシマシラ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048249_P_MASHIMASHIRA.jpg",
+      "image": "dex/cards/pkm-jp-pg10967/003-M-P.webp"
+    },
+    {
+      "no": "004/M-P",
+      "name": "マクノシタ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048250_P_MAKUNOSHITA.jpg",
+      "image": "dex/cards/pkm-jp-pg10967/004-M-P.webp"
+    },
+    {
+      "no": "005/M-P",
+      "name": "あなあけスコップ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048251_T_ANAAKESUKOPPU.jpg",
+      "image": "dex/cards/pkm-jp-pg10967/005-M-P.webp"
+    },
+    {
+      "no": "006/M-P",
+      "name": "カウンターゲイン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048252_T_KAUNTAGEIN.jpg",
+      "image": "dex/cards/pkm-jp-pg10967/006-M-P.webp"
+    },
+    {
+      "no": "007/M-P",
+      "name": "リーリエの決心",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048253_T_RIRIENOKESSHIN.jpg",
+      "image": "dex/cards/pkm-jp-pg10967/007-M-P.webp"
+    }
+  ]
+}

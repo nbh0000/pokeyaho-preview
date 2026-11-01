@@ -1,0 +1,82 @@
+{
+  "id": "pkm-jp-pg10947",
+  "cards": [
+    {
+      "no": "233/SV-P",
+      "name": "ホップのバチンウニex",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047168_P_HOPPUNOBACHINUNIEX.jpg",
+      "image": "dex/cards/pkm-jp-pg10947/233-SV-P.webp"
+    },
+    {
+      "no": "234/SV-P",
+      "name": "フワンテ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047169_P_FUWANTE.jpg",
+      "image": "dex/cards/pkm-jp-pg10947/234-SV-P.webp"
+    },
+    {
+      "no": "235/SV-P",
+      "name": "フワライド",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047170_P_FUWARAIDO.jpg",
+      "image": "dex/cards/pkm-jp-pg10947/235-SV-P.webp"
+    },
+    {
+      "no": "236/SV-P",
+      "name": "シャリタツ",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047171_P_SHIXYARITATSU.jpg",
+      "image": "dex/cards/pkm-jp-pg10947/236-SV-P.webp"
+    },
+    {
+      "no": "237/SV-P",
+      "name": "なかよしポフィン",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047172_T_NAKAYOSHIPOFUIN.jpg",
+      "image": "dex/cards/pkm-jp-pg10947/237-SV-P.webp"
+    },
+    {
+      "no": "238/SV-P",
+      "name": "ペパー",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047173_T_PEPA.jpg",
+      "image": "dex/cards/pkm-jp-pg10947/238-SV-P.webp"
+    },
+    {
+      "no": "239/SV-P",
+      "name": "ポケモンセンターのお姉さん",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047174_T_POKEMONSENTANOONEESAN.jpg",
+      "image": "dex/cards/pkm-jp-pg10947/239-SV-P.webp"
+    }
+  ]
+}

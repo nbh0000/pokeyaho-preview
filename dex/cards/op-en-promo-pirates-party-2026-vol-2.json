@@ -1,0 +1,16 @@
+{
+  "id": "op-en-promo-pirates-party-2026-vol-2",
+  "cards": [
+    {
+      "no": "P-155",
+      "name": "Trafalgar Law",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-155.png",
+      "image": "dex/cards/op-en-promo/P-155.webp"
+    }
+  ]
+}

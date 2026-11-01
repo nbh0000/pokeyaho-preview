@@ -1,0 +1,101 @@
+{
+  "id": "db-en-ex01",
+  "cards": [
+    {
+      "no": "EX01-01",
+      "name": "Comrades Combined Son Goku",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-01.png",
+      "image": null
+    },
+    {
+      "no": "EX01-01",
+      "name": "Comrades Combined Son Goku",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-01_PR.png",
+      "image": null
+    },
+    {
+      "no": "EX01-02",
+      "name": "Comrades Combined Vegeta",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-02.png",
+      "image": null
+    },
+    {
+      "no": "EX01-03",
+      "name": "Trunks, Link to the Future",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-03.png",
+      "image": null
+    },
+    {
+      "no": "EX01-04",
+      "name": "SSB Vegito, the Savior",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-04.png",
+      "image": null
+    },
+    {
+      "no": "EX01-05",
+      "name": "Unified Spirit Son Goten",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-05.png",
+      "image": null
+    },
+    {
+      "no": "EX01-06",
+      "name": "Unified Spirit Trunks",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-06.png",
+      "image": null
+    },
+    {
+      "no": "EX01-07",
+      "name": "Psyched Up Gotenks",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-07.png",
+      "image": null
+    }
+  ]
+}

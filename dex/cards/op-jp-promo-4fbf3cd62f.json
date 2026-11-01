@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-4fbf3cd62f",
+  "cards": [
+    {
+      "no": "EB01-015",
+      "name": "スクラッチメン・アプー",
+      "name_ko": "스크래치멘 아푸",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-015_p1.png",
+      "image": "dex/cards/op-jp-promo/EB01-015_p1.webp"
+    },
+    {
+      "no": "OP04-092",
+      "name": "レベッカ",
+      "name_ko": "레베카",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-092_p2.png",
+      "image": "dex/cards/op-jp-promo/OP04-092_p2.webp"
+    },
+    {
+      "no": "OP08-110",
+      "name": "ワイパー",
+      "name_ko": "와이퍼",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-110_p2.png",
+      "image": "dex/cards/op-jp-promo/OP08-110_p2.webp"
+    },
+    {
+      "no": "OP09-011",
+      "name": "ホンゴウ",
+      "name_ko": "혼고",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-011_p1.png",
+      "image": "dex/cards/op-jp-promo/OP09-011_p1.webp"
+    }
+  ]
+}

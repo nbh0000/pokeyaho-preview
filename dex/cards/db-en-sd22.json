@@ -1,0 +1,113 @@
+{
+  "id": "db-en-sd22",
+  "cards": [
+    {
+      "no": "SD22-01",
+      "name": "Vegeta",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD22-01.png",
+      "image": null
+    },
+    {
+      "no": "SD22-01",
+      "name": "Vegeta",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "LEADER",
+      "color": "Yellow",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD22-01_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD22-02",
+      "name": "Prince of Destruction Vegeta, Emotions Unleashed",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-LEADER",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD22-02.png",
+      "image": null
+    },
+    {
+      "no": "SD22-03",
+      "name": "SS2 Son Goku, Overflowing Aura",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD22-03.png",
+      "image": null
+    },
+    {
+      "no": "SD22-04",
+      "name": "Majin Buu, Despair's Revival",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "Z-BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD22-04.png",
+      "image": null
+    },
+    {
+      "no": "SD22-05",
+      "name": "SS2 Son Goku, Destined Battle",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD22-05.png",
+      "image": null
+    },
+    {
+      "no": "SD22-06",
+      "name": "Prince of Destruction Vegeta, Destined Battle",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD22-06.png",
+      "image": null
+    },
+    {
+      "no": "SD22-06",
+      "name": "Prince of Destruction Vegeta, Destined Battle",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD22-06_PR.png",
+      "image": null
+    },
+    {
+      "no": "SD22-07",
+      "name": "Trunks, Rambunctious Son",
+      "name_ko": null,
+      "rarity": "ST",
+      "type": "BATTLE",
+      "color": "Yellow",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/SD22-07.png",
+      "image": null
+    }
+  ]
+}

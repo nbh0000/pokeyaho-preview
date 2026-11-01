@@ -1,0 +1,71 @@
+{
+  "id": "op-en-promo-st15-20-release-event",
+  "cards": [
+    {
+      "no": "OP02-022",
+      "name": "Whitebeard Pirates",
+      "name_ko": "흰 수염 해적단",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-022_p1.png",
+      "image": "dex/cards/op-en-promo/OP02-022_p1.webp"
+    },
+    {
+      "no": "OP02-034",
+      "name": "Tony Tony.Chopper",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-034_p2.png",
+      "image": "dex/cards/op-en-promo/OP02-034_p2.webp"
+    },
+    {
+      "no": "OP03-116",
+      "name": "Shirahoshi",
+      "name_ko": "시라호시",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-116_p3.png",
+      "image": "dex/cards/op-en-promo/OP03-116_p3.webp"
+    },
+    {
+      "no": "OP07-040",
+      "name": "Crocodile",
+      "name_ko": "크로커다일",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-040_p1.png",
+      "image": "dex/cards/op-en-promo/OP07-040_p1.webp"
+    },
+    {
+      "no": "P-045",
+      "name": "Roronoa Zoro",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-045_p1.png",
+      "image": "dex/cards/op-en-promo/P-045_p1.webp"
+    },
+    {
+      "no": "ST06-006",
+      "name": "Tashigi",
+      "name_ko": "타시기",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p3.png",
+      "image": "dex/cards/op-en-promo/ST06-006_p3.webp"
+    }
+  ]
+}

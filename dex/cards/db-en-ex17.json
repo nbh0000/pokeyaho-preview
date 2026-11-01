@@ -1,0 +1,77 @@
+{
+  "id": "db-en-ex17",
+  "cards": [
+    {
+      "no": "EX17-01",
+      "name": "SS Son Goku, Spirit Boost Striker",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "UNISON",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX17-01.png",
+      "image": null
+    },
+    {
+      "no": "EX17-02",
+      "name": "Bardock, Spirit Boost Avenger",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX17-02.png",
+      "image": null
+    },
+    {
+      "no": "EX17-03",
+      "name": "SS Bardock, Spirit Resonance",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX17-03.png",
+      "image": null
+    },
+    {
+      "no": "EX17-04",
+      "name": "Hunt of the Demon God",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Black",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX17-04.png",
+      "image": null
+    },
+    {
+      "no": "EX17-04",
+      "name": "Hunt of the Demon God",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "EXTRA",
+      "color": "Black",
+      "variant": "p1",
+      "variant_label": "PR",
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX17-04_PR.png",
+      "image": null
+    },
+    {
+      "no": "EX17-05",
+      "name": "Android 17, Ki Channeler",
+      "name_ko": null,
+      "rarity": "EX",
+      "type": "BATTLE",
+      "color": "Blue/Green",
+      "variant": null,
+      "variant_label": null,
+      "image_url": "https://www.dbs-cardgame.com/images/cardlist/cardimg/EX17-05.png",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "op-en-promo-tournament-pack-vol-2",
+  "cards": [
+    {
+      "no": "OP01-021",
+      "name": "Franky",
+      "name_ko": "프랑키",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-021_p2.png",
+      "image": "dex/cards/op-en-promo/OP01-021_p2.webp"
+    },
+    {
+      "no": "OP01-033",
+      "name": "Izo",
+      "name_ko": "이조",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033_p1.png",
+      "image": "dex/cards/op-en-promo/OP01-033_p1.webp"
+    },
+    {
+      "no": "ST04-011",
+      "name": "Black Maria",
+      "name_ko": "블랙마리아",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-011_p1.png",
+      "image": "dex/cards/op-en-promo/ST04-011_p1.webp"
+    }
+  ]
+}

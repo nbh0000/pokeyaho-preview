@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-7252e73f52",
+  "cards": [
+    {
+      "no": "EB02-006",
+      "name": "ヤマト",
+      "name_ko": "야마토",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-006_p2.png",
+      "image": "dex/cards/op-jp-promo/EB02-006_p2.webp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-bandai-card-games-fest-24-25-world-tour",
+  "cards": [
+    {
+      "no": "P-080",
+      "name": "モンキー・D・ルフィ",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-080.png",
+      "image": "dex/cards/op-jp-promo/P-080.webp"
+    }
+  ]
+}

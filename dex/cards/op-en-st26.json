@@ -1,0 +1,170 @@
+{
+  "id": "op-en-st26",
+  "cards": [
+    {
+      "no": "OP05-065",
+      "name": "San-Gorou",
+      "name_ko": "상고로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-065_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP05-066",
+      "name": "Jinbe",
+      "name_ko": "징베",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "r2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-066_r2.png",
+      "image": null
+    },
+    {
+      "no": "OP05-070",
+      "name": "Fra-Nosuke",
+      "name_ko": "프라노스케",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "r2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-070_r2.png",
+      "image": null
+    },
+    {
+      "no": "OP09-061",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Purple/Black",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP09-063",
+      "name": "Usopp",
+      "name_ko": "우솝",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-063_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-070",
+      "name": "Nami",
+      "name_ko": "나미",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-070_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-076",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-077",
+      "name": "Gum-Gum Lightning",
+      "name_ko": "고무고무 번개",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "Purple",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-077_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-078",
+      "name": "Gum-Gum Giant",
+      "name_ko": "고무고무 기간트",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078_p1.png",
+      "image": null
+    },
+    {
+      "no": "ST14-010",
+      "name": "Brook",
+      "name_ko": "브룩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST26-001",
+      "name": "Soba Mask",
+      "name_ko": "소바 마스크",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-001.png",
+      "image": null
+    },
+    {
+      "no": "ST26-002",
+      "name": "Tony Tony.Chopper",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-002.png",
+      "image": null
+    },
+    {
+      "no": "ST26-003",
+      "name": "Nico Robin",
+      "name_ko": "니코 로빈",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-003.png",
+      "image": null
+    },
+    {
+      "no": "ST26-004",
+      "name": "General Franky",
+      "name_ko": "프랑키 장군",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-004.png",
+      "image": null
+    },
+    {
+      "no": "ST26-005",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-005.png",
+      "image": null
+    }
+  ]
+}

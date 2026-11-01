@@ -1,0 +1,170 @@
+{
+  "id": "op-en-st36",
+  "cards": [
+    {
+      "no": "OP10-099",
+      "name": "Eustass\"Captain\"Kid",
+      "name_ko": "유스타스 키드",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Yellow",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-099_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP10-101",
+      "name": "Urouge",
+      "name_ko": "우루지",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-101_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP10-103",
+      "name": "Capone\"Gang\"Bege",
+      "name_ko": "카포네 벳지",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-103_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP10-109",
+      "name": "Basil Hawkins",
+      "name_ko": "바질 호킨스",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-109_r2.png",
+      "image": null
+    },
+    {
+      "no": "OP10-111",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-111_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP10-114",
+      "name": "X.Drake",
+      "name_ko": "X 드레이크",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-114_r2.png",
+      "image": null
+    },
+    {
+      "no": "OP12-113",
+      "name": "Roronoa Zoro",
+      "name_ko": "롤로노아 조로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-113_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP13-116",
+      "name": "The One Who Is the Most Free Is the Pirate King!!!",
+      "name_ko": "이 바다에서 가장 자유로운 녀석이 해적왕이야.",
+      "rarity": "UC",
+      "type": "EVENT",
+      "color": "Yellow",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-116_r1.png",
+      "image": null
+    },
+    {
+      "no": "P-085",
+      "name": "Jewelry Bonney",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-085_r2.png",
+      "image": null
+    },
+    {
+      "no": "P-088",
+      "name": "Trafalgar Law",
+      "name_ko": "트라팔가 로",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": "r2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088_r2.png",
+      "image": null
+    },
+    {
+      "no": "ST36-001",
+      "name": "Cavendish",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-001.png",
+      "image": null
+    },
+    {
+      "no": "ST36-002",
+      "name": "Killer",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-002.png",
+      "image": null
+    },
+    {
+      "no": "ST36-003",
+      "name": "Scratchmen Apoo",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-003.png",
+      "image": null
+    },
+    {
+      "no": "ST36-004",
+      "name": "Bartolomeo",
+      "name_ko": null,
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-004.png",
+      "image": null
+    },
+    {
+      "no": "ST36-005",
+      "name": "Eustass\"Captain\"Kid",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-005.png",
+      "image": null
+    }
+  ]
+}

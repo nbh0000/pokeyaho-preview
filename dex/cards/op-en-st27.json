@@ -1,0 +1,170 @@
+{
+  "id": "op-en-st27",
+  "cards": [
+    {
+      "no": "OP09-081",
+      "name": "Marshall.D.Teach",
+      "name_ko": "마샬 D. 티치",
+      "rarity": "L",
+      "type": "LEADER",
+      "color": "Black",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081_p2.png",
+      "image": null
+    },
+    {
+      "no": "OP09-083",
+      "name": "Van Augur",
+      "name_ko": "반 오거",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-083_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-086",
+      "name": "Jesus Burgess",
+      "name_ko": "지저스 바제스",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-088",
+      "name": "Shiryu",
+      "name_ko": "시류",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-088_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-089",
+      "name": "Stronger",
+      "name_ko": "스트롱거",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-090",
+      "name": "Doc Q",
+      "name_ko": "도크 Q",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-090_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-091",
+      "name": "Vasco Shot",
+      "name_ko": "바스코 샷",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-091_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-095",
+      "name": "Laffitte",
+      "name_ko": "라피트",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-095_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP09-099",
+      "name": "Fullalead",
+      "name_ko": "벌집",
+      "rarity": "C",
+      "type": "STAGE",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-099_r1.png",
+      "image": null
+    },
+    {
+      "no": "OP10-084",
+      "name": "Sanjuan.Wolf",
+      "name_ko": "산후안 울프",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "r1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-084_r1.png",
+      "image": null
+    },
+    {
+      "no": "ST27-001",
+      "name": "Avalo Pizarro",
+      "name_ko": "아발로 피사로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-001.png",
+      "image": null
+    },
+    {
+      "no": "ST27-002",
+      "name": "Catarina Devon",
+      "name_ko": "카타리나 데본",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-002.png",
+      "image": null
+    },
+    {
+      "no": "ST27-003",
+      "name": "Kuzan",
+      "name_ko": "쿠잔",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-003.png",
+      "image": null
+    },
+    {
+      "no": "ST27-004",
+      "name": "Sanjuan.Wolf",
+      "name_ko": "산후안 울프",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-004.png",
+      "image": null
+    },
+    {
+      "no": "ST27-005",
+      "name": "Marshall.D.Teach",
+      "name_ko": "마샬 D. 티치",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-005.png",
+      "image": null
+    }
+  ]
+}

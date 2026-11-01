@@ -1,0 +1,16 @@
+{
+  "id": "op-en-promo-pirates-party-vol-3",
+  "cards": [
+    {
+      "no": "P-035",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-035.png",
+      "image": "dex/cards/op-en-promo/P-035.webp"
+    }
+  ]
+}

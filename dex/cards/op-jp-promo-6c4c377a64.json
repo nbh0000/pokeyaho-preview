@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-6c4c377a64",
+  "cards": [
+    {
+      "no": "P-025",
+      "name": "スモーカー",
+      "name_ko": "스모커",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-025.png",
+      "image": "dex/cards/op-jp-promo/P-025.webp"
+    }
+  ]
+}

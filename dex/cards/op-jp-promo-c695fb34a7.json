@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-c695fb34a7",
+  "cards": [
+    {
+      "no": "P-027",
+      "name": "フランキー将軍",
+      "name_ko": "프랑키 장군",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": null,
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-027.png",
+      "image": "dex/cards/op-jp-promo/P-027.webp"
+    }
+  ]
+}

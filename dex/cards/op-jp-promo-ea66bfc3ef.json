@@ -1,0 +1,71 @@
+{
+  "id": "op-jp-promo-ea66bfc3ef",
+  "cards": [
+    {
+      "no": "OP02-035",
+      "name": "トラファルガー・ロー",
+      "name_ko": "트라팔가 로",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-035_p1.png",
+      "image": "dex/cards/op-jp-promo/OP02-035_p1.webp"
+    },
+    {
+      "no": "OP02-098",
+      "name": "コビー",
+      "name_ko": "코비",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-098_p1.png",
+      "image": "dex/cards/op-jp-promo/OP02-098_p1.webp"
+    },
+    {
+      "no": "ST01-004",
+      "name": "サンジ",
+      "name_ko": "상디",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST01-004_p2.png",
+      "image": "dex/cards/op-jp-promo/ST01-004_p2.webp"
+    },
+    {
+      "no": "ST03-014",
+      "name": "マーシャル・D・ティーチ",
+      "name_ko": "마샬 D. 티치",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-014_p1.png",
+      "image": "dex/cards/op-jp-promo/ST03-014_p1.webp"
+    },
+    {
+      "no": "ST04-008",
+      "name": "ジャック",
+      "name_ko": "잭",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-008_p1.png",
+      "image": "dex/cards/op-jp-promo/ST04-008_p1.webp"
+    },
+    {
+      "no": "ST07-008",
+      "name": "シャーロット・プリン",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-008_p1.png",
+      "image": "dex/cards/op-jp-promo/ST07-008_p1.webp"
+    }
+  ]
+}

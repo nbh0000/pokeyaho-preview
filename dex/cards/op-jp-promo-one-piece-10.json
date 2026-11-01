@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-one-piece-10",
+  "cards": [
+    {
+      "no": "OP12-106",
+      "name": "トラファルガー・ロー",
+      "name_ko": "트라팔가 로",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-106_p2.png",
+      "image": "dex/cards/op-jp-promo/OP12-106_p2.webp"
+    }
+  ]
+}

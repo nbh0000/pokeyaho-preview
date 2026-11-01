@@ -1,0 +1,38 @@
+{
+  "id": "op-en-promo-regional-2024-wave1",
+  "cards": [
+    {
+      "no": "ST10-006",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p1.png",
+      "image": "dex/cards/op-en-promo/ST10-006_p1.webp"
+    },
+    {
+      "no": "ST10-010",
+      "name": "Trafalgar Law",
+      "name_ko": null,
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010_p1.png",
+      "image": "dex/cards/op-en-promo/ST10-010_p1.webp"
+    },
+    {
+      "no": "ST10-013",
+      "name": "Eustass\"Captain\"Kid",
+      "name_ko": "유스타스 키드",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-013_p1.png",
+      "image": "dex/cards/op-en-promo/ST10-013_p1.webp"
+    }
+  ]
+}

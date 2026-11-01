@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-e65b5fe09b",
+  "cards": [
+    {
+      "no": "OP03-112",
+      "name": "シャーロット・プリン",
+      "name_ko": "샬롯 푸딩",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112_p2.png",
+      "image": "dex/cards/op-jp-promo/OP03-112_p2.webp"
+    },
+    {
+      "no": "OP04-010",
+      "name": "トニートニー・チョッパー",
+      "name_ko": "토니토니 쵸파",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "赤",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-010_p1.png",
+      "image": "dex/cards/op-jp-promo/OP04-010_p1.webp"
+    },
+    {
+      "no": "OP07-053",
+      "name": "ポートガス・D・エース",
+      "name_ko": "포트거스 D. 에이스",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-053_p1.png",
+      "image": "dex/cards/op-jp-promo/OP07-053_p1.webp"
+    },
+    {
+      "no": "OP07-100",
+      "name": "エジソン",
+      "name_ko": "에디슨",
+      "rarity": "C",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-100_p1.png",
+      "image": "dex/cards/op-jp-promo/OP07-100_p1.webp"
+    }
+  ]
+}

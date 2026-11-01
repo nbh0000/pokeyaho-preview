@@ -1,0 +1,49 @@
+{
+  "id": "op-jp-promo-52f0089bfb",
+  "cards": [
+    {
+      "no": "EB04-023",
+      "name": "チャカ&ペル",
+      "name_ko": "챠카 & 페루",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "青",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-023_p1.png",
+      "image": "dex/cards/op-jp-promo/EB04-023_p1.webp"
+    },
+    {
+      "no": "OP14-023",
+      "name": "菊之丞",
+      "name_ko": "키쿠노죠",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "緑",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-023_p1.png",
+      "image": "dex/cards/op-jp-promo/OP14-023_p1.webp"
+    },
+    {
+      "no": "OP14-087",
+      "name": "ミス・バレンタイン(ミキータ)",
+      "name_ko": "미스 발렌타인(미키타)",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-087_p1.png",
+      "image": "dex/cards/op-jp-promo/OP14-087_p1.webp"
+    },
+    {
+      "no": "OP14-105",
+      "name": "ゴルゴン三姉妹",
+      "name_ko": "고르곤 세 자매",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p1",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP14-105_p1.png",
+      "image": "dex/cards/op-jp-promo/OP14-105_p1.webp"
+    }
+  ]
+}

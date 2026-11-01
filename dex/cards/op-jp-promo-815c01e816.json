@@ -1,0 +1,16 @@
+{
+  "id": "op-jp-promo-815c01e816",
+  "cards": [
+    {
+      "no": "OP02-099",
+      "name": "サカズキ",
+      "name_ko": "사카즈키",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "黒",
+      "variant": "p4",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-099_p4.png",
+      "image": "dex/cards/op-jp-promo/OP02-099_p4.webp"
+    }
+  ]
+}

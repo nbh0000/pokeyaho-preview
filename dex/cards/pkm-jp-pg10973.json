@@ -1,0 +1,38 @@
+{
+  "id": "pkm-jp-pg10973",
+  "cards": [
+    {
+      "no": "M-P",
+      "name": "勝利のしるし",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048318_T_SHIXYOURINOSHIRUSHI.jpg",
+      "image": "dex/cards/pkm-jp-pg10973/M-P.webp"
+    },
+    {
+      "no": "M-P",
+      "name": "勝利のしるし",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048319_T_SHIXYOURINOSHIRUSHI.jpg",
+      "image": "dex/cards/pkm-jp-pg10973/M-P_2.webp"
+    },
+    {
+      "no": "M-P",
+      "name": "勝利のしるし",
+      "name_ko": null,
+      "rarity": null,
+      "type": null,
+      "color": null,
+      "variant": null,
+      "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/M-P/048320_T_SHIXYOURINOSHIRUSHI.jpg",
+      "image": "dex/cards/pkm-jp-pg10973/M-P_3.webp"
+    }
+  ]
+}

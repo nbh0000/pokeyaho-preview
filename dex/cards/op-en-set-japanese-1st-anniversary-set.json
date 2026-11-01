@@ -1,0 +1,38 @@
+{
+  "id": "op-en-set-japanese-1st-anniversary-set",
+  "cards": [
+    {
+      "no": "OP01-006",
+      "name": "Otama",
+      "name_ko": "오타마",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP02-015",
+      "name": "Makino",
+      "name_ko": "마키노",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015_p1.png",
+      "image": null
+    },
+    {
+      "no": "OP03-013",
+      "name": "Marco",
+      "name_ko": "마르코",
+      "rarity": "SR",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-013_p2.png",
+      "image": null
+    }
+  ]
+}

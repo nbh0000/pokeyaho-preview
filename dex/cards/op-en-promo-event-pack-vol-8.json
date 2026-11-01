@@ -1,0 +1,49 @@
+{
+  "id": "op-en-promo-event-pack-vol-8",
+  "cards": [
+    {
+      "no": "P-097",
+      "name": "Shanks",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-097.png",
+      "image": "dex/cards/op-en-promo/P-097.webp"
+    },
+    {
+      "no": "P-098",
+      "name": "Buggy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-098.png",
+      "image": "dex/cards/op-en-promo/P-098.webp"
+    },
+    {
+      "no": "P-099",
+      "name": "Monkey.D.Luffy",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-099.png",
+      "image": "dex/cards/op-en-promo/P-099.webp"
+    },
+    {
+      "no": "P-100",
+      "name": "Marshall.D.Teach",
+      "name_ko": null,
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-100.png",
+      "image": "dex/cards/op-en-promo/P-100.webp"
+    }
+  ]
+}

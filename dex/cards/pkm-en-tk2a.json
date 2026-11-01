@@ -1,0 +1,137 @@
+{
+  "id": "pkm-en-tk2a",
+  "cards": [
+    {
+      "no": "1/12",
+      "name": "Beldum",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2a/1.png",
+      "image": null
+    },
+    {
+      "no": "2/12",
+      "name": "Electrike",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2a/2.png",
+      "image": null
+    },
+    {
+      "no": "3/12",
+      "name": "Grumpig",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2a/3.png",
+      "image": null
+    },
+    {
+      "no": "4/12",
+      "name": "Meowth",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Colorless",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2a/4.png",
+      "image": null
+    },
+    {
+      "no": "5/12",
+      "name": "Metang",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2a/5.png",
+      "image": null
+    },
+    {
+      "no": "6/12",
+      "name": "Plusle",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Lightning",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2a/6.png",
+      "image": null
+    },
+    {
+      "no": "7/12",
+      "name": "Spoink",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Pokémon",
+      "color": "Psychic",
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2a/7.png",
+      "image": null
+    },
+    {
+      "no": "8/12",
+      "name": "Energy Search",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2a/8.png",
+      "image": null
+    },
+    {
+      "no": "9/12",
+      "name": "Potion",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2a/9.png",
+      "image": null
+    },
+    {
+      "no": "10/12",
+      "name": "Professor Cozmo's Discovery",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Trainer",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2a/10.png",
+      "image": null
+    },
+    {
+      "no": "11/12",
+      "name": "Lightning Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2a/11.png",
+      "image": null
+    },
+    {
+      "no": "12/12",
+      "name": "Psychic Energy",
+      "name_ko": null,
+      "rarity": null,
+      "type": "Energy",
+      "color": null,
+      "variant": null,
+      "image_url": "https://images.pokemontcg.io/tk2a/12.png",
+      "image": null
+    }
+  ]
+}

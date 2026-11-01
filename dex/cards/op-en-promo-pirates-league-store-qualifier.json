@@ -1,0 +1,27 @@
+{
+  "id": "op-en-promo-pirates-league-store-qualifier",
+  "cards": [
+    {
+      "no": "OP05-076",
+      "name": "When You're at Sea You Fight against Pirates!!",
+      "name_ko": "바다는 해적이 상대다!!!",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "Purple",
+      "variant": "p2",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-076_p2.png",
+      "image": "dex/cards/op-en-promo/OP05-076_p2.webp"
+    },
+    {
+      "no": "OP05-076",
+      "name": "When You're at Sea You Fight against Pirates!!",
+      "name_ko": "바다는 해적이 상대다!!!",
+      "rarity": "R",
+      "type": "EVENT",
+      "color": "Purple",
+      "variant": "p3",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-076_p3.png",
+      "image": "dex/cards/op-en-promo/OP05-076_p3.webp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "op-en-promo-included-in-event-pack-vol-2",
+  "cards": [
+    {
+      "no": "OP01-052",
+      "name": "Raizo",
+      "name_ko": "라이조",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Green",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-052_p1.png",
+      "image": "dex/cards/op-en-promo/OP01-052_p1.webp"
+    },
+    {
+      "no": "OP01-101",
+      "name": "Sasaki",
+      "name_ko": "사사키",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Purple",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-101_p1.png",
+      "image": "dex/cards/op-en-promo/OP01-101_p1.webp"
+    },
+    {
+      "no": "OP02-106",
+      "name": "Tsuru",
+      "name_ko": "츠루",
+      "rarity": "UC",
+      "type": "CHARACTER",
+      "color": "Black",
+      "variant": "p1",
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-106_p1.png",
+      "image": "dex/cards/op-en-promo/OP02-106_p1.webp"
+    },
+    {
+      "no": "P-027",
+      "name": "General Franky",
+      "name_ko": "프랑키 장군",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Red",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-027.png",
+      "image": "dex/cards/op-en-promo/P-027.webp"
+    },
+    {
+      "no": "P-033",
+      "name": "Monkey.D.Luffy",
+      "name_ko": "몽키 D. 루피",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Blue",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-033.png",
+      "image": "dex/cards/op-en-promo/P-033.webp"
+    },
+    {
+      "no": "P-034",
+      "name": "Sanji",
+      "name_ko": "상디",
+      "rarity": "P",
+      "type": "CHARACTER",
+      "color": "Yellow",
+      "variant": null,
+      "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-034.png",
+      "image": "dex/cards/op-en-promo/P-034.webp"
+    }
+  ]
+}

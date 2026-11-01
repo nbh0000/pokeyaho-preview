@@ -1,0 +1,27 @@
+{
+  "id": "op-jp-promo-one-piece-card-game-2nd-anniversary-complete-guide",
+  "cards": [
+    {
+      "no": "OP05-067",
+      "name": "ゾロ十郎",
+      "name_ko": "조로주로",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "紫",
+      "variant": "p2",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-067_p2.png",
+      "image": "dex/cards/op-jp-promo/OP05-067_p2.webp"
+    },
+    {
+      "no": "OP06-101",
+      "name": "おナミ",
+      "name_ko": "오나미",
+      "rarity": "R",
+      "type": "CHARACTER",
+      "color": "黄",
+      "variant": "p3",
+      "image_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-101_p3.png",
+      "image": "dex/cards/op-jp-promo/OP06-101_p3.webp"
+    }
+  ]
+}
