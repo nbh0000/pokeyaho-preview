@@ -10,7 +10,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039559_P_RAPURASU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/001-022.webp"
     },
     {
       "no": "002/022",
@@ -21,7 +21,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039560_P_TEPPOUO.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/002-022.webp"
     },
     {
       "no": "003/022",
@@ -32,7 +32,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039561_P_OKUTAN.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/003-022.webp"
     },
     {
       "no": "004/022",
@@ -43,7 +43,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039562_P_BASURAO.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/004-022.webp"
     },
     {
       "no": "005/022",
@@ -54,7 +54,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039563_P_INTEREONV.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/005-022.webp"
     },
     {
       "no": "006/022",
@@ -65,7 +65,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039564_P_INTEREONVMAX.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/006-022.webp"
     },
     {
       "no": "007/022",
@@ -76,7 +76,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039565_P_KUROBATTOV.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/007-022.webp"
     },
     {
       "no": "008/022",
@@ -87,7 +87,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039566_P_MIMIRORU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/008-022.webp"
     },
     {
       "no": "009/022",
@@ -98,7 +98,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039567_P_MIMIROPPU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/009-022.webp"
     },
     {
       "no": "010/022",
@@ -109,7 +109,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039568_P_RUCHABURU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/010-022.webp"
     },
     {
       "no": "023/022",
@@ -120,7 +120,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/044976_P_INTEREONVMAX.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/023-022.webp"
     },
     {
       "no": "011/022",
@@ -131,7 +131,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039569_T_ENERUGIKAISHUU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/011-022.webp"
     },
     {
       "no": "012/022",
@@ -142,7 +142,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039570_T_KUIKKUBORU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/012-022.webp"
     },
     {
       "no": "013/022",
@@ -153,7 +153,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039571_T_SHINKANOOKOU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/013-022.webp"
     },
     {
       "no": "014/022",
@@ -164,7 +164,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039572_T_POKEGIA.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/014-022.webp"
     },
     {
       "no": "015/022",
@@ -175,7 +175,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039573_T_POKEMONIREKAE.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/015-022.webp"
     },
     {
       "no": "016/022",
@@ -186,7 +186,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039574_T_KORUNINOKIAI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/016-022.webp"
     },
     {
       "no": "017/022",
@@ -197,7 +197,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039575_T_HAKASENOKENKYUUARARAGIHAKASE.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/017-022.webp"
     },
     {
       "no": "018/022",
@@ -208,7 +208,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039576_T_BOUKENKANOHAKKEN.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/018-022.webp"
     },
     {
       "no": "019/022",
@@ -219,7 +219,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039577_T_BOSUNOSHIREIFURADARI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/019-022.webp"
     },
     {
       "no": "020/022",
@@ -230,7 +230,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039578_T_MARII.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/020-022.webp"
     },
     {
       "no": "021/022",
@@ -241,7 +241,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039579_T_MIZUNOTOU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/021-022.webp"
     },
     {
       "no": "022/022",
@@ -252,7 +252,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039580_E_RENGEKIENERUGI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/022-022.webp"
     },
     {
       "no": "WAT",
@@ -263,7 +263,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SGI/039582_E_KIHONMIZUENERUGI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg735/WAT.webp"
     }
   ]
 }

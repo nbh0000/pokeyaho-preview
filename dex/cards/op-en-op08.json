@@ -10,7 +10,7 @@
       "color": "Yellow",
       "variant": "p2",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-109_p2.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP07-109_p2.webp"
     },
     {
       "no": "OP08-001",
@@ -21,7 +21,7 @@
       "color": "Red/Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-001.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-001.webp"
     },
     {
       "no": "OP08-001",
@@ -32,7 +32,7 @@
       "color": "Red/Green",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-001_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-001_p1.webp"
     },
     {
       "no": "OP08-002",
@@ -43,7 +43,7 @@
       "color": "Red/Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-002.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-002.webp"
     },
     {
       "no": "OP08-002",
@@ -54,7 +54,7 @@
       "color": "Red/Blue",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-002_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-002_p1.webp"
     },
     {
       "no": "OP08-003",
@@ -65,7 +65,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-003.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-003.webp"
     },
     {
       "no": "OP08-004",
@@ -76,7 +76,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-004.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-004.webp"
     },
     {
       "no": "OP08-005",
@@ -87,7 +87,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-005.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-005.webp"
     },
     {
       "no": "OP08-006",
@@ -98,7 +98,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-006.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-006.webp"
     },
     {
       "no": "OP08-007",
@@ -109,7 +109,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-007.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-007.webp"
     },
     {
       "no": "OP08-007",
@@ -120,7 +120,7 @@
       "color": "Red",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-007_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-007_p1.webp"
     },
     {
       "no": "OP08-008",
@@ -131,7 +131,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-008.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-008.webp"
     },
     {
       "no": "OP08-009",
@@ -142,7 +142,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-009.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-009.webp"
     },
     {
       "no": "OP08-010",
@@ -153,7 +153,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-010.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-010.webp"
     },
     {
       "no": "OP08-011",
@@ -164,7 +164,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-011.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-011.webp"
     },
     {
       "no": "OP08-012",
@@ -175,7 +175,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-012.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-012.webp"
     },
     {
       "no": "OP08-013",
@@ -186,7 +186,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-013.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-013.webp"
     },
     {
       "no": "OP08-014",
@@ -197,7 +197,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-014.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-014.webp"
     },
     {
       "no": "OP08-015",
@@ -208,7 +208,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-015.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-015.webp"
     },
     {
       "no": "OP08-015",
@@ -219,7 +219,7 @@
       "color": "Red",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-015_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-015_p1.webp"
     },
     {
       "no": "OP08-016",
@@ -230,7 +230,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-016.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-016.webp"
     },
     {
       "no": "OP08-017",
@@ -241,7 +241,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-017.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-017.webp"
     },
     {
       "no": "OP08-018",
@@ -252,7 +252,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-018.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-018.webp"
     },
     {
       "no": "OP08-019",
@@ -263,7 +263,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-019.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-019.webp"
     },
     {
       "no": "OP08-020",
@@ -274,7 +274,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-020.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-020.webp"
     },
     {
       "no": "OP08-021",
@@ -285,7 +285,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-021.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-021.webp"
     },
     {
       "no": "OP08-021",
@@ -296,7 +296,7 @@
       "color": "Green",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-021_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-021_p1.webp"
     },
     {
       "no": "OP08-022",
@@ -307,7 +307,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-022.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-022.webp"
     },
     {
       "no": "OP08-023",
@@ -318,7 +318,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-023.webp"
     },
     {
       "no": "OP08-023",
@@ -329,7 +329,7 @@
       "color": "Green",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-023_p1.webp"
     },
     {
       "no": "OP08-024",
@@ -340,7 +340,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-024.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-024.webp"
     },
     {
       "no": "OP08-025",
@@ -351,7 +351,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-025.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-025.webp"
     },
     {
       "no": "OP08-026",
@@ -362,7 +362,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-026.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-026.webp"
     },
     {
       "no": "OP08-027",
@@ -373,7 +373,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-027.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-027.webp"
     },
     {
       "no": "OP08-028",
@@ -384,7 +384,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-028.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-028.webp"
     },
     {
       "no": "OP08-029",
@@ -395,7 +395,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-029.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-029.webp"
     },
     {
       "no": "OP08-030",
@@ -406,7 +406,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-030.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-030.webp"
     },
     {
       "no": "OP08-030",
@@ -417,7 +417,7 @@
       "color": "Green",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-030_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-030_p1.webp"
     },
     {
       "no": "OP08-031",
@@ -428,7 +428,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-031.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-031.webp"
     },
     {
       "no": "OP08-032",
@@ -439,7 +439,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-032.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-032.webp"
     },
     {
       "no": "OP08-033",
@@ -450,7 +450,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-033.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-033.webp"
     },
     {
       "no": "OP08-034",
@@ -461,7 +461,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-034.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-034.webp"
     },
     {
       "no": "OP08-035",
@@ -472,7 +472,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-035.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-035.webp"
     },
     {
       "no": "OP08-036",
@@ -483,7 +483,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-036.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-036.webp"
     },
     {
       "no": "OP08-037",
@@ -494,7 +494,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-037.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-037.webp"
     },
     {
       "no": "OP08-038",
@@ -505,7 +505,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-038.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-038.webp"
     },
     {
       "no": "OP08-039",
@@ -516,7 +516,7 @@
       "color": "Green",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-039.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-039.webp"
     },
     {
       "no": "OP08-040",
@@ -527,7 +527,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-040.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-040.webp"
     },
     {
       "no": "OP08-041",
@@ -538,7 +538,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-041.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-041.webp"
     },
     {
       "no": "OP08-042",
@@ -549,7 +549,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-042.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-042.webp"
     },
     {
       "no": "OP08-043",
@@ -560,7 +560,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-043.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-043.webp"
     },
     {
       "no": "OP08-043",
@@ -571,7 +571,7 @@
       "color": "Blue",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-043_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-043_p1.webp"
     },
     {
       "no": "OP08-044",
@@ -582,7 +582,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-044.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-044.webp"
     },
     {
       "no": "OP08-045",
@@ -593,7 +593,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-045.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-045.webp"
     },
     {
       "no": "OP08-046",
@@ -604,7 +604,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-046.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-046.webp"
     },
     {
       "no": "OP08-047",
@@ -615,7 +615,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-047.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-047.webp"
     },
     {
       "no": "OP08-048",
@@ -626,7 +626,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-048.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-048.webp"
     },
     {
       "no": "OP08-049",
@@ -637,7 +637,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-049.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-049.webp"
     },
     {
       "no": "OP08-050",
@@ -648,7 +648,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-050.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-050.webp"
     },
     {
       "no": "OP08-051",
@@ -659,7 +659,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-051.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-051.webp"
     },
     {
       "no": "OP08-052",
@@ -670,7 +670,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-052.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-052.webp"
     },
     {
       "no": "OP08-052",
@@ -681,7 +681,7 @@
       "color": "Blue",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-052_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-052_p1.webp"
     },
     {
       "no": "OP08-053",
@@ -692,7 +692,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-053.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-053.webp"
     },
     {
       "no": "OP08-054",
@@ -703,7 +703,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-054.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-054.webp"
     },
     {
       "no": "OP08-055",
@@ -714,7 +714,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-055.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-055.webp"
     },
     {
       "no": "OP08-056",
@@ -725,7 +725,7 @@
       "color": "Blue",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-056.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-056.webp"
     },
     {
       "no": "OP08-057",
@@ -736,7 +736,7 @@
       "color": "Purple/Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-057.webp"
     },
     {
       "no": "OP08-057",
@@ -747,7 +747,7 @@
       "color": "Purple/Black",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-057_p1.webp"
     },
     {
       "no": "OP08-058",
@@ -758,7 +758,7 @@
       "color": "Purple/Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-058.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-058.webp"
     },
     {
       "no": "OP08-058",
@@ -769,7 +769,7 @@
       "color": "Purple/Yellow",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-058_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-058_p1.webp"
     },
     {
       "no": "OP08-059",
@@ -780,7 +780,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-059.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-059.webp"
     },
     {
       "no": "OP08-060",
@@ -791,7 +791,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-060.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-060.webp"
     },
     {
       "no": "OP08-061",
@@ -802,7 +802,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-061.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-061.webp"
     },
     {
       "no": "OP08-062",
@@ -813,7 +813,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-062.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-062.webp"
     },
     {
       "no": "OP08-063",
@@ -824,7 +824,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-063.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-063.webp"
     },
     {
       "no": "OP08-064",
@@ -835,7 +835,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-064.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-064.webp"
     },
     {
       "no": "OP08-065",
@@ -846,7 +846,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-065.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-065.webp"
     },
     {
       "no": "OP08-066",
@@ -857,7 +857,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-066.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-066.webp"
     },
     {
       "no": "OP08-067",
@@ -868,7 +868,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-067.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-067.webp"
     },
     {
       "no": "OP08-067",
@@ -879,7 +879,7 @@
       "color": "Purple",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-067_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-067_p1.webp"
     },
     {
       "no": "OP08-068",
@@ -890,7 +890,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-068.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-068.webp"
     },
     {
       "no": "OP08-069",
@@ -901,7 +901,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-069.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-069.webp"
     },
     {
       "no": "OP08-069",
@@ -912,7 +912,7 @@
       "color": "Purple",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-069_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-069_p1.webp"
     },
     {
       "no": "OP08-070",
@@ -923,7 +923,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-070.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-070.webp"
     },
     {
       "no": "OP08-071",
@@ -934,7 +934,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-071.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-071.webp"
     },
     {
       "no": "OP08-072",
@@ -945,7 +945,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-072.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-072.webp"
     },
     {
       "no": "OP08-073",
@@ -956,7 +956,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-073.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-073.webp"
     },
     {
       "no": "OP08-074",
@@ -967,7 +967,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-074.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-074.webp"
     },
     {
       "no": "OP08-074",
@@ -978,7 +978,7 @@
       "color": "Purple",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-074_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-074_p1.webp"
     },
     {
       "no": "OP08-075",
@@ -989,7 +989,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-075.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-075.webp"
     },
     {
       "no": "OP08-076",
@@ -1000,7 +1000,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-076.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-076.webp"
     },
     {
       "no": "OP08-077",
@@ -1011,7 +1011,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-077.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-077.webp"
     },
     {
       "no": "OP08-078",
@@ -1022,7 +1022,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-078.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-078.webp"
     },
     {
       "no": "OP08-079",
@@ -1033,7 +1033,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-079.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-079.webp"
     },
     {
       "no": "OP08-079",
@@ -1044,7 +1044,7 @@
       "color": "Black",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-079_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-079_p1.webp"
     },
     {
       "no": "OP08-080",
@@ -1055,7 +1055,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-080.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-080.webp"
     },
     {
       "no": "OP08-080",
@@ -1066,7 +1066,7 @@
       "color": "Black",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-080_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-080_p1.webp"
     },
     {
       "no": "OP08-081",
@@ -1077,7 +1077,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-081.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-081.webp"
     },
     {
       "no": "OP08-082",
@@ -1088,7 +1088,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-082.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-082.webp"
     },
     {
       "no": "OP08-083",
@@ -1099,7 +1099,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-083.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-083.webp"
     },
     {
       "no": "OP08-084",
@@ -1110,7 +1110,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-084.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-084.webp"
     },
     {
       "no": "OP08-084",
@@ -1121,7 +1121,7 @@
       "color": "Black",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-084_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-084_p1.webp"
     },
     {
       "no": "OP08-085",
@@ -1132,7 +1132,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-085.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-085.webp"
     },
     {
       "no": "OP08-086",
@@ -1143,7 +1143,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-086.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-086.webp"
     },
     {
       "no": "OP08-087",
@@ -1154,7 +1154,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-087.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-087.webp"
     },
     {
       "no": "OP08-088",
@@ -1165,7 +1165,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-088.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-088.webp"
     },
     {
       "no": "OP08-089",
@@ -1176,7 +1176,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-089.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-089.webp"
     },
     {
       "no": "OP08-090",
@@ -1187,7 +1187,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-090.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-090.webp"
     },
     {
       "no": "OP08-091",
@@ -1198,7 +1198,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-091.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-091.webp"
     },
     {
       "no": "OP08-092",
@@ -1209,7 +1209,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-092.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-092.webp"
     },
     {
       "no": "OP08-093",
@@ -1220,7 +1220,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-093.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-093.webp"
     },
     {
       "no": "OP08-094",
@@ -1231,7 +1231,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-094.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-094.webp"
     },
     {
       "no": "OP08-095",
@@ -1242,7 +1242,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-095.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-095.webp"
     },
     {
       "no": "OP08-096",
@@ -1253,7 +1253,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-096.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-096.webp"
     },
     {
       "no": "OP08-097",
@@ -1264,7 +1264,7 @@
       "color": "Black",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-097.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-097.webp"
     },
     {
       "no": "OP08-098",
@@ -1275,7 +1275,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-098.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-098.webp"
     },
     {
       "no": "OP08-098",
@@ -1286,7 +1286,7 @@
       "color": "Yellow",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-098_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-098_p1.webp"
     },
     {
       "no": "OP08-099",
@@ -1297,7 +1297,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-099.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-099.webp"
     },
     {
       "no": "OP08-100",
@@ -1308,7 +1308,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-100.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-100.webp"
     },
     {
       "no": "OP08-101",
@@ -1319,7 +1319,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-101.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-101.webp"
     },
     {
       "no": "OP08-102",
@@ -1330,7 +1330,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-102.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-102.webp"
     },
     {
       "no": "OP08-103",
@@ -1341,7 +1341,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-103.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-103.webp"
     },
     {
       "no": "OP08-104",
@@ -1352,7 +1352,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-104.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-104.webp"
     },
     {
       "no": "OP08-105",
@@ -1363,7 +1363,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-105.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-105.webp"
     },
     {
       "no": "OP08-105",
@@ -1374,7 +1374,7 @@
       "color": "Yellow",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-105_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-105_p1.webp"
     },
     {
       "no": "OP08-106",
@@ -1385,7 +1385,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-106.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-106.webp"
     },
     {
       "no": "OP08-106",
@@ -1396,7 +1396,7 @@
       "color": "Yellow",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-106_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-106_p1.webp"
     },
     {
       "no": "OP08-107",
@@ -1407,7 +1407,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-107.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-107.webp"
     },
     {
       "no": "OP08-108",
@@ -1418,7 +1418,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-108.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-108.webp"
     },
     {
       "no": "OP08-109",
@@ -1429,7 +1429,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-109.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-109.webp"
     },
     {
       "no": "OP08-110",
@@ -1440,7 +1440,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-110.webp"
     },
     {
       "no": "OP08-110",
@@ -1451,7 +1451,7 @@
       "color": "Yellow",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-110_p1.webp"
     },
     {
       "no": "OP08-111",
@@ -1462,7 +1462,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-111.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-111.webp"
     },
     {
       "no": "OP08-112",
@@ -1473,7 +1473,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-112.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-112.webp"
     },
     {
       "no": "OP08-112",
@@ -1484,7 +1484,7 @@
       "color": "Yellow",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-112_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-112_p1.webp"
     },
     {
       "no": "OP08-113",
@@ -1495,7 +1495,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-113.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-113.webp"
     },
     {
       "no": "OP08-114",
@@ -1506,7 +1506,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-114.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-114.webp"
     },
     {
       "no": "OP08-115",
@@ -1517,7 +1517,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-115.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-115.webp"
     },
     {
       "no": "OP08-116",
@@ -1528,7 +1528,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-116.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-116.webp"
     },
     {
       "no": "OP08-117",
@@ -1539,7 +1539,7 @@
       "color": "Yellow",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-117.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-117.webp"
     },
     {
       "no": "OP08-118",
@@ -1550,7 +1550,7 @@
       "color": "Red",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-118.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-118.webp"
     },
     {
       "no": "OP08-118",
@@ -1561,7 +1561,7 @@
       "color": "Red",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-118_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-118_p1.webp"
     },
     {
       "no": "OP08-118",
@@ -1572,7 +1572,7 @@
       "color": "Red",
       "variant": "p2",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-118_p2.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-118_p2.webp"
     },
     {
       "no": "OP08-119",
@@ -1583,7 +1583,7 @@
       "color": "Purple",
       "variant": null,
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-119.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-119.webp"
     },
     {
       "no": "OP08-119",
@@ -1594,7 +1594,7 @@
       "color": "Purple",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-119_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP08-119_p1.webp"
     },
     {
       "no": "OP02-013",
@@ -1605,7 +1605,7 @@
       "color": "Red",
       "variant": "p3",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013_p3.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP02-013_p3.webp"
     },
     {
       "no": "OP03-112",
@@ -1616,7 +1616,7 @@
       "color": "Yellow",
       "variant": "p4",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112_p4.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/OP03-112_p4.webp"
     },
     {
       "no": "ST02-007",
@@ -1627,7 +1627,7 @@
       "color": "Green",
       "variant": "p2",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007_p2.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/ST02-007_p2.webp"
     },
     {
       "no": "ST03-004",
@@ -1638,7 +1638,7 @@
       "color": "Blue",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/ST03-004_p1.webp"
     },
     {
       "no": "ST04-005",
@@ -1649,7 +1649,7 @@
       "color": "Purple",
       "variant": "p1",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005_p1.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/ST04-005_p1.webp"
     },
     {
       "no": "ST06-006",
@@ -1660,7 +1660,7 @@
       "color": "Black",
       "variant": "p2",
       "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p2.png",
-      "image": null
+      "image": "dex/cards/op-en-op08/ST06-006_p2.webp"
     }
   ]
 }

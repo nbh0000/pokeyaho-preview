@@ -10,7 +10,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041664_P_PIKACHIXYUUV.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/001-015.webp"
     },
     {
       "no": "003/015",
@@ -21,7 +21,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041666_P_PIKACHIXYUU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/003-015.webp"
     },
     {
       "no": "004/015",
@@ -32,7 +32,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041667_P_RAICHIXYUU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/004-015.webp"
     },
     {
       "no": "005/015",
@@ -43,7 +43,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041668_P_PIKACHIXYUUV.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/005-015.webp"
     },
     {
       "no": "006/015",
@@ -54,7 +54,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041669_P_PIKACHIXYUUVMAX.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/006-015.webp"
     },
     {
       "no": "002/015",
@@ -65,7 +65,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041665_T_MONSUTABORU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/002-015.webp"
     },
     {
       "no": "007/015",
@@ -76,7 +76,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041670_T_KIZUGUSURI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/007-015.webp"
     },
     {
       "no": "008/015",
@@ -87,7 +87,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041671_T_SUPABORU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/008-015.webp"
     },
     {
       "no": "009/015",
@@ -98,7 +98,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041672_T_POKEMONIREKAE.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/009-015.webp"
     },
     {
       "no": "010/015",
@@ -109,7 +109,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041673_T_POKEMONKIXYATCHIXYA.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/010-015.webp"
     },
     {
       "no": "011/015",
@@ -120,7 +120,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041674_T_MONSUTABORU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/011-015.webp"
     },
     {
       "no": "012/015",
@@ -131,7 +131,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041675_T_HAKASENOKENKIXYUUMAGUNORIAHAKASE.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/012-015.webp"
     },
     {
       "no": "013/015",
@@ -142,7 +142,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041676_T_BITO.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/013-015.webp"
     },
     {
       "no": "014/015",
@@ -153,7 +153,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041677_T_POKEMONGOKKO.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/014-015.webp"
     },
     {
       "no": "015/015",
@@ -164,7 +164,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041678_T_HOPPU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/015-015.webp"
     },
     {
       "no": "LIG",
@@ -175,7 +175,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/S8a-G/041679_E_KIHONKAMINARIENERUGI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg860/LIG.webp"
     }
   ]
 }

@@ -10,7 +10,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039654_P_BUSUTAVMAX.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg737/001-004.webp"
     },
     {
       "no": "002/004",
@@ -21,7 +21,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039655_P_SHAWAZUVMAX.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg737/002-004.webp"
     },
     {
       "no": "003/004",
@@ -32,7 +32,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039656_P_SANDASUVMAX.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg737/003-004.webp"
     },
     {
       "no": "004/004",
@@ -43,7 +43,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039657_P_EFIVMAX.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg737/004-004.webp"
     },
     {
       "no": "FIR",
@@ -54,7 +54,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039658_E_KIHONHONOOENERUGI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg737/FIR.webp"
     },
     {
       "no": "LIG",
@@ -65,7 +65,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039660_E_KIHONKAMINARIENERUGI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg737/LIG.webp"
     },
     {
       "no": "PSY",
@@ -76,7 +76,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039661_E_KIHONCHOUENERUGI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg737/PSY.webp"
     },
     {
       "no": "WAT",
@@ -87,7 +87,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP4/039659_E_KIHONMIZUENERUGI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg737/WAT.webp"
     }
   ]
 }

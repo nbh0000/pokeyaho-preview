@@ -10,7 +10,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039502_P_HAKUBABADOREKKUSUV.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg733/001-006.webp"
     },
     {
       "no": "002/006",
@@ -21,7 +21,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039503_P_KOKUBABADOREKKUSUV.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg733/002-006.webp"
     },
     {
       "no": "003/006",
@@ -32,7 +32,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039504_T_AYASHIIKANDUME.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg733/003-006.webp"
     },
     {
       "no": "004/006",
@@ -43,7 +43,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039505_T_TAPPURIBAKETSU.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg733/004-006.webp"
     },
     {
       "no": "005/006",
@@ -54,7 +54,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039506_E_UOSSHUMIZUENERUGI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg733/005-006.webp"
     },
     {
       "no": "006/006",
@@ -65,7 +65,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039507_E_HORACHOUENERUGI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg733/006-006.webp"
     }
   ]
 }

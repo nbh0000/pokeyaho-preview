@@ -388,7 +388,7 @@
     // 로컬 썸네일이 없고 외부 표시를 막지 않는 이미지 서버(pokemontcg.io, 드래곤볼 공식)면 원본 주소를 쓴다
     var cardSrc = function (c) {
       if (c.image) return cGrid.getAttribute('data-static-base') + c.image;
-      if (c.image_url && /^https:\/\/(images\.pokemontcg\.io|www\.dbs-cardgame\.com)\//.test(c.image_url)) return c.image_url;
+      if (c.image_url && /^https:\/\/(images\.pokemontcg\.io|images\.scrydex\.com|www\.dbs-cardgame\.com)\//.test(c.image_url)) return c.image_url;
       return '';
     };
     var cardHtml = function (c) {

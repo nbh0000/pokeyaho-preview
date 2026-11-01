@@ -10,7 +10,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP6/041955_P_ROTOMUV.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg865/001-006.webp"
     },
     {
       "no": "002/006",
@@ -21,7 +21,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP6/041956_P_ROTOMUVSTAR.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg865/002-006.webp"
     },
     {
       "no": "003/006",
@@ -32,7 +32,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP6/041957_P_ZASHIANV.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg865/003-006.webp"
     },
     {
       "no": "004/006",
@@ -43,7 +43,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP6/041958_P_ZASHIANVSTAR.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg865/004-006.webp"
     },
     {
       "no": "005/006",
@@ -54,7 +54,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP6/041959_P_ZAMAZENTAV.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg865/005-006.webp"
     },
     {
       "no": "006/006",
@@ -65,7 +65,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SP6/041960_P_ZAMAZENTAVSTAR.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg865/006-006.webp"
     }
   ]
 }

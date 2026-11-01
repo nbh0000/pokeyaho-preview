@@ -10,7 +10,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043314_P_NONOKURAGE.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg881/001-007.webp"
     },
     {
       "no": "002/007",
@@ -21,7 +21,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043315_P_RIKUKURAGEEX.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg881/002-007.webp"
     },
     {
       "no": "003/007",
@@ -32,7 +32,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043316_P_PAMO.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg881/003-007.webp"
     },
     {
       "no": "004/007",
@@ -43,7 +43,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043317_P_PAMOTTO.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg881/004-007.webp"
     },
     {
       "no": "005/007",
@@ -54,7 +54,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043318_P_PAMOTTOEX.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg881/005-007.webp"
     },
     {
       "no": "006/007",
@@ -65,7 +65,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043319_P_BOCHI.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg881/006-007.webp"
     },
     {
       "no": "007/007",
@@ -76,7 +76,7 @@
       "color": null,
       "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043320_P_HAKADOGGUEX.jpg",
-      "image": null
+      "image": "dex/cards/pkm-jp-pg881/007-007.webp"
     }
   ]
 }
