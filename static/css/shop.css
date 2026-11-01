@@ -2465,3 +2465,57 @@ body:has(.brand-hero) .head-logo { visibility: hidden; }
 /* 종류 카드의 프로모 칸: 카드 사진은 세로가 길어 조금 작게, 테두리 그림자 */
 .dx-kind .dx-kind-img.is-cards img { height: 92%; border-radius: 5px; aspect-ratio: 63 / 88; object-fit: cover; flex-basis: 24%; width: 24%;
   filter: none; box-shadow: 0 6px 12px -4px rgba(15, 30, 69, .35); }
+
+/* ===== 왼쪽 고정 바로가기 (홈 · 포켓몬카드 · 원피스카드 · 드래곤볼) =====
+   본문 옆에 자리가 넉넉하면 항상 펼쳐 두고, 좁으면 왼쪽 가장자리 탭을 눌러 꺼낸다 */
+.side-rail { position: fixed; left: 0; top: 50%; z-index: 40; transform: translateY(-50%); display: flex; align-items: center;
+  font-family: inherit; -webkit-tap-highlight-color: transparent; }
+.rail-list { display: flex; flex-direction: column; gap: 4px; padding: 8px; border-radius: 0 18px 18px 0; background: #0f1e45;
+  box-shadow: 0 16px 34px -14px rgba(15, 30, 69, .6), inset 0 -3px 0 rgba(0, 0, 0, .18); }
+.rail-link { position: relative; display: flex; flex-direction: column; align-items: center; gap: 5px; width: 74px; padding: 9px 4px 8px; border-radius: 12px;
+  color: #dfe5f5; text-decoration: none; touch-action: manipulation; transition: background-color 160ms ease, color 160ms ease; }
+.rail-ico { width: 42px; height: 42px; border-radius: 11px; background: #1c2d5e center / cover no-repeat; box-shadow: 0 0 0 2px rgba(255, 255, 255, .14);
+  transition: transform 200ms cubic-bezier(.22, 1, .36, 1), box-shadow 160ms ease; }
+.rail-link.r-home .rail-ico { background: #fff url(../img/favicon-64.png) center / 74% no-repeat; }
+.rail-link.r-y .rail-ico { background-image: url(../img/tile-yellow.webp); background-position: 60% 35%; }
+.rail-link.r-s .rail-ico { background-image: url(../img/tile-sky.webp); background-position: 60% 45%; }
+.rail-link.r-o .rail-ico { background-image: url(../img/tile-orange.webp); background-position: 60% 45%; }
+.rail-label { font-size: 11.5px; font-weight: 800; letter-spacing: -.02em; line-height: 1.2; text-align: center; word-break: keep-all; }
+.rail-link.is-cur, .rail-link.is-home.no-cat { background: #ffc61a; color: #0f1e45; }
+.rail-link.is-cur .rail-ico, .rail-link.is-home.no-cat .rail-ico { box-shadow: 0 0 0 2px #0f1e45; }
+.rail-link:focus-visible { outline: 3px solid #45bdd6; outline-offset: 2px; }
+.rail-link:active .rail-ico { transform: scale(.94); }
+@media (hover: hover) and (pointer: fine) {
+  .rail-link:not(.is-cur):hover { background: rgba(255, 255, 255, .08); color: #fff; }
+  .rail-link:hover .rail-ico { transform: translateY(-2px); }
+}
+.rail-toggle { display: none; }
+
+/* 좁은 화면: 탭만 보이고, 누르면 목록이 옆으로 나온다 */
+@media (max-width: 1439px), (min-width: 1600px) and (max-width: 1719px) {
+  .side-rail { top: auto; bottom: calc(env(safe-area-inset-bottom, 0px) + 96px); transform: none; }
+  body.has-cartbar .side-rail { bottom: calc(var(--bar-h, 72px) + env(safe-area-inset-bottom, 0px) + 24px); }
+  .rail-toggle { display: flex; flex-direction: column; align-items: center; gap: 6px; padding: 12px 7px 12px 6px; border: 0; border-radius: 0 14px 14px 0;
+    background: #0f1e45; color: #ffc61a; font: inherit; font-size: 12px; font-weight: 800; cursor: pointer; touch-action: manipulation;
+    box-shadow: 0 10px 24px -10px rgba(15, 30, 69, .6), inset 0 -3px 0 rgba(0, 0, 0, .2); }
+  .rail-toggle-text { writing-mode: vertical-rl; letter-spacing: .08em; }
+  .rail-toggle-ico { width: 18px; height: 18px; border-radius: 5px; background: #fff url(../img/favicon-64.png) center / 80% no-repeat; }
+  .rail-toggle:focus-visible { outline: 3px solid #45bdd6; outline-offset: 2px; }
+  .rail-list { position: absolute; left: 0; bottom: 0; opacity: 0; visibility: hidden; transform: translateX(-16px);
+    transition: opacity 180ms ease, transform 220ms cubic-bezier(.22, 1, .36, 1), visibility 0s linear 220ms; }
+  .side-rail.open .rail-list { opacity: 1; visibility: visible; transform: none; transition: opacity 180ms ease, transform 220ms cubic-bezier(.22, 1, .36, 1); }
+  .side-rail.open .rail-toggle { visibility: hidden; }
+}
+@media (max-width: 767px) {
+  .rail-link { width: 68px; padding: 8px 3px 7px; }
+  .rail-ico { width: 38px; height: 38px; }
+}
+@media (prefers-reduced-motion: reduce) { .rail-list, .rail-ico { transition: none !important; } }
+@media print { .side-rail { display: none; } }
+
+/* 카테고리 목록: 박스(위) · 낱팩(아래) 섹션 */
+.pgrid-secs { display: grid; gap: clamp(28px, 3.4vw, 44px); }
+.pgrid-sec[hidden] { display: none; }
+.pgrid-sec-head { display: flex; align-items: center; gap: 8px; margin: 0 0 14px; padding: 0 0 10px; border-bottom: 2px solid #0f1e45;
+  color: #0f1e45; font-size: clamp(17px, 1.5vw, 20px); font-weight: 800; letter-spacing: -.02em; }
+.pgrid-sec-head .grid-count { margin-left: 2px; }

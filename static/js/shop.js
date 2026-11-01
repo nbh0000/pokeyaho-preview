@@ -634,10 +634,12 @@
     if (!grid || !filters) return;
     var empty = $('[data-grid-empty]');
     var pick = function (sel, attr) { var on = $(sel + '.on', filters); return on ? on.getAttribute(attr) : ''; };
-    var state = { cat: pick('.cat-tab', 'data-cat'), type: pick('.type-tab', 'data-type') };
+    var state = { cat: pick('.cat-tab', 'data-cat'), type: '' };
+    var firstCat = state.cat;
+    var hasAll = !!$('.cat-tab[data-cat=""]', filters);
+    var okCat = function (c) { return c || hasAll ? c : firstCat; }; // '전체' 탭이 없으면 빈 값은 첫 카테고리
     var hash = new URLSearchParams(location.hash.slice(1));
-    if (hash.has('cat')) state.cat = hash.get('cat');
-    if (hash.has('type')) state.type = hash.get('type');
+    if (hash.has('cat')) state.cat = okCat(hash.get('cat'));
     function apply(write) {
       $$('.cat-tab', filters).forEach(function (b) { var on = b.getAttribute('data-cat') === state.cat; b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); });
       $$('.type-tab', filters).forEach(function (b) { var on = b.getAttribute('data-type') === state.type; b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); });
@@ -648,6 +650,12 @@
         if (ok && !card.hidden) shown++;
       });
       if (empty) empty.hidden = shown > 0;
+      // 박스 · 낱팩 섹션: 보이는 상품 수를 적고, 비면 섹션째 숨긴다
+      $$('[data-type-sec]', grid).forEach(function (sec) {
+        var n = $$('[data-product]', sec).filter(function (c) { return !c.classList.contains('is-filtered') && !c.hidden; }).length;
+        sec.hidden = n === 0;
+        var sc = $('[data-sec-count]', sec); if (sc) sc.textContent = n + '개';
+      });
       var title = $('[data-grid-title]');
       var count = $('[data-grid-count]');
       if (title && !location.search) title.textContent = state.cat || '전체 상품';
@@ -669,7 +677,7 @@
     window.addEventListener('hashchange', function () {
       var h = new URLSearchParams(location.hash.slice(1));
       if (!h.has('cat') && !h.has('type')) return;
-      state.cat = h.get('cat') || '';
+      state.cat = okCat(h.get('cat') || '');
       state.type = h.get('type') || '';
       apply(false);
       var head = document.getElementById('shopGrid');
@@ -756,4 +764,43 @@
     document.addEventListener('keydown', onKey);
     closeBtn.focus({ preventScroll: true });
   })();
+})();
+
+// ===== 왼쪽 바로가기: 좁은 화면에서 열고 닫기, 다른 페이지에서 카테고리를 누르면 홈 상품 목록으로 =====
+(function () {
+  var rail = document.querySelector('[data-rail]');
+  if (!rail) return;
+  var toggle = rail.querySelector('[data-rail-toggle]');
+  var home = rail.querySelector('[data-rail-home]');
+  var setOpen = function (on) { rail.classList.toggle('open', on); if (toggle) toggle.setAttribute('aria-expanded', String(on)); };
+  if (toggle) toggle.addEventListener('click', function (e) { e.stopPropagation(); setOpen(!rail.classList.contains('open')); });
+  document.addEventListener('click', function (e) { if (rail.classList.contains('open') && !rail.contains(e.target)) setOpen(false); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && rail.classList.contains('open')) { setOpen(false); if (toggle) toggle.focus(); } });
+  var markHome = function () {
+    var cat = new URLSearchParams(location.hash.slice(1)).get('cat') || '';
+    if (home) home.classList.toggle('no-cat', home.classList.contains('is-home') && !cat);
+  };
+  markHome();
+  window.addEventListener('hashchange', markHome);
+  Array.prototype.slice.call(rail.querySelectorAll('[data-rail-cat]')).forEach(function (a) {
+    a.addEventListener('click', function () {
+      setOpen(false);
+      if (!(home && home.classList.contains('is-home'))) {
+        try { sessionStorage.setItem('railJump', '1'); } catch (err) { /* 저장 못 해도 이동은 된다 */ }
+      }
+    });
+  });
+  if (home) home.addEventListener('click', function (e) {
+    if (home.classList.contains('is-home')) { // 홈에서 홈을 누르면 맨 위로, 카테고리 필터는 전체로
+      e.preventDefault(); setOpen(false);
+      window.scrollTo({ top: 0, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+    }
+  });
+  // 다른 페이지에서 카테고리를 눌러 홈으로 왔으면 상품 목록까지 내려 준다
+  var jumped = false;
+  try { jumped = sessionStorage.getItem('railJump') === '1'; sessionStorage.removeItem('railJump'); } catch (err) { jumped = false; }
+  if (jumped) {
+    var grid = document.getElementById('shopGrid');
+    if (grid) setTimeout(function () { grid.scrollIntoView({ block: 'start' }); }, 60);
+  }
 })();
