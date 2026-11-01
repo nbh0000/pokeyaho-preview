@@ -239,41 +239,94 @@
     if (dexSearch) dexSearch.addEventListener('input', function () { dex.q = dexSearch.value.trim().toLowerCase(); applyDex(); });
   }
 
-  // ===== 카드 도감 v2: 검색·판본·종류·연도 =====
+  // ===== 카드 도감 v3: 박스 검색·카드 검색·언어판·세트·종류 =====
   var dxGrid = document.querySelector('[data-dx-grid]');
+  var dxCardQuery = '';
   if (dxGrid) {
-    var dx = { q: '', region: '', kind: '', year: '' };
+    var dxPanel = document.querySelector('[data-dx-panel]');
+    var dx = { q: '', region: dxPanel ? dxPanel.getAttribute('data-default-region') || '' : '', kind: '', set: '', card: '' };
     var dxItems = Array.prototype.slice.call(dxGrid.querySelectorAll('[data-dx-item]'));
     var dxCount = document.querySelector('[data-dx-count]');
+    var dxCardTotal = document.querySelector('[data-dx-card-total]');
+    var dxCardHits = document.querySelector('[data-dx-card-hits]');
     var dxEmpty = document.querySelector('[data-dx-empty]');
-    var kindSelect = document.querySelector('[data-dx-kind-select]');
+    var setSelect = document.querySelector('[data-dx-set]');
+    var cardInput = document.querySelector('[data-dx-card-q]');
+    var cardIndex = null, cardIndexLoading = null, cardHits = null;
     var setPressed = function (sel, attr, val) {
       Array.prototype.slice.call(document.querySelectorAll(sel)).forEach(function (b) { var on = b.getAttribute(attr) === val; b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); });
     };
     var applyDx = function () {
-      var shown = 0;
+      var shown = 0, cardsShown = 0, kindCount = {};
       dxItems.forEach(function (el) {
-        var ok = (!dx.region || el.getAttribute('data-region') === dx.region) && (!dx.kind || el.getAttribute('data-kind') === dx.kind) && (!dx.year || el.getAttribute('data-year') === dx.year) && (!dx.q || el.getAttribute('data-q').indexOf(dx.q) !== -1);
+        var id = el.getAttribute('data-id');
+        var inRegion = !dx.region || el.getAttribute('data-region') === dx.region;
+        var hit = cardHits ? cardHits[id] || 0 : 0;
+        var base = inRegion && (!dx.set || id === dx.set) && (!dx.q || el.getAttribute('data-q').indexOf(dx.q) !== -1) && (!cardHits || hit > 0);
+        if (base) { var kk = el.getAttribute('data-kind'); kindCount[kk] = (kindCount[kk] || 0) + 1; }
+        var ok = base && (!dx.kind || el.getAttribute('data-kind') === dx.kind);
         el.hidden = !ok;
-        if (ok) shown++;
+        var hitEl = el.querySelector('[data-dx-hit]');
+        if (hitEl) { hitEl.hidden = !(ok && cardHits); hitEl.textContent = cardHits ? '검색 카드 ' + hit + '장' : ''; }
+        if (ok) { shown++; cardsShown += parseInt(el.getAttribute('data-cards'), 10) || 0; }
       });
-      if (dxCount) dxCount.textContent = shown;
+      if (dxCount) dxCount.textContent = shown.toLocaleString('ko-KR');
+      if (dxCardTotal) dxCardTotal.textContent = cardsShown.toLocaleString('ko-KR');
+      if (dxCardHits) {
+        var total = 0;
+        if (cardHits) dxItems.forEach(function (el) { if (!el.hidden) total += cardHits[el.getAttribute('data-id')] || 0; });
+        dxCardHits.textContent = cardHits ? ' · 검색 카드 ' + total.toLocaleString('ko-KR') + '장' : '';
+      }
+      Array.prototype.slice.call(document.querySelectorAll('[data-dx-kind-count]')).forEach(function (s) { s.textContent = (kindCount[s.getAttribute('data-dx-kind-count')] || 0) + '개 상품'; });
       if (dxEmpty) dxEmpty.hidden = shown > 0;
       setPressed('[data-dx-kind]', 'data-dx-kind', dx.kind);
       setPressed('[data-dx-region]', 'data-dx-region', dx.region);
-      if (kindSelect) kindSelect.value = dx.kind;
+      if (setSelect) {
+        Array.prototype.slice.call(setSelect.options).forEach(function (o) { if (o.value) o.hidden = !!dx.region && o.getAttribute('data-region') !== dx.region; });
+        setSelect.value = dx.set;
+      }
     };
+    // 카드 이름·번호 검색: 처음 입력할 때 색인(/dex/index/<게임>.json)을 한 번 받아 세트별 일치 수를 센다
+    var runCardSearch = function () {
+      var q = dx.card;
+      if (!q) { cardHits = null; applyDx(); return; }
+      if (!cardIndex) {
+        if (!cardIndexLoading) {
+          if (dxCardHits) dxCardHits.textContent = ' · 카드 색인 불러오는 중…';
+          cardIndexLoading = fetch(dxPanel.getAttribute('data-index')).then(function (r) { return r.json(); }).then(function (d) { cardIndex = d || {}; runCardSearch(); })
+            .catch(function () { cardIndexLoading = null; if (dxCardHits) dxCardHits.textContent = ' · 카드 검색을 불러오지 못했습니다'; });
+        }
+        return;
+      }
+      cardHits = {};
+      Object.keys(cardIndex).forEach(function (id) {
+        var n = 0, lines = cardIndex[id].split('\n');
+        for (var i = 0; i < lines.length; i++) if (lines[i].indexOf(q) !== -1) n++;
+        if (n) cardHits[id] = n;
+      });
+      applyDx();
+    };
+    var cardTimer;
+    if (cardInput) cardInput.addEventListener('input', function () {
+      clearTimeout(cardTimer);
+      cardTimer = setTimeout(function () { dx.card = cardInput.value.trim().toLowerCase(); dxCardQuery = dx.card; runCardSearch(); }, 180);
+    });
     document.addEventListener('click', function (e) {
       var k = e.target.closest('[data-dx-kind]');
       var r = e.target.closest('[data-dx-region]');
       if (k) { var kv = k.getAttribute('data-dx-kind'); dx.kind = dx.kind === kv ? '' : kv; applyDx(); }
-      else if (r) { dx.region = r.getAttribute('data-dx-region'); applyDx(); }
+      else if (r) { dx.region = r.getAttribute('data-dx-region'); dx.set = ''; applyDx(); }
+      else if (e.target.closest('[data-dx-reset]')) {
+        dx.q = ''; dx.kind = ''; dx.set = ''; dx.card = ''; dxCardQuery = ''; cardHits = null;
+        var bs = document.querySelector('[data-dx-search]'); if (bs) bs.value = '';
+        if (cardInput) cardInput.value = '';
+        applyDx();
+      }
     });
     var dxSearch = document.querySelector('[data-dx-search]');
     if (dxSearch) dxSearch.addEventListener('input', function () { dx.q = dxSearch.value.trim().toLowerCase(); applyDx(); });
-    if (kindSelect) kindSelect.addEventListener('change', function () { dx.kind = kindSelect.value; applyDx(); });
-    var yearSelect = document.querySelector('[data-dx-year]');
-    if (yearSelect) yearSelect.addEventListener('change', function () { dx.year = yearSelect.value; applyDx(); });
+    if (setSelect) setSelect.addEventListener('change', function () { dx.set = setSelect.value; applyDx(); });
+    applyDx();
   }
 
   // ===== 카드 도감: 세트를 누르면 수록 카드 목록 창 =====
@@ -299,8 +352,47 @@
       return RARITY.length - 4.5;
     };
     var rarityName = function (k) { for (var i = 0; i < RARITY.length; i++) if (RARITY[i][0] === k) return RARITY[i][1]; return ''; };
+    // 원피스: 공식 카드 목록의 희귀도 + 패러렐 번호(p1·p2…, r1=재록)로 등급을 나눈다. 좋은 등급부터.
+    var OP_GRADES = [
+      ['MANGA', '망가', '슈퍼 패러렐'], ['SPP', '스페셜 패러렐', 'WANTED·특수 일러스트'], ['SP', 'SP', '스페셜 카드'], ['TR', 'TR', '트레저 레어'],
+      ['SECP', '시크릿 패러렐', ''], ['SEC', 'SEC', '시크릿 레어'], ['LSP', '리더 슈퍼 패러렐', ''], ['LP', '리더 패러렐', ''],
+      ['SRP', 'SR 패러렐', ''], ['SR', 'SR', '슈퍼 레어'], ['RP', 'R 패러렐', ''], ['L', 'L', '리더'], ['R', 'R', '레어'],
+      ['UCP', 'UC 패러렐', ''], ['UC', 'UC', '언커먼'], ['CP', 'C 패러렐', ''], ['C', 'C', '커먼'], ['PP', '프로모 패러렐', ''], ['P', 'P', '프로모'],
+      ['RE', '재록', '다른 세트 카드 재수록']
+    ];
+    var opSet = '';
+    var opGrade = function (c) {
+      var r = rarityKey(c), v = String(c.variant || ''), n = parseInt(v.slice(1), 10) || 0;
+      var own = opSet !== '' && String(c.no || '').split('-')[0].toUpperCase() === opSet;
+      if (r === 'SP' || r === 'TR') return r;
+      if (!v) return r;
+      if (v.charAt(0) === 'r') return 'RE';
+      if (r === 'L') return n >= 2 && own ? 'LSP' : 'LP';
+      if (r === 'SEC' || r === 'SR' || r === 'R') {
+        if (own && n === 2) return 'MANGA';
+        if (own && n >= 3) return 'SPP';
+        return r + 'P';
+      }
+      return (r === 'UC' || r === 'C' || r === 'P' ? r : 'C') + 'P';
+    };
+    var isOp = false;
+    var gradeKey = function (c) { return isOp ? opGrade(c) : rarityKey(c); };
+    var gradeRank = function (k) {
+      if (!isOp) return rarityRank(k);
+      if (!k) return 999;
+      for (var i = 0; i < OP_GRADES.length; i++) if (OP_GRADES[i][0] === k) return i;
+      return OP_GRADES.length;
+    };
+    var gradeTitle = function (k) { if (!isOp) return k; for (var i = 0; i < OP_GRADES.length; i++) if (OP_GRADES[i][0] === k) return OP_GRADES[i][1]; return k; };
+    var gradeSub = function (k) { if (!isOp) return rarityName(k); for (var i = 0; i < OP_GRADES.length; i++) if (OP_GRADES[i][0] === k) return OP_GRADES[i][2]; return ''; };
+    // 로컬 썸네일이 없고 핫링크를 허용하는 이미지 서버(pokemontcg.io)면 원본 주소를 쓴다
+    var cardSrc = function (c) {
+      if (c.image) return cGrid.getAttribute('data-static-base') + c.image;
+      if (c.image_url && /^https:\/\/images\.pokemontcg\.io\//.test(c.image_url)) return c.image_url;
+      return '';
+    };
     var cardHtml = function (c) {
-      return '<figure class="dx-c' + (c.variant ? ' is-alt' : '') + '"><span class="dx-c-img">' + (c.image ? '<img src="' + esc(cGrid.getAttribute('data-static-base') + c.image) + '" alt="' + esc(c.name_ko || c.name) + '" loading="lazy" decoding="async">' : '<span class="dx-c-ph">' + esc(c.no || '') + '</span>') + (c.variant ? '<span class="dx-c-alt">패러렐</span>' : '') + '</span>'
+      return '<figure class="dx-c' + (c.variant ? ' is-alt' : '') + '"><span class="dx-c-img">' + (cardSrc(c) ? '<img src="' + esc(cardSrc(c)) + '" alt="' + esc(c.name_ko || c.name) + '" loading="lazy" decoding="async">' : '<span class="dx-c-ph">' + esc(c.no || '') + '</span>') + (c.variant ? '<span class="dx-c-alt">' + esc(isOp ? gradeTitle(opGrade(c)) : '패러렐') + '</span>' : '') + '</span>'
         + '<figcaption><span class="dx-c-no">' + esc(c.no) + (c.rarity ? ' <b>' + esc(rarityKey(c)) + '</b>' : '') + '</span><strong>' + esc(c.name_ko || c.name) + '</strong>' + (c.name_ko && c.name && c.name_ko !== c.name ? '<span class="dx-c-sub">' + esc(c.name) + '</span>' : '') + '</figcaption></figure>';
     };
     var renderCards = function () {
@@ -308,20 +400,20 @@
       var r = cRarity.value;
       var groups = {}, keys = [], shown = 0;
       cards.forEach(function (c, idx) {
-        var k = rarityKey(c);
+        var k = gradeKey(c);
         var hay = ((c.no || '') + ' ' + (c.name || '') + ' ' + (c.name_ko || '')).toLowerCase();
         if ((r && k !== r) || (q && hay.indexOf(q) === -1)) return;
         shown++;
         if (!groups[k]) { groups[k] = []; keys.push(k); }
         groups[k].push({ c: c, i: idx });
       });
-      keys.sort(function (a, b) { return rarityRank(a) - rarityRank(b); });
+      keys.sort(function (a, b) { return gradeRank(a) - gradeRank(b); });
       var html = keys.map(function (k) {
         // 같은 희귀도 안에서는 패러렐을 먼저, 그다음 카드 번호 순
         var list = groups[k].sort(function (a, b) { return (b.c.variant ? 1 : 0) - (a.c.variant ? 1 : 0) || a.i - b.i; });
-        var title = k || '일반 카드';
-        var sub = k ? rarityName(k) : '희귀도 표시 없음';
-        return '<section class="dx-sec' + (rarityRank(k) <= rarityRank('SR') ? ' is-top' : '') + '"><h3 class="dx-sec-head"><b>' + esc(title) + '</b>' + (sub ? '<span>' + esc(sub) + '</span>' : '') + '<em>' + list.length + '장</em></h3><div class="dx-sec-grid">'
+        var title = k ? gradeTitle(k) : '일반 카드';
+        var sub = k ? gradeSub(k) : '희귀도 표시 없음';
+        return '<section class="dx-sec' + (gradeRank(k) <= gradeRank(isOp ? 'SRP' : 'SR') ? ' is-top' : '') + '"><h3 class="dx-sec-head"><b>' + esc(title) + '</b>' + (sub ? '<span>' + esc(sub) + '</span>' : '') + '<em>' + list.length + '장</em></h3><div class="dx-sec-grid">'
           + list.map(function (x) { return cardHtml(x.c); }).join('') + '</div></section>';
       }).join('');
       cGrid.innerHTML = html || '<p class="dx-c-empty">조건에 맞는 카드가 없습니다.</p>';
@@ -336,7 +428,10 @@
       var img = dxModal.querySelector('[data-dx-modal-img]');
       var src = el.getAttribute('data-dx-img');
       img.hidden = !src; if (src) img.src = src;
-      cSearch.value = ''; cRarity.innerHTML = '<option value="">모든 희귀도</option>';
+      var setId = el.getAttribute('data-dx-open') || '';
+      isOp = setId.indexOf('op-') === 0;
+      opSet = isOp ? setId.split('-').slice(2).join('').toUpperCase() : '';
+      cSearch.value = dxCardQuery || ''; cRarity.innerHTML = '<option value="">' + (isOp ? '모든 등급' : '모든 희귀도') + '</option>';
       cGrid.innerHTML = '<p class="dx-c-empty">카드 목록을 불러오는 중…</p>'; cCount.textContent = '';
       dxModal.hidden = false;
       document.body.classList.add('drawer-lock');
@@ -344,9 +439,9 @@
       fetch(cGrid.getAttribute('data-cards-base') + el.getAttribute('data-dx-open') + '.json').then(function (r) { return r.json(); }).then(function (data) {
         cards = Array.isArray(data.cards) ? data.cards : [];
         var rarities = [];
-        cards.forEach(function (c) { var k = rarityKey(c); if (k && rarities.indexOf(k) === -1) rarities.push(k); });
-        rarities.sort(function (a, b) { return rarityRank(a) - rarityRank(b); });
-        rarities.forEach(function (x) { var o = document.createElement('option'); var n = rarityName(x); o.value = x; o.textContent = x + (n ? ' · ' + n : ''); cRarity.appendChild(o); });
+        cards.forEach(function (c) { var k = gradeKey(c); if (k && rarities.indexOf(k) === -1) rarities.push(k); });
+        rarities.sort(function (a, b) { return gradeRank(a) - gradeRank(b); });
+        rarities.forEach(function (x) { var o = document.createElement('option'); var t = gradeTitle(x), n = gradeSub(x); o.value = x; o.textContent = t + (n && n !== t ? ' · ' + n : ''); cRarity.appendChild(o); });
         renderCards();
       }).catch(function () { cGrid.innerHTML = '<p class="dx-c-empty">카드 목록을 불러오지 못했습니다. 잠시 뒤 다시 열어 주세요.</p>'; });
     };

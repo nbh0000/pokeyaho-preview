@@ -2397,3 +2397,46 @@ body:has(.brand-hero) .head-logo { visibility: hidden; }
   .dx-kind:hover .dx-kind-img.n2 img.p0 { transform: rotate(-8deg) translateY(-3%); }
   .dx-kind:hover .dx-kind-img.n2 img.p1 { transform: rotate(8deg) translateY(-3%); }
 }
+
+/* ===== 도감 v3: 세 도감 고르기 · 검색 패널 · 배지 ===== */
+.dx-worlds { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.dx-panel { padding: clamp(14px, 1.4vw, 20px); }
+.dx-panel-row { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) auto minmax(0, .9fr); }
+.dx-regions { align-items: center; }
+.dx-regions-label { padding: 0 6px 0 8px; color: #9fb0d8; font-size: 12px; font-weight: 800; white-space: nowrap; }
+.dx-region { white-space: nowrap; }
+.dx-panel-foot { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(255, 255, 255, .1); }
+.dx-panel-foot .dx-panel-info { margin: 0; text-align: right; }
+.dx-reset { min-height: 36px; padding: 0 14px; border: 1px solid rgba(255, 255, 255, .28); border-radius: 9px; background: none; color: #dfe6fb; font: inherit; font-size: 13px; font-weight: 800; cursor: pointer; }
+.dx-reset:active { transform: scale(.97); }
+.dx-img { position: relative; }
+.dx-badge { position: absolute; z-index: 1; top: 8px; left: 8px; padding: 4px 9px; border-radius: 7px; font-size: 11px; font-weight: 900; letter-spacing: .04em; box-shadow: 0 4px 10px -4px rgba(15, 30, 69, .5); }
+.dx-badge.soon { background: #c99a2e; color: #fff; }
+.dx-badge.new { background: #c63b2f; color: #fff; }
+.dx-badge.sale { top: auto; bottom: 8px; left: auto; right: 8px; background: var(--yellow); color: var(--night); letter-spacing: 0; }
+.dx-hit { align-self: flex-start; margin-top: 6px; padding: 3px 8px; border-radius: 6px; background: #e7f6fb; color: #0f6f86; font-size: 12px; font-weight: 800; }
+.dx-hit[hidden] { display: none; }
+.dx-cards-none { margin-top: auto; padding-top: 8px; color: var(--muted); font-size: 12px; font-weight: 700; }
+@media (hover: hover) and (pointer: fine) { .dx-reset:hover { background: rgba(255, 255, 255, .1); color: #fff; } }
+@media (max-width: 1023px) {
+  .dx-panel-row { grid-template-columns: 1fr 1fr; }
+  .dx-panel-row .dx-input { grid-column: auto; }
+  .dx-regions { grid-column: auto; justify-self: stretch; }
+}
+@media (max-width: 767px) {
+  .dx-worlds { grid-template-columns: 1fr 1fr 1fr; }
+  .dx-world { min-height: 96px; padding: 12px; }
+  .dx-world-text > span { display: none; }
+  .dx-world strong { font-size: 15px; }
+  .dx-world em { font-size: 11px; padding: 3px 7px; }
+  .dx-panel-row { grid-template-columns: 1fr; }
+  .dx-panel-foot { flex-wrap: wrap; }
+}
+.dx-kinds { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.dx-kind .dx-kind-img { padding: 14px 10px 12px; gap: 5%; }
+.dx-kind .dx-kind-img img, .dx-kind .dx-kind-img img.p0, .dx-kind .dx-kind-img img.p1, .dx-kind .dx-kind-img img.p2 { width: auto; max-width: 30%; flex: 0 1 auto; height: 100%; }
+@media (max-width: 767px) { .dx-kinds { display: flex; } }
+/* 도감 고르기 배경: 미리보기(하위 경로)에서도 보이도록 CSS 상대 경로로 */
+.dx-world.w-pokemon { --bg: url(../img/tile-yellow.webp); }
+.dx-world.w-onepiece { --bg: url(../img/tile-sky.webp); }
+.dx-world.w-dragonball { --bg: url(../img/tile-orange.webp); }
