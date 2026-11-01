@@ -6,6 +6,9 @@
       "name": "クヌギダマ",
       "name_ko": "피콘",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047394_P_KUNUGIDAMA.jpg",
       "image": "dex/cards/pkm-jp-sv10/001-098.webp"
     },
@@ -14,6 +17,9 @@
       "name": "キノココ",
       "name_ko": "버섯꼬",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047395_P_KINOKOKO.jpg",
       "image": "dex/cards/pkm-jp-sv10/002-098.webp"
     },
@@ -22,6 +28,9 @@
       "name": "キノガッサ",
       "name_ko": "버섯모",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047396_P_KINOGASSA.jpg",
       "image": "dex/cards/pkm-jp-sv10/003-098.webp"
     },
@@ -30,6 +39,9 @@
       "name": "カットロトム",
       "name_ko": "커트로토무",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047397_P_KATTOROTOMU.jpg",
       "image": "dex/cards/pkm-jp-sv10/004-098.webp"
     },
@@ -38,6 +50,9 @@
       "name": "カリキリ",
       "name_ko": "짜랑랑",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047398_P_KARIKIRI.jpg",
       "image": "dex/cards/pkm-jp-sv10/005-098.webp"
     },
@@ -46,6 +61,9 @@
       "name": "ラランテス",
       "name_ko": "라란티스",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047399_P_RARANTESU.jpg",
       "image": "dex/cards/pkm-jp-sv10/006-098.webp"
     },
@@ -54,6 +72,9 @@
       "name": "ロケット団のサッチムシ",
       "name_ko": "로켓단의 두루지벌레",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047400_P_ROKETTODANNOSATCHIMUSHI.jpg",
       "image": "dex/cards/pkm-jp-sv10/007-098.webp"
     },
@@ -62,6 +83,9 @@
       "name": "ロケット団のタマンチュラ",
       "name_ko": "로켓단의 타랜툴라",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047401_P_ROKETTODANNOTAMANCHIXYURA.jpg",
       "image": "dex/cards/pkm-jp-sv10/008-098.webp"
     },
@@ -70,6 +94,9 @@
       "name": "ロケット団のワナイダー",
       "name_ko": "로켓단의 트래피더",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047402_P_ROKETTODANNOWANAIDA.jpg",
       "image": "dex/cards/pkm-jp-sv10/009-098.webp"
     },
@@ -78,6 +105,9 @@
       "name": "ミニーブ",
       "name_ko": "미니브",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047403_P_MINIBU.jpg",
       "image": "dex/cards/pkm-jp-sv10/010-098.webp"
     },
@@ -86,6 +116,9 @@
       "name": "オリーニョ",
       "name_ko": "올리뇨",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047404_P_ORINIXYO.jpg",
       "image": "dex/cards/pkm-jp-sv10/011-098.webp"
     },
@@ -94,6 +127,9 @@
       "name": "オリーヴァex",
       "name_ko": "올리르바 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047405_P_ORIVUAEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/012-098.webp"
     },
@@ -102,6 +138,9 @@
       "name": "ガーディ",
       "name_ko": "가디",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047406_P_GADEI.jpg",
       "image": "dex/cards/pkm-jp-sv10/013-098.webp"
     },
@@ -110,6 +149,9 @@
       "name": "ウインディ",
       "name_ko": "윈디",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047407_P_UINDEI.jpg",
       "image": "dex/cards/pkm-jp-sv10/014-098.webp"
     },
@@ -118,6 +160,9 @@
       "name": "ロケット団のファイヤーex",
       "name_ko": "로켓단의 파이어 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047408_P_ROKETTODANNOFUAIYAEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/015-098.webp"
     },
@@ -126,6 +171,9 @@
       "name": "ロケット団のデルビル",
       "name_ko": "로켓단의 델빌",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047409_P_ROKETTODANNODERUBIRU.jpg",
       "image": "dex/cards/pkm-jp-sv10/016-098.webp"
     },
@@ -134,6 +182,9 @@
       "name": "ロケット団のヘルガー",
       "name_ko": "로켓단의 헬가",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047410_P_ROKETTODANNOHERUGA.jpg",
       "image": "dex/cards/pkm-jp-sv10/017-098.webp"
     },
@@ -142,6 +193,9 @@
       "name": "アチャモ",
       "name_ko": "아차모",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047411_P_ACHIXYAMO.jpg",
       "image": "dex/cards/pkm-jp-sv10/018-098.webp"
     },
@@ -150,6 +204,9 @@
       "name": "ワカシャモ",
       "name_ko": "영치코",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047412_P_WAKASHIXYAMO.jpg",
       "image": "dex/cards/pkm-jp-sv10/019-098.webp"
     },
@@ -158,6 +215,9 @@
       "name": "バシャーモ",
       "name_ko": "번치코",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047413_P_BASHIXYAMO.jpg",
       "image": "dex/cards/pkm-jp-sv10/020-098.webp"
     },
@@ -166,6 +226,9 @@
       "name": "ヒートロトム",
       "name_ko": "히트로토무",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047414_P_HITOROTOMU.jpg",
       "image": "dex/cards/pkm-jp-sv10/021-098.webp"
     },
@@ -174,6 +237,9 @@
       "name": "ロケット団のフリーザー",
       "name_ko": "로켓단의 프리져",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047415_P_ROKETTODANNOFURIZA.jpg",
       "image": "dex/cards/pkm-jp-sv10/022-098.webp"
     },
@@ -182,6 +248,9 @@
       "name": "パールル",
       "name_ko": "진주몽",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047416_P_PARURU.jpg",
       "image": "dex/cards/pkm-jp-sv10/023-098.webp"
     },
@@ -190,6 +259,9 @@
       "name": "ハンテール",
       "name_ko": "헌테일",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047417_P_HANTERU.jpg",
       "image": "dex/cards/pkm-jp-sv10/024-098.webp"
     },
@@ -198,6 +270,9 @@
       "name": "サクラビス",
       "name_ko": "분홍장이",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047418_P_SAKURABISU.jpg",
       "image": "dex/cards/pkm-jp-sv10/025-098.webp"
     },
@@ -206,6 +281,9 @@
       "name": "ユキカブリ",
       "name_ko": "눈쓰개",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047419_P_YUKIKABURI.jpg",
       "image": "dex/cards/pkm-jp-sv10/026-098.webp"
     },
@@ -214,6 +292,9 @@
       "name": "ユキノオー",
       "name_ko": "눈설왕",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047420_P_YUKINOO.jpg",
       "image": "dex/cards/pkm-jp-sv10/027-098.webp"
     },
@@ -222,6 +303,9 @@
       "name": "ウォッシュロトム",
       "name_ko": "워시로토무",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047421_P_UOSSHIXYUROTOMU.jpg",
       "image": "dex/cards/pkm-jp-sv10/028-098.webp"
     },
@@ -230,6 +314,9 @@
       "name": "サシカマス",
       "name_ko": "찌로꼬치",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047422_P_SASHIKAMASU.jpg",
       "image": "dex/cards/pkm-jp-sv10/029-098.webp"
     },
@@ -238,6 +325,9 @@
       "name": "カマスジョー",
       "name_ko": "꼬치조",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047423_P_KAMASUJIXYO.jpg",
       "image": "dex/cards/pkm-jp-sv10/030-098.webp"
     },
@@ -246,6 +336,9 @@
       "name": "アルクジラ",
       "name_ko": "터벅고래",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047424_P_ARUKUJIRA.jpg",
       "image": "dex/cards/pkm-jp-sv10/031-098.webp"
     },
@@ -254,6 +347,9 @@
       "name": "ハルクジラex",
       "name_ko": "우락고래 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047425_P_HARUKUJIRAEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/032-098.webp"
     },
@@ -262,6 +358,9 @@
       "name": "ロケット団のサンダー",
       "name_ko": "로켓단의 썬더",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047426_P_ROKETTODANNOSANDA.jpg",
       "image": "dex/cards/pkm-jp-sv10/033-098.webp"
     },
@@ -270,6 +369,9 @@
       "name": "ロケット団のメリープ",
       "name_ko": "로켓단의 메리프",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047427_P_ROKETTODANNOMERIPU.jpg",
       "image": "dex/cards/pkm-jp-sv10/034-098.webp"
     },
@@ -278,6 +380,9 @@
       "name": "ロケット団のモココ",
       "name_ko": "로켓단의 보송송",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047428_P_ROKETTODANNOMOKOKO.jpg",
       "image": "dex/cards/pkm-jp-sv10/035-098.webp"
     },
@@ -286,6 +391,9 @@
       "name": "ロケット団のデンリュウ",
       "name_ko": "로켓단의 전룡",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047429_P_ROKETTODANNODENRIXYUU.jpg",
       "image": "dex/cards/pkm-jp-sv10/036-098.webp"
     },
@@ -294,6 +402,9 @@
       "name": "ロケット団のスリープ",
       "name_ko": "로켓단의 슬리프",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047430_P_ROKETTODANNOSURIPU.jpg",
       "image": "dex/cards/pkm-jp-sv10/037-098.webp"
     },
@@ -302,6 +413,9 @@
       "name": "ロケット団のスリーパー",
       "name_ko": "로켓단의 슬리퍼",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047431_P_ROKETTODANNOSURIPA.jpg",
       "image": "dex/cards/pkm-jp-sv10/038-098.webp"
     },
@@ -310,6 +424,9 @@
       "name": "ロケット団のミュウツーex",
       "name_ko": "로켓단의 뮤츠 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047432_P_ROKETTODANNOMIXYUUTSUEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/039-098.webp"
     },
@@ -318,6 +435,9 @@
       "name": "ロケット団のソーナンス",
       "name_ko": "로켓단의 마자용",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047433_P_ROKETTODANNOSONANSU.jpg",
       "image": "dex/cards/pkm-jp-sv10/040-098.webp"
     },
@@ -326,6 +446,9 @@
       "name": "ロケット団のリーシャン",
       "name_ko": "로켓단의 랑딸랑",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047434_P_ROKETTODANNORISHIXYAN.jpg",
       "image": "dex/cards/pkm-jp-sv10/041-098.webp"
     },
@@ -334,6 +457,9 @@
       "name": "ロケット団のミミッキュ",
       "name_ko": "로켓단의 따라큐",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047435_P_ROKETTODANNOMIMIKKIXYU.jpg",
       "image": "dex/cards/pkm-jp-sv10/042-098.webp"
     },
@@ -342,6 +468,9 @@
       "name": "ロケット団のレドームシ",
       "name_ko": "로켓단의 레돔벌레",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047436_P_ROKETTODANNOREDOMUSHI.jpg",
       "image": "dex/cards/pkm-jp-sv10/043-098.webp"
     },
@@ -350,6 +479,9 @@
       "name": "ロケット団のイオルブ",
       "name_ko": "로켓단의 이올브",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047437_P_ROKETTODANNOIORUBU.jpg",
       "image": "dex/cards/pkm-jp-sv10/044-098.webp"
     },
@@ -358,6 +490,9 @@
       "name": "マンキー",
       "name_ko": "망키",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047438_P_MANKI.jpg",
       "image": "dex/cards/pkm-jp-sv10/045-098.webp"
     },
@@ -366,6 +501,9 @@
       "name": "オコリザル",
       "name_ko": "성원숭",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047439_P_OKORIZARU.jpg",
       "image": "dex/cards/pkm-jp-sv10/046-098.webp"
     },
@@ -374,6 +512,9 @@
       "name": "コノヨザル",
       "name_ko": "저승갓숭",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047440_P_KONOYOZARU.jpg",
       "image": "dex/cards/pkm-jp-sv10/047-098.webp"
     },
@@ -382,6 +523,9 @@
       "name": "ロケット団のヨーギラス",
       "name_ko": "로켓단의 애버라스",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047441_P_ROKETTODANNOYOGIRASU.jpg",
       "image": "dex/cards/pkm-jp-sv10/048-098.webp"
     },
@@ -390,6 +534,9 @@
       "name": "ロケット団のサナギラス",
       "name_ko": "로켓단의 데기라스",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047442_P_ROKETTODANNOSANAGIRASU.jpg",
       "image": "dex/cards/pkm-jp-sv10/049-098.webp"
     },
@@ -398,6 +545,9 @@
       "name": "ロケット団のバンギラス",
       "name_ko": "로켓단의 마기라스",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047443_P_ROKETTODANNOBANGIRASU.jpg",
       "image": "dex/cards/pkm-jp-sv10/050-098.webp"
     },
@@ -406,6 +556,9 @@
       "name": "ノズパス",
       "name_ko": "코코파스",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047444_P_NOZUPASU.jpg",
       "image": "dex/cards/pkm-jp-sv10/051-098.webp"
     },
@@ -414,6 +567,9 @@
       "name": "ダイノーズ",
       "name_ko": "대코파스",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047445_P_DAINOZU.jpg",
       "image": "dex/cards/pkm-jp-sv10/052-098.webp"
     },
@@ -422,6 +578,9 @@
       "name": "アサナン",
       "name_ko": "요가랑",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047446_P_ASANAN.jpg",
       "image": "dex/cards/pkm-jp-sv10/053-098.webp"
     },
@@ -430,6 +589,9 @@
       "name": "チャーレム",
       "name_ko": "요가램",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047447_P_CHIXYAREMU.jpg",
       "image": "dex/cards/pkm-jp-sv10/054-098.webp"
     },
@@ -438,6 +600,9 @@
       "name": "レジロックex",
       "name_ko": "레지락 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047448_P_REJIROKKUEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/055-098.webp"
     },
@@ -446,6 +611,9 @@
       "name": "ロケット団のアーボ",
       "name_ko": "로켓단의 아보",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047449_P_ROKETTODANNOABO.jpg",
       "image": "dex/cards/pkm-jp-sv10/056-098.webp"
     },
@@ -454,6 +622,9 @@
       "name": "ロケット団のアーボック",
       "name_ko": "로켓단의 아보크",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047450_P_ROKETTODANNOABOKKU.jpg",
       "image": "dex/cards/pkm-jp-sv10/057-098.webp"
     },
@@ -462,6 +633,9 @@
       "name": "ロケット団のニドラン♀",
       "name_ko": "로켓단의 니드런♀",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047451_P_ROKETTODANNONIDORAN.jpg",
       "image": "dex/cards/pkm-jp-sv10/058-098.webp"
     },
@@ -470,6 +644,9 @@
       "name": "ロケット団のニドリーナ",
       "name_ko": "로켓단의 니드리나",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047452_P_ROKETTODANNONIDORINA.jpg",
       "image": "dex/cards/pkm-jp-sv10/059-098.webp"
     },
@@ -478,6 +655,9 @@
       "name": "ロケット団のニドクイン",
       "name_ko": "로켓단의 니드퀸",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047453_P_ROKETTODANNONIDOKUIN.jpg",
       "image": "dex/cards/pkm-jp-sv10/060-098.webp"
     },
@@ -486,6 +666,9 @@
       "name": "ロケット団のニドラン♂",
       "name_ko": "로켓단의 니드런♂",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047454_P_ROKETTODANNONIDORAN.jpg",
       "image": "dex/cards/pkm-jp-sv10/061-098.webp"
     },
@@ -494,6 +677,9 @@
       "name": "ロケット団のニドリーノ",
       "name_ko": "로켓단의 니드리노",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047455_P_ROKETTODANNONIDORINO.jpg",
       "image": "dex/cards/pkm-jp-sv10/062-098.webp"
     },
@@ -502,6 +688,9 @@
       "name": "ロケット団のニドキングex",
       "name_ko": "로켓단의 니드킹 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047456_P_ROKETTODANNONIDOKINGUEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/063-098.webp"
     },
@@ -510,6 +699,9 @@
       "name": "ロケット団のズバット",
       "name_ko": "로켓단의 주뱃",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047457_P_ROKETTODANNOZUBATTO.jpg",
       "image": "dex/cards/pkm-jp-sv10/064-098.webp"
     },
@@ -518,6 +710,9 @@
       "name": "ロケット団のゴルバット",
       "name_ko": "로켓단의 골뱃",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047458_P_ROKETTODANNOGORUBATTO.jpg",
       "image": "dex/cards/pkm-jp-sv10/065-098.webp"
     },
@@ -526,6 +721,9 @@
       "name": "ロケット団のクロバットex",
       "name_ko": "로켓단의 크로뱃 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047459_P_ROKETTODANNOKUROBATTOEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/066-098.webp"
     },
@@ -534,6 +732,9 @@
       "name": "ロケット団のベトベター",
       "name_ko": "로켓단의 질퍽이",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047460_P_ROKETTODANNOBETOBETA.jpg",
       "image": "dex/cards/pkm-jp-sv10/067-098.webp"
     },
@@ -542,6 +743,9 @@
       "name": "ロケット団のベトベトン",
       "name_ko": "로켓단의 질뻐기",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047461_P_ROKETTODANNOBETOBETON.jpg",
       "image": "dex/cards/pkm-jp-sv10/068-098.webp"
     },
@@ -550,6 +754,9 @@
       "name": "ロケット団のドガース",
       "name_ko": "로켓단의 또가스",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047462_P_ROKETTODANNODOGASU.jpg",
       "image": "dex/cards/pkm-jp-sv10/069-098.webp"
     },
@@ -558,6 +765,9 @@
       "name": "ロケット団のマタドガス",
       "name_ko": "로켓단의 또도가스",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047463_P_ROKETTODANNOMATADOGASU.jpg",
       "image": "dex/cards/pkm-jp-sv10/070-098.webp"
     },
@@ -566,6 +776,9 @@
       "name": "ロケット団のヤミカラス",
       "name_ko": "로켓단의 니로우",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047464_P_ROKETTODANNOYAMIKARASU.jpg",
       "image": "dex/cards/pkm-jp-sv10/071-098.webp"
     },
@@ -574,6 +787,9 @@
       "name": "ロケット団のニューラ",
       "name_ko": "로켓단의 포푸니",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047465_P_ROKETTODANNONIXYURA.jpg",
       "image": "dex/cards/pkm-jp-sv10/072-098.webp"
     },
@@ -582,6 +798,9 @@
       "name": "フォレトス",
       "name_ko": "쏘콘",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047466_P_FUORETOSU.jpg",
       "image": "dex/cards/pkm-jp-sv10/073-098.webp"
     },
@@ -590,6 +809,9 @@
       "name": "エアームド",
       "name_ko": "무장조",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047467_P_EAMUDO.jpg",
       "image": "dex/cards/pkm-jp-sv10/074-098.webp"
     },
@@ -598,6 +820,9 @@
       "name": "ザマゼンタ",
       "name_ko": "자마젠타",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047468_P_ZAMAZENTA.jpg",
       "image": "dex/cards/pkm-jp-sv10/075-098.webp"
     },
@@ -606,6 +831,9 @@
       "name": "ロケット団のコラッタ",
       "name_ko": "로켓단의 꼬렛",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047469_P_ROKETTODANNOKORATTA.jpg",
       "image": "dex/cards/pkm-jp-sv10/076-098.webp"
     },
@@ -614,6 +842,9 @@
       "name": "ロケット団のラッタ",
       "name_ko": "로켓단의 레트라",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047470_P_ROKETTODANNORATTA.jpg",
       "image": "dex/cards/pkm-jp-sv10/077-098.webp"
     },
@@ -622,6 +853,9 @@
       "name": "ロケット団のニャース",
       "name_ko": "로켓단의 나옹",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047471_P_ROKETTODANNONIXYASU.jpg",
       "image": "dex/cards/pkm-jp-sv10/078-098.webp"
     },
@@ -630,6 +864,9 @@
       "name": "ロケット団のペルシアンex",
       "name_ko": "로켓단의 페르시온 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047472_P_ROKETTODANNOPERUSHIANEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/079-098.webp"
     },
@@ -638,6 +875,9 @@
       "name": "ガルーラ",
       "name_ko": "캥카",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047473_P_GARURA.jpg",
       "image": "dex/cards/pkm-jp-sv10/080-098.webp"
     },
@@ -646,6 +886,9 @@
       "name": "ロケット団のポリゴン",
       "name_ko": "로켓단의 폴리곤",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047474_P_ROKETTODANNOPORIGON.jpg",
       "image": "dex/cards/pkm-jp-sv10/081-098.webp"
     },
@@ -654,6 +897,9 @@
       "name": "ロケット団のポリゴン2",
       "name_ko": "로켓단의 폴리곤2",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047475_P_ROKETTODANNOPORIGON2.jpg",
       "image": "dex/cards/pkm-jp-sv10/082-098.webp"
     },
@@ -662,6 +908,9 @@
       "name": "ロケット団のポリゴンZ",
       "name_ko": "로켓단의 폴리곤Z",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047476_P_ROKETTODANNOPORIGONZ.jpg",
       "image": "dex/cards/pkm-jp-sv10/083-098.webp"
     },
@@ -670,6 +919,9 @@
       "name": "スバメ",
       "name_ko": "테일로",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047477_P_SUBAME.jpg",
       "image": "dex/cards/pkm-jp-sv10/084-098.webp"
     },
@@ -678,6 +930,9 @@
       "name": "オオスバメ",
       "name_ko": "스왈로",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047478_P_OOSUBAME.jpg",
       "image": "dex/cards/pkm-jp-sv10/085-098.webp"
     },
@@ -686,6 +941,9 @@
       "name": "イキリンコ",
       "name_ko": "시비꼬",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047479_P_IKIRINKO.jpg",
       "image": "dex/cards/pkm-jp-sv10/086-098.webp"
     },
@@ -694,6 +952,9 @@
       "name": "ロケット団のワナイダー",
       "name_ko": "로켓단의 트래피더",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047503_P_ROKETTODANNOWANAIDA.jpg",
       "image": "dex/cards/pkm-jp-sv10/099-098.webp"
     },
@@ -702,6 +963,9 @@
       "name": "ロケット団のヘルガー",
       "name_ko": "로켓단의 헬가",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047504_P_ROKETTODANNOHERUGA.jpg",
       "image": "dex/cards/pkm-jp-sv10/100-098.webp"
     },
@@ -710,6 +974,9 @@
       "name": "バシャーモ",
       "name_ko": "번치코",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047505_P_BASHIXYAMO.jpg",
       "image": "dex/cards/pkm-jp-sv10/101-098.webp"
     },
@@ -718,6 +985,9 @@
       "name": "パールル",
       "name_ko": "진주몽",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047506_P_PARURU.jpg",
       "image": "dex/cards/pkm-jp-sv10/102-098.webp"
     },
@@ -726,6 +996,9 @@
       "name": "ロケット団のソーナンス",
       "name_ko": "로켓단의 마자용",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047507_P_ROKETTODANNOSONANSU.jpg",
       "image": "dex/cards/pkm-jp-sv10/103-098.webp"
     },
@@ -734,6 +1007,9 @@
       "name": "ロケット団のイオルブ",
       "name_ko": "로켓단의 이올브",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047508_P_ROKETTODANNOIORUBU.jpg",
       "image": "dex/cards/pkm-jp-sv10/104-098.webp"
     },
@@ -742,6 +1018,9 @@
       "name": "ロケット団のマタドガス",
       "name_ko": "로켓단의 또도가스",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047509_P_ROKETTODANNOMATADOGASU.jpg",
       "image": "dex/cards/pkm-jp-sv10/105-098.webp"
     },
@@ -750,6 +1029,9 @@
       "name": "ロケット団のヤミカラス",
       "name_ko": "로켓단의 니로우",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047510_P_ROKETTODANNOYAMIKARASU.jpg",
       "image": "dex/cards/pkm-jp-sv10/106-098.webp"
     },
@@ -758,6 +1040,9 @@
       "name": "ザマゼンタ",
       "name_ko": "자마젠타",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047511_P_ZAMAZENTA.jpg",
       "image": "dex/cards/pkm-jp-sv10/107-098.webp"
     },
@@ -766,6 +1051,9 @@
       "name": "ロケット団のラッタ",
       "name_ko": "로켓단의 레트라",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047512_P_ROKETTODANNORATTA.jpg",
       "image": "dex/cards/pkm-jp-sv10/108-098.webp"
     },
@@ -774,6 +1062,9 @@
       "name": "ロケット団のニャース",
       "name_ko": "로켓단의 나옹",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047513_P_ROKETTODANNONIXYASU.jpg",
       "image": "dex/cards/pkm-jp-sv10/109-098.webp"
     },
@@ -782,6 +1073,9 @@
       "name": "ガルーラ",
       "name_ko": "캥카",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047514_P_GARURA.jpg",
       "image": "dex/cards/pkm-jp-sv10/110-098.webp"
     },
@@ -790,6 +1084,9 @@
       "name": "オリーヴァex",
       "name_ko": "올리르바 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047515_P_ORIVUAEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/111-098.webp"
     },
@@ -798,6 +1095,9 @@
       "name": "ロケット団のファイヤーex",
       "name_ko": "로켓단의 파이어 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047516_P_ROKETTODANNOFUAIYAEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/112-098.webp"
     },
@@ -806,6 +1106,9 @@
       "name": "ハルクジラex",
       "name_ko": "우락고래 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047517_P_HARUKUJIRAEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/113-098.webp"
     },
@@ -814,6 +1117,9 @@
       "name": "ロケット団のミュウツーex",
       "name_ko": "로켓단의 뮤츠 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047518_P_ROKETTODANNOMIXYUUTSUEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/114-098.webp"
     },
@@ -822,6 +1128,9 @@
       "name": "レジロックex",
       "name_ko": "레지락 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047519_P_REJIROKKUEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/115-098.webp"
     },
@@ -830,6 +1139,9 @@
       "name": "ロケット団のニドキングex",
       "name_ko": "로켓단의 니드킹 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047520_P_ROKETTODANNONIDOKINGUEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/116-098.webp"
     },
@@ -838,6 +1150,9 @@
       "name": "ロケット団のクロバットex",
       "name_ko": "로켓단의 크로뱃 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047521_P_ROKETTODANNOKUROBATTOEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/117-098.webp"
     },
@@ -846,6 +1161,9 @@
       "name": "ロケット団のペルシアンex",
       "name_ko": "로켓단의 페르시온 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047522_P_ROKETTODANNOPERUSHIANEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/118-098.webp"
     },
@@ -854,6 +1172,9 @@
       "name": "ロケット団のファイヤーex",
       "name_ko": "로켓단의 파이어 ex",
       "rarity": "SAR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047528_P_ROKETTODANNOFUAIYAEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/124-098.webp"
     },
@@ -862,6 +1183,9 @@
       "name": "ロケット団のミュウツーex",
       "name_ko": "로켓단의 뮤츠 ex",
       "rarity": "SAR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047529_P_ROKETTODANNOMIXYUUTSUEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/125-098.webp"
     },
@@ -870,6 +1194,9 @@
       "name": "ロケット団のニドキングex",
       "name_ko": "로켓단의 니드킹 ex",
       "rarity": "SAR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047530_P_ROKETTODANNONIDOKINGUEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/126-098.webp"
     },
@@ -878,6 +1205,9 @@
       "name": "ロケット団のクロバットex",
       "name_ko": "로켓단의 크로뱃 ex",
       "rarity": "SAR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047531_P_ROKETTODANNOKUROBATTOEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/127-098.webp"
     },
@@ -886,6 +1216,9 @@
       "name": "ロケット団のミュウツーex",
       "name_ko": "로켓단의 뮤츠 ex",
       "rarity": "UR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047534_P_ROKETTODANNOMIXYUUTSUEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/130-098.webp"
     },
@@ -894,6 +1227,9 @@
       "name": "ロケット団のクロバットex",
       "name_ko": "로켓단의 크로뱃 ex",
       "rarity": "UR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047535_P_ROKETTODANNOKUROBATTOEX.jpg",
       "image": "dex/cards/pkm-jp-sv10/131-098.webp"
     },
@@ -902,6 +1238,9 @@
       "name": "ロケット団のおじゃまロボ",
       "name_ko": "로켓단의 깜짝봄",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047480_T_ROKETTODANNOOJIXYAMAROBO.jpg",
       "image": "dex/cards/pkm-jp-sv10/087-098.webp"
     },
@@ -910,6 +1249,9 @@
       "name": "ロケット団のスーパーボール",
       "name_ko": "로켓단의 리시버",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047481_T_ROKETTODANNOSUPABORU.jpg",
       "image": "dex/cards/pkm-jp-sv10/088-098.webp"
     },
@@ -918,6 +1260,9 @@
       "name": "ロケット団のびっくりボム",
       "name_ko": "로켓단의 방해로봇",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047482_T_ROKETTODANNOBIKKURIBOMU.jpg",
       "image": "dex/cards/pkm-jp-sv10/089-098.webp"
     },
@@ -926,6 +1271,9 @@
       "name": "ロケット団のレシーバー",
       "name_ko": "로켓단의 슈퍼볼",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047483_T_ROKETTODANNORESHIBA.jpg",
       "image": "dex/cards/pkm-jp-sv10/090-098.webp"
     },
@@ -934,6 +1282,9 @@
       "name": "ロケット団のアテナ",
       "name_ko": "로켓단의 람다",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047484_T_ROKETTODANNOATENA.jpg",
       "image": "dex/cards/pkm-jp-sv10/091-098.webp"
     },
@@ -942,6 +1293,9 @@
       "name": "ロケット団のアポロ",
       "name_ko": "로켓단의 랜스",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047485_T_ROKETTODANNOAPORO.jpg",
       "image": "dex/cards/pkm-jp-sv10/092-098.webp"
     },
@@ -950,6 +1304,9 @@
       "name": "ロケット団のサカキ",
       "name_ko": "로켓단의 비주기",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047486_T_ROKETTODANNOSAKAKI.jpg",
       "image": "dex/cards/pkm-jp-sv10/093-098.webp"
     },
@@ -958,6 +1315,9 @@
       "name": "ロケット団のラムダ",
       "name_ko": "로켓단의 아테나",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047487_T_ROKETTODANNORAMUDA.jpg",
       "image": "dex/cards/pkm-jp-sv10/094-098.webp"
     },
@@ -966,6 +1326,9 @@
       "name": "ロケット団のランス",
       "name_ko": "로켓단의 아폴로",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047488_T_ROKETTODANNORANSU.jpg",
       "image": "dex/cards/pkm-jp-sv10/095-098.webp"
     },
@@ -974,6 +1337,9 @@
       "name": "ロケット団の監視塔",
       "name_ko": "로켓단의 감시탑",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047489_T_ROKETTODANNOKANSHITOU.jpg",
       "image": "dex/cards/pkm-jp-sv10/096-098.webp"
     },
@@ -982,6 +1348,9 @@
       "name": "ロケット団のファクトリー",
       "name_ko": "로켓단의 팩토리",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047490_T_ROKETTODANNOFUAKUTORI.jpg",
       "image": "dex/cards/pkm-jp-sv10/097-098.webp"
     },
@@ -990,6 +1359,9 @@
       "name": "ロケット団のアテナ",
       "name_ko": "로켓단의 람다",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047523_T_ROKETTODANNOATENA.jpg",
       "image": "dex/cards/pkm-jp-sv10/119-098.webp"
     },
@@ -998,6 +1370,9 @@
       "name": "ロケット団のアポロ",
       "name_ko": "로켓단의 랜스",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047524_T_ROKETTODANNOAPORO.jpg",
       "image": "dex/cards/pkm-jp-sv10/120-098.webp"
     },
@@ -1006,6 +1381,9 @@
       "name": "ロケット団のサカキ",
       "name_ko": "로켓단의 비주기",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047525_T_ROKETTODANNOSAKAKI.jpg",
       "image": "dex/cards/pkm-jp-sv10/121-098.webp"
     },
@@ -1014,6 +1392,9 @@
       "name": "ロケット団のラムダ",
       "name_ko": "로켓단의 아테나",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047526_T_ROKETTODANNORAMUDA.jpg",
       "image": "dex/cards/pkm-jp-sv10/122-098.webp"
     },
@@ -1022,6 +1403,9 @@
       "name": "ロケット団のランス",
       "name_ko": "로켓단의 아폴로",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047527_T_ROKETTODANNORANSU.jpg",
       "image": "dex/cards/pkm-jp-sv10/123-098.webp"
     },
@@ -1030,6 +1414,9 @@
       "name": "ロケット団のアテナ",
       "name_ko": "로켓단의 비주기",
       "rarity": "SAR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047532_T_ROKETTODANNOATENA.jpg",
       "image": "dex/cards/pkm-jp-sv10/128-098.webp"
     },
@@ -1038,6 +1425,9 @@
       "name": "ロケット団のサカキ",
       "name_ko": "로켓단의 아테나",
       "rarity": "SAR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047533_T_ROKETTODANNOSAKAKI.jpg",
       "image": "dex/cards/pkm-jp-sv10/129-098.webp"
     },
@@ -1046,6 +1436,9 @@
       "name": "ジャミングタワー",
       "name_ko": "재밍타워",
       "rarity": "UR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047536_T_JIXYAMINGUTAWA.jpg",
       "image": "dex/cards/pkm-jp-sv10/132-098.webp"
     },
@@ -1054,6 +1447,9 @@
       "name": "ロケット団エネルギー",
       "name_ko": "로켓단 에너지",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV10/047491_E_ROKETTODANENERUGI.jpg",
       "image": "dex/cards/pkm-jp-sv10/098-098.webp"
     }

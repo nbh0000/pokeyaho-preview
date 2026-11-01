@@ -2440,3 +2440,4 @@ body:has(.brand-hero) .head-logo { visibility: hidden; }
 .dx-world.w-pokemon { --bg: url(../img/tile-yellow.webp); }
 .dx-world.w-onepiece { --bg: url(../img/tile-sky.webp); }
 .dx-world.w-dragonball { --bg: url(../img/tile-orange.webp); }
+.cn-card.t-y::before { background-position: 58% 30%; }

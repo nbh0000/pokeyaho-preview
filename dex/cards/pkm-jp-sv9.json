@@ -6,6 +6,9 @@
       "name": "キャタピー",
       "name_ko": "캐터피",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047009_P_KIXYATAPI.jpg",
       "image": null
     },
@@ -14,6 +17,9 @@
       "name": "トランセル",
       "name_ko": "단데기",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047010_P_TORANSERU.jpg",
       "image": null
     },
@@ -22,6 +28,9 @@
       "name": "バタフリー",
       "name_ko": "버터플",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047011_P_BATAFURI.jpg",
       "image": null
     },
@@ -30,6 +39,9 @@
       "name": "パラス",
       "name_ko": "파라스",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047012_P_PARASU.jpg",
       "image": null
     },
@@ -38,6 +50,9 @@
       "name": "パラセクト",
       "name_ko": "파라섹트",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047013_P_PARASEKUTO.jpg",
       "image": null
     },
@@ -46,6 +61,9 @@
       "name": "マラカッチ",
       "name_ko": "마라카치",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047014_P_MARAKATCHI.jpg",
       "image": null
     },
@@ -54,6 +72,9 @@
       "name": "カブルモ",
       "name_ko": "딱정곤",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047015_P_KABURUMO.jpg",
       "image": null
     },
@@ -62,6 +83,9 @@
       "name": "チョボマキ",
       "name_ko": "쪼마리",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047016_P_CHIXYOBOMAKI.jpg",
       "image": null
     },
@@ -70,6 +94,9 @@
       "name": "アギルダー",
       "name_ko": "어지리더",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047017_P_AGIRUDA.jpg",
       "image": null
     },
@@ -78,6 +105,9 @@
       "name": "ニャオハ",
       "name_ko": "나오하",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047018_P_NIXYAOHA.jpg",
       "image": null
     },
@@ -86,6 +116,9 @@
       "name": "ニャローテ",
       "name_ko": "나로테",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047019_P_NIXYAROTE.jpg",
       "image": null
     },
@@ -94,6 +127,9 @@
       "name": "マスカーニャ",
       "name_ko": "마스카나",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047020_P_MASUKANIXYA.jpg",
       "image": null
     },
@@ -102,6 +138,9 @@
       "name": "ブーバー",
       "name_ko": "마그마",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047021_P_BUBA.jpg",
       "image": null
     },
@@ -110,6 +149,9 @@
       "name": "ブーバーン",
       "name_ko": "마그마번",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047022_P_BUBAN.jpg",
       "image": null
     },
@@ -118,6 +160,9 @@
       "name": "Nのダルマッカ",
       "name_ko": "N의 달막화",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047023_P_NNODARUMAKKA.jpg",
       "image": null
     },
@@ -126,6 +171,9 @@
       "name": "Nのヒヒダルマ",
       "name_ko": "N의 불비달마",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047024_P_NNOHIHIDARUMA.jpg",
       "image": null
     },
@@ -134,6 +182,9 @@
       "name": "ボルケニオンex",
       "name_ko": "볼케니온 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047025_P_BORUKENIONEX.jpg",
       "image": null
     },
@@ -142,6 +193,9 @@
       "name": "フリーザー",
       "name_ko": "프리져",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047026_P_FURIZA.jpg",
       "image": null
     },
@@ -150,6 +204,9 @@
       "name": "テッポウオ",
       "name_ko": "총어",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047027_P_TEPPOUO.jpg",
       "image": null
     },
@@ -158,6 +215,9 @@
       "name": "オクタン",
       "name_ko": "대포무노",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047028_P_OKUTAN.jpg",
       "image": null
     },
@@ -166,6 +226,9 @@
       "name": "ハスボー",
       "name_ko": "연꽃몬",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047029_P_HASUBO.jpg",
       "image": null
     },
@@ -174,6 +237,9 @@
       "name": "ハスブレロ",
       "name_ko": "로토스",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047030_P_HASUBURERO.jpg",
       "image": null
     },
@@ -182,6 +248,9 @@
       "name": "ルンパッパ",
       "name_ko": "로파파",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047031_P_RUNPAPPA.jpg",
       "image": null
     },
@@ -190,6 +259,9 @@
       "name": "ホエルコ",
       "name_ko": "고래왕자",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047032_P_HOERUKO.jpg",
       "image": null
     },
@@ -198,6 +270,9 @@
       "name": "ホエルオー",
       "name_ko": "고래왕",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047033_P_HOERUO.jpg",
       "image": null
     },
@@ -206,6 +281,9 @@
       "name": "ナンジャモのビリリダマ",
       "name_ko": "모야모의 찌리리공",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047034_P_NANJIXYAMONOBIRIRIDAMA.jpg",
       "image": null
     },
@@ -214,6 +292,9 @@
       "name": "ナンジャモのマルマイン",
       "name_ko": "모야모의 붐볼",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047035_P_NANJIXYAMONOMARUMAIN.jpg",
       "image": null
     },
@@ -222,6 +303,9 @@
       "name": "Nのバチュル",
       "name_ko": "N의 파쪼옥",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047036_P_NNOBACHIXYURU.jpg",
       "image": null
     },
@@ -230,6 +314,9 @@
       "name": "ナンジャモのズピカ",
       "name_ko": "모야모의 빈나두",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047037_P_NANJIXYAMONOZUPIKA.jpg",
       "image": null
     },
@@ -238,6 +325,9 @@
       "name": "ナンジャモのハラバリーex",
       "name_ko": "모야모의 찌리배리 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047038_P_NANJIXYAMONOHARABARIEX.jpg",
       "image": null
     },
@@ -246,6 +336,9 @@
       "name": "ナンジャモのカイデン",
       "name_ko": "모야모의 찌리비",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047039_P_NANJIXYAMONOKAIDEN.jpg",
       "image": null
     },
@@ -254,6 +347,9 @@
       "name": "ナンジャモのタイカイデン",
       "name_ko": "모야모의 찌리비크",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047040_P_NANJIXYAMONOTAIKAIDEN.jpg",
       "image": null
     },
@@ -262,6 +358,9 @@
       "name": "リーリエのピッピex",
       "name_ko": "릴리에의 삐삐 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047041_P_RIRIENOPIPPIEX.jpg",
       "image": null
     },
@@ -270,6 +369,9 @@
       "name": "バリヤード",
       "name_ko": "마임맨",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047042_P_BARIYADO.jpg",
       "image": null
     },
@@ -278,6 +380,9 @@
       "name": "カゲボウズ",
       "name_ko": "어둠대신",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047043_P_KAGEBOUZU.jpg",
       "image": null
     },
@@ -286,6 +391,9 @@
       "name": "ジュペッタ",
       "name_ko": "다크펫",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047044_P_JIXYUPETTA.jpg",
       "image": null
     },
@@ -294,6 +402,9 @@
       "name": "ダンバル",
       "name_ko": "메탕",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047045_P_DANBARU.jpg",
       "image": null
     },
@@ -302,6 +413,9 @@
       "name": "メタング",
       "name_ko": "메탕구",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047046_P_METANGU.jpg",
       "image": null
     },
@@ -310,6 +424,9 @@
       "name": "メタグロス",
       "name_ko": "메타그로스",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047047_P_METAGUROSU.jpg",
       "image": null
     },
@@ -318,6 +435,9 @@
       "name": "Nのシンボラー",
       "name_ko": "N의 심보러",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047048_P_NNOSHINBORA.jpg",
       "image": null
     },
@@ -326,6 +446,9 @@
       "name": "リーリエのアブリー",
       "name_ko": "릴리에의 에블리",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047049_P_RIRIENOABURI.jpg",
       "image": null
     },
@@ -334,6 +457,9 @@
       "name": "リーリエのアブリボン",
       "name_ko": "릴리에의 에리본",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047050_P_RIRIENOABURIBON.jpg",
       "image": null
     },
@@ -342,6 +468,9 @@
       "name": "リーリエのキュワワー",
       "name_ko": "릴리에의 큐아링",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047051_P_RIRIENOKIXYUWAWA.jpg",
       "image": null
     },
@@ -350,6 +479,9 @@
       "name": "ウリムー",
       "name_ko": "꾸꾸리",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047052_P_URIMU.jpg",
       "image": null
     },
@@ -358,6 +490,9 @@
       "name": "イノムー",
       "name_ko": "메꾸리",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047053_P_INOMU.jpg",
       "image": null
     },
@@ -366,6 +501,9 @@
       "name": "マンムーex",
       "name_ko": "맘모꾸리 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047054_P_MANMUEX.jpg",
       "image": null
     },
@@ -374,6 +512,9 @@
       "name": "ヨーギラス",
       "name_ko": "애버라스",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047055_P_YOGIRASU.jpg",
       "image": null
     },
@@ -382,6 +523,9 @@
       "name": "サナギラス",
       "name_ko": "데기라스",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047056_P_SANAGIRASU.jpg",
       "image": null
     },
@@ -390,6 +534,9 @@
       "name": "レジロック",
       "name_ko": "레지락",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047057_P_REJIROKKU.jpg",
       "image": null
     },
@@ -398,6 +545,9 @@
       "name": "ヤンチャム",
       "name_ko": "판짱",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047058_P_YANCHIXYAMU.jpg",
       "image": null
     },
@@ -406,6 +556,9 @@
       "name": "イワンコ",
       "name_ko": "암멍이",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047059_P_IWANKO.jpg",
       "image": null
     },
@@ -414,6 +567,9 @@
       "name": "ルガルガン",
       "name_ko": "루가루암",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047060_P_RUGARUGAN.jpg",
       "image": null
     },
@@ -422,6 +578,9 @@
       "name": "ホップのスナヘビ",
       "name_ko": "호브의 모래뱀",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047061_P_HOPPUNOSUNAHEBI.jpg",
       "image": null
     },
@@ -430,6 +589,9 @@
       "name": "ホップのサダイジャ",
       "name_ko": "호브의 사다이사",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047062_P_HOPPUNOSADAIJIXYA.jpg",
       "image": null
     },
@@ -438,6 +600,9 @@
       "name": "ガケガニ",
       "name_ko": "절벼게",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047063_P_GAKEGANI.jpg",
       "image": null
     },
@@ -446,6 +611,9 @@
       "name": "ドガース",
       "name_ko": "또가스",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047064_P_DOGASU.jpg",
       "image": null
     },
@@ -454,6 +622,9 @@
       "name": "マタドガス",
       "name_ko": "또도가스",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047065_P_MATADOGASU.jpg",
       "image": null
     },
@@ -462,6 +633,9 @@
       "name": "バンギラス",
       "name_ko": "마기라스",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047066_P_BANGIRASU.jpg",
       "image": null
     },
@@ -470,6 +644,9 @@
       "name": "Nのチョロネコ",
       "name_ko": "N의 쌔비냥",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047067_P_NNOCHIXYORONEKO.jpg",
       "image": null
     },
@@ -478,6 +655,9 @@
       "name": "Nのゾロア",
       "name_ko": "N의 조로아",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047068_P_NNOZOROA.jpg",
       "image": null
     },
@@ -486,6 +666,9 @@
       "name": "Nのゾロアークex",
       "name_ko": "N의 조로아크 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047069_P_NNOZOROAKUEX.jpg",
       "image": null
     },
@@ -494,6 +677,9 @@
       "name": "ゴロンダ",
       "name_ko": "부란다",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047070_P_GORONDA.jpg",
       "image": null
     },
@@ -502,6 +688,9 @@
       "name": "シュバルゴ",
       "name_ko": "슈바르고",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047071_P_SHIXYUBARUGO.jpg",
       "image": null
     },
@@ -510,6 +699,9 @@
       "name": "Nのギアル",
       "name_ko": "N의 기어르",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047072_P_NNOGIARU.jpg",
       "image": null
     },
@@ -518,6 +710,9 @@
       "name": "Nのギギアル",
       "name_ko": "N의 기기어르",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047073_P_NNOGIGIARU.jpg",
       "image": null
     },
@@ -526,6 +721,9 @@
       "name": "Nのギギギアル",
       "name_ko": "N의 기기기어르",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047074_P_NNOGIGIGIARU.jpg",
       "image": null
     },
@@ -534,6 +732,9 @@
       "name": "マギアナ",
       "name_ko": "마기아나",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047075_P_MAGIANA.jpg",
       "image": null
     },
@@ -542,6 +743,9 @@
       "name": "ホップのアーマーガア",
       "name_ko": "호브의 아머까오",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047076_P_HOPPUNOAMAGAA.jpg",
       "image": null
     },
@@ -550,6 +754,9 @@
       "name": "ホップのザシアンex",
       "name_ko": "호브의 자시안 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047077_P_HOPPUNOZASHIANEX.jpg",
       "image": null
     },
@@ -558,6 +765,9 @@
       "name": "タツベイ",
       "name_ko": "아공이",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047078_P_TATSUBEI.jpg",
       "image": null
     },
@@ -566,6 +776,9 @@
       "name": "コモルー",
       "name_ko": "쉘곤",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047079_P_KOMORU.jpg",
       "image": null
     },
@@ -574,6 +787,9 @@
       "name": "ボーマンダex",
       "name_ko": "보만다 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047080_P_BOMANDAEX.jpg",
       "image": null
     },
@@ -582,6 +798,9 @@
       "name": "クリムガン",
       "name_ko": "크리만",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047081_P_KURIMUGAN.jpg",
       "image": null
     },
@@ -590,6 +809,9 @@
       "name": "Nのレシラム",
       "name_ko": "N의 레시라무",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047082_P_NNORESHIRAMU.jpg",
       "image": null
     },
@@ -598,6 +820,9 @@
       "name": "ホップのカビゴン",
       "name_ko": "호브의 잠만보",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047083_P_HOPPUNOKABIGON.jpg",
       "image": null
     },
@@ -606,6 +831,9 @@
       "name": "オタチ",
       "name_ko": "꼬리선",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047084_P_OTACHI.jpg",
       "image": null
     },
@@ -614,6 +842,9 @@
       "name": "オオタチ",
       "name_ko": "다꼬리",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047085_P_OOTACHI.jpg",
       "image": null
     },
@@ -622,6 +853,9 @@
       "name": "ノコッチ",
       "name_ko": "노고치",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047086_P_NOKOTCHI.jpg",
       "image": null
     },
@@ -630,6 +864,9 @@
       "name": "ノココッチex",
       "name_ko": "노고고치 ex",
       "rarity": "RR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047087_P_NOKOKOTCHIEX.jpg",
       "image": null
     },
@@ -638,6 +875,9 @@
       "name": "オンバット",
       "name_ko": "음뱃",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047088_P_ONBATTO.jpg",
       "image": null
     },
@@ -646,6 +886,9 @@
       "name": "オンバーン",
       "name_ko": "음번",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047089_P_ONBAN.jpg",
       "image": null
     },
@@ -654,6 +897,9 @@
       "name": "ネッコアラ",
       "name_ko": "자말라",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047090_P_NEKKOARA.jpg",
       "image": null
     },
@@ -662,6 +908,9 @@
       "name": "ホップのココガラ",
       "name_ko": "호브의 파라꼬",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047091_P_HOPPUNOKOKOGARA.jpg",
       "image": null
     },
@@ -670,6 +919,9 @@
       "name": "ホップのアオガラス",
       "name_ko": "호브의 파크로우",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047092_P_HOPPUNOAOGARASU.jpg",
       "image": null
     },
@@ -678,6 +930,9 @@
       "name": "ホップのウールー",
       "name_ko": "호브의 우르",
       "rarity": "C",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047093_P_HOPPUNOURU.jpg",
       "image": null
     },
@@ -686,6 +941,9 @@
       "name": "ホップのバイウールー",
       "name_ko": "호브의 배우르",
       "rarity": "R",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047094_P_HOPPUNOBAIURU.jpg",
       "image": null
     },
@@ -694,6 +952,9 @@
       "name": "ホップのウッウ",
       "name_ko": "호브의 윽우지",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047095_P_HOPPUNOUUU.jpg",
       "image": null
     },
@@ -702,6 +963,9 @@
       "name": "マラカッチ",
       "name_ko": "마라카치",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047221_P_MARAKATCHI.jpg",
       "image": null
     },
@@ -710,6 +974,9 @@
       "name": "フリーザー",
       "name_ko": "프리져",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047222_P_FURIZA.jpg",
       "image": null
     },
@@ -718,6 +985,9 @@
       "name": "ホエルオー",
       "name_ko": "고래왕",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047223_P_HOERUO.jpg",
       "image": null
     },
@@ -726,6 +996,9 @@
       "name": "ナンジャモのタイカイデン",
       "name_ko": "모야모의 찌리비크",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047224_P_NANJIXYAMONOTAIKAIDEN.jpg",
       "image": null
     },
@@ -734,6 +1007,9 @@
       "name": "リーリエのアブリボン",
       "name_ko": "릴리에의 에리본",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047225_P_RIRIENOABURIBON.jpg",
       "image": null
     },
@@ -742,6 +1018,9 @@
       "name": "ウリムー",
       "name_ko": "꾸꾸리",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047226_P_URIMU.jpg",
       "image": null
     },
@@ -750,6 +1029,9 @@
       "name": "ルガルガン",
       "name_ko": "루가루암",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047227_P_RUGARUGAN.jpg",
       "image": null
     },
@@ -758,6 +1040,9 @@
       "name": "Nのゾロア",
       "name_ko": "N의 조로아",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047228_P_NNOZOROA.jpg",
       "image": null
     },
@@ -766,6 +1051,9 @@
       "name": "Nのレシラム",
       "name_ko": "N의 레시라무",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047229_P_NNORESHIRAMU.jpg",
       "image": null
     },
@@ -774,6 +1062,9 @@
       "name": "オオタチ",
       "name_ko": "다꼬리",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047230_P_OOTACHI.jpg",
       "image": null
     },
@@ -782,6 +1073,9 @@
       "name": "オンバット",
       "name_ko": "음뱃",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047231_P_ONBATTO.jpg",
       "image": null
     },
@@ -790,6 +1084,9 @@
       "name": "ホップのウールー",
       "name_ko": "호브의 우르",
       "rarity": "AR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047232_P_HOPPUNOURU.jpg",
       "image": null
     },
@@ -798,6 +1095,9 @@
       "name": "ボルケニオンex",
       "name_ko": "볼케니온 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047233_P_BORUKENIONEX.jpg",
       "image": null
     },
@@ -806,6 +1106,9 @@
       "name": "ナンジャモのハラバリーex",
       "name_ko": "모야모의 찌리배리 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047234_P_NANJIXYAMONOHARABARIEX.jpg",
       "image": null
     },
@@ -814,6 +1117,9 @@
       "name": "リーリエのピッピex",
       "name_ko": "릴리에의 삐삐 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047235_P_RIRIENOPIPPIEX.jpg",
       "image": null
     },
@@ -822,6 +1128,9 @@
       "name": "マンムーex",
       "name_ko": "맘모꾸리 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047236_P_MANMUEX.jpg",
       "image": null
     },
@@ -830,6 +1139,9 @@
       "name": "Nのゾロアークex",
       "name_ko": "N의 조로아크 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047237_P_NNOZOROAKUEX.jpg",
       "image": null
     },
@@ -838,6 +1150,9 @@
       "name": "ホップのザシアンex",
       "name_ko": "호브의 자시안 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047238_P_HOPPUNOZASHIANEX.jpg",
       "image": null
     },
@@ -846,6 +1161,9 @@
       "name": "ボーマンダex",
       "name_ko": "보만다 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047239_P_BOMANDAEX.jpg",
       "image": null
     },
@@ -854,6 +1172,9 @@
       "name": "ノココッチex",
       "name_ko": "노고고치 ex",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047240_P_NOKOKOTCHIEX.jpg",
       "image": null
     },
@@ -862,6 +1183,9 @@
       "name": "ボルケニオンex",
       "name_ko": "볼케니온 ex",
       "rarity": "SAR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047244_P_BORUKENIONEX.jpg",
       "image": null
     },
@@ -870,6 +1194,9 @@
       "name": "ナンジャモのハラバリーex",
       "name_ko": "모야모의 찌리배리 ex",
       "rarity": "SAR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047245_P_NANJIXYAMONOHARABARIEX.jpg",
       "image": null
     },
@@ -878,6 +1205,9 @@
       "name": "リーリエのピッピex",
       "name_ko": "릴리에의 삐삐 ex",
       "rarity": "SAR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047246_P_RIRIENOPIPPIEX.jpg",
       "image": null
     },
@@ -886,6 +1216,9 @@
       "name": "Nのゾロアークex",
       "name_ko": "N의 조로아크 ex",
       "rarity": "SAR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047247_P_NNOZOROAKUEX.jpg",
       "image": null
     },
@@ -894,6 +1227,9 @@
       "name": "ホップのザシアンex",
       "name_ko": "호브의 자시안 ex",
       "rarity": "SAR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047248_P_HOPPUNOZASHIANEX.jpg",
       "image": null
     },
@@ -902,6 +1238,9 @@
       "name": "ボーマンダex",
       "name_ko": "보만다 ex",
       "rarity": "SAR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047249_P_BOMANDAEX.jpg",
       "image": null
     },
@@ -910,6 +1249,9 @@
       "name": "ナンジャモのハラバリーex",
       "name_ko": "모야모의 찌리배리 ex",
       "rarity": "UR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047250_P_NANJIXYAMONOHARABARIEX.jpg",
       "image": null
     },
@@ -918,6 +1260,9 @@
       "name": "Nのゾロアークex",
       "name_ko": "N의 조로아크 ex",
       "rarity": "UR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047251_P_NNOZOROAKUEX.jpg",
       "image": null
     },
@@ -926,6 +1271,9 @@
       "name": "いいきずぐすり",
       "name_ko": "N의 포인트업",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047096_T_IIKIZUGUSURI.jpg",
       "image": null
     },
@@ -934,6 +1282,9 @@
       "name": "Nのポイントアップ",
       "name_ko": "대체 티켓",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047097_T_NNOPOINTOAPPU.jpg",
       "image": null
     },
@@ -942,6 +1293,9 @@
       "name": "とりかえチケット",
       "name_ko": "좋은상처약",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047098_T_TORIKAECHIKETTO.jpg",
       "image": null
     },
@@ -950,6 +1304,9 @@
       "name": "ホップのバッグ",
       "name_ko": "호브의 가방",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047099_T_HOPPUNOBAGGU.jpg",
       "image": null
     },
@@ -958,6 +1315,9 @@
       "name": "ホップのこだわりハチマキ",
       "name_ko": "릴리에의 진주",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047100_T_HOPPUNOKODAWARIHACHIMAKI.jpg",
       "image": null
     },
@@ -966,6 +1326,9 @@
       "name": "リーリエのしんじゅ",
       "name_ko": "호브의 구애머리띠",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047101_T_RIRIENOSHINJIXYU.jpg",
       "image": null
     },
@@ -974,6 +1337,9 @@
       "name": "アイリスの闘志",
       "name_ko": "무서운 청년",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047102_T_AIRISUNOTOUSHI.jpg",
       "image": null
     },
@@ -982,6 +1348,9 @@
       "name": "怖いお兄さん",
       "name_ko": "아이리스의 투지",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047103_T_KOWAIONIISAN.jpg",
       "image": null
     },
@@ -990,6 +1359,9 @@
       "name": "タケシのスカウト",
       "name_ko": "웅의 스카우트",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047104_T_TAKESHINOSUKAUTO.jpg",
       "image": null
     },
@@ -998,6 +1370,9 @@
       "name": "Nの城",
       "name_ko": "N의 성",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047105_T_NNOSHIRO.jpg",
       "image": null
     },
@@ -1006,6 +1381,9 @@
       "name": "ハッコウシティ",
       "name_ko": "누룩스시티",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047106_T_HAKKOUSHITEI.jpg",
       "image": null
     },
@@ -1014,6 +1392,9 @@
       "name": "ハロンタウン",
       "name_ko": "펄롱마을",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047107_T_HARONTAUN.jpg",
       "image": null
     },
@@ -1022,6 +1403,9 @@
       "name": "アイリスの闘志",
       "name_ko": "무서운 청년",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047241_T_AIRISUNOTOUSHI.jpg",
       "image": null
     },
@@ -1030,6 +1414,9 @@
       "name": "怖いお兄さん",
       "name_ko": "아이리스의 투지",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047242_T_KOWAIONIISAN.jpg",
       "image": null
     },
@@ -1038,6 +1425,9 @@
       "name": "タケシのスカウト",
       "name_ko": "웅의 스카우트",
       "rarity": "SR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047243_T_TAKESHINOSUKAUTO.jpg",
       "image": null
     },
@@ -1046,6 +1436,9 @@
       "name": "スパイクエネルギー",
       "name_ko": "스파이크 에너지",
       "rarity": "U",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047108_E_SUPAIKUENERUGI.jpg",
       "image": null
     },
@@ -1054,6 +1447,9 @@
       "name": "スパイクエネルギー",
       "name_ko": "스파이크 에너지",
       "rarity": "UR",
+      "type": null,
+      "color": null,
+      "variant": null,
       "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV9/047252_E_SUPAIKUENERUGI.jpg",
       "image": null
     }
