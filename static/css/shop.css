@@ -2486,7 +2486,7 @@ body:has(.brand-hero) .head-logo { visibility: hidden; }
 .rail-link:focus-visible { outline: 3px solid #45bdd6; outline-offset: 2px; }
 .rail-link:active .rail-ico { transform: scale(.94); }
 @media (hover: hover) and (pointer: fine) {
-  .rail-link:not(.is-cur):hover { background: rgba(255, 255, 255, .08); color: #fff; }
+  .rail-link:not(.is-cur):not(.no-cat):hover { background: rgba(255, 255, 255, .08); color: #fff; }
   .rail-link:hover .rail-ico { transform: translateY(-2px); }
 }
 .rail-toggle { display: none; }
@@ -2519,3 +2519,12 @@ body:has(.brand-hero) .head-logo { visibility: hidden; }
 .pgrid-sec-head { display: flex; align-items: center; gap: 8px; margin: 0 0 14px; padding: 0 0 10px; border-bottom: 2px solid #0f1e45;
   color: #0f1e45; font-size: clamp(17px, 1.5vw, 20px); font-weight: 800; letter-spacing: -.02em; }
 .pgrid-sec-head .grid-count { margin-left: 2px; }
+
+/* 바로가기 v2: 이모지 아이콘, 홈과 카테고리 사이 구분선 */
+.rail-link .rail-ico, .rail-link.r-home .rail-ico, .rail-link.r-y .rail-ico, .rail-link.r-s .rail-ico, .rail-link.r-o .rail-ico {
+  display: grid; place-items: center; background: rgba(255, 255, 255, .1); background-image: none; box-shadow: none;
+  font-size: 22px; line-height: 1; font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif; }
+.rail-link.is-cur .rail-ico, .rail-link.is-home.no-cat .rail-ico { background: rgba(15, 30, 69, .1); box-shadow: none; }
+.rail-sep { display: block; height: 2px; margin: 6px 10px 2px; border-radius: 2px; background: rgba(255, 255, 255, .16); }
+.rail-cap { display: block; padding: 4px 0 2px; color: #8e9ac0; font-size: 10.5px; font-weight: 800; text-align: center; letter-spacing: .02em; }
+.rail-toggle-ico { background: none !important; width: auto; height: auto; font-size: 16px; line-height: 1; }

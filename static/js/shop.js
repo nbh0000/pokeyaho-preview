@@ -776,12 +776,16 @@
   if (toggle) toggle.addEventListener('click', function (e) { e.stopPropagation(); setOpen(!rail.classList.contains('open')); });
   document.addEventListener('click', function (e) { if (rail.classList.contains('open') && !rail.contains(e.target)) setOpen(false); });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && rail.classList.contains('open')) { setOpen(false); if (toggle) toggle.focus(); } });
+  // 불은 하나만: 주소에 카테고리가 있으면 그 카테고리, 없고 홈이면 홈
   var markHome = function () {
     var cat = new URLSearchParams(location.hash.slice(1)).get('cat') || '';
-    if (home) home.classList.toggle('no-cat', home.classList.contains('is-home') && !cat);
+    var onHome = !!(home && home.classList.contains('is-home'));
+    if (home) home.classList.toggle('no-cat', onHome && !cat);
+    Array.prototype.slice.call(rail.querySelectorAll('[data-rail-cat]')).forEach(function (a) { a.classList.toggle('is-cur', onHome && !!cat && a.getAttribute('data-rail-cat') === cat); });
   };
   markHome();
   window.addEventListener('hashchange', markHome);
+  document.addEventListener('click', function (e) { if (e.target.closest('.cat-tab')) setTimeout(markHome, 0); }); // 탭은 주소를 replaceState로 바꿔 hashchange가 없다
   Array.prototype.slice.call(rail.querySelectorAll('[data-rail-cat]')).forEach(function (a) {
     a.addEventListener('click', function () {
       setOpen(false);
@@ -793,6 +797,8 @@
   if (home) home.addEventListener('click', function (e) {
     if (home.classList.contains('is-home')) { // 홈에서 홈을 누르면 맨 위로, 카테고리 필터는 전체로
       e.preventDefault(); setOpen(false);
+      if (location.hash && history.replaceState) history.replaceState(null, '', location.pathname + location.search);
+      markHome();
       window.scrollTo({ top: 0, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
     }
   });
