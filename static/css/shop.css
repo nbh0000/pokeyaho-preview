@@ -2280,3 +2280,36 @@ body.actions-in-view .cartbar.show { transform: translateY(120%); }
 
 /* 메인 화면: 바로 아래 큰 로고(brand-hero)가 있으니 헤더의 작은 로고는 감춘다(자리는 유지해 메뉴 위치가 흔들리지 않게) */
 body:has(.brand-hero) .head-logo { visibility: hidden; }
+
+/* ===== 카테고리 이동 카드 v2: 색 면 + 그림 ===== */
+.cn-card { --tone: #fdc61e; --tone-2: #ffd84a; --cn-ink: #0f1e45; --cn-sub: rgba(15, 30, 69, .72);
+  min-height: clamp(128px, 10.5vw, 156px); padding: clamp(16px, 1.6vw, 22px) clamp(18px, 1.8vw, 26px); border-radius: 18px;
+  background: var(--tone); color: var(--cn-ink);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .35), inset 0 -4px 0 rgba(15, 30, 69, .12), 0 14px 28px -20px rgba(15, 30, 69, .6); }
+.cn-card.t-y { background-color: #fdc61e; }
+.cn-card.t-s { --tone: #4dcefb; --tone-2: #7fdcff; background-color: #4dcefb; }
+.cn-card.t-o { --tone: #ee5203; --tone-2: #ff7a2e; --cn-ink: #fff; --cn-sub: rgba(255, 255, 255, .85); background-color: #ee5203; }
+.cn-card::before { width: 66%; background: var(--img) 62% 55% / cover no-repeat;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 34%); mask-image: linear-gradient(90deg, transparent 0%, #000 34%); }
+.cn-card.t-y::before { --img: url(../img/tile-yellow.webp); }
+.cn-card.t-s::before { --img: url(../img/tile-sky.webp); }
+.cn-card.t-o::before { --img: url(../img/tile-orange.webp); }
+.cn-card::after { content: ''; position: absolute; inset: 0; z-index: -2; pointer-events: none;
+  background: radial-gradient(120% 90% at 0% 0%, var(--tone-2) 0%, transparent 60%); }
+.cn-text { gap: 6px; max-width: 58%; }
+.cn-card .cn-en, .cn-card.t-s .cn-en, .cn-card.t-o .cn-en { color: var(--cn-sub); font-size: 11px; letter-spacing: .14em; }
+.cn-card strong { color: var(--cn-ink); font-size: clamp(21px, 2vw, 28px); white-space: nowrap; }
+.cn-go { width: fit-content; margin-top: 6px; padding: 6px 10px 6px 12px; border-radius: 8px; background: #0f1e45; color: #fff; font-size: 12.5px;
+  box-shadow: inset 0 -2px 0 rgba(0, 0, 0, .25); transition: background 180ms ease, color 180ms ease; }
+.cn-card.t-y .cn-go svg { color: #ffc61a; }
+.cn-card.t-s .cn-go svg { color: #7fdcff; }
+.cn-card.t-o .cn-go { background: #fff; color: #0f1e45; box-shadow: inset 0 -2px 0 rgba(15, 30, 69, .18); }
+.cn-card.t-o .cn-go svg { color: #ee5203; }
+@media (hover: hover) and (pointer: fine) {
+  .cn-card:hover { transform: translateY(-3px); box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .45), inset 0 -4px 0 rgba(15, 30, 69, .12), 0 20px 34px -20px rgba(15, 30, 69, .7); }
+  .cn-card:hover .cn-go { text-decoration: none; }
+  .cn-card.t-y:hover .cn-go, .cn-card.t-s:hover .cn-go { background: #1c2f63; }
+}
+@media (max-width: 1023px) { .cn-card.t-o { min-height: 112px; } .cn-card.t-o::before { width: 38%; background-size: cover; background-position: 62% 45%; } .cn-card.t-o .cn-text { max-width: 60%; } }
+@media (max-width: 639px) { .cn-card, .cn-card.t-o { min-height: 108px; } .cn-card::before, .cn-card.t-o::before { width: 62%; } .cn-text { max-width: 62%; } }
+@media (prefers-reduced-motion: reduce) { .cn-card, .cn-card::before { transition: none; } }
