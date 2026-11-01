@@ -2443,3 +2443,25 @@ body:has(.brand-hero) .head-logo { visibility: hidden; }
 .cn-card.t-y::before { background-position: 58% 30%; }
 /* 종류 카드에 쓸 이미지가 없을 때(예: 프로모) 빈 칸 대신 이름 글자 */
 .dx-kind .dx-kind-img.n0::after { content: attr(data-empty); position: absolute; inset: 0; display: grid; place-items: center; color: #d8b552; font-size: clamp(28px, 2.6vw, 40px); font-weight: 900; letter-spacing: .08em; }
+
+/* 도감: 박스 사진이 없는 세트(프로모 등)는 그 세트 카드를 부채꼴로 겹쳐 보여 준다 */
+.dx-img .dx-fan { position: absolute; inset: 0; display: block;
+  background: radial-gradient(80% 70% at 50% 62%, #fff4cf 0%, rgba(255, 244, 207, 0) 72%); }
+.dx-img .dx-fan img { position: absolute; left: 50%; top: 50%; width: auto; height: 74%; padding: 0; aspect-ratio: 63 / 88; object-fit: cover;
+  border-radius: 4.5% / 3.2%; background: #eef0f5; box-shadow: 0 8px 16px -6px rgba(15, 30, 69, .38), 0 0 0 1px rgba(15, 30, 69, .06);
+  transform: translate(-50%, -50%); transform-origin: 50% 120%; transition: transform 320ms var(--ease-out, cubic-bezier(.22, 1, .36, 1)); }
+.dx-img .dx-fan.n2 .f0 { transform: translate(-50%, -50%) rotate(-8deg) translateX(-14%); }
+.dx-img .dx-fan.n2 .f1 { transform: translate(-50%, -50%) rotate(8deg) translateX(14%); }
+.dx-img .dx-fan.n3 .f0 { z-index: 2; height: 76%; }
+.dx-img .dx-fan.n3 .f1 { z-index: 1; transform: translate(-50%, -50%) rotate(-13deg) translateX(-24%); height: 66%; }
+.dx-img .dx-fan.n3 .f2 { z-index: 1; transform: translate(-50%, -50%) rotate(13deg) translateX(24%); height: 66%; }
+@media (hover: hover) and (pointer: fine) {
+  .dx-card:hover .dx-fan.n3 .f1 { transform: translate(-50%, -50%) rotate(-17deg) translateX(-30%); }
+  .dx-card:hover .dx-fan.n3 .f2 { transform: translate(-50%, -50%) rotate(17deg) translateX(30%); }
+  .dx-card:hover .dx-fan.n2 .f0 { transform: translate(-50%, -50%) rotate(-11deg) translateX(-19%); }
+  .dx-card:hover .dx-fan.n2 .f1 { transform: translate(-50%, -50%) rotate(11deg) translateX(19%); }
+}
+@media (prefers-reduced-motion: reduce) { .dx-img .dx-fan img { transition: none; } }
+/* 종류 카드의 프로모 칸: 카드 사진은 세로가 길어 조금 작게, 테두리 그림자 */
+.dx-kind .dx-kind-img.is-cards img { height: 92%; border-radius: 5px; aspect-ratio: 63 / 88; object-fit: cover; flex-basis: 24%; width: 24%;
+  filter: none; box-shadow: 0 6px 12px -4px rgba(15, 30, 69, .35); }
