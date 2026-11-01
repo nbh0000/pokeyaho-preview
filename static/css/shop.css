@@ -2318,3 +2318,82 @@ body:has(.brand-hero) .head-logo { visibility: hidden; }
 .brand-hero { background: radial-gradient(42% 70% at 50% 55%, rgba(11, 23, 54, .55), transparent 75%), url(../img/brand-hero-bg-1920.webp) center 40% / cover no-repeat, #0b1736; }
 @media (max-width: 1100px) { .brand-hero { background-image: radial-gradient(42% 70% at 50% 55%, rgba(11, 23, 54, .55), transparent 75%), url(../img/brand-hero-bg-1100.webp); } }
 @media (max-width: 639px) { .brand-hero { background-size: auto, auto 100%; background-position: center, center; } }
+
+/* 도감 종류 카드 v2: '전체' 없음, 팩 이미지 3장 부채꼴, 키 큰 카드 */
+.dx-kinds { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: clamp(10px, 1vw, 14px); padding: clamp(10px, 1vw, 14px); }
+.dx-kind { position: relative; display: grid; grid-template-rows: auto auto; gap: 0; padding: 0; overflow: hidden; border-radius: 16px; background: #fff;
+  box-shadow: inset 0 0 0 1px #efe2bb, 0 8px 18px -16px rgba(15, 30, 69, .5); }
+.dx-kind .dx-kind-img { position: relative; display: block; width: 100%; height: clamp(150px, 13vw, 190px); margin: 0; border-radius: 0; overflow: hidden;
+  background: radial-gradient(70% 90% at 50% 100%, #fff3c4 0%, transparent 70%), linear-gradient(180deg, #fffaf0, #fff4d6); box-shadow: none; }
+.dx-kind .dx-kind-img img { position: absolute; left: 50%; bottom: -6%; width: auto; height: 92%; padding: 0; object-fit: contain; inset: auto auto -6% 50%;
+  filter: drop-shadow(0 10px 12px rgba(15, 30, 69, .28)); transform-origin: 50% 100%; transition: transform 320ms var(--ease-out); }
+.dx-kind .n1 .p0 { transform: translateX(-50%); }
+.dx-kind .n2 .p0 { transform: translateX(-78%) rotate(-8deg); }
+.dx-kind .n2 .p1 { transform: translateX(-22%) rotate(7deg); }
+.dx-kind .n3 .p0 { transform: translateX(-100%) rotate(-12deg) scale(.9); }
+.dx-kind .n3 .p1 { transform: translateX(0%) rotate(12deg) scale(.9); }
+.dx-kind .n3 .p2 { z-index: 1; transform: translateX(-50%); }
+.dx-kind-text { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; padding: 12px 14px 14px; border-top: 1px solid #f3e7c4; }
+.dx-kind-text strong { font-size: clamp(14px, 1.1vw, 16px); font-weight: 900; letter-spacing: -0.02em; }
+.dx-kind-text span { flex: none; font-size: 12px; font-weight: 800; color: var(--muted); }
+.dx-kind.on { background: #fff; box-shadow: inset 0 0 0 2.5px var(--yellow-d), 0 10px 22px -14px rgba(160, 122, 34, .7); }
+.dx-kind.on .dx-kind-text { background: #ffe9a6; border-top-color: #f2d27a; }
+.dx-kind.on .dx-kind-text span { color: #6b5212; }
+@media (hover: hover) and (pointer: fine) {
+  .dx-kind:hover { box-shadow: inset 0 0 0 1.5px #e7c766, 0 12px 22px -16px rgba(15, 30, 69, .55); }
+  .dx-kind:hover .n3 .p0 { transform: translateX(-108%) rotate(-16deg) scale(.9); }
+  .dx-kind:hover .n3 .p1 { transform: translateX(8%) rotate(16deg) scale(.9); }
+  .dx-kind:hover .n3 .p2, .dx-kind:hover .n1 .p0 { transform: translateX(-50%) translateY(-4%); }
+}
+@media (max-width: 767px) {
+  .dx-kind { flex: 0 0 min(64vw, 230px); }
+  .dx-kind .dx-kind-img { height: 140px; }
+}
+@media (prefers-reduced-motion: reduce) { .dx-kind .dx-kind-img img { transition: none; } }
+/* 팩 사진 흰 배경이 사각형으로 보이지 않게: 겹치지 않게 나란히 두고 곱하기 합성 */
+.dx-kind { justify-items: stretch; align-content: start; }
+.dx-kind .dx-kind-img { background: linear-gradient(180deg, #fffdf6, #fff6dc); }
+.dx-kind .dx-kind-img img { height: 82%; bottom: 9%; inset: auto auto 9% 50%; filter: none; mix-blend-mode: multiply; }
+.dx-kind .n2 .p0 { transform: translateX(-104%) rotate(-5deg); }
+.dx-kind .n2 .p1 { transform: translateX(4%) rotate(5deg); }
+.dx-kind .n3 .p0 { transform: translateX(-162%) rotate(-7deg) scale(.88); }
+.dx-kind .n3 .p1 { transform: translateX(62%) rotate(7deg) scale(.88); }
+.dx-kind .n3 .p2 { transform: translateX(-50%); }
+@media (hover: hover) and (pointer: fine) {
+  .dx-kind:hover .n3 .p0 { transform: translateX(-168%) rotate(-10deg) scale(.88); }
+  .dx-kind:hover .n3 .p1 { transform: translateX(68%) rotate(10deg) scale(.88); }
+  .dx-kind:hover .n3 .p2, .dx-kind:hover .n1 .p0 { transform: translateX(-50%) translateY(-4%); }
+  .dx-kind:hover .n2 .p0 { transform: translateX(-108%) rotate(-8deg) translateY(-3%); }
+  .dx-kind:hover .n2 .p1 { transform: translateX(8%) rotate(8deg) translateY(-3%); }
+}
+/* 위치 계산을 이미지 폭에 기대지 않도록 가로 줄 배치로 */
+.dx-kind .dx-kind-img { display: flex; align-items: center; justify-content: center; gap: 4%; padding: 6% 6% 7%; }
+.dx-kind .dx-kind-img img, .dx-kind .dx-kind-img img.p0, .dx-kind .dx-kind-img img.p1, .dx-kind .dx-kind-img img.p2 {
+  position: static; inset: auto; flex: 0 1 30%; min-width: 0; width: 30%; height: 100%; object-fit: contain; transform: none; }
+.dx-kind .n1 img { flex-basis: 40%; width: 40%; }
+.dx-kind .n2 img { flex-basis: 36%; width: 36%; }
+.dx-kind .n3 .p0 { order: 0; transform: rotate(-6deg) scale(.9); }
+.dx-kind .n3 .p2 { order: 1; transform: none; }
+.dx-kind .n3 .p1 { order: 2; transform: rotate(6deg) scale(.9); }
+.dx-kind .n2 .p0 { transform: rotate(-4deg); }
+.dx-kind .n2 .p1 { transform: rotate(4deg); }
+@media (hover: hover) and (pointer: fine) {
+  .dx-kind:hover .n3 .p0 { transform: rotate(-9deg) scale(.9) translateX(-4%); }
+  .dx-kind:hover .n3 .p1 { transform: rotate(9deg) scale(.9) translateX(4%); }
+  .dx-kind:hover .n3 .p2, .dx-kind:hover .n1 .p0 { transform: translateY(-4%); }
+  .dx-kind:hover .n2 .p0 { transform: rotate(-7deg) translateY(-3%); }
+  .dx-kind:hover .n2 .p1 { transform: rotate(7deg) translateY(-3%); }
+}
+.dx-kind .dx-kind-img { gap: 6%; padding: 8% 8% 9%; }
+.dx-kind .dx-kind-img img { filter: drop-shadow(0 6px 8px rgba(15, 30, 69, .25)); mix-blend-mode: normal; }
+.dx-kind .dx-kind-img.n3 img.p0 { transform: rotate(-6deg) scale(.92); }
+.dx-kind .dx-kind-img.n3 img.p1 { transform: rotate(6deg) scale(.92); }
+.dx-kind .dx-kind-img.n2 img.p0 { transform: rotate(-4deg); }
+.dx-kind .dx-kind-img.n2 img.p1 { transform: rotate(4deg); }
+@media (hover: hover) and (pointer: fine) {
+  .dx-kind:hover .dx-kind-img.n3 img.p0 { transform: rotate(-10deg) scale(.92) translateX(-5%); }
+  .dx-kind:hover .dx-kind-img.n3 img.p1 { transform: rotate(10deg) scale(.92) translateX(5%); }
+  .dx-kind:hover .dx-kind-img img.p2, .dx-kind:hover .dx-kind-img.n1 img.p0 { transform: translateY(-5%); }
+  .dx-kind:hover .dx-kind-img.n2 img.p0 { transform: rotate(-8deg) translateY(-3%); }
+  .dx-kind:hover .dx-kind-img.n2 img.p1 { transform: rotate(8deg) translateY(-3%); }
+}

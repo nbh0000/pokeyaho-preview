@@ -266,7 +266,7 @@
     document.addEventListener('click', function (e) {
       var k = e.target.closest('[data-dx-kind]');
       var r = e.target.closest('[data-dx-region]');
-      if (k) { dx.kind = k.getAttribute('data-dx-kind'); applyDx(); }
+      if (k) { var kv = k.getAttribute('data-dx-kind'); dx.kind = dx.kind === kv ? '' : kv; applyDx(); }
       else if (r) { dx.region = r.getAttribute('data-dx-region'); applyDx(); }
     });
     var dxSearch = document.querySelector('[data-dx-search]');
