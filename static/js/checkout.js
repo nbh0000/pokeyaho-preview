@@ -75,6 +75,9 @@
     if (mo) {
       hint.hidden = false;
       hint.textContent = '배송 대기 중인 ‘' + mo.productLabel + '’ 상품에 함께 담아 보내드려요. 추가 배송비는 없어요.';
+    } else if (sm && sm.shipFreeReason === 'unshipped') {
+      hint.hidden = false;
+      hint.textContent = '아직 발송 전인 주문이 있어 이번 주문은 배송비 없이 함께 보내드려요.';
     } else if (sm && sm.deliveryType === 'direct' && sm.remainingForFree > 0) {
       hint.hidden = false;
       hint.innerHTML = (sm.includeKept && sm.keptAmount ? '킵 ' + S.won(sm.keptAmount) + '을 합산해도 ' : '') + '<b style="color:var(--pink-dd)">' + S.won(sm.remainingForFree) + '</b> 더 담으면 무료배송이에요';
@@ -245,6 +248,7 @@
       depositorName: val('depositorName'),
       email: val('email'),
       cashReceipt: cashReceipt(),
+      commonCards: (($('input[name="commonCards"]:checked') || {}).value || 'receive'),
       saveAddress: ($('[name="saveAddress"]') || {}).checked || false,
       recipient: { name: val('name'), phone: val('phone'), zipcode: val('zipcode'), address1: val('address1'), address2: val('address2'), memo: val('memo') },
     };

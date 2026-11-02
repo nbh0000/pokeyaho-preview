@@ -261,7 +261,7 @@
   if (window.ADMIN_DASH) {
     var clock = $('[data-clock]');
     var tick = function () {
-      fetch('/pokeyaho-preview/admin/api/stats.json', { credentials: 'same-origin', headers: { Accept: 'application/json' } }).then(function (r) { return r.json(); }).then(function (j) {
+      fetch('/admin/api/stats', { credentials: 'same-origin', headers: { Accept: 'application/json' } }).then(function (r) { return r.json(); }).then(function (j) {
         if (!j.ok) return;
         Object.keys(j.st).forEach(function (k) {
           var el = $('[data-st="' + k + '"]');

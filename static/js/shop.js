@@ -371,7 +371,7 @@
     });
     $('[data-cart-total]', cs).textContent = GM.showPrice ? won(cartTotal(cart)) : '방송 중 공개';
     var hint = $('[data-cart-hint]', cs);
-    if (hint) hint.textContent = won(GM.freeShip) + ' 이상 바로배송 무료 · 킵은 배송비를 지금 결제하지 않아요';
+    if (hint) hint.textContent = (GM.freeShip > 0 ? won(GM.freeShip) + ' 이상 바로배송 무료' : '배송비 ' + won(GM.shipFee) + ' · 발송 전 주문이 있으면 배송비 없음') + ' · 킵은 배송비를 지금 결제하지 않아요';
     var go = $('[data-go-checkout]', cs);
     var bad = quote && quote.hasProblem;
     go.classList.toggle('disabled', !GM.live || bad);
@@ -645,7 +645,8 @@
       $$('.type-tab', filters).forEach(function (b) { var on = b.getAttribute('data-type') === state.type; b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); });
       var shown = 0;
       $$('[data-product]', grid).forEach(function (card) {
-        var ok = (!state.cat || card.getAttribute('data-cat') === state.cat) && (!state.type || card.getAttribute('data-type') === state.type);
+        // data-cat 은 '대표|보조' 꼴일 수 있다(이벤트 상품은 원피스카드와 이벤트 둘 다에 나온다)
+        var ok = (!state.cat || ('|' + card.getAttribute('data-cat') + '|').indexOf('|' + state.cat + '|') !== -1) && (!state.type || card.getAttribute('data-type') === state.type);
         card.classList.toggle('is-filtered', !ok);
         if (ok && !card.hidden) shown++;
       });
