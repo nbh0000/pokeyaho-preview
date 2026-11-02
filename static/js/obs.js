@@ -447,7 +447,7 @@
 
   // ===== 조회 =====
   function poll() {
-    var url = '/obs/feed?key=' + encodeURIComponent(C.key) + '&after=' + after + (C.mode === 'ticker' ? '&recent=1' : '') + (C.mode === 'now' ? '&now=1' : '') + (C.mode === 'draw' ? '&draw=1' : '') + (C.mode === 'board' ? '&board=1' : '') + (C.mode === 'hits' || C.mode === 'alert' ? '&hits=1' : '');
+    var url = '/pokeyaho-preview/obs/feed-' + C.mode + '.json';
     fetch(url, { cache: 'no-store', credentials: 'same-origin' }).then(function (r) { return r.json(); }).then(function (j) {
       if (!j.ok) throw new Error(j.message || 'feed');
       failCount = 0;

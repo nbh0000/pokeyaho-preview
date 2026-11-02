@@ -1,4 +1,4 @@
-/* 포트원 V2 카드결제, 주문/출고요청 취소, 킵 출고 요청 */
+/* 사이다페이 카드결제, 주문/출고요청 취소, 킵 출고 요청 */
 (function () {
   'use strict';
   var S = window.GMShop;
@@ -6,31 +6,33 @@
   var $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };
 
   /**
-   * 카드 결제창 호출. 모바일은 redirectUrl 로 이동(서버 /pay/return 에서 검증),
-   * PC는 Promise 로 결과를 받아 서버에 완료 검증을 요청.
+   * 카드 결제창으로 이동. 결제 결과는 사이다페이가 서버로 통지하고,
+   * 결제창은 끝나면 /pay/return 을 거쳐 주문 화면으로 돌아온다.
    */
   function requestCard(payment, afterUrl) {
-    if (!window.PortOne) {
-      S.toast('결제 모듈을 불러오지 못했어요. 주문 내역에서 다시 결제해 주세요', 'error');
+    var url = payment && payment.payUrl;
+    if (!url || url.indexOf('https://') !== 0) {
+      S.toast('결제창을 열지 못했어요. 주문 내역에서 다시 결제해 주세요', 'error');
       setTimeout(function () { location.href = afterUrl; }, 1200);
       return Promise.resolve();
     }
-    return window.PortOne.requestPayment(payment).then(function (res) {
-      if (!res) return; // 모바일 리다이렉트 방식
-      if (res.code !== undefined && res.code !== null) {
-        S.toast(res.message || '결제가 취소되었어요', 'error');
-        setTimeout(function () { location.href = afterUrl; }, 900);
-        return;
-      }
-      return S.api('POST', '/api/payments/complete', { paymentId: res.paymentId || payment.paymentId }).then(function () {
-        location.href = afterUrl + (afterUrl.indexOf('/orders/') === 0 ? '?placed=1' : '');
-      });
-    }).catch(function (e) {
-      S.toast(e.message || '결제 처리 중 문제가 생겼어요', 'error');
-      setTimeout(function () { location.href = afterUrl; }, 1500);
-    });
+    location.href = url;
+    return new Promise(function () {});
   }
   window.GMPay = { requestCard: requestCard };
+
+  // 결제 대기 주문: 사이다페이 승인 통지가 들어오면 화면을 새로 고친다.
+  var watch = $('[data-pay-watch]');
+  if (watch && /placed=1/.test(location.search)) {
+    var tries = 0;
+    var timer = setInterval(function () {
+      tries++;
+      S.api('POST', '/api/payments/complete', { orderNo: watch.getAttribute('data-pay-watch') }).then(function (r) {
+        if (r.paid || r.status === 'cancelled') { clearInterval(timer); location.replace(location.pathname); }
+      }).catch(function () {});
+      if (tries >= 20) clearInterval(timer);
+    }, 3000);
+  }
 
   // 결제 대기 건 다시 결제
   $$('[data-repay]').forEach(function (b) {
